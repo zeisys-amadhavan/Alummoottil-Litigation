@@ -1,27 +1,8 @@
-# Defendants' Contradictory Positions — 5-Column Matrix
-
-**Columns:** (1) IA 5/2025 (Plaintiff, 09/10/2025); (2) O.S. 243/2024 plaint (R2, 14/08/2024); (3) Reply 16/02/2026 (R2's counter-affidavit); (4) IA 18/05/2026 (R2's affidavit producing records); (5) Conclusion.
-
-*Quotations are verbatim from the source documents. Cells marked "—" indicate the document is silent on that issue. Only contradictions grounded in directly opposing statements are included.*
-
----
-
-## Row 1 — Constituting document of the Trust
 
 | IA 5/2025 | O.S. 243/2024 | Reply 16/02/2026 | IA 18/05/2026 | Conclusion |
 |---|---|---|---|---|
 | Affidavit Para 3: *"Trust was constituted by Trust Deed No. 2/IV/2007, dated 04-01-2007, registered at the Sub-Registrar's Office, Cheppad."* | Para 1: *"the plaintiff herein is a private family trust constituted as per the registered deed No. 17/IV/2024."* | Para 3: *"That the Trust was registered on 04-01-2007 under the Indian Trusts Act, 1882 at the Sub Registrar's Office, Cheppad."* | Cause title: *"ആലുമൂട്ടിൽ തറവാട് ട്രസ്റ്റ്, Reg. No: 2/IV/2007"* | Suppression of the 2007 deed in O.S. 243/2024 is now admitted by R2's own later filings — ground for rejection under Order VII Rule 11 CPC. |
-
-## Row 2 — Plaintiff's beneficiary status
-
-| IA 5/2025 | O.S. 243/2024 | Reply 16/02/2026 | IA 18/05/2026 | Conclusion |
-|---|---|---|---|---|
 | Affidavit Para 4: *"Plaintiff is the only son of Radhakrishnan and therefore Chellamma's grandson; accordingly, the Plaintiff falls within the beneficiary class."* | Para 4: *"the defendant herein is the son of Mr. Radhakrishnan. M who is non other than the 2nd trustee of the plaintiff trust"* — but *"is not a member of the plaintiff trust."* | Para 11: *"The plaintiff is not a beneficiary to Alummoottil Taravad Trust."* | Para 3: produces *"Nomination as benificiary."* | Filiation admitted in O.S. 243/2024. A *"nomination"* instrument presupposes a beneficiary class. Denial of beneficiary status is unsustainable on the defendants' own record. |
-
-## Row 3 — Availability of documents
-
-| IA 5/2025 | O.S. 243/2024 | Reply 16/02/2026 | IA 18/05/2026 | Conclusion |
-|---|---|---|---|---|
 | Petition prayers (a)–(g): production of all audited and non-audited accounts, banking records, tax filings, and trustee resolutions / minutes. | — | Para 13: *"the documents which are demanded by the petitioner in IA.5/2025 is not available for production before the court."* | Para 3: produces *"Lease Deed... Statement of Account... Original Minutes Book... Resolutions."* | The *"not available"* statement was false when sworn — same trustee produces the same categories of documents 91 days later. Order XI Rule 12 direction unanswerable. |
 
 ## Row 4 — Trust active vs. dormant
