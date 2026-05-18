@@ -4,30 +4,8 @@
 | Affidavit Para 3: *"Trust was constituted by Trust Deed No. 2/IV/2007, dated 04-01-2007, registered at the Sub-Registrar's Office, Cheppad."* | Para 1: *"the plaintiff herein is a private family trust constituted as per the registered deed No. 17/IV/2024."* | Para 3: *"That the Trust was registered on 04-01-2007 under the Indian Trusts Act, 1882 at the Sub Registrar's Office, Cheppad."* | Cause title: *"ആലുമൂട്ടിൽ തറവാട് ട്രസ്റ്റ്, Reg. No: 2/IV/2007"* | Suppression of the 2007 deed in O.S. 243/2024 is now admitted by R2's own later filings — ground for rejection under Order VII Rule 11 CPC. |
 | Petition prayer (e): *"all trustee resolutions / minutes for the past five years."* | — | Para 9: *"the resolutions passed by the board of trustees is also produce along with this affidavit (5 in numbers)."* Para 13: documents demanded in IA 5/2025 are *"not available for production before the court."* | Para 3: produces *"the Original Minutes Book of Alumoottil Tharavad Trust."* | If an Original Minutes Book existed and was producible on 18/05/2026, it existed and was producible on 16/02/2026. R2 instead chose to produce only 5 selected resolutions and swore the rest was *"not available."* The Minutes Book — which by definition contains the complete record of trustee meetings — was in R2's possession in February. The 16/02/2026 affidavit was false on this point. |
 | Petition prayer (c): *"bank statements / passbooks for every account."* | — | Para 8: passbook for Federal Bank account 13100200004482 produced. Para 13: remaining documents demanded in IA 5/2025 are *"not available for production before the court."* | Para 3: produces *"the Statement of Account from 28/05/2005 to 15/05/2026"* of account 13100200004482. | The Statement of Account purportedly runs from a date in 2005 (typographical error for 2025) through 15/05/2026 — covering a period that ends after the 16/02/2026 affidavit but commences well before it. The Statement covering the pre-February period existed and was obtainable from Federal Bank on demand by the account holder in February. R2 produced only the passbook and brought the Statement under the *"not available"* umbrella. The 16/02/2026 affidavit was false on this point. |
-
----
-
-## Row 3 — Lease Deed dated 27/10/2025
-
-| IA 5/2025 | O.S. 243/2024 | Reply 16/02/2026 | IA 18/05/2026 | Conclusion |
-|---|---|---|---|---|
 | Petition prayer (e): *"all trustee resolutions / minutes for the past five years"* — the foundational document for any lease executed by the Trust. | — | Para 6: *"the Trust has operated as a dormant entity or held no assets/liabilities during this period."* Para 13: documents demanded in IA 5/2025 are *"not available for production before the court."* | Para 3: produces *"the copy of the Lease Deed executed by me as Managing Trustee on 27/10/2025 with Sree Moolavasam Wellness & Leisure Retreats Pvt. Ltd."* | The Lease Deed was executed by R2 himself on 27/10/2025 — 112 days before the 16/02/2026 affidavit. It was necessarily in R2's possession in February. R2 not only failed to produce it but swore the Trust was a *"dormant entity"* with *"no assets/liabilities."* The 16/02/2026 affidavit was false on this point. |
-
-
-
-
-| Petition prayers (a)–(g): production of all audited and non-audited accounts, banking records, tax filings, and trustee resolutions / minutes. | — | Para 13: *"the documents which are demanded by the petitioner in IA.5/2025 is not available for production before the court."* | Para 3: produces *"Lease Deed... Statement of Account... Original Minutes Book... Resolutions."* | The *"not available"* statement was false when sworn — same trustee produces the same categories of documents 91 days later. Order XI Rule 12 direction unanswerable. |
-
-## Row 4 — Trust active vs. dormant
-
-| IA 5/2025 | O.S. 243/2024 | Reply 16/02/2026 | IA 18/05/2026 | Conclusion |
-|---|---|---|---|---|
 | — | Para 3: *"renovation works... are going on at the auspice of the plaintiff trust."* Para 4: *"construction works which are being carried out... at the instance of plaintiff trust."* | Para 4: *"the Trust has not received any funding, donations, income, or generated any revenue from any source whatsoever."* Para 6: *"the Trust has operated as a dormant entity."* | Para 3: produces Lease Deed dated 27/10/2025 and Bank Statement of Account 28/05/2025 to 15/05/2026. | Trust active in 2024 (own pleading) and 2025 (own production). Sworn dormancy is false. *S.P. Chengalvaraya Naidu* situation. |
-
-## Row 5 — Bank account opening date
-
-| IA 5/2025 | O.S. 243/2024 | Reply 16/02/2026 | IA 18/05/2026 | Conclusion |
-|---|---|---|---|---|
 | — | — | Para 8: account opened *"on.26/05/2025."* | Para 3: account *"opened on 28/05/2025."* | Same trustee, same account, two different sworn dates. One is false. Verifiable by bank's KYC file under Order XVI CPC. |
 
 ## Row 6 — Books of account and minutes
