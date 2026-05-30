@@ -19,5 +19,5 @@
 | **09-03-2026** | Proceedings: *Munsiff is attending a national conference at the Hon ble Supreme Court. Notified to*<br>Purpose of Hearing: For hearing on IA<br>Next Date: 09-04-2026 | Munsiff at SC national conference. Long adjournment of one month. |
 | **09-04-2026** | Proceedings: *Declared holiday. Notified to*<br>Purpose of Hearing: For hearing on IA<br>Next Date: 18-05-2026 | Declared court holiday. Matter adjourned over the summer vacation to 18/05/2026 — the first working day after vacation. HC's 90-day deadline (15/04/2026) expires during this adjournment without any disposal. |
 | **18-05-2026** *(today)* | Proceedings: *Plaintiff absent, represented. Submitted new vakalat filed by plaintiff. D1, 2, 4 to 7 represented. For objection and hearing IAs*<br>Purpose of Hearing: For Objection and hearing<br>Next Date: 28-05-2026 | First working day after vacation. **New counsel comes on record for Plaintiff** (new vakalat filed). All defendants represented. Defendants' separate IA producing Lease Deed, Bank Statement, Minutes Book, Resolutions, and *"Nomination as beneficiary"* is filed today (separate filing). Matter set for **objection and hearing of IAs** on 28/05/2026. |
-| **28-05-2026** *(next)* | Declared holiday |  |
+| **28-05-2026** | Declared holiday |  |
 | **12-06-2026** *(next)* | Purpose of Hearing: For Objection and hearing | |
