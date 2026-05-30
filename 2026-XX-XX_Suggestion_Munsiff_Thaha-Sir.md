@@ -35,3 +35,12 @@
 16. A few small things I'll keep consistent on my side: "three months" rather than "90 days," one figure for how many years they kept no accounts, and consistent ages and dates. I'd note their own slip — two different dates for opening the bank account, 26 and 28 May 2025 — as their inconsistency, while keeping ours uniform.
 
 17. Above all I'm conscious that everything we say should stay respectful of the court: the mismatch between order sheet and register reads to me as a matter for clarification rather than any error of the court's, and I would not want us to suggest otherwise.
+
+18. Thaha — flagging the objections filed by D5–D7 (in IA.2, IA.5 and IA.9 of 2025). They claim no involvement and want themselves struck off as unnecessary parties. This needs to be opposed.
+
+Key points that must not be omitted:
+- D5–D7 were part of the assault on the plaintiff on 09-08-2024.
+- They are the accused in FIR 956/2024, filed by the plaintiff before the local court arising out of that assault.
+- D5 has separately filed an FIR against the plaintiff alleging the plaintiff attacked him — that's a counter-allegation, not proof he's unconnected to the events.
+
+Under no circumstances should D5–D7 be absolved from this suit. They remain necessary parties to the conspiracy claim and to the civil recovery of damages, which I intend to recover financially from them. Their connection to the underlying events (the assault and FIR 956/2024) is the basis for keeping them in — independent of whether they had any role in the trust's affairs.
