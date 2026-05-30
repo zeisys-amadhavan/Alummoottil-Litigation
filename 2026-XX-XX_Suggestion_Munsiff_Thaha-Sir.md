@@ -1,46 +1,39 @@
-# Note for Adv. Mohammed Thaha — Trial Court (Haripad)
+# Action Items for Adv. Mohammed Thaha — Trial Court (Haripad Munsiff)
 
-*Dear Sir, this sets out the facts as I understand them and what I am hoping for at the trial court, and how it bears on a possible High Court step. The approach is entirely for your judgment. (If it would be more useful framed differently, please tell me.)*
+| # | Priority | Action | Detail |
+|---|----------|--------|--------|
+| 1 | URGENT | Compare the certified IA 5 order against the register entry | Order in hand reads "finally heard… Petition closed in light of the affidavit… pronounced in open court." Check the 4 March register entry matches it; flag any discrepancy. |
+| 2 | URGENT | Obtain the certified order sheets for IA 2/2025 and IA 9/2025 | This order is captioned IA 5 only. Establish whether IA 2 and IA 9 were disposed on 4 March or remain pending. |
+| 3 | URGENT | Confirm what is listed for hearing on 12 June | Check the cause list / posting. Identify which IAs are listed and the stated purpose. |
+| 4 | URGENT | Inspect the 18 May production in full | Lease; bank statement; original minutes book; five resolutions; nomination document. Note the contents and any document that helps them. |
+| 5 | URGENT | File the objection to the defendants' 18 May admission IA | Contents: (a) place the documents on record as admissions — the production shows the trust was not dormant and the records existed (S.58 IEA), contrary to the 16 February affidavit; (b) object to receiving them as proof of validity on three grounds — contradiction with the 16 February affidavit, lease registered at Marad (their own admission), nomination not provided for in the 2007 deed; (c) keep the contradiction to credibility / adverse inference only, no "fraud" or "perjury," no criminal step; (d) reserve the right to oppose any single document that, on inspection, helps them. |
+| 6 | SOON | Apply to recall the 4 March order | Ground: it was obtained on the 16 February affidavit, since contradicted by the 18 May production. Counsel to choose recall (S.151 CPC) or review (O.47) and confirm the limitation position before it lapses. Time-sensitive. |
+| 7 | SOON | List and press IA 6/2026 (discovery and accounts) | The forward vehicle if IA 5 is disposed. Seek an affidavit of documents on oath (O.XI R.12) and production (R.14). File a short supplementary affidavit noting the 18 May production to defeat any "infructuous" objection. |
+| 8 | SOON | Recast and press IA 5/2026 (Sreemoolavasam) | The venture is already operating (lease 27/10/2025; GST 09/12/2025), so "prevent the inauguration" is stale. Recast to restrain ongoing/expanded operations and public events. |
+| 9 | SOON | Confirm whether D2 filed a separate written statement | Distinct from D1's, which he signed as Managing Trustee. |
+| 10 | SOON | Trace the 13 March filing | Numbered, accepted, returned, or pending. |
+| 11 | SOON | File the copies application for the withheld court documents | One application covering: passbook (a/c …4482); statement 28 May 2025–15 May 2026; five resolutions; nomination; 27 Oct 2025 lease; minutes book; the 18 May schedule. They produced these to the court; seek copies to the plaintiff. |
+| 12 | SOON | Obtain D1's written statement | No copy held. |
+| 13 | SOON | Obtain D4's (Jiji Ramesh) written statement | No copy held. |
+| 14 | SOON | Obtain a certified copy of Amendment Deed 66/IV/2022 | Confirm it records Ravindran's death on 27 August 2022. |
+| 15 | SOON | Obtain a certified copy of Amendment Deed 17/IV/2024 | Confirm it is signed by five "trustees" including C.K. Geeta. |
+| 16 | SOON | Obtain a certified copy of the O.S. 243/2024 plaint | Capture the wording calling the trust "constituted as per 17/IV/2024," the 13.08.2024 cause of action, and the verification clause. Held version is a reconstruction, not certified. |
+| 17 | SOON | Obtain the 1983 Mavelikkara partition-suit records | No. ___/1983 (confirm number), Mavelikkara Sub Court. The inventory of Alummoottil assets and heirlooms existing before the Trust. |
+| 18 | SOON | Obtain a certified copy of the Forest Department certificate | Capture the issuing officer's name and designation, the date, and the exact wording. |
+| 19 | SOON | File an RTI for the basis of the Forest Department certificate | Request: the defendants' application and documents; the criteria applied; whether a site inspection was done; whether inventory was verified; the inspection report; the officer's authority to certify a negative. |
+| 20 | SOON | File the rejoinder opposing the D5–D7 strike-off | Points: part of the 9 Aug 2024 assault; accused in FIR 956/2024; necessary parties to the conspiracy claim and damages recovery. D5's counter-FIR is a counter-allegation, not proof he is unconnected. |
+| 21 | SOON | Do not pull confirming records where they have admitted | No Cheppad encumbrance certificate, no Marad copy, no company filings, unless needed. The Mavelikkara and Forest items are contested facts, not admitted ones, so they are not caught by this. |
+| 22 | EVENTUAL | Impeach the Forest Department certificate | If the RTI shows no inspection or inventory check, attack its evidentiary value against the 1983 inventory and any photographs/declarations. Escalate to the superior forest authority only if it was improperly issued. |
+| 23 | EVENTUAL | Amend the plaint (Order VI Rule 17) | Bring in Sreemoolavasam, the lease, the bank account, the 2024-suit false cause-of-action and registration number, and the February statements. |
+| 24 | EVENTUAL | Restore the suit against D3 | Fresh service to 8535 Black Forest Cir, Sylvania, Ohio. |
+| 25 | EVENTUAL | Reserve the criminal step for a separate forum, later | Not in routine filings; flagging it would only warn them. |
 
-1. **At the next hearing (28 May),** my hope is that my three applications can be pressed using the contradictions in the other side's own papers, that they be required to produce the documents, and that we object to their 18 May production as inconsistent with what they swore earlier.
+## Drafting checklist — apply to every filing (not separate tasks)
 
-2. **A thought on sequence:** it may be worth approaching this court first, before any High Court step — with a short, respectful request that, since they have now produced the very documents earlier sworn "not available," my document application be taken up and they be required to produce everything.
-
-3. My thinking is that the court can set this right on its own record, which I imagine is preferable to being directed by the High Court; it spends no goodwill; and if it does not move, it strengthens any later High Court step. But you read this court, and I'd be guided by you on whether and how.
-
-4. **The single fact I'd most value being confirmed:** whether my application No. 5 was actually decided, or only the pleadings closed. On 4 March the court recorded "Petition closed in light of the affidavit. For hearing IAs." If the certified order sheet and the register entry could be seen side by side, it would settle a good deal — my own reading is that the applications remain pending, but I would not want to rely on that if the record says otherwise.
-
-5. **The two amendment deeds** — the 2022 one (66/IV/2022) and the 2024 one (17/IV/2024) — matter a great deal to me, since three of my points rest on them: the registration-number discrepancy, the use of a deceased man's wife among the signatories, and the recital of his death. If you have a chance to read them in full, I'd be grateful to have confirmed that the 2022 deed records Ravindran's death on 27 August 2022, that the 2024 deed is signed by five "trustees" including C.K. Geeta, and the exact words by which their 2024 suit calls the trust "constituted as per 17/IV/2024." I have not seen them in full myself.
-
-6. **On the beneficiary wording**, I should flag a correction to my own earlier filing: it cited "page 3, paragraph 5" of the 2007 deed, but the wording is in the running text on page 3, not a numbered paragraph. The exact words are "members of the Alumoottil family who are the descendants of Alumoottil Chellamma Channathy." Since this is the basis of my standing, I'm anxious it be quoted exactly.
-
-7. **On my connection to the trust**, my understanding is that it runs in two steps rather than one admission: they accept I am Radhakrishnan's son, and the deed itself shows Radhakrishnan to be Chellamma's son. I mention it because they did not concede that I am "Chellamma's grandson," and I would not want us to put it that way.
-
-8. **Two arguments I expect from them, from the deed itself:** that it allowed the authors to change trustees, and that it says a deceased author's heirs "shall be admitted." For what it is worth, my own answers would be that changing who counts as a beneficiary is a different thing from changing trustees, and that even if heirs can be admitted, no document showing Geeta was admitted has been produced and a deceased person cannot himself consent — but you will know how much weight any of that carries.
-
-9. On Geeta, I'd be more comfortable if we put it as "no document admitting her has been shown" rather than as a claim that she had no right.
-
-10. **A caution about my own earlier filing (13 March):** it placed quotation marks around phrases that are not in their sworn statement — "zero funding," "no accounts," "no vouchers or records," "absolute possession," "immediate control." I'd rather we rely only on their exact words, which seem to me damaging enough, and be ready if they suggest we misquoted them.
-
-11. **The objection to their 18 May production**, as I see it, rests on three plain points: it contradicts what they swore in February; the lease was registered at the wrong office (Marad, in Ernakulam, not where the property is), which we can say from their own admission without chasing a copy from Marad; and the "nomination as beneficiary" document is something the 2007 deed never provided for.
-
-12. **A worry I'd put to you:** I am wary of gathering further records to confirm things they have already admitted, in case it surfaces something that helps them. Unless you see a need, I'd rather not pull the Cheppad encumbrance certificate, a Marad copy, or company filings.
-
-13. I would also prefer that we not raise the idea of any criminal step in these routine filings — it seems to me a separate matter for later, and flagging it now may simply warn them. But that is for you.
-
-14. **If you are at the file in any event,** I'd be grateful for a proper look at their 18 May production (the lease, the bank statement, the original minutes book, all five resolutions, the nomination document), and for confirmation of two things: whether D2 filed his own separate written statement, and what physically became of my 13 March filing.
-
-15. **Looking a little ahead,** I am hoping we can amend my plaint to bring in the Sreemoolavasam venture, the lease, the bank account, the false cause-of-action and registration number in their 2024 suit, and their February statements — and apply to bring D3 back into the suit by fresh service to his known US address. I'd welcome your view on timing.
-
-16. A few small things I'll keep consistent on my side: "three months" rather than "90 days," one figure for how many years they kept no accounts, and consistent ages and dates. I'd note their own slip — two different dates for opening the bank account, 26 and 28 May 2025 — as their inconsistency, while keeping ours uniform.
-
-17. Above all I'm conscious that everything we say should stay respectful of the court: the mismatch between order sheet and register reads to me as a matter for clarification rather than any error of the court's, and I would not want us to suggest otherwise.
-
-18. Thaha — flagging the objections filed by D5–D7 (in IA.2, IA.5 and IA.9 of 2025). They claim no involvement and want themselves struck off as unnecessary parties. This needs to be opposed.
-
-Key points that must not be omitted:
-- D5–D7 were part of the assault on the plaintiff on 09-08-2024.
-- They are the accused in FIR 956/2024, filed by the plaintiff before the local court arising out of that assault.
-- D5 has separately filed an FIR against the plaintiff alleging the plaintiff attacked him — that's a counter-allegation, not proof he's unconnected to the events.
-
-Under no circumstances should D5–D7 be absolved from this suit. They remain necessary parties to the conspiracy claim and to the civil recovery of damages, which I intend to recover financially from them. Their connection to the underlying events (the assault and FIR 956/2024) is the basis for keeping them in — independent of whether they had any role in the trust's affairs.
+- **Quote the beneficiary clause verbatim:** "members of the Alumoottil family who are the descendants of Alumoottil Chellamma Channathy." Correct the earlier "page 3, paragraph 5" to "running text on page 3."
+- **Plead the lineage in two steps:** son of Radhakrishnan (admitted); the deed shows Radhakrishnan to be Chellamma's son. Never "admitted grandson."
+- **On Geeta:** "no document admitting her has been shown" — not that she had no right.
+- **Hold ready the two deed-defence rebuttals:** beneficiary class ≠ trustees; and no instrument admitting Geeta, plus a deceased author cannot consent.
+- **Before relying on the 13 March rejoinder,** strike the five quote-marked phrases not in their affidavit ("zero funding," "no accounts," "no vouchers or records," "absolute possession," "immediate control"); rely only on verbatim wording.
+- **Keep our figures uniform:** "three months" not "90 days"; one figure for the no-accounts period; consistent ages/dates. Log their 26-vs-28 May bank-date slip as theirs.
+- **Stay respectful:** the order-sheet/register mismatch is a matter for clarification, never an error of the court's.
