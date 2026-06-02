@@ -27,15 +27,16 @@ O.S. 214/2025 is a suit filed by **Anoop R. Madhavan** in the **Munsiff Court, H
 
 The Plaintiff is the grandson of Alumoottil Chellamma Channatty through her fourth son **Radhakrishnan** (D2's brother and the Plaintiff's father). Radhakrishnan is **alive but hostile to the Plaintiff** and is a contemplated future defendant in a separate breach-of-trust proceeding — he is **not** a witness or co-plaintiff here. The Plaintiff suffered a torn rotator cuff requiring surgery in the **09/08/2024 assault**; **CMP 2828/2024 is already pending** against D2 and D3 for orchestrating it, and **FIR 956/2024** was filed by the Plaintiff against the enforcers.
 
-## Overall objective
+## Overall objective (PRIVATE)
 
-Three objectives, pursued together across the trial court, the High Court, and the criminal/regulatory forums (developed in full in `STRATEGY.md`):
-
-1. **Criminal accountability against D2** for the false sworn statements and fabrications across the connected suits (Section 215 BNSS reference track, independent of CMP 2828/2024).
-2. **Removal of D2 as Managing Trustee**, with criminal exposure as settlement leverage (Section 73 Indian Trusts Act).
-3. **Shutting down the Sreemoolavasam venture with maximum financial loss to the defendants** — voiding the 27/10/2025 lease, an interim injunction, eviction, and disgorgement.
-
----
+| Priority | Objective | Specific target | Measurable outcome | Gate / depends on | Earliest start | Realistic completion | Action sequence |
+|---|---|---|---|---|---|---|---|
+| **1** | **Ownership** | Every beneficiary except your sister releases/restructures their interest, by consent | Signed releases or registered family-settlement deed | Powered entirely by 3–6; needs pressure built first | ~Month 18+ | **24–48 months** (contingent) | **Last** — the payoff |
+| **2** | **Control** | Appointed Managing Trustee; foreign-domicile obstacle resolved | Board/court instrument recording appointment | Requires D2 removed (3) + residence fix | After removal (~Month 18) | **18–36 months** | 5th |
+| **3** | **Removal of D2** | Remove & replace D2 via correct statutory route | Court order removing him, or negotiated resignation | Records-production order | Production: Month 0–6 | Removal: **12–18 months** | 2nd |
+| **4** | **Criminal exposure of all trustees** | Breach-of-trust complaint reaching every trustee who passed the collective resolutions (12.02.2020; "D3 need not account") on common intention | Complaint admitted / cognizance taken vs named trustees | Misappropriation element → needs records (the gate) | After records (~Month 9) | File **9–15 months**; court-paced after | 4th |
+| **5** | **Criminal accountability of D2** | Court reference (s.215 BNSS) for his false sworn statements across the connected suits | Court reference/complaint on the false statements | Best after contradictions proven on record | ~Month 9 | Raise **9–18 months** | 3rd–4th |
+| **6** | **Shut down Sreemoolavasam at maximum cost** | Set aside 27/10/2025 lease; interim injunction; eviction; disgorgement to the trust | Interim injunction → set-aside → eviction → disgorgement figure | Interim relief fast; set-aside/disgorgement need accounts | Interim: Month 2–6 | Full: **18–30 months** | 1st (interim) → ongoing |
 
 ## Companion files (at `/mnt/user-data/outputs/`)
 
