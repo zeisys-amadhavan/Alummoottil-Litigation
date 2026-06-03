@@ -1,95 +1,177 @@
-# RTI Questions vs. Answers — Combined Comparison
+# RTI Questions vs. Answers — Combined
 
-**Subject:** Incident of 09.08.2024 involving Sri Anoop R Madhavan · Kareelakulangara Police Station, Alappuzha
-**Applicant / POA:** A. G. Kishore (for Anoop R Madhavan)
+## റൗണ്ട് 1 — RTI 33124/2025 (15.11.2025) → മറുപടി (15.12.2025)
 
-| Round | Application | Reply |
-|---|---|---|
-| 1 | RTI 33124/2025 — dated **15.11.2025** (13 items) | SHO reply No. 89/RTI/2025 — dated **15.12.2025** |
-| 2 | RTI 653/2026 — dated **06.01.2026** (15 items) | SPIO/SHO reply No. 05/RTI/2026 G2 — dated **05.02.2026** |
+### 1) ശ്രീ അനൂപിന്റെ പരാതി-സംബന്ധമായ അന്വേഷണം
 
-Each question below is given as a short English summary (full verbatim text is in the source MD files). The answer column gives the verbatim Malayalam reply with a short English gloss. The **Status** column is a neutral label of what the reply did.
+**ചോദ്യം 1(a):** കരീലകളങ്ങര പോലീസ് സ്റ്റേഷൻ കെട്ടിടത്തിന്റെ എല്ലാ ഭാഗങ്ങളിലായി സ്ഥാപിച്ചിരിക്കുന്ന സിസിടിവി (CCTV) ദൃശ്യങ്ങൾ (09-08-2024 4:00PM TO 5:30PM) ഡിജിറ്റൽ തെളിവായി നൽകണം എന്നപേക്ഷിക്കുന്നു.
+
+**മറുപടി 1(a):** വിവരാവകാശ നിയമപ്രകാരം താങ്കൾ ആവശ്യപ്പെട്ടിരിക്കുന്നത് 09.08.2024 തീയതി 04.00 PM to 05.30 PM വരെയുള്ള സ്റ്റേഷനിലെ സി.സി.ടി.വി ദൃശ്യങ്ങൾ ഡിജിറ്റൽ തെളിവായി നൽകണമെന്നതാണ്. സ്റ്റേഷനിലെ സി.സി.ടി.വി ദൃശ്യങ്ങളിൽ പോലീസ് സ്റ്റേഷനിൽ രഹസ്യവിവരം നൽകുവാൻ എത്തുന്നവരുടെയും, സ്ത്രീകളുടെയും കുട്ടികളുടെയും കേസുകളുമായും മറ്റും ബന്ധപ്പെട്ട സാക്ഷികളും ടി ദൃശ്യങ്ങളിൽ ഉണ്ട്. കൂടാതെ വനിതകൾ ഉൾപ്പെടെ പലതും ആ സമയങ്ങളിൽ സ്റ്റേഷനിൽ ഉണ്ടാകാം. താങ്കൾ ആവശ്യപ്പെട്ട വിവരങ്ങൾ നൽകിയാൽ സ്റ്റേഷനിൽ എത്തിയവരുടെ വിവരങ്ങൾ പരസ്യമാകും. ആയത് മറ്റുള്ളവരുടെ സ്വകാര്യതയെ ബാധിക്കുകയും ചെയ്യും ആകയാൽ താങ്കൾ ആവശ്യപ്പെട്ട വിവരങ്ങൾ നൽകുവാൻ നിർവാഹമില്ല എന്നുള്ള വിവരം അറിയിക്കുന്നു
 
 ---
 
-## Round 1 — RTI 33124/2025 (15.11.2025) → Reply (15.12.2025)
+**ചോദ്യം 1(b):** ഈ പരാതി സംബന്ധിച്ച അന്വേഷണം നടത്തിയ പോലീസ് ഉദ്യോഗസ്ഥർ ആരൊക്കെയാണ് (പേര്, റാങ്ക്)?
 
-### Section 1 — Investigation of Anoop's complaint
-
-| # | Question (summary) | Answer (verbatim + gloss) | Status |
-|---|---|---|---|
-| 1(a) | Provide station CCTV footage, 09.08.2024 4:00–5:30 PM, as digital evidence | "…താങ്കൾ ആവശ്യപ്പെട്ട വിവരങ്ങൾ നൽകുവാൻ നിർവാഹമില്ല" — Declined: footage would reveal informants, women, children and witnesses present at the station and breach their privacy | **Refused** (privacy ground) |
-| 1(b) | Names/ranks of officers who investigated the complaint | "വിശാൽ.വി, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്)" — Vishal V, PSI (Grade), Kareelakulangara PS | **Provided** |
-| 1(c) | Official records prepared/received/examined in the investigation (+ certified copies) | "…ഔദ്യോഗിക രേഖകൾ സ്വീകരിക്കുകയോ പരിശോധിക്കുകയോ ചെയ്തിട്ടില്ല" — No official records were received or examined | **"None / nil"** |
-| 1(d) | Persons questioned / whose statements were taken | "…ആരെയും ചോദ്യം ചെയ്യുകയോ മൊഴി രേഖപ്പെടുത്തുകയോ ചെയ്തിട്ടില്ലാത്തതാണ്" — No one questioned, no statement recorded | **"None / nil"** |
-
-### Section 2 — 112 call & scene visit
-
-| # | Question (summary) | Answer (verbatim + gloss) | Status |
-|---|---|---|---|
-| 2(a) | Names/ranks of officers who handled the 112 call | "വിവരങ്ങൾ ലഭ്യമല്ല" — Information not available | **Not available** |
-| 2(b) | Names/ranks of officers who reached the scene | "വിശാൽ.വി, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്)… Dvr CPO 7029 Aneez" — Vishal V, PSI (Grade) + Driver CPO 7029 Aneez | **Provided** |
-| 2(c) | Records prepared/received/examined by 112-call officers (+ copies) | "…ഒന്നും തന്നെ പരിശോധിക്കുകയോ, സ്വീകരിക്കുകയോ തയ്യാറാക്കുകയോ ചെയ്തിട്ടില്ല" — None prepared/received/examined | **"None / nil"** |
-| 2(d) | Records prepared/received/examined by scene officers (+ copies) | Same wording — None prepared/received/examined | **"None / nil"** |
-| 2(e) | Persons questioned / statements taken by scene officers | "…ആരുടേയും മൊഴി രേഖപ്പെടുത്തുകയോ ചോദ്യം ചെയ്യുകയോ ചെയ്തിട്ടില്ല" — No statements recorded, no one questioned | **"None / nil"** |
-
-### Section 3 — Hospital treatment
-
-| # | Question (summary) | Answer (verbatim + gloss) | Status |
-|---|---|---|---|
-| 3(a) | Officer who enquired at Haripad Govt Hospital | "നിസാറുദ്ദീൻ .ഇ, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്)" — Nizarudeen E, PSI (Grade) | **Provided** |
-| 3(b) | Officer who enquired at Haripad Huda Hospital | "നിസാറുദ്ദീൻ .ഇ, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്)" — Nizarudeen E, PSI (Grade) | **Provided** |
-| 3(c) | Records prepared/received/examined at the two hospitals (+ copies) | Wound certificate (Haripad Govt Taluk Hospital) and Treatment certificate (Huda Trust Hospital) received; 3-page copy will be released on paying ₹9 (treasury head 00706011899) and producing the receipt | **Records exist; copies on fee** |
-| 3(d) | Hospital staff questioned | Dr. Sony P Sunny (Haripad Govt Taluk Hospital) and Dr. Azhar Pookunju, Ortho (Huda Trust Hospital) were met and questioned | **Provided** |
+**മറുപടി 1(b):** വിശാൽ.വി, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്), കരീലകളങ്ങര പോലീസ് സ്റ്റേഷൻ
 
 ---
 
-## Round 2 — RTI 653/2026 (06.01.2026) → Reply (05.02.2026)
+**ചോദ്യം 1(c):** ഈ അന്വേഷണത്തിന്റെ ഭാഗമായി തയ്യാറാക്കുകയോ, സ്വീകരിക്കുകയോ, പരിശോധിക്കുകയോ ചെയ്ത ഔദ്യോഗിക രേഖകൾ ഏതൊക്കെയാണ്? ഓരോ രേഖകളുടെയും സർട്ടിഫൈഡ് പകർപ്പുകൾ നൽകാൻ അപേക്ഷിക്കുന്നു.
 
-The 2nd application paid ₹300 in advance for copies and asked, record-by-record, whether each station record exists and, if so, for a certified copy.
-
-| # | Question (summary) | Answer (verbatim + gloss) | Status |
-|---|---|---|---|
-| 1 | GD / Station Diary entry for the incident? | "ഇല്ല, ലഭ്യമല്ല" — No, not available | **Not available** |
-| 2 | ERSS / 112 dispatch–arrival–closure log? | "ഇല്ല, പരിപാലിക്കുന്നില്ല" — No, not maintained | **Not maintained** |
-| 3 | Duty roster / duty officer record for 09.08.2024? | "ഉണ്ട്… ഡ്യൂട്ടി റോസ്റ്ററിന്റെ പകർപ്പ് (03 പേജ്)…" — Yes; 3-page copy enclosed | **Provided (copy)** |
-| 4 | Vehicle movement / patrol / scene-visit register? | "ഉണ്ട്… വെഹിക്കിൾ ഡയറിയുടെ പകർപ്പ് (01 പേജ്)…" — Yes; 1-page vehicle diary copy enclosed | **Provided (copy)** |
-| 5 | Complaint receipt / petition/inward entry for the 04:20 PM complaint? | "ഉണ്ട്… എഴുത്ത് പരാതിയുടെ രസീതിന്റെ പകർപ്പ് (01 പേജ്)…" — Yes; 1-page receipt copy enclosed | **Provided (copy)** |
-| 6 | Hospital enquiry memo / requisition / receipt entry? | "ഇല്ല, Requisition പകർപ്പ് ലഭ്യമല്ല" — No, requisition copy not available | **Not available** |
-| 7 | Notes/reports by Vishal V (SI) / DVR CPO 7029 Aneez / Nizarudeen? | Vishal & Aneez prepared/submitted **no** notes or reports. Nizarudeen registered **Crime 956/2024** (BNS 126(2),115(2),118(1),3(5)), completed investigation and filed report before JFMC-I Haripad. FIR, final report, witness statements, other reports — **24-page copy enclosed** | **Partly "none" / case records provided** |
-| 8 | Wound certificate (Haripad Taluk Hospital)? | 2-page copy enclosed | **Provided (copy)** |
-| 9 | Treatment certificate (Huda Trust Hospital)? | 1-page copy enclosed | **Provided (copy)** |
-| 10 | Certified true copy of the 04:20 PM written complaint? | 1-page copy enclosed | **Provided (copy)** |
-| 11 | Petition / inward / diary register entry for that complaint? | "ഉണ്ട്… പെറ്റീഷൻ രജിസ്റ്ററിൽ രജിസ്റ്റർ ചെയ്തതിന്റെ പേജിന്റെ പകർപ്പ് (02 പേജ്)…" — Yes; 2-page petition-register copy enclosed | **Provided (copy)** |
-| 12 | GD entries on attempts to contact Anoop, 09–31.08.2024? | "ഇല്ല, ജി.ഡി എൻട്രി ലഭ്യമല്ല" — No, GD entry not available | **Not available** |
-| 13 | Station telephone / official phone call register? | "ഇല്ല, പരിപാലിക്കുന്നില്ല" — No, not maintained | **Not maintained** |
-| 14 | Notice/letter dispatch register / postal acknowledgment? | "ഇല്ല, ലഭ്യമല്ല" — No, not available | **Not available** |
-| 15 | Sent/received official email records re: Anoop? | "ഇല്ല, ലഭ്യമല്ല" — No, not available | **Not available** |
-
-**Appeal authority named in Reply 2:** Sri T. Binukumar, Dy.SP, Kayamkulam Sub-Division, Alappuzha–690502 (dyspkylmalpy.pol@kerala.gov.in, 0479 2447949) — within 30 days.
+**മറുപടി 1(c):** 09.08.2024 തീയതിയിൽ ശ്രീ. അനൂപ് കരീലകളങ്ങര പോലീസ് സ്റ്റേഷനിൽ നൽകിയ പരാതിയുമായി ബന്ധപ്പെട്ട് ഔദ്യോഗിക രേഖകൾ സ്വീകരിക്കുകയോ പരിശോധിക്കുകയോ ചെയ്തിട്ടില്ല.
 
 ---
 
-## Cross-document observations (factual)
+**ചോദ്യം 1(d):** അന്വേഷണത്തിന്റെ ഭാഗമായി ചോദ്യം ചെയ്തിരുന്നതോ / മൊഴി എടുപ്പിക്കുകയോ ചെയ്ത വ്യക്തികൾ ആരൊക്കെയാണ്?
 
-These are points a reader comparing the two rounds may want to verify against the originals. They are stated neutrally, sourced to the documents themselves.
+**മറുപടി 1(d):** 09.08.2024 തീയതിയിൽ ശ്രീ. അനൂപ് കരീലകളങ്ങര പോലീസ് സ്റ്റേഷനിൽ നൽകിയ പരാതിയുമായി ബന്ധപ്പെട്ട് ആരെയും ചോദ്യം ചെയ്യുകയോ മൊഴി രേഖപ്പെടുത്തുകയോ ചെയ്തിട്ടില്ലാത്തതാണ്.
 
-1. **"No records / nobody questioned" (Round 1) vs. case records produced (Round 2).** Reply 1 (15.12.2025) stated at 1(c), 1(d), 2(c), 2(d) and 2(e) that **no** official records were prepared/received/examined and that **no one** was questioned in connection with Anoop's complaint. Reply 2 (05.02.2026) then enclosed an FIR, witness statements, scene mahazar, a final report/charge sheet, certificates and a petition-register entry, and stated that **Crime 956/2024** had been registered and investigated. The two replies describe the same incident differently.
+### 2) ശ്രീ അനൂപിന്റെ 112 കോൾ / പോലീസ് സംഭവസ്ഥല സന്ദർശനം
 
-2. **FIR timing.** The FIR (No. 0956/2024) records *Date and Time of FIR* as **17.12.2024**, while the incident date is **09.08.2024** and the complaint was received at the station on **11.08.2024** (per the acknowledgement receipt and petition register). The charge-sheet proceedings note expressly that the incident occurred more than four months before registration.
+**ചോദ്യം 2(a):** ശ്രീ അനൂപിന്റെ 112-കോൾ കൈകാര്യം ചെയ്യാൻ ഫോണിൽ ബന്ധപ്പെട്ട പോലീസ് ഉദ്യോഗസ്ഥർ ആരൊക്കെയാണ് (പേര്, റാങ്ക്)?
 
-3. **Duty roster vs. named officers.** Reply 1 names **Vishal V (PSI Grade)** and **DVR CPO 7029 Aneez** as scene officers, and **Nizarudeen E (PSI Grade)** for the hospital enquiry. The 09.08.2024 duty register (Attachment 1 in Reply 2) lists **Visal V** under Law & Order, **Dvr CPO 7029 Aneez** as station driver, and **Nizamuddin J** as Inspector/ISHO. (Note the FIR/charge sheet investigating officer is recorded as **Nizarudeen E, SI(Gr), PEN 150519**, while the SPIO signing Reply 2 is **Inspector J. Nizamuddin, PEN 308042** — these are recorded as two different officers/PEN numbers.)
-
-4. **Section number variance.** The FIR header lists BNS sections as **126(2), 115(2), 118(1), 3(5)**; the charge-sheet header (KPF Form 5) lists **26(2), 115(2), 118(1), 3(5)** (the "1" before 26 appears dropped on the charge-sheet form).
-
-5. **A counter-case exists.** The charge-sheet proceedings and the petition register refer to **Crime 574/2024** (BNS 115(2), 118(1), 296(b), 3(5)) registered **against** Anoop (the 1st witness here), arising from the same date, also charge-sheeted. The petition Anoop filed (received 11.08.2024) was enquired into by **GSI Visal**, leading to that crime number.
-
-6. **Records the station says it does not keep.** Across both rounds the station reported as *not available / not maintained*: GD/Station Diary entry for the incident (R2-1, R2-12), 112 dispatch/arrival/closure log (R2-2), hospital requisition (R2-6), station phone log (R2-13), notice/postal dispatch register (R2-14) and official email records (R2-15).
+**മറുപടി 2(a):** വിവരങ്ങൾ ലഭ്യമല്ല
 
 ---
 
-### Source files
-- `1_RTI_Application_2025-11-15.md` — original RTI (13 items)
-- `2_Reply_2025-12-15.md` — Reply 1
-- `3_RTI_Application_2026-01-06.md` — follow-up RTI (15 items)
-- `4_Reply_2026-02-05.md` — Reply 2 (+ attachments: duty register, vehicle diary, complaint receipt, FIR, witness statements, final report, wound certificates, treatment certificate, original complaint, petition register)
+**ചോദ്യം 2(b):** ശ്രീ അനൂപിന്റെ 112-കോൾ പ്രകാരം സംഭവസ്ഥലത്ത് എത്തിച്ചേർന്ന പോലീസ് ഉദ്യോഗസ്ഥർ ആരൊക്കെയാണ് (പേര്, റാങ്ക്)?
+
+**മറുപടി 2(b):** വിശാൽ.വി, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്), കരീലകളങ്ങര പോലീസ് സ്റ്റേഷൻ, Dvr CPO 7029 Aneez
+
+---
+
+**ചോദ്യം 2(c):** ശ്രീ അനൂപിന്റെ 112-കോൾ കൈകാര്യം ചെയ്ത ഉദ്യോഗസ്ഥർ തയ്യാറാക്കുകയോ, സ്വീകരിക്കുകയോ, പരിശോധിക്കുകയോ ചെയ്ത ഔദ്യോഗിക രേഖകൾ ഏതൊക്കെയാണ്? ഓരോ രേഖകളുടെയും സർട്ടിഫൈഡ് പകർപ്പുകൾ നൽകാൻ അപേക്ഷിക്കുന്നു.
+
+**മറുപടി 2(c):** 112- കോൾ കൈകാര്യം ചെയ്ത ഉദ്യോഗസ്ഥർ ഔദ്യോഗിക രേഖകൾ ഒന്നും തന്നെ പരിശോധിക്കുകയോ, സ്വീകരിക്കുകയോ തയ്യാറാക്കുകയോ ചെയ്തിട്ടില്ല
+
+---
+
+**ചോദ്യം 2(d):** സംഭവസ്ഥലത്ത് എത്തിയ ഉദ്യോഗസ്ഥർ തയ്യാറാക്കുകയോ, സ്വീകരിക്കുകയോ, പരിശോധിക്കുകയോ ചെയ്ത ഔദ്യോഗിക രേഖകൾ ഏതൊക്കെയാണ്? ഓരോ രേഖകളുടെയും സർട്ടിഫൈഡ് പകർപ്പുകൾ നൽകാൻ അപേക്ഷിക്കുന്നു.
+
+**മറുപടി 2(d):** 112- കോൾ പ്രകാരം സംഭവസ്ഥലത്ത് എത്തിയ ഉദ്യോഗസ്ഥർ ഔദ്യോഗിക രേഖകൾ ഒന്നും തന്നെ പരിശോധിക്കുകയോ, സ്വീകരിക്കുകയോ തയ്യാറാക്കുകയോ ചെയ്തിട്ടില്ല
+
+---
+
+**ചോദ്യം 2(e):** സംഭവസ്ഥലത്ത് എത്തിയ ഉദ്യോഗസ്ഥർ ചോദ്യം ചെയ്തിരുന്നതോ / മൊഴി എടുപ്പിക്കുകയോ ചെയ്ത വ്യക്തികൾ ആരൊക്കെയാണ്?
+
+**മറുപടി 2(e):** 112- കോൾ പ്രകാരം സംഭവസ്ഥലത്ത് എത്തിയ ഉദ്യോഗസ്ഥർ ആരുടേയും മൊഴി രേഖപ്പെടുത്തുകയോ ചോദ്യം ചെയ്യുകയോ ചെയ്തിട്ടില്ല.
+
+### 3) ശ്രീ അനൂപിന്റെ ആശുപത്രി ചികിത്സ
+
+**ചോദ്യം 3(a):** ശ്രീ അനൂപിന്റെ ചികിത്സ ബന്ധപ്പെട്ട് ഹരിപ്പാട് ഗവൺമെന്റ് ആശുപത്രിയിൽ അന്വേഷണം നടത്തിയ പോലീസ് ഉദ്യോഗസ്ഥൻ (പേര്, പദവി) ആരൊക്കെയാണ്?
+
+**മറുപടി 3(a):** നിസാറുദ്ദീൻ .ഇ, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്) കരീലകളങ്ങര പോലീസ് സ്റ്റേഷൻ
+
+---
+
+**ചോദ്യം 3(b):** ശ്രീ അനൂപിന്റെ ചികിത്സ ബന്ധപ്പെട്ട് ഹരിപ്പാട്ഹുദ ആശുപത്രിയിൽ അന്വേഷണം നടത്തിയ പോലീസ് ഉദ്യോഗസ്ഥൻ (പേര്, പദവി) ആരൊക്കെയാണ്?
+
+**മറുപടി 3(b):** നിസാറുദ്ദീൻ .ഇ, പോലീസ് സബ്ബ് ഇൻസ്പെക്ടർ (ഗ്രേഡ്) കരീലകളങ്ങര പോലീസ് സ്റ്റേഷൻ
+
+---
+
+**ചോദ്യം 3(c):** മുകളിൽ പറയുന്ന രണ്ട് ആശുപത്രികളിൽ അന്വേഷണം നടത്തിയ ഭാഗമായി / അടിസ്ഥാനത്തിൽ തയ്യാറാക്കുകയോ, സ്വീകരിക്കുകയോ, പരിശോധിക്കുകയോ ചെയ്ത ഔദ്യോഗിക രേഖകൾ ഏതൊക്കെയാണ്? ഓരോ രേഖകളുടെയും സർട്ടിഫൈഡ് പകർപ്പുകൾ നൽകാൻ അപേക്ഷിക്കുന്നു.
+
+**മറുപടി 3(c):** ഹരിപ്പാട് ഗവൺമെന്റ് താലൂക്ക് ആശുപത്രിയിൽ നിന്നും വൂണ്ട് സർട്ടിഫിക്കറ്റും, ഹരിപ്പാട് ഹുദ ട്രസ്റ്റ് ആശുപത്രിയിൽ നിന്നും ട്രീറ്റ്മെന്റ് സർട്ടിഫിക്കറ്റും സ്വീകരിച്ചിട്ടുള്ളതാണ്. ടി രേഖകളുടെ പകർപ്പുകൾ ലഭ്യമാകുന്നതിന് (3 പുറം) 9/- (ഒൻപത്) രൂപ No.00706011899 എന്ന ശീർഷകത്തിലുള്ള ട്രഷറി അക്കൗണ്ടിൽ അടച്ച് ചെല്ലാൻ രസീത് ഹാജരാക്കുന്ന മുറയ്ക് നൽകാവുന്നതാണ്.
+
+---
+
+**ചോദ്യം 3(d):** അന്വേഷണത്തിന്റെ ഭാഗമായി പോലീസ് ഉദ്യോഗസ്ഥർ ചോദ്യം ചെയ്തിരുന്നതോ / മൊഴി എടുപ്പിക്കുകയോ ചെയ്ത ആശുപത്രി ജീവനക്കാർ ആരൊക്കെയാണ്?
+
+**മറുപടി 3(d):** ഹരിപ്പാട് ഗവൺമെന്റ് താലൂക്ക് ആശുപത്രിയിലെ ഡോക്ടർ സോണി പി സണ്ണി, ഹരിപ്പാട് ഹുദാ ട്രസ്റ്റ് ആശുപത്രിയിലെ ഓർത്തോ വിഭാഗം ഡോക്ടർ അസ്ഹർ പൂക്കുഞ്ഞ് എന്നിവരെ കണ്ട് ചോദിച്ചിട്ടുള്ളതാണ്.
+
+---
+
+## റൗണ്ട് 2 — RTI 653/2026 (06.01.2026) → മറുപടി (05.02.2026)
+
+**ചോദ്യം 1:** 09.08.2024-ലെ മേൽപ്പറഞ്ഞ സംഭവവുമായി ബന്ധപ്പെട്ട് GENERAL DIARY / STATION DIARY-യിൽ എൻട്രി ഉണ്ടോ? ഉണ്ടെങ്കിൽ: ബന്ധപ്പെട്ട ENTRY NO / തീയതി / സമയം / പേജ് നമ്പർ സഹിതം സർട്ടിഫൈഡ് പകർപ്പ് / എക്സ്ട്രാക്റ്റ് നൽകുക. ഇല്ലെങ്കിൽ: "GD / SD-യിൽ ഈ സംഭവവുമായി ബന്ധപ്പെട്ട എൻട്രി സ്റ്റേഷനിൽ ലഭ്യമല്ല / GD / SD അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 1:** ഇല്ല, ലഭ്യമല്ല
+
+---
+
+**ചോദ്യം 2:** 09.08.2024 10:56 AM-ലെ ERSS / 112 CALL സംബന്ധിച്ച് DISPATCH / ARRIVAL / CLOSURE LOG (CALL REFERENCE / INCIDENT REFERENCE ഉൾപ്പെടെ) ഉണ്ടോ? ഉണ്ടെങ്കിൽ: CALL / INCIDENT REFERENCE NO, DISPATCH TIME, ARRIVAL TIME, CLOSURE TIME ഉൾപ്പെടുന്ന സർട്ടിഫൈഡ് പകർപ്പ് / പ്രിന്റ് നൽകുക. ഇല്ലെങ്കിൽ: "112 DISPATCH / ARRIVAL / CLOSURE LOG സ്റ്റേഷനിൽ ലഭ്യമല്ല / അത്തരം LOG പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 2:** ഇല്ല, പരിപാലിക്കുന്നില്ല
+
+---
+
+**ചോദ്യം 3:** 09.08.2024-ലെ DUTY ROSTER / DUTY OFFICER RECORD (DUTY ASSIGNMENT / DETAILS) ഉണ്ടോ? ഉണ്ടെങ്കിൽ: 09.08.2024-ലെ ബന്ധപ്പെട്ട പേജിന്റെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "DUTY ROSTER / DUTY OFFICER RECORD സ്റ്റേഷനിൽ ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 3:** ഉണ്ട്, 09.08.2024 തീയതിയിലെ ഡ്യൂട്ടി റോസ്റ്ററിന്റെ പകർപ്പ് ( 03 പേജ് )ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 4:** മേൽപ്പറഞ്ഞ സംഭവവുമായി ബന്ധപ്പെട്ട VEHICLE MOVEMENT / PATROL / SCENE-VISIT REGISTER എൻട്രി (OUT TIME / RETURN TIME, VEHICLE / CREW) ഉണ്ടോ? ഉണ്ടെങ്കിൽ: ബന്ധപ്പെട്ട എൻട്രിയുടെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "VEHICLE MOVEMENT / PATROL / SCENE-VISIT REGISTER എൻട്രി സ്റ്റേഷനിൽ ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 4:** ഉണ്ട്, 09.08.2024 തീയതിയിലെ വെഹിക്കിൾ ഡയറിയുടെ പകർപ്പ് ( 01 പേജ് )ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 5:** 09.08.2024 04:20 PM-ന് ശ്രീ അനൂപ് സമർപ്പിച്ച എഴുത്തുപരാതി സംബന്ധിച്ച് COMPLAINT RECEIPT / PETITION REGISTER / INWARD REGISTER-ൽ എൻട്രി ഉണ്ടോ? ഉണ്ടെങ്കിൽ: SERIAL / DIARY / INWARD NO, തീയതി / സമയം ഉൾപ്പെടുന്ന എൻട്രിയുടെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "COMPLAINT / PETITION / INWARD REGISTER-ൽ 09.08.2024 04:20 PM പരാതിയുമായി ബന്ധപ്പെട്ട എൻട്രി സ്റ്റേഷനിൽ ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 5:** ഉണ്ട്, 09.08.2024 തീയതിയിലെ ശ്രീ. അനൂപ് സമർപ്പിച്ച എഴുത്ത് പരാതിയുടെ രസീതിന്റെ പകർപ്പ് ( 01 പേജ് )ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 6:** HARIPAD TALUK HOSPITAL / HARIPAD HUDA TRUST HOSPITAL എന്നിവയുമായി ബന്ധപ്പെട്ട് സ്റ്റേഷൻ തയ്യാറാക്കിയ / അയച്ച HOSPITAL ENQUIRY MEMO / REQUISITION (ഉണ്ടെങ്കിൽ) അല്ലെങ്കിൽ ആശുപത്രിയിൽ നിന്ന സ്വീകരിച്ചതായി സ്റ്റേഷനിൽ രേഖപ്പെടുത്തിയ RECEIPT / INWARD ENTRY ഉണ്ടോ? ഉണ്ടെങ്കിൽ: MEMO / REQUISITION പകർപ്പും RECEIPT / INWARD ENTRY പകർപ്പും സർട്ടിഫൈഡ് ആയി നൽകുക. ഇല്ലെങ്കിൽ: "HOSPITAL ENQUIRY MEMO / REQUISITION / RECEIPT ENTRY സ്റ്റേഷനിൽ ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 6:** ഇല്ല, Requisition പകർപ്പ് ലഭ്യമല്ല
+
+---
+
+**ചോദ്യം 7:** VISHAL V (SI) / DVR CPO 7029 ANEEZ / NIZARUDHEEN എന്നിവർ തയ്യാറാക്കിയതായി സ്റ്റേഷൻ / ഫയലിൽ സൂക്ഷിച്ചിരിക്കുന്ന NOTE / REPORT / SCENE MEMO / ENQUIRY NOTE / FORWARDING NOTE തുടങ്ങിയ രേഖകൾ ഉണ്ടോ? ഉണ്ടെങ്കിൽ: ബന്ധപ്പെട്ട രേഖകളുടെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "മേൽപ്പറഞ്ഞ ഉദ്യോഗസ്ഥരുടെ NOTE / REPORT എന്നിവ സ്റ്റേഷൻ രേഖകളിൽ ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 7:** കരീലക്കളങ്ങര പോലീസ് സ്റ്റേഷൻ GSI വിശാൽ, DVR CPO 7029 അനീസ് എന്നിവർ നോട്ടുകളോ, റിപ്പോർട്ടുകളോ ഒന്നും തന്നെ തയ്യാറാക്കി സ്റ്റേഷനിൽ സമർപ്പിച്ചിട്ടില്ലാത്തതാണ്. GSI നിസാറുദ്ദീൻ 09.08.2024 തീയതിയിലെ സംഭവുമായി ബന്ധപ്പെട്ട് കരീലക്കളങ്ങര പോലീസ് സ്റ്റേഷൻ ക്രൈം. 956/2024, U/S: 126(2),115(2),118(1),3(5) Of BNS പ്രകാരം കേസ് രജിസ്റ്റർ ചെയ്ത് അന്വേഷണം പൂർത്തിയാക്കി ബഹു. ഹരിപ്പാട് ജുഡീഷ്യൽ ക്ലാസ് മജിസ്റ്റേറ്റ് കോടതി-I മുൻപാകെ റിപ്പോർട്ട് സമർപ്പിച്ചിട്ടുള്ളതാണ്. മേൽ നമ്പർ കേസിന്റെ എഫ്.ഐ.ആർ, ഫൈനൽ റിപ്പോർട്ട്, സാക്ഷി മൊഴികൾ, മറ്റ് റിപ്പോർട്ടുകൾ എന്നിവയുടെ പകർപ്പുകൾ ( 24 പേജ് ) ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 8:** സ്റ്റേഷൻ ഫയലിൽ ലഭ്യമാണെങ്കിൽ WOUND CERTIFICATE (HARIPAD TALUK HOSPITAL)-ന്റെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "സ്റ്റേഷൻ ഫയലിൽ WOUND CERTIFICATE ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 8:** ഹരിപ്പാട് താലൂക്ക് ഹോസ്പിറ്റലിൽ നിന്നുമുള്ള വൂണ്ട് സർട്ടിഫിക്കേറ്റിന്റെ പകർപ്പ് ( 02 പേജ്) ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 9:** സ്റ്റേഷൻ ഫയലിൽ ലഭ്യമാണെങ്കിൽ TREATMENT CERTIFICATE (HARIPAD HUDA TRUST HOSPITAL)-ന്റെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "സ്റ്റേഷൻ ഫയലിൽ TREATMENT CERTIFICATE ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 9:** ഹരിപ്പാട് ഹുദാ ട്രസ്റ്റ് ഹോസ്പിറ്റലിൽ നിന്നുമുള്ള ട്രീറ്റ്മെന്റ് സർട്ടിഫിക്കേറ്റിന്റെ പകർപ്പ് ( 01 പേജ്) ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 10:** 09.08.2024 04:20 PM-ന് സമർപ്പിച്ച എഴുത്തുപരാതിയുടെ CERTIFIED TRUE COPY നൽകുക. ഇല്ലെങ്കിൽ: "09.08.2024 04:20 PM എഴുത്തുപരാതിയുടെ പകർപ്പ് സ്റ്റേഷൻ റെക്കോർഡിൽ ലഭ്യമല്ല (NOT AVAILABLE)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 10:** 09.08.2024 തീയതിയിൽ സമർപ്പിച്ച പരാതിയുടെ പകർപ്പ് ( 01 പേജ്) ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 11:** മുകളിൽ പറഞ്ഞ 04:20 PM പരാതിയുമായി ബന്ധപ്പെട്ട PETITION / INWARD / DIARY REGISTER ENTRY (SERIAL / DIARY / INWARD NO ഉൾപ്പെടെ) ഉണ്ടോ? ഉണ്ടെങ്കിൽ: അതിന്റെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "അതിനുള്ള REGISTER ENTRY സ്റ്റേഷനിൽ ലഭ്യമല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 11:** ഉണ്ട്, 09.08.2024 തീയതിയിൽ സമർപ്പിച്ച പരാതി കരീലക്കളങ്ങര പോലീസ് സ്റ്റേഷൻ പെറ്റീഷൻ രജിസ്റ്ററിൽ രജിസ്റ്റർ ചെയ്തതിന്റെ പേജിന്റെ പകർപ്പ് ( 02 പേജ്) ഇതോടൊപ്പം അയക്കുന്നു.
+
+---
+
+**ചോദ്യം 12:** 09.08.2024 മുതൽ 31.08.2024 വരെ ശ്രീ അനൂപിനെ ബന്ധപ്പെടാൻ / അറിയിപ്പ് നൽകാൻ നടത്തിയതായി GD / STATION DIARY-യിൽ എൻട്രികൾ ഉണ്ടോ? ഉണ്ടെങ്കിൽ: ബന്ധപ്പെട്ട എൻട്രികളുടെ ENTRY NO / DATE / TIME സഹിതം സർട്ടിഫൈഡ് പകർപ്പ് / എക്സ്ട്രാക്റ്റ് നൽകുക. ഇല്ലെങ്കിൽ: "ഈ കാലയളവിൽ CONTACT ATTEMPT സംബന്ധിച്ച് GD / SD എൻട്രി ഇല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 12:** ഇല്ല, ജി.ഡി എൻട്രി ലഭ്യമല്ല.
+
+---
+
+**ചോദ്യം 13:** സ്റ്റേഷൻ ടെലിഫോൺ / ഓഫീഷൽ ഫോൺ ഉപയോഗിച്ച് CONTACT ATTEMPT രേഖപ്പെടുത്തുന്ന STATION TELEPHONE CALL REGISTER / OFFICIAL PHONE LOG ഉണ്ടോ? ഉണ്ടെങ്കിൽ: 09.08.2024–31.08.2024 കാലയളവിൽ ശ്രീ അനൂപുമായി ബന്ധപ്പെട്ട എൻട്രികളുടെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "STATION CALL REGISTER / OFFICIAL PHONE LOG സ്റ്റേഷനിൽ ഇല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 13:** ഇല്ല, പരിപാലിക്കുന്നില്ല
+
+---
+
+**ചോദ്യം 14:** ശ്രീ അനൂപിന് NOTICE / LETTER അയച്ചതായി രേഖപ്പെടുത്തുന്ന NOTICE / LETTER DISPATCH REGISTER / POSTAL RECEIPT / ACKNOWLEDGMENT ENTRY ഉണ്ടോ? ഉണ്ടെങ്കിൽ: ബന്ധപ്പെട്ട എൻട്രികളുടെ സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "DISPATCH / POSTAL REGISTER ENTRIES ഇല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 14:** ഇല്ല, ലഭ്യമല്ല
+
+---
+
+**ചോദ്യം 15:** ഓഫീഷൽ സ്റ്റേഷൻ / ഓഫീസ് ഇമെയിൽ വഴി ശ്രീ അനൂപിനെ ബന്ധപ്പെട്ടതായി SENT / RECEIVED EMAIL RECORDS ഉണ്ടോ? ഉണ്ടെങ്കിൽ: 09.08.2024–22.08.2024-ലെ ബന്ധപ്പെട്ട ഇമെയിലുകളുടെ പ്രിന്റ് / സർട്ടിഫൈഡ് പകർപ്പ് നൽകുക. ഇല്ലെങ്കിൽ: "STATION / OFFICE OFFICIAL EMAIL വഴി അയച്ച / സ്വീകരിച്ച രേഖകൾ ഇല്ല / അങ്ങനെ പരിപാലിക്കുന്നില്ല (NOT AVAILABLE / NOT MAINTAINED)" എന്ന് മറുപടിയിൽ വ്യക്തമാക്കുക.
+
+**മറുപടി 15:** ഇല്ല, ലഭ്യമല്ല
+
+---
+
+**അപ്പീൽ അധികാരി (മറുപടി 2 പ്രകാരം):** ശ്രീ. ടി. ബിനുകുമാർ, ഡെപ്യൂട്ടി പോലീസ് സൂപ്രണ്ട്, കായംകുളം സബ് ഡിവിഷൻ, ആലപ്പുഴ–690502 · dyspkylmalpy.pol@kerala.gov.in · 0479 2447949 — 30 ദിവസത്തിനുള്ളിൽ.
