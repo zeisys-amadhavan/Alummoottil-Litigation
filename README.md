@@ -105,13 +105,13 @@
 - **IA 6/2026** — Discovery and production of accounts; filed 31.03.2026; O.S. 214/2025, under Order XI Rr. 12 & 14 CPC.
 - **IA 7/2026** — D2's production of documents; 18.05.2026: D2 produces the lease, bank statement and minutes book — sworn unavailable earlier. (Yet to be numbered.)
 
-## Current status (as of 2 June 2026)
+**Current status (as of 2 June 2026)**
 
-- **Next listing:** 28/05/2026, "for objection and hearing" of IAs 2, 5 and 9 of 2025 (substantive hearing; pleadings closed 04/03/2026).
+* Next listing: 28/05/2026, "for objection and hearing" of IAs 2, 5 and 9 of 2025 (substantive hearing; pleadings closed 04/03/2026).
 
-## Next steps — joint call with counsel (2 June 2026)
+**Next steps — joint call with counsel (2 June 2026)**
 
-*Joint call with Adv. Thaha (Munsiff Court · O.S. 214/2025) and Adv. Unnikrishnan V. Alapatt (High Court · OP(C) 3278/2025) on 2 June 2026, 11:40 AM EST (29 minutes). The following were put to counsel for their judgment.*
+Joint call with Adv. Thaha (Munsiff Court · O.S. 214/2025) and Adv. Unnikrishnan V. Alapatt (High Court · OP(C) 3278/2025) on 2 June 2026, 11:40 AM EST (29 minutes). The following were put to counsel for their judgment.
 
 **Trial Court — O.S. 214/2025 (Thaha):**
 
@@ -119,6 +119,14 @@
 2. Press IA 6/2026 for production of accounts (a mandatory trustee duty).
 3. Move for an adverse inference for concealing a business venture on the premises and for producing documents after swearing none existed.
 4. Consider whether the Contradictions Matrix supports a Section 340 CrPC perjury reference.
+
+**Points Inadvertently Omitted — To Be Raised:**
+
+The following two points were not captured in the earlier preparation and should be added to the trial court strategy:
+
+a. **Filing of OS 243/2024 as further document suppression.** The filing of OS 243/2024 on August 14, 2024 is itself another instance of document suppression. The filing, without any corresponding legal expenses in the Trust's records, proves the point — either the expenses have been suppressed, or the suit was funded personally, which would confirm it is a personal vendetta rather than a legitimate action of the Trust. Either way, the absence of records exposes the bona fides of the filing.
+
+b. **Deliberate conflation of "nomination of trustees" with "nomination of beneficiaries."** Clause 14 of the Trust Deed empowers the authors solely to nominate *trustees*; it confers no power whatsoever to nominate, redefine, or exclude *beneficiaries*. The beneficiary class is fixed by the operative grant — "the members of the Alumoottil family who are the descendents of Alumoottil Chellamma Channathy" — and is determinate as a matter of genealogical fact, not trustee discretion. Any attempt to argue otherwise is a misreading of the deed advanced to mislead the Court.
 
 **High Court — OP(C) 3278/2025 (Alapatt):**
 
