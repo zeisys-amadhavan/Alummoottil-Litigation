@@ -1,30 +1,49 @@
-# O.S. 214/2025 — Strategy
+# O.S. 214/2025 — STRATEGY
+
+*(strategy only — no court-level tactics; see `tactics.md` for execution)*
 
 ---
 
-## Overall objective (PRIVATE)
+## The objective: control
 
-| Priority | Objective | Specific target | Measurable outcome | Gate / depends on | Earliest start | Realistic completion | Action sequence |
-|---|---|---|---|---|---|---|---|
-| **1** | **Ownership** | Every beneficiary except your sister releases/restructures their interest, by consent | Signed releases or registered family-settlement deed | Powered entirely by 3–6; needs pressure built first | ~Month 18+ | **24–48 months** (contingent) | **Last** — the payoff |
-| **2** | **Control** | Appointed Managing Trustee; foreign-domicile obstacle resolved | Board/court instrument recording appointment | Requires D2 removed (3) + residence fix | After removal (~Month 18) | **18–36 months** | 5th |
-| **3** | **Removal of D2** | Remove & replace D2 via correct statutory route | Court order removing him, or negotiated resignation | Records-production order | Production: Month 0–6 | Removal: **12–18 months** | 2nd |
-| **4** | **Criminal exposure of all trustees** | Breach-of-trust complaint reaching every trustee who passed the collective resolutions (12.02.2020; "D3 need not account") on common intention | Complaint admitted / cognizance taken vs named trustees | Misappropriation element → needs records (the gate) | After records (~Month 9) | File **9–15 months**; court-paced after | 4th |
-| **5** | **Criminal accountability of D2** | Court reference (s.215 BNSS) for his false sworn statements across the connected suits | Court reference/complaint on the false statements | Best after contradictions proven on record | ~Month 9 | Raise **9–18 months** | 3rd–4th |
-| **6** | **Shut down Sreemoolavasam at maximum cost** | Set aside 27/10/2025 lease; interim injunction; eviction; disgorgement to the trust | Interim injunction → set-aside → eviction → disgorgement figure | Interim relief fast; set-aside/disgorgement need accounts | Interim: Month 2–6 | Full: **18–30 months** | 1st (interim) → ongoing |
+Control over the Trust as an institution — meaning control over (1) the **Trust** itself, (2) the **trustees as a body**, and (3) the **dependent beneficiaries** — such that the Trust is restructured on my terms.
 
-## Sequence at a glance
+Not "win a declaration." Not "remove one man." Restructure the whole arrangement.
 
-The order of attack, read off the Action-sequence column above:
+## Why control, and why removal is not enough
 
-1. **Objective 6 — Sreemoolavasam (interim).** Fastest available relief (Month 2–6); the interim injunction goes first, then the lease set-aside, eviction and disgorgement run on once the accounts are in.
-2. **Objective 3 — Removal of D2.** Second, gated on the records-production order.
-3. **Objective 5 — Criminal accountability of D2.** Third–fourth; best raised once the contradictions are proven on the record.
-4. **Objective 4 — Criminal exposure of all trustees.** Fourth; needs the misappropriation element, which needs the records.
-5. **Objective 2 — Control / appointment as Managing Trustee.** Fifth, after D2 is removed and the foreign-domicile obstacle is resolved.
-6. **Objective 1 — Ownership / beneficiary releases.** Last — the payoff, powered by Objectives 3–6 once enough pressure has been built.
+Removing the Managing Trustee reaches **one** man. The objective is the **entire board** and the beneficiary class standing behind it. Any route that touches only D2 leaves the structure intact under the next trustee. The objective therefore requires an instrument that fixes **every trustee at once**.
 
-## The gate
+## The legal strategy: Order XI Rule 21
 
-The single recurring dependency across the plan is the **records / accounts production order** (IA 6/2026). It supplies the misappropriation element that Objectives 3, 4 and 6 all turn on, and those in turn power Objectives 2 and 1. Everything downstream waits on production; accelerating it is the highest-leverage move.
+The trustees defend O.S. 214/2025 **collectively**. That is the opening. A struck defence under **Order XI Rule 21**:
 
+- fixes **all** of them, jointly, with the same on-record failure to account;
+- collapses their shared "no connection / dormant / no accounts" position across **every** connected matter simultaneously;
+- converts a contested suit into a won one — without their participation, on the strength of their own default.
+
+That collective, judicially-recorded failure is the **foundation** everything else rests on. No trust-law remedy, no negotiation, and no single-defendant order reaches all trustees together. **Rule 21 is the one legal objective. Everything else is subsequent to it.**
+
+## The secondary legal lever: criminal FIR registration
+
+Once the failure to account is judicially fixed, criminal exposure opens against the trustees **as a body** — not as individuals to be picked off, but collectively:
+
+- **breach of trust on common intention** — every trustee who sanctioned the collective "[D3] need not account" resolution;
+- **tacit approval of the physical attack** on the beneficiary;
+- **false sworn statements** — a reference under s.215 BNSS for the perjured "dormant / no accounts" stand.
+
+Criminal registration is what converts a civil win into real-world control. It is gated on Rule 21: the records and the on-record falsity come first; the FIRs follow.
+
+## How control is actually realized
+
+By **leverage**, not by adjudication. Rule 21 plus criminal exposure makes the trustees' position untenable and makes the dependent beneficiaries' interests unsafe to keep defending. Control is then taken **by consent** — releases, restructuring, resignations — because the alternative on the table is ruin. The decree is the threat; the settlement is the payoff.
+
+## The single dependency
+
+Everything above waits on one event: **getting to Rule 21.** At the strategic level, nothing else moves the needle, and nothing should be spent that does not bring that event closer. The execution of *how* we manufacture the conditions for it lives entirely in `tactics.md`.
+
+---
+
+*One guardrail, kept once and not repeated: the criminal levers must stay genuinely founded on the real events (the assault, the false affidavits, the 17-year failure to account). Grounded, they are leverage; ungrounded, they invite a counter that flips the pressure back. Build the record first — that is the whole point of the tactics.*
+
+*Strategic read of the record, not legal advice. The advocate on record makes the calls.*
