@@ -1,41 +1,46 @@
-Rejoinders to Defendants’ Objections (dated 19.06.2026)
-
-Court: Munsiff Court, Haripad — Suit: O.S. No. 214/2025 Applications: IA No. 5/2026 (status quo) and IA No. 6/2026 (discovery & production) Filed by: Plaintiff/ Petitioner, Anoop R. Madhavan (through POA A.G. Kishore)
-
-A. Rejoinder to the Objection in IA No. 5/2026 (Status Quo / Restraint)
-
-1. Save as expressly admitted below, every averment in the objection is denied.
-
-2. The lease by which, in the Defendants' own words, "trust property was leased out" (Deed No. 3237/2025) is dated 27.10.2025 — after this suit was instituted on 12.06.2025.
-
-3. A transfer of the very property in question, made during the pendency of the suit, is hit by Section 52 of the Transfer of Property Act, 1882. The lessee takes subject to the decree, bound whether impleaded or not (Thomson Press (India) Ltd. v. Nanak Builders, (2013) 5 SCC 397; Amit Kumar Shaw v. Farida Khatoon, (2005) 11 SCC 403).
-
-4. Such a transferee is no "necessary party," and non-joinder is no bar (Sarvinder Singh v. Dalip Singh, (1996) 5 SCC 539). In any event, the relief is sought against the respondent-trustees alone, not the lessee.
-
-5. The charge that the Plaintiff "purposefully suppressed" the lease is false. The lease (Deed No. 3237/2025) was executed by the Defendants during the pendency of this suit and concealed from this Court, surfacing only when the Defendants chose to disclose it.
-
-6. The Plaintiff, far from being "well aware," first learned of the venture from a public board advertising the commercial establishment, raised outside the property. The Plaintiff cannot suppress from the Court what the Defendants hid from the Court. The charge of suppression recoils upon its authors.
-
-7. The concealment is habitual. The 2nd Defendant swore on 16.02.2026 that all documents had been produced and none other existed; again on 18.05.2026, he placed the trust's records before this Court for evidence — neither occasion disclosing Amendment Deed No. 38/IV/2026. Yet the 19.06.2026 objection now relies on that very deed, never once placed before this Court. The Court is invited to read this as a pattern of concealment, not inadvertence.
-
-8. Concealment of material facts from the Court is fraud (S.P. Chengalvaraya Naidu v. Jagannath, (1994) 1 SCC 1). Fraud vitiates every act founded upon it (A.V. Papayya Sastry v. Govt. of A.P., (2007) 4 SCC 221). A party that has concealed its own dealings claims neither clean hands nor a balance of convenience.
-
-Rejoinder — Objection in IA No. 6/2026 (Discovery & Production)
-
-1. Save as expressly admitted, every averment is denied.
-
-2. The Defendants blow hot and cold — "produced all documents," yet sworn (16.02.2026; para 4 herein) that no accounts exist and documents are "not available." A party cannot approbate and reprobate (Nagubai Ammal v. B. Shama Rao, AIR 1956 SC 593).
-
-3. If accounts exist, produce them on oath; if none, that is an admitted breach of the Deed and Section 19, Indian Trusts Act, 1882. A trustee cannot plead his own default as an answer (Mrutunjay Pani v. Narmada Bala Sasmal, AIR 1961 SC 1353).
-
-4. A trustee withholding accounts within his control invites adverse inference (Gopal Krishnaji Ketkar v. Mohamed Haji Latif, AIR 1968 SC 1413).
-
-5. Para 5 admits a trustee renovated trust property from personal funds, the statement "not submitted to the trust." Yet Clauses 1–2 (page 4) of Deed No. 2/IV/2007 give the Managing Trustee "immediate control of the entire properties" and bind him to "maintain all records and accounts." Control and ignorance cannot coexist — the non-rendering is Ramesh Chandran's own breach.
-
-6. The 04.03.2026 closure rested "in light of the affidavit," not merits; IA No. 7/2026 exposes that affidavit as false. A closure on a false affidavit binds no one (S.P. Chengalvaraya Naidu v. Jagannath, (1994) 1 SCC 1), and Order XI Rules 12 & 14 CPC is barred by neither Section 11 nor Order II Rule 2. Objection rejected.
-
-
-
-Verified at __________ on this ____ day of __________ 2026 that the contents are true to the best of the deponent’s knowledge, information and belief.
-
-Deponent — A.G. Kishore (POA of the Plaintiff)
+# Objection in IA 5/2025 — Defendants' Objection
+ 
+> **Document:** Objection (counter) filed by the 1st & 2nd Defendants in IA 5/2025 in OS 214/2025, Munsiff Court, Harippad. Dated 19 June 2026.
+> **Nature:** True copy. Corrections applied at the filer's instruction: trust name normalized to **Alummoottil**; alias rendered as **Ramesh Chandran Channar**. All other non-standard spellings (e.g. *bonafide, misjointer, prima facia, irreparable lose, non joinder, what-so-ever, Tharavad/Tharavadu*) are left as written on the paper. **(Sd/-)** marks where the original is signed.
+ 
+---
+ 
+**BEFORE THE HONOURABLE MUNSIFF COURT, HARIPPAD**
+ 
+**OS NO. 214/2025**
+**IA 5/2025**
+ 
+Plaintiffs/ petitioner : Anoop R Madhavan
+Defendants/ respondents : Alummoottil Tharavad trust and 6 others
+ 
+Objection filed by 1st Defendant Alummoottil Tharavad Trust Reg. No.2/IV/2007, represented by its managing trustee Ramesh Chandran @ Ramesh Chandran Channar, 2nd defendant Ramesh Chandran in the above IA.
+ 
+1. The above suit and petition is false, vexatious and not maintainable either in law or on facts. It lacks bonafide and filed as an experimental one.
+2. These respondents deny all averments and allegations in the accompanying affidavit except those that are specifically admitted hereunder.
+3. The first prayer in this petition is that *"to maintain strict status quo in respect of Alummoottil Tharavadu property and restraining from commencing any commercial venture there till IA.2/2025, IA.5/2025 and IA.9/2025 in OS 214/2025 are heard and disposed off"*. This prayer in the petitions is actually infructuous as IA 2/2025, 5/2025 and 9/2025 in OS 214/2025 were heard and duly disposed off on 04/03/2026. By virtue of lease deed No.3237/2025 dated 27/10/2025 trust property was leased out to Sreemoolavasam wellness and leisure retreats private Ltd; 510, Hiliteplatino, opposite tribute royale, Marad P.O Cochin. 682304. They have already inaugurated their business activities in the leased property. Considering the prayer stated in this petition Sreemoolavasam Wellness and leisure retreats private Ltd;(Lessee of the property) is also a necessary party to this petition. Plaintiff purposefully suppressed this fact before the Hon'ble court.
+4. There are five trustees in Alummoottil Tharavad trust. Considering the nature of the petition and relief claimed all the trustees must be made party to the petition. So the suit and petition are barred by non joinder of necessary parties.
+5. The respondents 5,6,7 are no way connected to Alummoottil Trust. 5th respondent was supervisor appointed by contractor for doing contract works and he executed his work much earlier. 6th & 7th respondents are the office bearers of nearby Sree Rama Krishna Asramam managed by SNDP Branch. They are not at all connected to the Alummoottil Tharavad Trust or its administration. Hence these parties are not necessary party to the suit and petition. So this petition is barred by misjointer of parties.
+6. The averment stated in the 2, 3 &4 para of the affidavit is false hence denied. The plaintiff is not a beneficiary of Alummoottil Tharavad Trust. The amended deeds No. 66/IV/2022, 17/IV/2024, 38/IV/2026 and resolutions taken by Alummoottil Tharavad Trust meeting are valid, legal and binding on Tharavad and Trust properties. As per the resolution taken on the Alummoottil Tharavad Trust meeting held on 22/12/2023, the five trustees can nominate only one of his descendants/ legal heirs as beneficiary. On the basis of above resolution only the nominated persons are the beneficiary. As the plaintiff was not nominated by any trustee, he is not a beneficiary in Alummoottil Tharavad trust. Hence, he cannot claim any right against the trust or its properties.
+7. Averments stated in para 5 of affidavit is not true. 2nd defendant has produced all documents such as the trust deeds, amended deeds, copy of resolution, minutes book, Bank account statements and lease agreement before the Hon'ble court.
+8. The allegation stated in para no.6 of the affidavit is the absolutely false. There was no wildlife artefacts in Alummoottil Meda.
+9. Para no.7 is not correct IA 2/2025, 5/2025,9/2025 filed by the plaintiff were closed by this hon'ble court on 04/03/2026.
+10. The allegation stated in para no.8 of the affidavit is not true. Plaintiff is well aware that Alummoottil Tharavad trust leased out trust properties to Sreemoolavasam Wellness and leisure retreats private Ltd; on the basis of lease deed No.3237/2025 dated 27/10/2025. Now lessee is conducting business in the leased property.
+11. The averments stated in para no.9 of affidavit is false. Lessee already started commercial venture in the trust property. The Lessee has got full right to use the leased property on the basis of lease agreement. There is specific condition in the lease agreement that Lessee shall not make any additions, alterations or improvements in the trust building of permanent nature and Lessee is entitled and permitted to use the said property only for its wellness and leisure retreat befitting its profile and protecting its legacy and heritage purpose.
+12. The averments stated in para no.10 of affidavit is false. Plaintiff in this case has no prima facia case against defendants. Balance of convenience in this case is in favour of defendants. Granting of status quo will cause irreparable lose and hardship to defendants.
+13. Petitioner is not entitled to get any relief as prayed in the petition.
+Hence, it is humbly prayed that this Hon'ble court to may be pleased to dismissed this petition with cost.
+ 
+Dated this the 19th day of June 2026.
+ 
+1st respondent : Alummoottil Tharavad Trust represented by its managing trustee Ramesh Chandran @ Ramesh Chandran Channar — (Sd/-)
+2nd respondent : Ramesh Chandran — (Sd/-)
+Advocate : G. Shimuraj — (Sd/-)
+ 
+*This objection contains 1 to 13 paragraphs excluding the cause title, relief column. I, Ramesh Chandran @ Ramesh Chandran Channar (Defendants) verify this written statement on my knowledge and upon information received and I believe all those to be true and correct.*
+ 
+1st respondent : Alummoottil Tharavad Trust represented by its managing trustee Ramesh Chandran @ Ramesh Chandran Channar — (Sd/-)
+2nd respondent: Ramesh Chandran — (Sd/-)
+Advocate : G. Shimuraj — (Sd/-)
+ 
+True Copy.
+ 
