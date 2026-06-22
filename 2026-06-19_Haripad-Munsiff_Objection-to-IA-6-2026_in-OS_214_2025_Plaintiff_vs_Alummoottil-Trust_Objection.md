@@ -1,5 +1,6 @@
-# Objection in IA 6/2025 — Defendants' Objection
- 
+# Objection in IA 6/2026 — Defendants' Objection
+
+> **Mistake in Title:** The objection is raised against "IA6/2025" and this is their mistake, it must be against IA6/2026. 
 > **Document:** Objection (counter) filed by the 1st & 2nd Defendants in IA 6/2025 in OS 214/2025, Munsiff Court, Harippad. Dated 19 June 2026.
 > **Nature:** True copy. Corrections applied at the filer's instruction: trust name normalized to **Alummoottil**; alias rendered as **Ramesh Chandran Channar**. All other non-standard spellings (e.g. *bonafide, what-so-ever, Tharavad*) are left as written on the paper. **(Sd/-)** marks where the original is signed.
 > **Note:** On the scan, the left-margin numbers for paragraphs 2–4 were cut off; they are supplied here, consistent with the verification clause stating the objection runs to 9 paragraphs.
