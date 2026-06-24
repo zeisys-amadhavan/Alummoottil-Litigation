@@ -1,4 +1,4 @@
-# 24/01/2026 Trustee Meeting Minutes — Minutes Book Pages 15–21
+# Meeting Minutes — Minutes Book Pages 15–21
 
 ## Minutes Book Page 15
 
