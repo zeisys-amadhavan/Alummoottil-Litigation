@@ -1,14 +1,6 @@
-# 24/01/2026 Handwritten Trustee Meeting Minutes - Corrected Enhanced Transcription
+# 24/01/2026 Trustee Meeting Minutes — Minutes Book Pages 15–21
 
-**Source:** `20260124-Meeting-MInutes.pdf`  
-**Document type:** Handwritten meeting minutes, 7 scanned pages.  
-**Transcription method:** Visual transcription from the enhanced scan supplied by user. User-supplied corrections Q001-Q020 and later corrections for OS 214/25 and Faisal Kreative Academy are incorporated. Remaining doubtful words are marked in square brackets.
-
-> Note: This is a faithful searchable transcription of the handwritten record as visible from the enhanced scan. Spelling, capitalization, punctuation, grammar, and apparent mistakes are preserved as far as readable.
-
----
-
-## Page 1 / manuscript page 15
+## Minutes Book Page 15
 
 Meeting held on 24.1.2026 at Alummoottil Tharavad.
 
@@ -41,7 +33,7 @@ Managing Trustee informed the members that this was done by me along with Mrs. J
 
 ---
 
-## Page 2 / manuscript page 16
+## Minutes Book Page 16
 
 (h) INTERSITE HOLIDAYS PVT LTD.  
 (i) CHINGOLI AYURVEDA HOSPITAL AND RESEARCH CENTRE
@@ -66,7 +58,7 @@ The following lease agreements were made as follows:
 
 ---
 
-## Page 3 / manuscript page 17
+## Minutes Book Page 17
 
 (d) 11 months agreement for Rs 25,000/month for Staff Quarters.
 
@@ -84,7 +76,7 @@ The Managing Trustee informed that in order to complete the present works and ad
 
 ---
 
-## Page 4 / manuscript page 18
+## Minutes Book Page 18
 
 Mr. Sivadasan Channar had agreed to provide immediately Rs 30,00,000/-. The balance amount of Rs 45,00,000/- (Approximate) has to be taken as loan from other sources.
 
@@ -98,7 +90,7 @@ Resolved to appoint Sri Rajeeva Pai, Managing Partner, S R Pai & Co., Chartered 
 
 ---
 
-## Page 5 / manuscript page 19
+## Minutes Book Page 19
 
 ### 4. Amount deposited / loan by the members till date to Sivadasan Channar's personal account
 
@@ -126,7 +118,7 @@ Resolved to hand over to the tenant, old furniture items and utensils after rest
 
 ---
 
-## Page 6 / manuscript page 20
+## Minutes Book Page 20
 
 and photographs also are allowed to be exhibited in the buildings. The antique items handed over to them will be evaluated and will be exhibited. Inventorying the furniture and antique items will be prepared and kept as records. The balance items will be kept under safe custody of the Trust.
 
@@ -138,7 +130,7 @@ All the trustees complained that Plaintiff Mr. Anoop R. Madhavan, son of Trustee
 
 ---
 
-## Page 7 / manuscript page 21
+## Minutes Book Page 21
 
 agreed to concerns expressed by other trustees and he willingly accepted to take legal steps in this regard immediately. Mr. Anoop R's social media threats and tarnishing action has to be blocked and for this, job is identified and entrusted to Faisal Kreative Academy, Rs. 2.1 Lac from Managing Trustee.
 
@@ -165,14 +157,3 @@ It was also resolved that 4/5 majority is only required for further amendments t
 - Udayabhanu Channar
 - Radhakrishnan M
 - C.K. Gita
-
----
-
-# Important transcription notes (NOT PART OF DOCUMENT)
-
-1. **Critical Page 3 line is now clear:** the handwritten minutes say the Managing Trustee's action was in line with the resolution taken on **21/8/2025** "to select and enter into lease agreements and business Collaboration and MOA with Sreemoolavasam Wellness & Leisure Retreats."
-2. **Commercial terms date is clear:** "with effect from **1/3/2026**."
-3. **Loan amount mismatch is visible:** Page 3 says Rs **73,25,000/-** is required; Page 4 says Sivadasan agreed to provide Rs **30,00,000/-**; Page 4 then states balance as Rs **45,00,000/- (Approximate)** and resolves to borrow Rs **45,00,000/-**.
-4. **Amendment majority is now clear:** Page 7 says **4/5 majority**, not 1/5.
-5. **User-confirmed corrections applied:** Page 6 third case number is **OS 214/25**. Page 7 reference is **Faisal Kreative Academy, Rs. 2.1 Lac from Managing Trustee**, not Faisal Kakkat / Advocate.
-6. **Case-number note:** the second case number is transcribed as **OS 243/23** because that is how the handwriting appears in this scan. If the actual suit is O.S. 243/2024, this may be a factual/date error in the minutes rather than a transcription error.
