@@ -1,3 +1,4 @@
+```
 THE INDIAN TRUSTS ACT, 1882
 __________
 ARRANGEMENT OF SECTIONS
@@ -1070,3 +1071,4 @@ ____________
 2. Rep.
 3. The figures “39, and” by implication the word “and”, rep. by Act 12 of 1891, s. 2 and the First Sch.
 24
+```
