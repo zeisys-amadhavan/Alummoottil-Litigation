@@ -44,10 +44,57 @@
 | **Ramesh Chandran M. — Re.Sy. No.** | **219/5** — 2.05 ares, Purayidam (ReLIS 26-07-2024), **co-listed with Saradamani Channatty** (D/o Chellamma Channatty). Ramesh shown as "Rameshchandran, S/o Madhava Panicker," addr. Alummoottil. **[TO CONFIRM]** whether 219/5 is purely personal or a Nelpura-source / Saradamani-branch parcel — do not treat as clean personal holding until clarified. |
 | **Ramesh Chandran M. — sole parcels** | Three further parcels in his **sole** name (ReLIS 26-07-2024, "Ramesh Chandran Channar, S/o Madhava Panicker," addr. Alummoottil, Cheppad): **219/20** — 18.00 ares, **Nilam**, BTR; **219/25** — 7.95 ares, Purayidam, *PokkuVaravu (mutation) entry*; **219/26** — 9.98 ares, Purayidam, *PokkuVaravu (mutation) entry*. **Combined sole holding ≈ 35.93 ares** (plus 219/5 co-held). Recorded factually — D2 is Managing Trustee; the scale/adjacency of his personal land is noted, no inference drawn. |
 | Other Re.Sy. Sub-division Nos. | **[TO COLLECT — via EC, Thandapper 16961]** (any further parcels beyond 219/4, 219/5, 219/20, 219/25, 219/26) |
-| Building / Door No. | **[TO COLLECT]** |
-| Sanchaya Building ID | **[TO COLLECT]** |
+| Building / Door No. | **Residence = Kakkanad, see §2A** (Building ID 31245010055748, owner M Ramesh Chandran). Any structure on the *Cheppad* parcels (219/20/25/26): **[TO COLLECT]** |
+| Sanchaya / K-SMART Building ID | Kakkanad residence **31245010055748** (§2A); Cheppad: **[TO COLLECT]** |
 
 > **Boundary corroboration:** Deed 299 recites the Trust plot's western boundary as "Ramesh Chandran M. & Jiji Ramesh" — consistent with 219/4 (Jiji) and 219/5 (Ramesh) lying adjacent. Recorded as corroborative; not asserted as a complete map of their personal holdings.
+
+### 2A. Ramesh Chandran M. — KAKKANAD RESIDENCE (building record, LSGD / K-SMART — Register C)
+
+> **NON-Trust. This is his Ernakulam residence (the KYC address in the Parties file), a different property from his Cheppad land above.** Building register only — door/owner/plinth. The **land** under it (survey number, holder of record) is a separate, not-yet-done pull (Bhunaksha at the Kakkanad pin → ReLIS). "His house at this door" ≠ "his land" until the cadastre joins them.
+
+**CONFIRMED building record (K-SMART Quick Pay, pulled 26-06-2026):**
+
+| Field | Value |
+|---|---|
+| **Building ID** | **31245010055748** ← *permanent handle; invariant across all ward-years — use this to search in any year* |
+| Owner Name | **M RAMESH CHANDRAN** (note the "M" initial — matches "Ramesh Chandran **M.**", D2) |
+| House Name | **Alummoottil** (K-SMART shows masked `A·········L`, 11 chars, first A / last L — fits ALUMMOOTTIL; full string inferred, [TO CONFIRM] exact spelling) |
+| District | Ernakulam |
+| Local Body | **Thrikkakara** (Municipality) |
+| Local Place | Not Available |
+| Category of Use | **Residential** |
+| Total Plinth Area | **200 sqm** (~2,150 sq ft — a real family house) |
+| Zonal Office | Main Office |
+| Mobile Number | (blank) |
+| Tax Due | ₹1,700.00 · **Annual Tax** ₹1,700 · 2026-2027 First Half: Property Tax ₹739 + Library Cess ₹37 (half ₹850) |
+
+**Ward-year mappings (the ward number CHANGES every delimitation — match by Building ID or locality, not number):**
+
+| Ward Year | Ward No / Name | Door No |
+|---|---|---|
+| **1993** | **Ward 11 / PADAMUGAL** | **738** ← *= the deed address "T.M. XI/738" (XI = 11 = Padamugal in the 1993 layout)* |
+| **2013** (current assessment) | **Ward 24 / T.V. CENTRE** | **30** |
+| **2025** (48-ward redraw) | **[TO CONFIRM]** — not captured; K-SMART ward dropdown lists that year's wards, pick T.V. Centre / Padamugal locality | TBD |
+
+**Deed / KYC address (Parties file §D2):** Door No. **T.M. XI/738**, **Alummootil House**, Kakkanad P.O., Kara & Village, Kanayannur Taluk, Ernakulam – 682030. *(T.M. = Thrikkakara Municipality; "XI/738" = 1993 Ward 11 Padamugal, door 738 — reconciled above.)*
+
+**Location:** Google pin **10.015373, 76.337135** = **UTM 43N E ≈ 646,540 · N ≈ 1,107,444** (live Bhunaksha readout seen: 646,539.10 / 1,107,443.71; the pin and readout sit ~36 m apart, NNW).
+
+**⚠️ NAMESAKE — do NOT confuse (a different Ramesh Chandran):** Building ID **31245010022101**, owner "RAMESH CHANDRAN" (no "M"), house `G·······A` (NOT Alummoottil), **Ward 4 / Thrikkakara, door 124**, plinth **29 sqm**, tax due ₹141. Rejected as a different person — house name, door, ward, and plinth all mismatch.
+
+**K-SMART search keys, in order of reliability:** (1) **Building ID 31245010055748** (never changes); (2) **Ward Year 2013 → Ward 24 (T.V. Centre) → door 30**; (3) owner **M Ramesh Chandran** + house **Alummoottil** as confirmers within a ward.
+
+**Caveats:** (a) the **land** under this residence is still [TO COLLECT] — Bhunaksha at the Kakkanad pin → ReLIS for survey no. + holder of record, kept separate from this building record; (b) the **printed-PDF coordinate offset (−6,390,000 / −2,837,196) is Trivandrum-derived and UNVERIFIED for Ernakulam** — re-check with one tiepoint before converting any Kakkanad Land Parcel Map corners (the live cursor UTM readout is fine).
+
+<details><summary><strong>Reference — Thrikkakara Municipality full ward roster (2013/2015/2020 layout, 43 wards — identical across these three; verified from LSGD LSGI-2015 & 2020 records)</strong></summary>
+
+1 Marottichuvadu · 2 BM Nagar · 3 Thoppil · **4 Thrikkakara** · 5 Kollamkudimugal · 6 Navodhaya · 7 Vallyattumugal · 8 Thengode · 9 Edachira · 10 Kalathikuzhy · **11 Nilampathinjimugal** · 12 Kuzhikkattumoola · 13 Athani · 14 Mavelipuram · 15 Kakkanad Health Centre · 16 Kakkanad · 17 Chittethukara · 18 Kannankeri · 19 Thuthiyoor · 20 Kunnathuchira · 21 Palachuvadu · 22 Thanapadam · 23 Kambiveli · **24 T.V. Centre** · 25 Olikkuzhy · **26 Padamugal** · 27 NGO Quarters · 28 Kunneparambu · 29 Vazhakkala East · 30 Vazhakkala West · 31 Snehanilayam · 32 Kunneparambu West · 33 Cherumuttapuzhakkara · 34 Desiyakavala · 35 Housing Board Colony · 36 Kudilimukku · 37 Maleppally · 38 Krimakkadu · 39 Model Engineering College · 40 Sahakarana Road · 41 Thoppil South · 42 Mambilliparambu · 43 Kennedi Mukku.
+
+*Note:* in the **1993** layout the numbering differed (Ward 11 = Padamugal then; Ward 11 = Nilampathinjimugal in 2013/2015/2020). The **2025** redraw expanded to **48 wards** — roster not yet captured. Thrikkakara Municipality covers two revenue villages: **Kakkanad** and **Vazhakkala** (Kanayannur Taluk). This residence is on the **Kakkanad** side.
+</details>
+
+
 
 ---
 

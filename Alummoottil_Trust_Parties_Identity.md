@@ -39,6 +39,7 @@
 | Father | late T.K. Madhavan alias Madhava Panicker |
 | Occupation | Retired Engineer |
 | Address | Door No. T.M. XI/738, Alummootil House, Kakkanad P.O., Kara & Village, Kanayannur Taluk, Ernakulam – 682030 |
+| Residence building record | **K-SMART Building ID 31245010055748** (Thrikkakara Municipality, Residential, 200 sqm; owner "M Ramesh Chandran," house "Alummoottil"). Ward mapping: **1993 → Ward 11 Padamugal, door 738** (= "T.M. XI/738") · **2013 → Ward 24 T.V. Centre, door 30** · **2025 → TBD**. Pin 10.015373, 76.337135. Full record: Personal Property §2A. |
 
 ### D3 — Sivadasan Madhavan Channar (alias Alummoottil Madhavan Sivadasan Channar)
 | Field | Value |
