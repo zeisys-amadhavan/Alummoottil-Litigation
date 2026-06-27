@@ -165,3 +165,47 @@
 - [ ] **Building records:** Nelpura — Building ID, name it stands in, tax
 - [ ] **Building records:** confirm Nelpura is distinct from any other structure
 - [ ] EC (Thandapper 16961) — to map adjoining personal parcels (kept in Personal Property register)
+
+---
+
+## APPENDIX — KERALA LAND-RECORDS PORTAL KNOWLEDGE BASE ("what gets you what")
+
+> **Purpose:** so we never re-discover the wheel. Five separate government systems, three different departments, three different registers. **No single portal answers "who owns this."** Each holds one slice; the answer comes from chaining them. Records are deliberately split — Survey (where/what), Revenue (holder of record + tax), Registration (the deed). Keep them in their own columns.
+
+### The five portals at a glance
+
+| # | Portal (URL) | Department | What it authoritatively holds | Search by | Gets you | CANNOT give |
+|---|---|---|---|---|---|---|
+| 1 | **Bhunaksha / eMaps** — emaps.kerala.gov.in/bhunaksha/kl/homenew.html | Survey & Land Records | Digital **resurvey** cadastral map (parcel polygons) | Click a point on the map, **or** Block/Survey/SubDiv dropdowns | **Resurvey survey number from a location** (or v.v.); parcel sketch (Land Parcel Map PDF) with area, 12 corner coords, neighbours; live coordinate readout | Ownership ("Owner details: null"); **old** survey number |
+| 2 | **ReLIS** — revenue.kerala.gov.in | Revenue (Land Revenue) | **Land holder of record**, current area, land tax, Thandaper, mutation | **Resurvey survey number** OR **Thandaper (TP) no** — *not name* | Holder-of-record name + address, Current TP no, Current Area (Hect/Are/Sqmt), tax dues/paid, mutation (Pokkuvaravu) & transaction history | **Name search**; pre-digitisation transfers; old survey no. |
+| 3 | **Pearl** — pearl.registration.kerala.gov.in | Registration (IGR) | **Registered deeds**, Encumbrance Certificates, certified copies | EC = property (survey no + **boundaries**, usually **OLD** survey no); certified copy = document no/year | **The deed** — who conveyed to whom, when, consideration, **old survey no. on its face**; encumbrances | Clean **name-only** search online (that's an SRO-counter job); resurvey-number EC won't find old deeds |
+| 4 | **Ente Bhoomi (survey)** — survey.entebhoomi.kerala.gov.in/portal/home/citizen/map | Survey & Land Records (digital survey) | Old + resurvey **registers and maps**, on request | District/Taluk/Village + Block/Survey + Survey Type, pick a Document Type | **OLD survey number** (Correlation Statement); old holder/extent (Land Register); Settlement Register, Area List, BTR, FMB/measurement sketches, Taluk/Block/Village/District maps | Instant results — it's a **request** (application no., takes days–weeks) |
+| 5 | **K-SMART** — ksmart.lsgkerala.gov.in (Property Tax → Quick Pay) | LSGD (Local Self Govt) | **Building** tax / building register (current LSGD system; successor/parallel to **Sanchaya**, sanchaya.lsgkerala.gov.in) | Door number / Building ID / ward | **Building owner of record**, Building ID, door no., plinth, building tax | Land ownership; survey number |
+
+### Which portal = which register (the three-register discipline)
+- **Register A — Land/Survey (where & what):** Bhunaksha/eMaps (map + resurvey no.) and Ente Bhoomi (old no. + old registers/maps). Survey Dept.
+- **Register B — Settlement/Transaction (the deed):** Pearl (EC, deeds, certified copies). Registration Dept.
+- **Register C — Building (door & structure):** K-SMART / Sanchaya. LSGD.
+- **Holder-of-record + tax** sits in **ReLIS** (Revenue) — the bridge between A and the tax rolls, keyed to Thandaper.
+
+### The cross-portal workflow we actually used (location → deed)
+Start with a **person + a building** (name + door/locality):
+1. **K-SMART / Sanchaya** → confirm **building owner + door no. + Building ID** (Register C). *(e.g. Udayabhanu, door 93/1693, clinic Building ID …198591.)*
+2. **Field/Google** → the building's **lat/long**.
+3. **Bhunaksha/eMaps** → navigate to that location, **click the parcel** → **resurvey survey number** + Land Parcel Map PDF + coordinates. *(→ Petta Block 78 / Re.Sy 86/86.)*
+4. **ReLIS → Tax Dues/Ownership** → enter the resurvey survey no. → **land holder of record + Thandaper + area**. *(→ Sankaralingam, TP 8107, 376 sq.m.)*
+5. **ReLIS → Pokkuvaravu / Transaction Reports** → mutation / transfer trail. *(→ none = consistent with unmutated pre-digitisation purchase.)*
+6. **Ente Bhoomi → Correlation Statement** → the **OLD survey number** for the resurvey parcel (+ **Land Register** for old holder/extent). *(→ request DP00013724, pending.)*
+7. **Pearl → EC on the OLD number**, or **SRO name-index → certified copy** → **the deed**: who conveyed to whom, when. *(The only record of a 1970s transfer.)*
+
+### Dead-ends & gotchas already discovered (don't re-test these)
+- **No public "resurvey → old survey" lookup exists.** Get the old number from Ente Bhoomi **Correlation Statement**, the Petta **Village Office**, or off the **deed**. (Relationship is often many-to-many; one old survey may split into several resurvey numbers.)
+- **ReLIS is not name-searchable** — only resurvey survey no. or Thandaper. To go from a *name*, you need the SRO **Book-1 name index** (counter).
+- **EC must use the OLD survey number, not the resurvey number.** A pre-resurvey (e.g. 1970s) deed is filed under the old number; an EC keyed to the resurvey number won't surface it.
+- **"No Records Found" ≠ it never happened.** Both ReLIS and Pearl only show what was *updated/paid/registered through the system*; pre-digitisation acts are absent by design. Disclaimer is literal.
+- **Three owners can legitimately differ:** building owner (LSGD) ≠ land holder of record (Revenue) ≠ titleholder per deed (Registration). The *gap* between them is evidence, not error.
+- **Bhunaksha Land Parcel Map corner coordinates are a LOCAL grid, not UTM.** Convert: **local − (6,390,000 E, 2,837,196 N) → UTM 43N (EPSG:32643) → WGS84.** The live map cursor readout, by contrast, is already UTM 43N. (Full method: Personal Property §3A-GEO.)
+- **Sanchaya/K-SMART ward numbers shift between delimitation years** — the same locality is a different ward number in 2011 vs 2025. Match by locality, not ward number.
+- **Possession/Location Certificate (eDistrict, Form 12C)** carries old survey + resurvey + Thandaper together — but it's **issued to the person in possession**, so an opposing party cannot pull someone else's. (Use only for one's own land.)
+- **e-Rekha = Survey/maps**, **Pearl = EC/registration** — the EC is *not* on e-Rekha. Don't confuse them.
+- In **active litigation**, the cleanest route to an opponent's title/land records is the **court calling for the records** (or an Advocate Commissioner) — more authoritative than scraping portals.

@@ -190,6 +190,15 @@
 | ReLIS land record | **Re.Sy. 219/12**, Block 13, Cheppad — 17.00 ares, Nilam, recorded as "Darsana Gopinath, D/o Saradamani Channatty," addr. Alummoottil (ReLIS 26-07-2024). Adjoins pathway on S (cf. pathway deed S-boundary). *Non-Trust; logged in Personal Property §4.* |
 | Trust transactions | Gift Deed 1481/2021 (Saradamani heirs' 2/3 of Nelpura → 5 brothers), as co-donor with Beena Gopinath |
 
+### Sankaralingam Nambi Narayanan (ശങ്കരലിംഗം നമ്പി നാരായണൻ) — land holder of record under M. Udayabhanu's Trivandrum clinic
+
+| Field | Detail |
+|---|---|
+| Significance | **ReLIS holder of record** for the parcel under Udayabhanu's dental-clinic/home compound — **Petta · Block 78 · Re.Sy 86/86** (TP **8107**, 376 sq.m). The **building** stands in Udayabhanu's name (Sanchaya); the **land** stands in this name. Same ground, two registers, two names — see Personal Property §3A-GEO. |
+| Address (ReLIS) | TC.30/804, Chembakassery Housing Colony, Perunthanni, Palkulangara, Thiruvananthapuram |
+| Status | **[TO CONFIRM]** — likely a prior holder from whom Udayabhanu purchased (per user, ~1970s), with the revenue mutation never done; OR an unrelated third party. Verify against the deed (SRO name-index / EC on the OLD survey number). |
+| Caution | **"TC.30" prefix is the Thiruvananthapuram Corporation city-wide door prefix — NOT a link** to Udayabhanu's TC.30/1394 (different locality: Perunthanni/Palkulangara vs Pettah/Moonnumukku). Earlier "TC.30 connection" retracted. |
+
 ---
 
 ## 5. PROFESSIONALS / WITNESSES / OFFICIALS
