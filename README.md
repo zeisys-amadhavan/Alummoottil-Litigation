@@ -1,6 +1,6 @@
 # O.S. 214/2025 — Case at a Glance
 
-## Why
+## WHY
 
 | Grievance | Detail |
 |---|---|
@@ -17,7 +17,7 @@
 | **Self-dealing — trust as fiefdom** | D2 and D4 acquired land abutting the Meda for personal control — a conflict of interest (ss.51, 66). |
 | **Relief — removal sought** | The Plaintiff seeks D2's removal as Managing Trustee and enforceable beneficiary rights to the Meda, Nalukettu and Nelpura. |
 
-## Who
+## WHO
 
 | Party | Role |
 |---|---|
@@ -32,7 +32,7 @@
 | **D6 — V. Nandakumar** | Secretary of the SNDP; no relation to the family or trust. Took part in the 09.08.2024 attack on the Plaintiff. |
 | **D7 — B. Nadarajan** | President of the SNDP; no relation to the family or trust. Took part in the 09.08.2024 attack on the Plaintiff. |
 
-## When
+## WHEN
 
 | Date | Event |
 |---|---|
@@ -67,7 +67,7 @@
 | **12.06.2026 — Objection and hearing** | All parties represented; IA 5/2026 and 6/2026 taken up; adjourned to 20.06.2026. |
 | **20.06.2026 — Settlement window opened** | Hearing on IA 5/26 and 6/26; the opposite party asks the Munsiff for a settlement; the court grants time till 24.07.2026 to find one. |
 
-## Where
+## WHERE
 
 | Place | Significance |
 |---|---|
@@ -81,7 +81,7 @@
 | **Chetpet, Chennai** | Radhakrishnan M.'s residence (the Plaintiff's father). |
 | **Kakkanad, Ernakulam** | D2's residence (the Managing Trustee). |
 
-## What
+## WHAT
 
 | Document / Proceeding | Detail |
 |---|---|
