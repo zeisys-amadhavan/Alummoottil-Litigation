@@ -15,9 +15,10 @@
 | **Heirlooms — protected items missing** | A mounted bison skull and deer antlers vanished from the Meda under the defendants' custody — possibly taken abroad. |
 | **Accounts — 18 years, none** | D2 has never disclosed audited trust accounts (ss.19, 57, 59); trust funds were used to fund litigation against a beneficiary. |
 | **Self-dealing — trust as fiefdom** | D2 and D4 acquired land abutting the Meda for personal control — a conflict of interest (ss.51, 66). |
+| **False affidavit — perjury exposure** | D2 swore on 16.02.2026 that records were "not available," then produced them on 18.05.2026; grounds for adverse inference and a possible s.340 CrPC perjury reference (Contradictions Matrix). |
+| **Concealed venture — adverse inference** | A business venture (Sreemoolavasam) was run on the premises and concealed from the Court while records were sworn unavailable. |
+| **Clause 14 — deliberate conflation** | Clause 14 empowers the authors to nominate *trustees* only; it confers no power to nominate, redefine or exclude *beneficiaries*, whose class is fixed by the grant to the descendants of Chellamma Channathy — a genealogical fact, not trustee discretion. |
 | **Relief — removal sought** | The Plaintiff seeks D2's removal as Managing Trustee and enforceable beneficiary rights to the Meda, Nalukettu and Nelpura. |
-
----
 
 ## WHO
 
@@ -33,12 +34,12 @@
 | **D5 — Arun B. Unni** | Complainant in FIR 574/2024; poses as the Meda's construction supervisor — really a private contractor's worker for D3, with no authority over a beneficiary. Took part in the 09.08.2024 attack. |
 | **D6 — V. Nandakumar** | Secretary of the SNDP; no relation to the family or trust. Took part in the 09.08.2024 attack on the Plaintiff. |
 | **D7 — B. Nadarajan** | President of the SNDP; no relation to the family or trust. Took part in the 09.08.2024 attack on the Plaintiff. |
-
----
+| **Counsel (trial) — Adv. Thaha** | Plaintiff's counsel before the Munsiff Court, Haripad in O.S. 214/2025. |
+| **Counsel (HC) — Adv. Unnikrishnan V. Alapatt** | Plaintiff's counsel before the High Court in OP(C) 3278/2025 and the pending OP on IA 6/2026. |
 
 ## WHEN
 
-| Date | Event | Comment |
+| Date | Event (per court records) | Comment (analysis / case memory) |
 |---|---|---|
 | **04.01.2007** | — | Trust formed: Deed 2/IV/2007 registered at SRO Cheppad. |
 | **23.12.2023, 11:00 AM** | — | Meda inaugurated; Plaintiff lights the inaugural lamp, treated as family. |
@@ -87,10 +88,9 @@
 | **15.04.2026** | — | HC three-month deadline expires; documents still not produced. |
 | **18.05.2026** | "Plaintiff absent, represented. Submitted new vakalat filed by plaintiff. D1, 2, 4 to 7 represented. For objection and hearing IAs." Next: 28-05-2026. | Same day, D2 produces (via IA 7/2026) the lease, bank statement and Minutes Book — sworn unavailable on 16.02.2026 — after the HC deadline. |
 | **28.05.2026** | "Declared holiday. Notified to." Next: 12-06-2026. | No hearing. |
+| **02.06.2026** | — | Joint call with Adv. Thaha (trial) and Adv. Alapatt (HC): press IA 5/2026 and 6/2026, move for adverse inference, weigh a s.340 CrPC reference; HC to note the timeline violated by a false affidavit and press early disposal. |
 | **12.06.2026** | "Plaintiff represented. D1, 2, 4, 7, 5, 6 represented. For objection and hearing IA 5/2026, 6/2026." Next: 20-06-2026. | Hearing adjourned by a week. |
 | **20.06.2026** | "Plaintiff, D1, 2, 4, 5, 6, 7 represented. For hearing IA 5/26, 6/26." Next: 24-07-2026. | Per counsel: opposite party sought settlement; court granted till 24.07.2026 — no freeze on the lessee's operations meanwhile. |
-
----
 
 ## WHERE
 
@@ -105,8 +105,6 @@
 | **Washington DC, USA** | The Plaintiff's residence (USA-domiciled). |
 | **Chetpet, Chennai** | Radhakrishnan M.'s residence (the Plaintiff's father). |
 | **Kakkanad, Ernakulam** | D2's residence (the Managing Trustee). |
-
----
 
 ## WHAT
 
@@ -136,3 +134,15 @@
 | **IA 5/2026** | Block commercialization; filed 30.03.2026; restrain commercialization of the trust property pending suit. |
 | **IA 6/2026** | Discovery and production of accounts; filed 31.03.2026; O.S. 214/2025, under Order XI Rr. 12 & 14 CPC. |
 | **IA 7/2026** | D2's production of documents; 18.05.2026: D2 produces the lease, bank statement and minutes book — sworn unavailable earlier. (Yet to be numbered.) |
+| **Written statements — D1 & D4** | Filed 11.02.2026 per court record; D5–7's statements then under verification. |
+| **Attachments to D2's 16.02.2026 reply** | Documents annexed to the "dormant trust" counter-affidavit in IA 2, 5 & 9/2025. |
+| **Lease Deed 3237/2025** | Trust-to-Sreemoolavasam lease signed 27.10.2025 by D2; 10 years, 29.42 of 38.06 Ares; registered at non-jurisdictional Marad SRO; produced 18.05.2026. |
+| **GST Registration 32ABQCS9416G1Z1** | Sreemoolavasam's GST registration at the Trust address, effective 09.12.2025 — before trustee "ratification." |
+| **Minutes Book (original)** | Produced 18.05.2026; records 24.01.2026 resolutions: Rs. 11,45,85,900 construction + Rs. 54,00,000 land = Rs. 11,99,85,900 expenditure; Rs. 1,46,86,000 "debt" to D2, his son and contractor; resolution to "terminate" Plaintiff's beneficiary status. |
+| **Federal Bank statement** | A/c 13100200004482, Muttom branch, opened 28.05.2025; statement to 15.05.2026 produced 18.05.2026; balance ~Rs. 6,000. |
+| **Beneficiary nomination records** | Produced 18.05.2026; based on the 22.12.2023 resolution letting each trustee nominate one descendant — the device used to exclude the Plaintiff. |
+| **Trustee resolutions (copies)** | Produced 18.05.2026 with IA 7/2026, alongside the trust deeds and amended deeds. |
+| **Deed 38/IV/2026** | Third amendment deed, surfaced only via the Defendants' 19.06.2026 objection; never disclosed or produced; executed pendente lite — certified copy to be obtained from SRO Cheppad. |
+| **Objection to IA 5/2026** | D1–D2's objection, 19.06.2026: lease valid, lessee operating, Plaintiff "not a beneficiary." |
+| **Objection to IA 6/2026** | D1–D2's objection, 19.06.2026 (mis-titled IA 6/2025): claims all documents already produced; petition "repetitive." |
+| **Contradictions Matrix** | Working document mapping D2's inconsistent sworn statements; basis for adverse inference and a potential s.340 CrPC perjury reference. |
