@@ -34,59 +34,65 @@
 | **D6 — V. Nandakumar** | Secretary of the SNDP; no relation to the family or trust. Took part in the 09.08.2024 attack on the Plaintiff. |
 | **D7 — B. Nadarajan** | President of the SNDP; no relation to the family or trust. Took part in the 09.08.2024 attack on the Plaintiff. |
 
-## When
+---
 
-| Date | Event |
-|---|---|
-| **04.01.2007** | **Trust formed.** Deed 2/IV/2007, registered at SRO Cheppad. |
-| **23.12.2023, 11:00 AM** | **Meda inaugurated.** The Plaintiff lights the inaugural lamp, treated as family. |
-| **23.12.2023, 2:00 PM** | **Beneficiary meeting.** The Plaintiff takes part as a beneficiary. |
-| **06.03.2024** | **O.S. 84/2024 filed.** To restrain rights-defeating registration and obstruction. |
-| **09.08.2024, ~10:30 AM** | **Confrontation at the Meda.** D5–D7 attack the Plaintiff; no family or trust member present except him, who calls the police. |
-| **09.08.2024, 10:56 AM** | **Nabeer calls police.** The Plaintiff's childhood friend, on seeing him attacked; police attend 11:15 AM. |
-| **09.08.2024, 2:30 PM** | **Plaintiff seeks treatment.** Government Hospital, Haripad refers him to an orthopaedician; with none there till next day, he goes to Huda Trust Hospital, Haripad at 3:30 PM. |
-| **09.08.2024, 4:20 PM** | **Plaintiff's written complaint.** Filed at the station (receipt 15281021-2024-5-00770). |
-| **10.08.2024, 11:00 AM** | **Police mahazar at the Meda.** In front of the Meda with D5 noted present — though his 3:30 PM statement claimed he was hospitalised. Six hours before FIR 574/2024. |
-| **10.08.2024, 3:30 PM** | **D5's statement recorded.** Claiming hospitalisation; 1.5 hours before the FIR. |
-| **10.08.2024, 5:13 PM** | **FIR 574/2024 registered.** On D5's 4:15 PM verbal complaint. |
-| **21.09.2024** | **E-complaint closed, no FIR.** The refiled complaint (Thuna 15281021-2024-5-00825) is closed without an FIR; a complaint to the SP yields no report. |
-| **17.10.2024** | **CMP 2828/2024 filed.** By the Plaintiff, to implicate D2 and D3 in the attack. |
-| **18.10.2024** | **Surgery certificate issued.** Huda Trust Hospital's orthopaedic surgeon certifies the Plaintiff needs shoulder surgery. |
-| **05.12.2024** | **Third request rejected.** The Plaintiff's third written request for accounts and deeds, refused by D2. |
-| **17.12.2024** | **FIR 956/2024 registered.** On the Plaintiff's 09.08.2024 complaint — only after the CMO petition (G2241200251), four months later. |
-| **05.05.2025** | **Plaintiff's shoulder surgery.** Corrects the shoulder injury from the 09.08.2024 attack. |
-| **12.06.2025** | **Hearing.** Summons issued by registered post to defendants for settlement of issues; for return of summons. |
-| **12.06.2025** | **O.S. 214/2025 filed.** The Plaintiff's suit for a declaration of beneficiary rights. |
-| **29.07.2025** | **Hearing.** Plaintiff, D1, 2, 4–7 represented; repeat summons to D3 by substituted service; for vakalat and written statement. |
-| **07.08.2025** | **Health-care company formed.** Sreemoolavasam Wellness & Leisure Retreats Pvt. Ltd. |
-| **09.10.2025** | **IAs 2, 5 & 9/2025 filed.** To produce the original deeds, trust accounts and missing artefacts. |
-| **10.10.2025** | **Hearing.** For vakalat and written statement, last chance; take steps to D3, last chance. |
-| **27.10.2025** | **Trust property leased.** Leased to Sreemoolavasam (the new company); registered at the non-jurisdictional Marad SRO. |
-| **15.01.2026** | **HC sets a 3-month limit.** OP(C) 3278/2025: dispose IA 2, 5 & 9 of 2025 in three months. |
-| **21.01.2026** | **Hearing.** Steps against D3 not taken; suit dismissed against D3; for hearing IAs. |
-| **06.02.2026** | **Hearing — HC order received.** Case suo motu advanced; OP(C) 3278/2025 order of 15.01.2026 received: dispose IA 2, 5 & 9/2025 in 3 months. |
-| **07.02.2026** | **No hearing.** Munsiff on leave; notified to 09.02.2026. |
-| **09.02.2026** | **Hearing.** Plaintiff absent, unrepresented; IA copies found unserved on defendants; Plaintiff to serve and file memo. |
-| **10.02.2026** | **Hearing.** Plaintiff absent again; counsel directed to appear if interested in proceeding. |
-| **11.02.2026** | **Hearing.** D1 & D4 file written statements; verify D5–7's; for objection and hearing IA 2, 5 & 9/2025. |
-| **13.02.2026** | **Hearing.** For objection and hearing IA 2, 5 & 9/2025 — last chance. |
-| **16.02.2026** | **D2's joint reply.** In IA 2, 5 & 9 of 2025: documents "not available"; trust "dormant." |
-| **17.02.2026** | **No hearing.** Munsiff on training; notified to 19.02.2026. |
-| **18.02.2026** | **D5–D7's reply.** Filed in IA 2, 5 & 9 of 2025. |
-| **19.02.2026** | **No hearing.** Munsiff on training; notified to 20.02.2026. |
-| **20.02.2026** | **Hearing.** All parties represented; for hearing IA 2, 5 & 9/2025. |
-| **24.02.2026** | **Hearing.** For hearing IA 5, 9 & 2/2025. |
-| **27.02.2026** | **Hearing.** Both sides represented; for hearing IAs — last chance. |
-| **04.03.2026** | **IA 5/2025 closed.** D2 files affidavit in IA 2, 5 & 9/2025; petitions closed in light of the affidavit — no adjudication on merits. |
-| **09.03.2026** | **No hearing.** Munsiff attending a national conference at the Supreme Court; notified to 09.04.2026. |
-| **09.04.2026** | **No hearing.** Declared holiday; notified to 18.05.2026. |
-| **15.04.2026** | **HC time runs out.** The three-month deadline expires; documents still not produced. |
-| **18.05.2026** | **Hearing — documents produced.** Plaintiff represented (new vakalat submitted); D1, 2, 4–7 represented; D2 produces the documents sworn unavailable — after the HC deadline. For objection and hearing IAs. |
-| **28.05.2026** | **Hearing lost to holiday.** Declared holiday; "for objection and hearing" notified to 12.06.2026. |
-| **12.06.2026** | **Objection and hearing.** All parties represented; IA 5/2026 and 6/2026 taken up; adjourned to 20.06.2026. |
-| **20.06.2026** | **Settlement window opened.** Hearing on IA 5/26 and 6/26; the opposite party asks the Munsiff for a settlement; the court grants time till 24.07.2026 to find one. |
+## WHEN
 
-## Where
+| Date | Event | Comment |
+|---|---|---|
+| **04.01.2007** | — | Trust formed: Deed 2/IV/2007 registered at SRO Cheppad. |
+| **23.12.2023, 11:00 AM** | — | Meda inaugurated; Plaintiff lights the inaugural lamp, treated as family. |
+| **23.12.2023, 2:00 PM** | — | Plaintiff takes part in beneficiary meeting as a beneficiary. |
+| **06.03.2024** | — | O.S. 84/2024 filed to restrain rights-defeating registration and obstruction. |
+| **09.08.2024, ~10:30 AM** | — | Confrontation at the Meda; D5–D7 attack the Plaintiff; he calls the police. |
+| **09.08.2024, 10:56 AM** | — | Nabeer (childhood friend) calls police on seeing the attack; police attend 11:15 AM. |
+| **09.08.2024, 2:30 PM** | — | Plaintiff seeks treatment; Govt Hospital Haripad refers to orthopaedician; goes to Huda Trust Hospital 3:30 PM. |
+| **09.08.2024, 4:20 PM** | — | Plaintiff files written police complaint (receipt 15281021-2024-5-00770). |
+| **10.08.2024, 11:00 AM** | — | Police mahazar at the Meda with D5 noted present — though his 3:30 PM statement claimed hospitalisation. Six hours before FIR 574/2024. |
+| **10.08.2024, 3:30 PM** | — | D5's statement recorded claiming hospitalisation; 1.5 hours before the FIR. |
+| **10.08.2024, 5:13 PM** | — | FIR 574/2024 registered on D5's 4:15 PM verbal complaint. |
+| **21.09.2024** | — | E-complaint (Thuna 15281021-2024-5-00825) closed without FIR; SP complaint yields no report. |
+| **17.10.2024** | — | CMP 2828/2024 filed by Plaintiff to implicate D2 and D3 in the attack. |
+| **18.10.2024** | — | Huda Trust Hospital orthopaedic surgeon certifies Plaintiff needs shoulder surgery. |
+| **05.12.2024** | — | Plaintiff's third written request for accounts and deeds refused by D2. |
+| **17.12.2024** | — | FIR 956/2024 registered on Plaintiff's 09.08.2024 complaint — only after CMO petition (G2241200251), four months later. |
+| **05.05.2025** | — | Plaintiff's shoulder surgery corrects injury from the 09.08.2024 attack. |
+| **12.06.2025** | "Issue summons through registered post to defendants for settlement of issues. For return of summons." Next: 29-07-2025. | O.S. 214/2025 filed and admitted; suit for declaration of beneficiary rights begins. |
+| **29.07.2025** | "Plaintiff represented. D1, 2, 4 to 7 represented. Repeat summons to D3 by substituted service. For vakalat and written statement within time." Next: 10-10-2025. | Service on D3 (USA-domiciled) already slowing the suit. |
+| **07.08.2025** | — | Sreemoolavasam Wellness & Leisure Retreats Pvt. Ltd. incorporated. |
+| **09.10.2025** | — | IAs 2, 5 & 9/2025 filed: produce original deeds, trust accounts, missing artefacts. |
+| **10.10.2025** | "Plaintiff represented. D1, 2, 4 to 7 represented. For vakalat and written statement, last chance. Take steps to D3, last chance." Next: 21-01-2026. | Three-month adjournment granted despite "last chance" language. |
+| **27.10.2025** | — | Trust property leased to Sreemoolavasam; registered at non-jurisdictional Marad SRO — pendente lite. |
+| **15.01.2026** | — | HC in OP(C) 3278/2025 directs disposal of IA 2, 5 & 9/2025 within three months. |
+| **21.01.2026** | "Plaintiff, D1, 2, 4 to 7 represented. Steps against D3 not taken as directed. Suit dismissed against D3. For hearing IAs." Next: 06-02-2026. | Suit dismissed against D3. |
+| **06.02.2026** | "Case suo moto advanced. Order of Hon'ble High Court in OP(C) 3278/2025 dated 15.01.2026 received. This Court is directed to dispose of IA 2/2025, 5/2025, 9/2025 in 3 months. Call on." Next: 07-02-2026. | HC deadline formally on record; clock runs to 15.04.2026. |
+| **07.02.2026** | "Munsiff on leave. Notified to." Next: 09-02-2026. | No hearing. |
+| **09.02.2026** | "D1, 2, 4 represented. D5, 6 represented. Plaintiff absent, no representation. On perusing records, copies of IAs filed by plaintiff not seen served on defendants. Plaintiff to serve copy of IAs 02/2025 to 9/2025 on defendants and file memo without fail. Plaintiff to appear or have representation." Next: 10-02-2026. | Service defect noted against Plaintiff. |
+| **10.02.2026** | "D1, 2, D4, 5, 6, 7 represented. Plaintiff absent, no representation. Plaintiff absent repeatedly. Plaintiff counsel to appear, if plaintiff is interested in proceeding the matter." Next: 11-02-2026. | Court records Plaintiff-side absence. |
+| **11.02.2026** | "Plaintiff, D1, 2, 4, 5, 6, 7 represented. D1, 4 filed written statement. Verify written statement of D5, 6, 7. For objection and hearing IA 2/25, 5/25, 9/25." Next: 13-02-2026. | Written statements filed only now — eight months after suit. |
+| **13.02.2026** | "Plaintiff, D1, D2, 4, 5, 6, 7 represented. For objection and hearing IA 2/25, 5/25, 9/25. Last chance." Next: 17-02-2026. | Second "last chance." |
+| **16.02.2026** | — | D2's joint counter-affidavit in IA 2, 5 & 9/2025: documents "not available"; trust "dormant." |
+| **17.02.2026** | "Munsiff on training. Notified to." Next: 19-02-2026. | No hearing. |
+| **18.02.2026** | — | D5–D7's reply filed in IA 2, 5 & 9/2025. |
+| **19.02.2026** | "Munsiff on training. Notified to." Next: 20-02-2026. | No hearing. |
+| **20.02.2026** | "Plaintiff, D1, 2, 4, D5, 6, 7 represented. For hearing IA 2/2025, 5/2025, 9/2025." Next: 24-02-2026. | Hearing adjourned. |
+| **24.02.2026** | "Plaintiff, D1, 4, 5, 6, 7 represented. For hearing IA 5/2025, 9/2025, 2/2025." Next: 27-02-2026. | Hearing adjourned. |
+| **27.02.2026** | "Both sides represented. For hearing IAs, last chance." Next: 04-03-2026. | Third "last chance." |
+| **04.03.2026** | "D2, 3, D5, 6, 7 represented. Plaintiff absent represented. R2 filed affidavit in IA 2/2025, 5/2025, 9/2025. Petition closed in light of the affidavit. For hearing IAs." Next: 09-03-2026. | IAs closed on D2's affidavit alone — no adjudication of merits, no finding on the documents' existence. |
+| **09.03.2026** | "Munsiff is attending a national conference at the Hon'ble Supreme Court. Notified to." Next: 09-04-2026. | No hearing; one-month gap. |
+| **13.03.2026** | — | Plaintiff's rejoinder in IA 5/2025 filed, answering D2's reply — after the closure order. |
+| **30.03.2026** | — | IA 5/2026 filed: restrain commercialization of trust property pending suit. |
+| **31.03.2026** | — | IA 6/2026 filed: discovery and production under Order XI Rr. 12 & 14 CPC. |
+| **09.04.2026** | "Declared holiday. Notified to." Next: 18-05-2026. | No hearing; 5.5-week gap. |
+| **15.04.2026** | — | HC three-month deadline expires; documents still not produced. |
+| **18.05.2026** | "Plaintiff absent, represented. Submitted new vakalat filed by plaintiff. D1, 2, 4 to 7 represented. For objection and hearing IAs." Next: 28-05-2026. | Same day, D2 produces (via IA 7/2026) the lease, bank statement and Minutes Book — sworn unavailable on 16.02.2026 — after the HC deadline. |
+| **28.05.2026** | "Declared holiday. Notified to." Next: 12-06-2026. | No hearing. |
+| **12.06.2026** | "Plaintiff represented. D1, 2, 4, 7, 5, 6 represented. For objection and hearing IA 5/2026, 6/2026." Next: 20-06-2026. | Hearing adjourned by a week. |
+| **20.06.2026** | "Plaintiff, D1, 2, 4, 5, 6, 7 represented. For hearing IA 5/26, 6/26." Next: 24-07-2026. | Per counsel: opposite party sought settlement; court granted till 24.07.2026 — no freeze on the lessee's operations meanwhile. |
+
+---
+
+## WHERE
 
 | Place | Significance |
 |---|---|
@@ -100,7 +106,9 @@
 | **Chetpet, Chennai** | Radhakrishnan M.'s residence (the Plaintiff's father). |
 | **Kakkanad, Ernakulam** | D2's residence (the Managing Trustee). |
 
-## What
+---
+
+## WHAT
 
 | Document / Proceeding | Detail |
 |---|---|
