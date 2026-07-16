@@ -1,9 +1,4 @@
 **FINAL MATRIX for IRACs of IA6/2026
-Hostile pass on v10 found **two factual landmines, one legal error, and four precision leaks.** Fixed in v11 below.
-
-**The landmines:** (1) **F's "three irreconcilable figures" collapses under addition** — p.19 itself reconciles ₹93,86,000 = ₹90,00,000 + ₹2,16,000 + ₹1,42,000 + ₹28,000 (subtotal shown). Opposing counsel adds four lines and our cell dies. The *real* irreconcilable pair: ₹1,00,00,000 "loan **for his son**" (12.01.2024) vs ₹98,00,000 total attributed on p.19 (₹90L self + ₹8L son) — **₹2,00,000 vanished and the story flipped** from son's loan to self's expenditure. (2) **"D2 sole signatory" is false** — Minutes p.10: three signatories, MT jointly with one of two others. Corrected to "his own operating mandate" (custody argument survives intact). **The legal error:** A-II said "no decree restores class membership retroactively" — wrong: a void-ab-initio declaration restores status retroactively by definition. The true irreparability is the *lived* exclusion and accruing third-party equities. Also: the 06.02.2024 nominee-acceptance **predates** OS 84 — can't be called pendente lite; replaced with 22.12.2023.
-
-**MATRIX v11 — magnitude-first, post-hostile-pass**
 
 | IRAC | Prima facie | Fraud on court | Irreparable injury | Balance of convenience |
 |---|---|---|---|---|
