@@ -1,9 +1,5 @@
 # Lease Deed No. 3237/2025 — Alummoottil Tharavad Trust (Lessor) v. Sreemoolavasam Wellness and Leisure Retreats Private Limited (Lessee)
 
-**Source:** Scanned registered lease deed (DOCUMENT4_organized.pdf), 9 sheets, registered at Amalgamated Sub Registrar Office (Cheppad/Haripad), Sub Registrar Sunil Kumar. M, on 27th day of October 2025.
-
-**Verification note:** Transcribed from the scanned PDF. Wording preserved as visible in the scan; handwritten endorsements transcribed on a best-effort basis and marked as such. This is the ONLY rental/lease document produced before the court. Rent documented by registered instrument = Rs. 60,000/month (Meda only) = Rs. 7,20,000/year; total rent for the 10-year term stated in the deed itself as Rs. 72,00,000/- (cl. 22). The four "11-month agreements" and the 5% AGOP business-collaboration agreement referred to in the Minutes Book (24.01.2026, pp. 16–17) are NOT part of this deed and have NOT been produced.
-
 ---
 
 ## Registration / e-Stamp particulars (Page 1)
@@ -129,13 +125,3 @@ b) "After the said 10 years of Lease period, the Lessee shall vacate and surrend
 - Execution admitted by Madhavan Ramesh Chandran Channar *alias* Ramesh Chandran M (handwritten endorsement page); identified by (handwritten): "1) JIJI RAMESH, W/o Rameshchandran, Alummoottil House, Retd., Kakkanad, Ernakulam; 2) Vipin K.S. [sic — scan unclear], S/o K.K. Sreevilasan, Kalonipparambil (H), Clerk, Cheranalloor [scan unclear], Ernakulam"
 - Registration endorsement (handwritten): "Registered as No. 3237 of 2025 in Book I, Volume 13[4?] on pages from 237 to 250, 9 sheets 2 sheets [sic]. Sunil Kumar. M, Amalgamated Sub Registrar" — dated 27th October 2025. Fee endorsement (best effort): "Fee of Rs 28,635 paid through E-payment ... 2025".
 - Duplicate endorsement (handwritten, best effort): "Duplicate:- Number of duplicates registered with the original duplicate is one. There is no difference between the original and duplicate. Compared by: Reader Summy A.J; Examiner Shajimon. D, Clerk. On 27th day of October 2025. Amalgamated Sub Registrar, Sunil Kumar. M."
-
----
-
-## Litigation-relevant observations (analysis, not part of the deed)
-
-1. **Rent documented by registered instrument:** ₹60,000/month for Meda alone = **₹7,20,000/year**; deed cl. 22 itself states total rent for the 10-year term = **₹72,00,000/-**. Against Minutes-admitted spend of ≈₹12 Cr, this is **≈0.6% p.a.** This deed is the *only* rental instrument produced; the four 11-month agreements and the 5% AGOP collaboration agreement claimed in the Minutes (24.01.2026, pp. 16–17) remain unproduced, so any higher figure rests solely on D2's unproduced documents.
-2. **Scope:** Only Meda (5000 sq.ft., 4.645 Ares of building) on 29.42 Ares — yet Minutes claim leases of Nalukettu, Nelpura, Staff Quarters and landed properties; none registered or produced.
-3. **Dates:** Stamp purchased 25/10/2025; executed and registered 27/10/2025 — i.e., before the 16.02.2026 affidavit stating records were "not available for production."
-4. **Clause numbering:** No clauses 8–9 in the scan.
-5. **Lessee incorporated 2025** (CIN U86909KL2025PTC096202), consistent with the "three-month-old company" point in IRAC §K.
