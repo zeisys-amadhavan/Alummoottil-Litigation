@@ -516,12 +516,20 @@ The old photographs also are allowed to be exhibited in the buildings. The antiq
 
 The Managing Trustee explained that the Trust is contesting against various cases filed by Mr. Anoop R. Madhavan in different courts: OS 84/24; OS 243/23, OS 241/25 and also many complaints filed by him in the Karelakulangara Police Station and in the Kerala forest Dept.
 
-All the trustees complained that Mr. Anoop R. Madhavan,
-son
-the beneficiary
-of Trustee Radhakrishnan Channar, is creating lot of problems by way of destruction of trust properties, physical threats, litigations against the Trust and trustees and tarnishing the image of Alummoottil Tharavadu Trust through social media. These cannot be tolerated at all and have to be terminated from the beneficiary status through legal means.
-he may claim
-In this regard a prominent lawyer is to be consulted and further action to be taken. Mr. Radhakrishnan Channar
+All the Trustees Complained that "Resolu
+Mr. Anoop R. Madhavan, ~~the beneficiary~~ <sup>son</sup>
+of Trustee Radhakrishnan Channar, is
+Creating lot of problems by way of
+destruction of trust properties, physical
+threats, Litigations against the Trust and
+Trustees and tarnishing the image of
+Alummoottil Tharavadu Trust through Social
+Media, These cannot be tolerated at
+all and have to be terminated from
+The beneficiary status <sup>he may claim</sup> through legal
+means. In this regard a prominent lawyer
+is to be consulted and further action to
+be taken. Mr. Radhakrishnan Channar
 
 -PAGE 21-
 
