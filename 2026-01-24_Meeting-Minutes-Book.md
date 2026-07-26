@@ -247,6 +247,160 @@ Ramesh Chandran
 C.K. Gita
 Sivadasan A. Madhavan
 
+-PAGE 13-
+
+<!-- ocr-metadata: source-type=printed; source-form=email-printout-with-attached-notice -->
+
+Gmail - Fwd: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
+
+07/01/26, 9:32 PM
+
+Gmail
+
+Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+
+Fwd: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
+
+ramesh chandran <mrameshchandran@gmail.com>
+
+7 January 2026 at 21:31
+
+To: Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+
+---------- Forwarded message ---------
+
+From: ramesh chandran <mrameshchandran@gmail.com>
+
+Date: Sun, 17 Aug 2025, 9:15 am
+
+Subject: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
+
+To: Sivadasan Madhavan <samchannar@gmail.com>, udayabhanum@gmail.com <udayabhanum@gmail.com>, mrk_alummood@yahoo.com <mrk_alummood@yahoo.com>, ravindran34@gmail.com <ravindran34@gmail.com>
+
+ALUMMOOTTIL THARAVAD TRUST
+
+NOTICE OF TRUST MEETING
+
+16.08.2025
+
+It is proposed to hold an online meeting of the Trust on Thursday ,21-08-2025, at 8 pm (IST) to discuss and decide the matters as per the following Agenda. The meeting shall be under the zoom online platform.
+
+All the Trustees are requested to enter into the online meeting in time without fail. The meeting ID and password or link for entering into the meeting shall be forwarded in due course by E mail or Whatsapp.
+
+AGENDA:
+
+1 To authorise the Managing Trustee Sri M Rameshchandran Channar to find a suitable operator for leasing out the "Alummoottil Meda,Nalukettu,Pathayapura and /or any or all the adjacent buildings " to be run as a destination /resort/ayurvedic resort or any other similar establishments as the operator may decide. He may also be authorised to negotiate with at least 3 such operators and to select the best among them specifying the period of lease,lease rent /profit share and all other terms and conditions in connection therewith,as he may deem fit, in the best interest of the Trust.
+
+2 To authorise the Managing Trustee to enter into and sign on behalf of the Trust,any agreement or MOA or any document pertaining to the lease and operation and maintenance of the said establishment with any firm or body corporate and get it registered.
+
+3 To authorise the Managing Trustee to get all such documents duly vetted by a legal professional before he signs such documents on behalf of the Trust.
+
+4 To conduct a grand opening ceremony during the month of January 2025.
+
+M. Rameshchandran Channar
+
+Managing Trustee
+
+https://mail.google.com/mail/u/0/?ik=5e80cee5c3&view=pt&search...=thread-f:1853674434378728902&simpl=msg-f:1853674434378728902
+
+Page 1 of 1
+
+-PAGE 14-
+
+<!-- ocr-metadata: source-type=printed; source-form=email-printout -->
+
+Gmail - Fwd: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
+
+07/01/26, 9:26 PM
+
+Gmail
+
+Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+
+Fwd: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
+
+ramesh chandran <mrameshchandran@gmail.com>
+
+7 January 2026 at 21:24
+
+To: Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+
+---------- Forwarded message ---------
+
+From: ramesh chandran <mrameshchandran@gmail.com>
+
+Date: Sat, 23 Aug 2025, 10:59 am
+
+Subject: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
+
+To: Sivadasan Madhavan <samchannar@gmail.com>, <udayabhanum@gmail.com>, <ravindran34@gmail.com>, <mrk_alummood@yahoo.com>
+
+Dear Trustees
+
+Kindly see attached herewith the Minutes of the Online Zoom meeting of Alummoottil Tharavad Trust held on 21/08/2025 at 8 PM (IST)
+
+Thanks & Regards
+
+M Rameshchandran Channar
+
+Minutes of Zoom Online meeting of the Trustees of Alummoottil Tharavad Trust held on 21.docx
+
+16K
+
+https://mail.google.com/mail/u/0/?ik=5e80cee5c3&view=pt&search...d=thread-f:1853674017142388163&simpl=msg-f:1853674017142388163
+
+Page 1 of 1
+
+<!-- ocr-metadata: source-type=printed; source-form=email-attachment; attachment-page=1-of-2 -->
+
+Minutes of Zoom Online meeting of the Trustees of Alummoottil Tharavad Trust held on 21/08/2025 at 8 pm (IST)
+
+Trustees Present
+
+Sri M Sivadasan Channar
+
+Sri M Udayabhanu Channar
+
+Smt C K Gita
+
+Sri M Rameshchandran Channar - Managing Trustee
+
+This meeting was recorded for official purpose.
+
+The meeting started at 8 pm (IST) with a silent prayer.
+
+M Rameshchandran Channar, Managing Trustee, welcomed all the members present. Due to some technical error Mr M Udayabhanu Channar couldn't enter the Zoom meet but he was communicating over telephone. Sri M Radhakrishnan Channar was absent.
+
+Items of the Agenda were read by Managing trustee one by one. The following decisions have been taken unanimously by all four Trustees present.
+
+1. Resolved to authorise the Managing Trustee Sri M Rameshchandran Channar to find a suitable operator for leasing out the Alummoottil Meda, Nalukkettu, Pathayapura and / or any or all of the adjacent buildings in full or part, to be run as a Destination/ Resort/Ayurvedic Resort or any other similar establishment as the operator may decide. He is also hereby authorised to negotiate with at least 3 such operators in the field and to select any one among them including specifying the period of lease, lease rent, profit share and all other terms and conditions therewith, as he may deem fit, in the best interest of the trust.
+
+2. Resolved to authorise the Managing Trustee Sri M Rameshchandran Channar to enter into and sign, on behalf of the trust, any agreement MOA or any Document pertaining to lease, operation and maintenance of the Destination/ Resort/Ayurvedic Resort or any other similar
+
+<!-- ocr-metadata: source-type=printed; source-form=email-attachment; attachment-page=2-of-2 -->
+
+establishment with any individual, firm or body corporate and get it registered.
+
+3. Resolved to authorise the Managing Trustee Sri M Rameshchandran Channar to get all such documents vetted by a legal professional before he signs such documents on behalf of the Trust.
+
+4. In the fourth Agenda item, Managing Trustee informed a clerical error mentioning Jan 2025 to be read as Jan 2026.All members agreed to go for a grand opening ceremony in January 2026 to the convenience of Sri M Sivadasan Channar who will be in Kerala during this month.
+
+5. Sri Sivadasan Channar expressed Vote of Thanks. He appreciated the hard work and efforts taken by Raman & Jiji (Rameshchandran and Jiji Ramesh) for the last 5 years. He pointed out the urgency and need to find out an agency immediately to run the business smoothly and efficiently. The meeting ended at 8.30 pm.
+
+----------------------
+
+<!-- ocr-metadata: source-type=handwritten; content-type=signatures -->
+
+Ramesh Chandran
+
+Udayabhanu Channar.
+
+Sivadasan Channar
+
+Radhakrishnan - M
+
+C-K. GITA.
+
 -PAGE 15-
 
 Meeting held on 24.1.2026 at Alummoottil Tharavad.
