@@ -1,560 +1,864 @@
+<!--
+METADATA WARNING:
+
+Tags in the form <{a}>, <{b}>, <{c}>, etc. are metadata identifying elements or aspects of the page that are not written or printed on the source pages.
+Line numbers should be <{Line 1}>... another meta tag can be <{handwritten}>.. another meta tag can be <{faded}> another meta data can be <{damaged}>
+These metadata must be excluded from every quotation, citation, extract, summary, or reproduction of the document's contents, unless they are explicitly asked for.
+
+TRANSCRIPTION CONVENTIONS:
+
+1. PAGE labels reproduce the handwritten book-page numbers. INSERTED SHEET and BLANK SHEET labels distinguish physically separate PDF scans that do not carry an independent book-page number.
+2. Each <{Line n}> identifies one physical handwritten or printed line on that particular page or inserted sheet. Line numbering restarts on every physically separate sheet.
+3. <{signature}> records a visible signature or signature-like mark. It is metadata and is not part of the quoted text.
+4. <{circled}> records a visibly circled number or letter. It is metadata and is not part of the quoted text.
+5. Text written above a source line is enclosed in <sup>...</sup> and followed by an insertion metadata tag where needed.
+6. Visible deleted text is enclosed in ~~...~~ and followed by a deletion metadata tag where needed.
+7. <{abandoned fragment}> identifies an unfinished source fragment. <{unclear}> identifies handwriting that cannot safely be certified.
+8. Capitalisation, punctuation, spelling, spacing, hyphenation, quotation marks, and grammatical errors are retained rather than normalised.
+9. PDF-scan references are metadata cross-references to the 28-scan source PDF and are not document text.
+-->
+
 -PAGE 1-
 
-ALUMMOOTTIL THARAVAD TRUST.
+<{PDF scan 1; handwritten book page 1}>
 
-Muttom, P.O-HARIPAD
-
-(Reg no: IV 2/2007 & 66/2022)
+<{Line 1}> ALUMMOOTTIL THARAVAD TRUST.
+<{Line 2}> MUTTOM, P.O.-HARIPAD
+<{Line 3}> (Reg-no: IV 2/2007 & 66/2022 .)
 
 -PAGE 2-
 
-Alummoottil Tharavad Trust meeting held on 12/2/2020
+<{PDF scan 2; handwritten book page 2}>
 
-Dr. Ravindran M. Channar
-Sivadasan Madhavan
-Udayabhanu
-Ramesh Chandran
-
-The meeting started at 11 a.m. at the residence of Dr. Ravindran Channar with a prayer.
-
-Managing Trustee informed that the original Trust Deed of Alummoottil Tharavad Trust was registered on 4/1/2007 as it was not functional and the content of the deed was inadequate. All the properties belonging to Alummoottil Tharavad were under litigation in Mavelikkara Sub Court since 1983. The final decree was pronounced by Hon. Court on 21/12/2017. As per the decree 5/6th of the properties were assigned to the brothers viz. Dr. Ravindran Channar, Sivadasan Channar, Sri Udayabhanu Channar, Radhakrishnan Channar and Ramesh Chandran Channar and the remaining 1/6th to the three children of their sister Late Sharadamani Channatti. After obtaining the decree, the above five brothers jointly decided to settle their shares to Alummoottil Tharavad Trust. Once the settlement is done, the functioning of the Trust, which was lying dormant for years due to the aforesaid litigation, need to be started. For this, the Trust Deed need to be amended from time to time as and when found necessary for the better functioning of the Trust. Therefore the following resolutions were adopted.
+<{Line 1}> Alummoottil Tharavad Trust meeting held on 12/2/2020
+<{Line 2}> Dr. Ravindran M. Channar <{signature}>
+<{Line 3}> Sivadasan Madhavan <{signature}>
+<{Line 4}> Udayabhanu <{signature}>
+<{Line 5}> Ramesh Chandran <{signature}>
+<{Line 6}> The meeting started at 11 a.m. at the
+<{Line 7}> residence of Dr. Ravindran Channar with
+<{Line 8}> a prayer.
+<{Line 9}> Managing Trustee informed that the original
+<{Line 10}> Trust Deed of Alummoottil Tharavad Trust was
+<{Line 11}> registered on 4/1/2007 as it was not functional
+<{Line 12}> and the content of the deed was inadequate. All
+<{Line 13}> the properties belonging to Alummoottil Tharavad
+<{Line 14}> were under litigation in Mavelikkara Sub Court since
+<{Line 15}> 1983. The final decree was pronounced by
+<{Line 16}> Hon. Court on 21/12/2017. As per the decree 5/6th
+<{Line 17}> of the properties were assigned to the brothers viz.
+<{Line 18}> Dr. Ravindran Channar, Sivadasan
+<{Line 19}> Channar, Sri Udayabhanu Channar, Radhakrishnan
+<{Line 20}> Channar and Ramesh Chandran Channar and the remaining
+<{Line 21}> 1/6th to the three children of their sister
+<{Line 22}> Late Sharadamani Channatti. After obtaining
+<{Line 23}> the decree, the above five brothers jointly decided
+<{Line 24}> to settle their shares to Alummoottil Tharavad Trust.
+<{Line 25}> Once the settlement is done, the
+<{Line 26}> functioning of the Trust, which was lying dormant for years
+<{Line 27}> due to the aforesaid litigation, need to
+<{Line 28}> be started. For this, the Trust Deed need to be
+<{Line 29}> amended from time to time as and when found
+<{Line 30}> necessary for the better functioning of the Trust.
+<{Line 31}> Therefore the following resolutions were adopted.
 
 -PAGE 3-
 
-1. "Resolved that the Managing Trustee Sri Ramesh Chandran Channar is hereby authorised to take necessary action to amend the Alummoottil Tharavad Trust Deed including preparation of the draft Amendment deed from time to time as deem fit."
+<{PDF scan 3; handwritten book page 3}>
 
-Managing Trustee informed that if all other trustees agree Dr. Sivadasan Channar expressed his willingness, as a gesture of regards to the name and fame of the Tharavad, to renovate/rebuild the old buildings of the Tharavad which are in very bad condition due to lack of maintenance and upkeep, as it was under litigation for long 37 years. He has also informed that the fund for the same will be from his pocket, personal account and not through the trust account. Even after the settlement of the properties to the Trust is done, the renovation/construction/reconstruction will be continued from his own fund till it is completed in all respect. All trustees agreed to this and appreciated Dr. Sivadasan Channar for his dedication, generosity and affection towards his Tharavad.
-
-2. Resolved that Dr. Sivadasan Channar is hereby granted permission to carry out the renovation/rebuilding/construction of various buildings of Alummoottil Tharavad complex by spending all the funds from his personal account for all the purposes in connection with the construction/renovation/rebuilding, including expenses such as Architect's fee, PMC fee, special artisan's work charges, consultation fee, legal fees, property settlement charges, electricity charges, Govt. tax, fees etc. till the completion of the works. Resolved that all other trustees agree that Dr. Sivadasan Channar is under no obligation to provide the details of any expenditure either to the trust or trustees or any other persons, whatsoever. Provided that by virtue of his spending money
+<{Line 1}> <{circled}> 1. "Resolved that the Managing Trustee Sri Ramesh
+<{Line 2}> Chandran Channar is hereby authorised to take
+<{Line 3}> necessary action to amend the Alummoottil Tharavad
+<{Line 4}> Trust Deed including preparation of the draft
+<{Line 5}> Amendment deed from time to time as deem fit."
+<{Line 6}> Managing Trustee informed that if all other trustees agree
+<{Line 7}> Dr. Sivadasan Channar expressed his willingness, as a
+<{Line 8}> gesture of regards to the name and fame of the Tharavad
+<{Line 9}> to renovate/rebuild the old buildings of the Tharavad
+<{Line 10}> which are in very bad condition due to lack of maintenance
+<{Line 11}> and upkeep, as it was under litigation for long 37 years.
+<{Line 12}> He has also informed that the fund for the same will be
+<{Line 13}> from his pocket, personal account and not through
+<{Line 14}> the trust account. Even after the settlement of the
+<{Line 15}> properties to the Trust is done, the renovation/
+<{Line 16}> construction/reconstruction will be continued from
+<{Line 17}> his own fund till it is completed in all respect.
+<{Line 18}> All trustees agreed to this and appreciated Dr. Sivadasan
+<{Line 19}> Channar for his dedication, generosity and affection
+<{Line 20}> towards his Tharavad.
+<{Line 21}> <{circled}> 2. Resolved that Dr. Sivadasan Channar is hereby granted
+<{Line 22}> permission to carry out the renovation/rebuilding/construction
+<{Line 23}> of various buildings of Alummoottil Tharavad complex by spending
+<{Line 24}> all the funds from his personal account for all the purposes
+<{Line 25}> in connection with the construction/renovation/rebuilding,
+<{Line 26}> including expenses such as Architect's fee, PMC fee,
+<{Line 27}> special artisan's work charges, consultation fee, legal
+<{Line 28}> fees, property settlement charges, electricity charges, Govt.
+<{Line 29}> tax, fees etc. till the completion of the works. Resolved that all
+<{Line 30}> other trustees agree that Dr. Sivadasan Channar is
+<{Line 31}> under no obligation to provide the details of any expenditure
+<{Line 32}> either to the trust or trustees or any other persons what so
+<{Line 33}> ever, Provided that by virtue of his spending money
 
 -PAGE 4-
 
-towards this, Dr. Sivadasan Channar will not have any special rights in the Trust, except as provided in the trust deed, amended from time to time.
+<{PDF scan 4; handwritten book page 4}>
 
-Resolved that Dr. Sivadasan Channar is granted permission to select contractors / architects / project director manager, PMC management etc. for the above.
-
-3. "Resolved that the Managing Trustee is hereby authorised to take necessary steps to do the settlement of properties belonging to all the five brothers viz. Dr. Ravindran Channar, Dr. Sivadasan Channar, Udayabhanu Channar, Radhakrishnan Channar and Ramesh Chandran Channar to Alummoottil Tharavad Trust."
-
-Managing Trustee informed that all the Tharavad properties were under litigation and so far there was no income or expenses to the trust. Also the Trust has no assets till date. The following resolution was adopted.
-
-4. "Resolved that Managing Trustee shall maintain the books of Accounts of Alummoottil Tharavad Trust as and when any amount is received and spent by the Trust."
-
-It was also resolved that the Managing Trustee Sri Ramesh Chandran Channar is given authority to take suitable decisions as and when required with regard to statutory obligations, legal matters, taking expert opinion. Sivadasan informed that immediate step to be taken to build compound wall on all four sides of our property. Meeting ended at 1 p.m.
-
-Dr. Ravindran
-Udayabhanu M.
-Ramesh Chandran
-Sivadasan M.
+<{Line 1}> towards this, Dr. Sivadasan Channar will not have
+<{Line 2}> any special rights in the Trust, except as
+<{Line 3}> provided in the Trust deed, amended from time to time.
+<{Line 4}> Resolved that Dr. Sivadasan Channar is granted
+<{Line 5}> permission to select Contractors/architects/project director/
+<{Line 6}> manager, PMC management etc. for the above.
+<{Line 7}> <{circled}> 3. "Resolved that the Managing Trustee is hereby
+<{Line 8}> authorised to take necessary steps to do the settlement
+<{Line 9}> of properties belonging to all the five brothers viz.
+<{Line 10}> Dr. Ravindran Channar, Dr. Sivadasan Channar, Udayabhanu
+<{Line 11}> Channar, Radhakrishnan Channar and Ramesh Chandran
+<{Line 12}> Channar to Alummoottil Tharavad Trust."
+<{Line 13}> Managing Trustee informed that all the Tharavad
+<{Line 14}> properties were under litigation and so far there was
+<{Line 15}> no income or expenses to the trust. Also the Trust has
+<{Line 16}> no assets till date. The following resolution was adopted.
+<{Line 17}> <{circled}> 4. "Resolved that Managing Trustee shall maintain the books
+<{Line 18}> of Accounts of Alummoottil Tharavad Trust as and when
+<{Line 19}> any amount is received and spent by the Trust."
+<{Line 20}> It was also resolved that the Managing Trustee Sri
+<{Line 21}> Ramesh Chandran Channar is given authority to take
+<{Line 22}> suitable decisions as and when required with regard to
+<{Line 23}> statutory obligations, legal matters, taking expert opinion.
+<{Line 24}> Sivadasan informed that immediate step to be
+<{Line 25}> taken to build compound wall on all four sides
+<{Line 26}> of our property. Meeting ended at 1.pm.
+<{Line 27}> Dr. Ravindran <{signature}>
+<{Line 28}> Udayabhanu M. <{signature}>
+<{Line 29}> Ramesh Chandran <{signature}>
+<{Line 30}> Sivadasan M. <{signature}>
 
 -PAGE 5-
 
-Alummoottil Tharavad Trust meeting held on 10/11/22 at 4 pm at Alummoottil House, Muttom
+<{PDF scan 5; handwritten book page 5}>
 
-1. Ramesh Chandran
-2. Radhakrishnan
-3. Udayabhanu
-4. Sivadasan
-5. C.K. Gita
-
-Meeting started at 4 pm.
-
-Dr. Ravindran Channar passed away on 27/8/2022.
-
-It was "Resolved that Mrs. C.K. Gita will be the trustee in place of Dr. Ravindran Channar."
-
-Amendment of the trust deed was registered on 10/11/22 with "Cheppad registrar."
-
-Draft copy of the amended trust deed was given to all trust members.
-
-It was "resolved that the office of the Alummoottil Tharavad Trust will be at Alummoottil House, Haripad, Valiyakuzhi Muri, Cheppad Village, Karthikappally Taluk, Alappuzha District, Muttom P.O., Pin 690511."
-
-Nelpura, which was in the name of Mrs. Sharadamani Channatti, is already transferred by settlement to Alummoottil Tharavad Trust vide Doc. No. 1669/I/2022 executed on 10th November 2022 at office of Sub Registrar of Cheppad.
-
-1. "Resolved that the land and Buildings "Nalukettu and Meda", which is presently in the joint owners of all the five trust
+<{Line 1}> Alummoottil Tharavad Trust meeting held
+<{Line 2}> on 10/11/22 at 4 PM at Alummoottil
+<{Line 3}> house, Muttom.
+<{Line 4}> 1. Ramesh Chandran <{signature}>
+<{Line 5}> 2. Radhakrishnan <{signature}>
+<{Line 6}> 3. Udayabhanu <{signature}>
+<{Line 7}> 4. Sivadasan <{signature}>
+<{Line 8}> 5. <sup>C.K.</sup> Gita <{inserted above line}> <{signature}>
+<{Line 9}> Meeting Started at 4.pm.
+<{Line 10}> Dr. Ravindran Channar passed away
+<{Line 11}> on 27/8/2022.
+<{Line 12}> It was "resolved that Mrs <sup>C.K.</sup> Gita will <{inserted above line}>
+<{Line 13}> be the trustee in place of Dr. Ravindran
+<{Line 14}> Channar."
+<{Line 15}> Amendment of the trust deed was
+<{Line 16}> registered on 10/11/22 with "Cheppad
+<{Line 17}> registrar."
+<{Line 18}> Draft Copy of the amended trust deed was
+<{Line 19}> given to all trust members.
+<{Line 20}> It was "resolved that the office of the
+<{Line 21}> Alummoottil Tharavad Trust will be
+<{Line 22}> at Alummoottil House, Haripad, Valiyakuzhi
+<{Line 23}> muri, Cheppad Village, Karthikappally Taluk,
+<{Line 24}> Alappuzha District, Muttom, P.O, Pin 690511."
+<{Line 25}> Nelpura which was in the name of
+<{Line 26}> Mrs Sharadamani Channathy is already
+<{Line 27}> transferred by settlement to Alummoottil
+<{Line 28}> Tharavad Trust vide Doc. No. 1669/I/2022
+<{Line 29}> executed on 10th november 2022, at office of Sub
+<{Line 30}> registrar of Cheppad.
+<{Line 31}> "Resolved that the land and Buildings
+<{Line 32}> "Nalukettu and Meda" which is presently
+<{Line 33}> in the joint owners of all the five trust-
 
 -PAGE 6-
 
-members, are to be transferred to Alummoottil Tharavad Trust at the earliest."
+<{PDF scan 6; handwritten book page 6}>
 
-The meeting end at 5.30 pm.
-
-1. Ramesh Chandran
-2. Radhakrishnan M.
-3. Udayabhanu M.
-4. Sivadasan M.
-5. C.K. Gita
+<{Line 1}> members, are to be transferred to
+<{Line 2}> Alummoottil Tharavad Trust at the
+<{Line 3}> earliest."
+<{Line 4}> The meeting end at 5.30 pm
+<{Line 5}> 1. Ramesh Chandran <{signature}>
+<{Line 6}> 2. Radhakrishnan M. <{signature}>
+<{Line 7}> 3. Udayabhanu M. <{signature}>
+<{Line 8}> 4. Sivadasan M. <{signature}>
+<{Line 9}> 5. C.K. Gita <{signature}>
 
 -PAGE 7-
 
-Alummoottil Tharavad Trust meeting on 22/12/2023
-Sowgandhika Hotel - Nangiarkulangara - 22nd Dec. 2023
+<{PDF scan 7; handwritten book page 7}>
 
-1. Ramesh Chandran
-2. Radhakrishnan
-3. Sivadasan
-4. Gita Ravindran
-5. Udayabhanu
-
-Meeting started at 4 pm with a prayer. Managing Trustee Ramesh Chandran welcomed all trust members.
-
-He explained the current situation of renovation works going on in Alummoottil Tharavad and narrated the background of all activities.
-
-Sivadasan Channar appreciated the progress of the work. The house warming ceremony was done this day morning with "Ganapathy Homam" and all the five trust members together lighted the lamp (Vilakku) in front of "Gurudevan".
-
-Sivadasan Channar reviewed the arrangements of the family function to be held next day i.e. 23rd Dec. 2023 in connection with the soft opening of "Alummoottil Meda". Around "two hundred" people are expected to be present for the function. Only close relatives in and around Alummoottil and few guests are invited for the function. Lunch and souvenir for the guests are arranged (T shirt and coffee mug with logo).
+<{Line 1}> Alummoottil Tharavad Trust meeting on 22/12/2023
+<{Line 2}> Sowgandhika Hotel - Nangiarkulangara - 22nd Dec. 2023
+<{Line 3}> 1. Ramesh Chandran <{signature}>
+<{Line 4}> 2. Radhakrishnan <{signature}>
+<{Line 5}> 3. Sivadasan <{signature}>
+<{Line 6}> 4. Gita Ravindran <{signature}>
+<{Line 7}> 5. Udayabhanu <{signature}>
+<{Line 8}> Meeting started at 4.pm with a prayer.
+<{Line 9}> Managing Trustee Ramesh Chandran welcomed
+<{Line 10}> all trust members.
+<{Line 11}> He explained the current situation of
+<{Line 12}> renovation works going on in Alummoottil
+<{Line 13}> Tharavad and narrated the back-ground of
+<{Line 14}> all activities.
+<{Line 15}> Sivadasan Channar appreciated the
+<{Line 16}> progress of the work.
+<{Line 17}> The house warming ceremony was done
+<{Line 18}> this day morning with "Ganapathy Homam"
+<{Line 19}> and all the five trust members together
+<{Line 20}> lighted the lamp (Vilakku) in front
+<{Line 21}> of "Gurudevan".
+<{Line 22}> Sivadasan Channar reviewed the
+<{Line 23}> arrangements of the family function to
+<{Line 24}> be held next day ie 23rd Dec.2023 in
+<{Line 25}> connection with the soft opening of
+<{Line 26}> "Alummoottil Meda". Around "two hundred"
+<{Line 27}> people are expected to be present for the
+<{Line 28}> function. Only close relatives in and
+<{Line 29}> around Alummoottil and few guests are
+<{Line 30}> invited for the function. Lunch and
+<{Line 31}> souvenir for the guests are arranged
+<{Line 32}> (T shirt and coffee mug with logo)
 
 -PAGE 8-
 
-A grand opening will be held after the completion of all the works.
+<{PDF scan 8; handwritten book page 8}>
 
-Sivadasan Channar initiated the discussion of important matters and sought approval of all the trustees.
-
-"Resolved that the trustees of Alummoottil Tharavad Trust means the Authors and other trustees (5 trustees) who are the present owners of Alummoottil Tharavad Properties. They are the following members-
-
-1. Ramesh Chandran Channar alias Ramesh Chandran M.
-2. Radhakrishnan Channar M. alias Radhakrishnan M.
-3. Udayabhanu Channar alias Udayabhanu M.
-4. Sivadasan Channar alias M. Sivadasan
-5. C.K. Gita alias Gita Ravindran"
-
-"Resolved that trustees can nominate only one of his descendants / legal heirs as benificiary."
-
-"Resolved that there will be only one vote each for the above 5 (five) members at a time for the Trust ie) each trustee will have only one vote."
-
-"Resolved further that only one of the legal heirs of the abovementioned five trustees shall have right to become a trustee of the trust at a time, so that there will be only five trustees always with voting power."
-
-However the 1/5th undivided
+<{Line 1}> A grand opening will be held after the
+<{Line 2}> completion of all the works.
+<{Line 3}> Sivadasan Channar initiated the
+<{Line 4}> discussion of important matters and
+<{Line 5}> sought approval of all the trustees.
+<{Line 6}> "Resolved that the trustees of
+<{Line 7}> Alummoottil Tharavad Trust means the
+<{Line 8}> Authors and other trustees (5 trustees)
+<{Line 9}> who are the present owners of
+<{Line 10}> Alummoottil Tharavad Properties.
+<{Line 11}> They are the following members-
+<{Line 12}> 1. Ramesh Chandran Channar
+<{Line 13}> alias Rameshchandran.M.
+<{Line 14}> 2. Radhakrishnan Channar.M
+<{Line 15}> alias Radhakrishnan.M.
+<{Line 16}> 3. Udayabhanu Channar
+<{Line 17}> alias Udayabhanu.M.
+<{Line 18}> 4. Sivadasan Channar
+<{Line 19}> alias M. Sivadasan
+<{Line 20}> 5. C.K. GITA alias Gita Ravindran"
+<{Line 21}> "Resolved that trustees can nominate only one
+<{Line 22}> of his descendants/legal heirs as benificiary."
+<{Line 23}> "Resolved that there will be only one
+<{Line 24}> vote each for the above 5(five) members
+<{Line 25}> at a time for the Trust ie) each trustee
+<{Line 26}> will have only one vote."
+<{Line 27}> "Resolved further that only one of the
+<{Line 28}> legal heirs of the above mentioned five
+<{Line 29}> trustees shall have right to become
+<{Line 30}> a trustee of the trust at a time, so that
+<{Line 31}> there will be only five trustees always
+<{Line 32}> with voting power."
+<{Line 33}> However the 1/5th undivided
 
 -PAGE 9-
 
-share in the properties belonging to the Alummoottil Tharavad individually owned by each of the five author trustees, shall be inherited by their legatees or legal heirs as applicable as per the concerned testamentary or non-testamentary laws (Law of Succession).
+<{PDF scan 9; handwritten book page 9}>
 
-"Resolved that any and all of the original authors / trustees of the trust (above five trustees) shall have the right to nominate any one of the legal heirs of his or their brother / brothers for the trusteeship of the trust in his place instead of his own direct legal heirs."
-
-"Resolved that majority decisions of the trustees will be legally binding in all the matters regarding the Alummoottil Tharavad trust."
-
-Resolved that Ramesh Chandran Channar will be the Managing Trustee for the next term ie) three years.
-
-For the further maintenance and upkeep of trust properties which comprise of Meda, Pathayappura, Nalukettu, Kitchen Complex etc. and common areas; source of income is of utmost importance. Ramesh Chandran Channar and Jiji Ramesh are entrusted to find out a suitable business plan for the same.
-
-'Thara' on the east side of Meda is presently the property of Alummoottil Kudumba Kshethra Sabha. Alummoottil
+<{Line 1}> share in the properties belonging to the
+<{Line 2}> Alummoottil Tharavad individually owned
+<{Line 3}> by each of the five author trustees, shall
+<{Line 4}> be inherited by their legatees or legal
+<{Line 5}> heirs as applicable as per the concerned
+<{Line 6}> testamentary or non-testamentary laws
+<{Line 7}> (Law of Succession). <{overwritten word after “Succession”; unclear}>
+<{Line 8}> "Resolved that any and all of the
+<{Line 9}> original authors/trustees of the Trust
+<{Line 10}> (above five trustees) shall have the right
+<{Line 11}> to nominate any one of the legal heirs of
+<{Line 12}> his or their brother/brothers for the
+<{Line 13}> trusteeship of the Trust in his place
+<{Line 14}> instead of his own direct legal heirs."
+<{Line 15}> "Resolved that majority decisions
+<{Line 16}> of the trustees will be legally binding
+<{Line 17}> in all the matters regarding the
+<{Line 18}> Alummoottil Tharavad Trust."
+<{Line 19}> Resolved that Ramesh Chandran
+<{Line 20}> Channar will be the Managing Trustee
+<{Line 21}> for the next term ie) three years.
+<{Line 22}> For the further maintenance and
+<{Line 23}> upkeep of trust properties which
+<{Line 24}> comprise of Meda, Pathayappura,
+<{Line 25}> Nalukettu, Kitchen Complex etc. and
+<{Line 26}> Common areas, Source of income is
+<{Line 27}> of utmost importance. Ramesh Chandran
+<{Line 28}> Channar and Jiji Ramesh are
+<{Line 29}> entrusted to find out a suitable
+<{Line 30}> business plan for the same.
+<{Line 31}> 'Thara' (room) on the east-side of Meda
+<{Line 32}> is presently the property of Alummoottil
+<{Line 33}> Kudumba Kshethra Sabha. Alummoottil
 
 -PAGE 10-
 
-Tharavad Trust will request the Sabha to give this land for a long lease of 99 years.
+<{PDF scan 10; handwritten book page 10}>
 
-Presently the building tax of Nalukettu and Meda is being remitted in the name of Radhakrishnan. It was decided to change this to the names of all the 5 (five) brothers.
+<{Line 1}> Tharavad Trust will request the
+<{Line 2}> Sabha to give this land for a long
+<{Line 3}> lease of 99 years.
+<{Line 4}> Presently the building tax of
+<{Line 5}> Nalukettu and Meda, is being remitted
+<{Line 6}> in the name of Radhakrishnan. It was
+<{Line 7}> decided to change this to the names of
+<{Line 8}> all the 5 (five) brothers.
+<{Line 9}> Resolved to open a bank account
+<{Line 10}> with Federal Bank - Muttom Branch
+<{Line 11}> in the name of Alummoottil Tharavad
+<{Line 12}> Trust. There will be three signatories
+<{Line 13}> for the operation of the Bank account.
+<{Line 14}> The signing authority will be the
+<{Line 15}> Managing Trustee jointly with any one
+<{Line 16}> of the other two trustees nominated as
+<{Line 17}> Signatory. At present M Ramesh Chandran, Managing
+<{Line 18}> Trustee, Udayabhanu M and C.K. Gita.
+<{Line 19}> It was decided to hold a
+<{Line 20}> meeting (unofficial) with the available
+<{Line 21}> children of the above five trustees on 23rd
+<{Line 22}> Dec. 2023 at 3 pm after the official function
+<{Line 23}> are over. Sivadasan Channar also informed
+<{Line 24}> that the details of this "meeting" also will
+<{Line 25}> be recorded as a Supplement to this
+<{Line 26}> official meeting of the Trustees.
+<{Line 27}> Meeting ended with vote of Thanks by Udaya-
+<{Line 28}> bhanu Channar at 5.30 pm.
+<{Line 29}> <{circled}> 1. Udayabhanu <{signature}>
+<{Line 30}> <{circled}> 2. Sivadasan A. Madhavan <{signature}>
+<{Line 31}> <{circled}> 3. Radhakrishnan <{signature}>
+<{Line 32}> <{circled}> 4. Ramesh Chandran <{signature}>
+<{Line 33}> <{circled}> 5. C.K. GITA <{signature}>
 
-Resolved to open a bank account with Federal Bank - Muttom Branch in the name of Alummoottil Tharavad Trust. There will be three signatories for the operation of the Bank account. The signing authority will be the Managing Trustee jointly with any one of the other two trustees nominated as signatory. At present M. Ramesh Chandran, Managing Trustee, Udayabhanu M and C.K. Gita.
+-UNNUMBERED INSERTED SHEET AFTER PAGE 10-
 
-It was decided to hold a meeting (unofficial) with the available children of the above five trustees on 23rd Dec. 2023 at 3 pm after the official function are over. Sivadasan Channar also informed that the details of this meeting also will be recorded as a supplement to this official meeting of the trustees.
+<{PDF scan 11; separate typed sheet}>
 
-Meeting ended with vote of thanks by Udayabhanu Channar at 5.30 pm.
+<{Line 1}> Supplemental meeting of the Trustees and children. Dec 23, 2023
+<{Line 2}> As per the decision of the Trustee meeting of Dec 22, 2023 held at the Saugandhiga hotel, an informal meeting was called
+<{Line 3}> at Alummoottil of the five Trustees and all the children present to attend the opening ceremony of the Meda (Mana).
+<{Line 4}> Trustees present were:
+<{Line 5}> Dr. Sivadasan Channar (presiding senior Trustee)
+<{Line 6}> Mrs. C K Gita, (widow of Dr. Ravindran Channar, his legal heir)
+<{Line 7}> Mr. Udayabhanu Channar
+<{Line 8}> Mr. Radhakrishnan Channar
+<{Line 9}> Mr. Rameshchandran Channar
+<{Line 10}> Children of the Trustees present by age:
+<{Line 11}> Dr. Arun Udayabhanu
+<{Line 12}> Mr. Anoop R Madhavan
+<{Line 13}> Mr. Bimal R Madhavan
+<{Line 14}> Mrs. Malini R Shaju
+<{Line 15}> Miss. Aparna R Madhavan
+<{Line 16}> The meeting was called to order at 3.30PM
+<{Line 17}> After a moment of silence to honor our ancestors, Sivadasan Channar proceeded to inform the group the substance of the
+<{Line 18}> Trustee meeting of the previous day.
+<{Line 19}> 1. There are five original Trustees in the Alummoottil family Trust, and that there will always be five Trustees that
+<{Line 20}> cannot be amended or changed.
+<{Line 21}> 2. Each of the present five Trustees are free to select their Single successor Trustee from his group of children to
+<{Line 22}> replace him after his death or abdication. In the case of him passing on without a will, the Hindu succession law
+<{Line 23}> will apply for the inheritance of his original one fifth share of the common area and buildings of Alummoottil,
+<{Line 24}> and the heirs must then select a Single Trustee designee.
+<{Line 25}> 3. All the descendants of the original Five Trustees will inherit only from their own one fifth portion of the Trust,
+<{Line 26}> and as per the Hindu inheritance law of the land.
+<{Line 27}> 4. At the conclusion of the building and renovation phase of Alummoottil (a gift from Sivadasan Channar, with the
+<{Line 28}> construction Managed by Rameshchandran Channar and his wife Jiji), the expected monthly cost of maintenance
+<{Line 29}> and upkeep will be the responsibility of the Trust, for which all avenues of income generation will be sought in
+<{Line 30}> the coming months. This could be INR 5 Lakhs or more.
+<{Line 31}> At this point, Anoop became agitated and enraged that he is not a part of the decision making and demanded an
+<{Line 32}> explanation — directed at Sivadasan Channar. Sivadasan Channar responded that his father Radhakrishnan Channar is a
+<{Line 33}> Trustee, and his participation is all that is necessary for the Trust, and that he and Malini should discuss this matter with
+<{Line 34}> him, and not the Trust.
+<{Line 35}> An enraged Anoop lurched towards Sivadasan Channar showering him with profanities and his intention to harm him here
+<{Line 36}> and or in the USA where both are citizens. Chaos engulfed the group, and both Bimal and Arun rushed and subdued
+<{Line 37}> Anoop who stormed out of the meeting. The meeting was promptly declared closed.
+<{Line 38}> It was later discovered that Mr. Anoop R Madhavan came well prepared for a confrontation with Sivadasan Channar with
+<{Line 39}> three hired thugs as his bodyguards. However, circumstances at Alummoottil with nearly 200 attending the opening
+<{Line 40}> ceremonies were too risky, and any contemplated plans may have been abandoned. Luckily for the Tharavad, nothing
+<{Line 41}> disastrous happened during the opening ceremonies or the supplemental meeting of the Trustees and their children.
+<{Line 42}> Submitted by
+<{Line 43}> <{signature}>
+<{Line 44}> Sivadasan Madhavan Channar
+<{Line 45}> Alummoottil, Muttom-Haripad
+<{Line 46}> December 24, 2023,
 
-1. Udayabhanu
-2. Sivadasan A. Madhavan
-3. Radhakrishnan
-4. Ramesh Chandran
-5. C.K. Gita
+-BLANK BACK SHEET AFTER PAGE 10-
 
-Supplemental meeting of the Trustees and children. Dec 23, 2023
-
-As per the decision of the Trustee meeting of Dec 22, 2023 held at the Saugandhiga hotel, an informal meeting was called at Alummoottil of the five Trustees and all the children present to attend the opening ceremony of the Meda (Mana).
-
-Trustees present were:
-
-Dr. Sivadasan Channar (presiding senior Trustee)
-Mrs. C K Gita, (widow of Dr. Ravindran Channar, his legal heir)
-Mr. Udayabhanu Channar
-Mr. Radhakrishnan Channar
-Mr. Rameshchandran Channar
-
-Children of the Trustees present by age:
-
-Dr. Arun Udayabhanu
-Mr. Anoop R Madhavan
-Mr. Bimal R Madhavan
-Mrs. Malini R Shaju
-Miss. Aprana R Madhavan
-
-The meeting was called to order at 3.30PM
-
-After a moment of silence to honor our ancestors, Sivadasan Channar proceeded to inform the group the substance of the Trustee meeting of the previous day.
-
-1. There are five original Trustees in the Alummoottil family Trust, and that there will always be five Trustees that cannot be amended or changed.
-2. Each of the present five Trustees are free to select their Single successor Trustee from his group of children to replace him after his death or abdication. In the case of him passing on without a will, the Hindu succession law will apply for the inheritance of his original one fifth share of the common area and buildings of Alummoottil, and the heirs must then select a Single Trustee designee.
-3. All the descendants of the original Five Trustees will inherit only from their own one fifth portion of the Trust, and as per the Hindu inheritance law of the land.
-4. At the conclusion of the building and renovation phase of Alummoottil (a gift from Sivadasan Channar, with the construction Managed by Rameshchandran Channar and his wife Jiji), the expected monthly cost of maintenance and upkeep will be the responsibility of the Trust, for which all avenues of income generation will be sought in the coming months. This could be INR 5 Lakhs or more.
-
-At this point, Anoop became agitated and enraged that he is not a part of the decision making and demanded an explanation — directed at Sivadasan Channar. Sivadasan Channar responded that his father Radhakrishnan Channar is a Trustee, and his participation is all that is necessary for the Trust, and that he and Malini should discuss this matter with him, and not the Trust.
-
-An enraged Anoop lurched towards Sivadasan Channar showering him with profanities and his intention to harm him here and or in the USA where both are citizens. Chaos engulfed the group, and both Bimal and Arun rushed and subdued Anoop who stormed out of the meeting. The meeting was promptly declared closed.
-
-It was later discovered that Mr. Anoop R Madhavan came well prepared for a confrontation with Sivadasan Channar with three hired thugs as his bodyguards. However, circumstances at Alummoottil with nearly 200 attending the opening ceremonies were too risky, and any contemplated plans may have been abandoned. Luckily for the Tharavad, nothing disastrous happened during the opening ceremonies or the supplemental meeting of the Trustees and their children.
-
-Submitted by
-
-Sivadasan Madhavan Channar
-Alummoottil, Muttom-Haripad
-December 24, 2023,
+<{PDF scan 12; blank/back sheet; no document text}>
 
 -PAGE 11-
 
-Alummoottil Tharavad Trust meeting held on 12.1.2024 at Alummoottil House
+<{PDF scan 13; handwritten book page 11}>
 
-1. Ramesh Chandran
-2. Radhakrishnan
-3. Udayabhanu
-4. Sivadasan
-5. C.K. Gita
-
-Meeting started at 3 pm.
-
-Managing trustee briefed about the present renovation activities of the trust Buildings. All structural works of Meda and Pathayappura (Nelpura) are over. Now the work of Nalukettu is progressing well. The kitchen block work is also going on. We are now facing constraints of fund, as Shri Sivadasan Channar is facing fund shortage and also problems in transferring fund from USA to India. The Managing Trustee Ramesh Chandran also informed about 1 crore rupees taken as loan for his son and transferred it to the construction account. This amount has to be repaid to him Sivadas Channar or or from the financial source of the trust, at the earliest.
-
-Resolution taken on 22nd Dec. 2023 to open the trust account with Federal Bank Muttom has to be followed up and Managing Trustee is entrusted to speed up this.
-
-Ramesh Chandran
+<{Line 1}> Alummoottil Tharavad Trust meeting held on
+<{Line 2}> 12.1.2024 at Alummoottil house.
+<{Line 3}> <{circled}> 1. Ramesh Chandran <{signature}>
+<{Line 4}> <{circled}> 2. Radhakrishnan <{signature}>
+<{Line 5}> <{circled}> 3. Udayabhanu <{signature}>
+<{Line 6}> <{circled}> 4. Sivadasan <{signature}>
+<{Line 7}> <{circled}> 5. C.K. Gita <{signature}>
+<{Line 8}> Meeting started at 3 pm.
+<{Line 9}> Managing trustee briefed about the present
+<{Line 10}> renovation activities of the trust Buildings.
+<{Line 11}> All structural works of Meda and Pathayappura
+<{Line 12}> (Nelpura) are over. Now the work of
+<{Line 13}> Nalukettu is progressing well. The kitchen
+<{Line 14}> block work is also going on. We are now
+<{Line 15}> facing constraints of fund, as Shri
+<{Line 16}> Sivadasan Channar is facing fund
+<{Line 17}> shortage and also problems in transferring
+<{Line 18}> fund from USA to India. The managing
+<{Line 19}> trustee Ramesh Chandran also informed
+<{Line 20}> about 1 crore rupees taken as loan for his son
+<{Line 21}> and transferred it to the construction account. This
+<{Line 22}> amount has to be repaid to him Sivadas Channar or
+<{Line 23}> or from the financial source of the trust, at the earliest.
+<{Line 24}> Resolution taken on 22nd Dec. 2023 to
+<{Line 25}> open the trust account with Federal Bank Muttom
+<{Line 26}> has to be followed up and Managing trustee is
+<{Line 27}> entrusted to speed up this.
+<{Line 28}> Ramesh Chandran <{signature}>
 
 -PAGE 12-
 
-Alummoottil Tharavad Trust meeting held on 06/02/2024 (Six February Two thousand and twenty four)
+<{PDF scan 14; handwritten book page 12}>
 
-1. Sivadasan M.
-2. Udayabhanu M.
-3. Radhakrishnan M.
-4. Ramesh Chandran
-5. C.K. Gita
-
-The meeting started at 3 pm with prayer at Alummoottil Tharavad. The Managing Trustee welcomed all the members.
-
-The managing trustee explained the progress of the construction. He informed that the cost of construction increased much than expected due to our procurement of wood. The trustees appreciated the remodeling of "Chamba ppura" to "Kalithattu" which can be used for various utility purposes.
-
-"Resolved to appoint Sri Rajeev Pai, S.R. Pai & Co., Kochi - 682020 as the Auditor for 2024-26."
-
-"Resolved that the following persons are hereby accepted by the Board of Trustees as beneficiaries of each trustee as per the nomination received from the trustees (as per Board resolution dt. 22/12/2023):
-
-Bimal R. Madhavan (Trustee - Ramesh Chandran M)
-Arun Udayabhanu (Trustee - Udayabhanu M)
-Aparna R. Madhavan (Trustee - C.K. Gita)
-Sita Madhavan Wenbrg (Trustee - Sivadasan Madhavan)
-
-Trustee Radhakrishnan has not submitted the nomination of his beneficiary."
-
-Meeting ended at 5 pm.
-
-Ramesh Chandran
-C.K. Gita
-Sivadasan A. Madhavan
+<{Line 1}> Alummoottil Tharavad Trust meeting held
+<{Line 2}> on 06/02/2024 (Six February Two thousand and twenty four)
+<{Line 3}> 1. Sivadasan M. <{signature}>
+<{Line 4}> 2. Udayabhanu M. <{signature}>
+<{Line 5}> 3. Radhakrishnan M. <{signature}>
+<{Line 6}> 4. Ramesh Chandran <{signature}>
+<{Line 7}> 5. C.K. Gita <{signature}>
+<{Line 8}> The meeting started at 3pm with
+<{Line 9}> prayer at Alummoottil Tharavad.
+<{Line 10}> The Managing Trustee welcomed all the
+<{Line 11}> members.
+<{Line 12}> The managing trustee explained the progress of the
+<{Line 13}> construction. He informed that the cost of construction
+<{Line 14}> increased much than expected due to our
+<{Line 15}> procurement of wood. The trustees appreciated
+<{Line 16}> the remodeling of "Chamba ppura" to "Kalithattu"
+<{Line 17}> which can be used for various utility purposes.
+<{Line 18}> "Resolved to appoint Sri Rajeev Pai, S R Pai & Co.,
+<{Line 19}> Kochi-682020 as the Auditor for 2024-26."
+<{Line 20}> "Resolved that the following persons are hereby
+<{Line 21}> accepted by the Board of Trustees as beneficiaries
+<{Line 22}> of each trustee as per the nomination received
+<{Line 23}> from the trustees (as per Board resolution dt. 22/12/2023):
+<{Line 24}> Bimal R. Madhavan (trustee-Ramesh Chandran M.)
+<{Line 25}> Arun Udayabhanu (Trustee-Udayabhanu M)
+<{Line 26}> Aparna R. Madhavan (Trustee-C.K. Gita)
+<{Line 27}> Sita Madhavan Wenbrg (Trustee-Sivadasan Madhavan) <{unclear; surname may read “Weinberg”}>
+<{Line 28}> Trustee Radhakrishnan has not submitted the
+<{Line 29}> nomination of his beneficiary."
+<{Line 30}> Meeting ended at 5pm.
+<{Line 31}> Ramesh Chandran <{signature}>
+<{Line 32}> C.K. Gita <{signature}>
+<{Line 33}> Sivadasan A. Madhavan <{signature}>
 
 -PAGE 13-
 
-<!-- ocr-metadata: source-type=printed; source-form=email-printout-with-attached-notice -->
-
-Gmail - Fwd: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
-
-07/01/26, 9:32 PM
-
-Gmail
-
-Chandra Mohanan B <chandramohanbhaskar@gmail.com>
-
-Fwd: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
-
-ramesh chandran <mrameshchandran@gmail.com>
-
-7 January 2026 at 21:31
-
-To: Chandra Mohanan B <chandramohanbhaskar@gmail.com>
-
----------- Forwarded message ---------
-
-From: ramesh chandran <mrameshchandran@gmail.com>
-
-Date: Sun, 17 Aug 2025, 9:15 am
-
-Subject: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
-
-To: Sivadasan Madhavan <samchannar@gmail.com>, udayabhanum@gmail.com <udayabhanum@gmail.com>, mrk_alummood@yahoo.com <mrk_alummood@yahoo.com>, ravindran34@gmail.com <ravindran34@gmail.com>
-
-ALUMMOOTTIL THARAVAD TRUST
-
-NOTICE OF TRUST MEETING
-
-16.08.2025
-
-It is proposed to hold an online meeting of the Trust on Thursday ,21-08-2025, at 8 pm (IST) to discuss and decide the matters as per the following Agenda. The meeting shall be under the zoom online platform.
-
-All the Trustees are requested to enter into the online meeting in time without fail. The meeting ID and password or link for entering into the meeting shall be forwarded in due course by E mail or Whatsapp.
-
-AGENDA:
-
-1 To authorise the Managing Trustee Sri M Rameshchandran Channar to find a suitable operator for leasing out the "Alummoottil Meda,Nalukettu,Pathayapura and /or any or all the adjacent buildings " to be run as a destination /resort/ayurvedic resort or any other similar establishments as the operator may decide. He may also be authorised to negotiate with at least 3 such operators and to select the best among them specifying the period of lease,lease rent /profit share and all other terms and conditions in connection therewith,as he may deem fit, in the best interest of the Trust.
-
-2 To authorise the Managing Trustee to enter into and sign on behalf of the Trust,any agreement or MOA or any document pertaining to the lease and operation and maintenance of the said establishment with any firm or body corporate and get it registered.
-
-3 To authorise the Managing Trustee to get all such documents duly vetted by a legal professional before he signs such documents on behalf of the Trust.
-
-4 To conduct a grand opening ceremony during the month of January 2025.
-
-M. Rameshchandran Channar
-
-Managing Trustee
-
-https://mail.google.com/mail/u/0/?ik=5e80cee5c3&view=pt&search...=thread-f:1853674434378728902&simpl=msg-f:1853674434378728902
-
-Page 1 of 1
-
--PAGE 14-
-
-<!-- ocr-metadata: source-type=printed; source-form=email-printout -->
-
-Gmail - Fwd: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
-
-07/01/26, 9:26 PM
-
-Gmail
-
-Chandra Mohanan B <chandramohanbhaskar@gmail.com>
-
-Fwd: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
-
-ramesh chandran <mrameshchandran@gmail.com>
-
-7 January 2026 at 21:24
-
-To: Chandra Mohanan B <chandramohanbhaskar@gmail.com>
-
----------- Forwarded message ---------
-
-From: ramesh chandran <mrameshchandran@gmail.com>
-
-Date: Sat, 23 Aug 2025, 10:59 am
-
-Subject: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
-
-To: Sivadasan Madhavan <samchannar@gmail.com>, <udayabhanum@gmail.com>, <ravindran34@gmail.com>, <mrk_alummood@yahoo.com>
-
-Dear Trustees
-
-Kindly see attached herewith the Minutes of the Online Zoom meeting of Alummoottil Tharavad Trust held on 21/08/2025 at 8 PM (IST)
-
-Thanks & Regards
-
-M Rameshchandran Channar
-
-Minutes of Zoom Online meeting of the Trustees of Alummoottil Tharavad Trust held on 21.docx
-
-16K
-
-https://mail.google.com/mail/u/0/?ik=5e80cee5c3&view=pt&search...d=thread-f:1853674017142388163&simpl=msg-f:1853674017142388163
-
-Page 1 of 1
-
-<!-- ocr-metadata: source-type=printed; source-form=email-attachment; attachment-page=1-of-2 -->
-
-Minutes of Zoom Online meeting of the Trustees of Alummoottil Tharavad Trust held on 21/08/2025 at 8 pm (IST)
-
-Trustees Present
-
-Sri M Sivadasan Channar
-
-Sri M Udayabhanu Channar
-
-Smt C K Gita
-
-Sri M Rameshchandran Channar - Managing Trustee
-
-This meeting was recorded for official purpose.
-
-The meeting started at 8 pm (IST) with a silent prayer.
-
-M Rameshchandran Channar, Managing Trustee, welcomed all the members present. Due to some technical error Mr M Udayabhanu Channar couldn't enter the Zoom meet but he was communicating over telephone. Sri M Radhakrishnan Channar was absent.
-
-Items of the Agenda were read by Managing trustee one by one. The following decisions have been taken unanimously by all four Trustees present.
-
-1. Resolved to authorise the Managing Trustee Sri M Rameshchandran Channar to find a suitable operator for leasing out the Alummoottil Meda, Nalukkettu, Pathayapura and / or any or all of the adjacent buildings in full or part, to be run as a Destination/ Resort/Ayurvedic Resort or any other similar establishment as the operator may decide. He is also hereby authorised to negotiate with at least 3 such operators in the field and to select any one among them including specifying the period of lease, lease rent, profit share and all other terms and conditions therewith, as he may deem fit, in the best interest of the trust.
-
-2. Resolved to authorise the Managing Trustee Sri M Rameshchandran Channar to enter into and sign, on behalf of the trust, any agreement MOA or any Document pertaining to lease, operation and maintenance of the Destination/ Resort/Ayurvedic Resort or any other similar
-
-<!-- ocr-metadata: source-type=printed; source-form=email-attachment; attachment-page=2-of-2 -->
-
-establishment with any individual, firm or body corporate and get it registered.
-
-3. Resolved to authorise the Managing Trustee Sri M Rameshchandran Channar to get all such documents vetted by a legal professional before he signs such documents on behalf of the Trust.
-
-4. In the fourth Agenda item, Managing Trustee informed a clerical error mentioning Jan 2025 to be read as Jan 2026.All members agreed to go for a grand opening ceremony in January 2026 to the convenience of Sri M Sivadasan Channar who will be in Kerala during this month.
-
-5. Sri Sivadasan Channar expressed Vote of Thanks. He appreciated the hard work and efforts taken by Raman & Jiji (Rameshchandran and Jiji Ramesh) for the last 5 years. He pointed out the urgency and need to find out an agency immediately to run the business smoothly and efficiently. The meeting ended at 8.30 pm.
-
-----------------------
-
-<!-- ocr-metadata: source-type=handwritten; content-type=signatures -->
-
-Ramesh Chandran
-
-Udayabhanu Channar.
-
-Sivadasan Channar
-
-Radhakrishnan - M
-
-C-K. GITA.
+<{PDF scan 15; printed e-mail/notice carrying handwritten book page number 13}>
+
+<{Line 1}> Gmail - Fwd: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)    07/01/26, 9:32 PM
+<{Line 2}> Gmail    Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+<{Line 3}> Fwd: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on
+<{Line 4}> 21-08-2025 at 8 PM (IST)
+<{Line 5}> 1 message
+<{Line 6}> ramesh chandran <mrameshchandran@gmail.com>    7 January 2026 at 21:31
+<{Line 7}> To: Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+<{Line 8}> ---------- Forwarded message ---------
+<{Line 9}> From: ramesh chandran <mrameshchandran@gmail.com>
+<{Line 10}> Date: Sun, 17 Aug 2025, 9:15 am
+<{Line 11}> Subject: On line Meeting of Board of Trustees of Alummoottil Tharavad Trust on 21-08-2025 at 8 PM (IST)
+<{Line 12}> To: Sivadasan Madhavan <samchannar@gmail.com>, udayabhanum@gmail.com <udayabhanum@gmail.com>,
+<{Line 13}> mrk_alummood@yahoo.com <mrk_alummood@yahoo.com>, ravindran34@gmail.com
+<{Line 14}> <ravindran34@gmail.com>
+<{Line 15}> ALUMMOOTTIL THARAVAD TRUST
+<{Line 16}> NOTICE OF TRUST MEETING
+<{Line 17}> 16.08.2025
+<{Line 18}> It is proposed to hold an online meeting of the Trust on Thursday ,21-08-2025, at 8 pm (IST) to discuss
+<{Line 19}> and decide the matters as per the following Agenda.The meeting shall be under the zoom online platform.
+<{Line 20}> All the Trustees are requested to enter into the online meeting in time without fail. The meeting ID and
+<{Line 21}> password or link for entering into the meeting shall be forwarded in due course by E mail or Whatsapp.
+<{Line 22}> AGENDA:
+<{Line 23}> 1 To authorise the Managing Trustee Sri M Rameshchandran Channar to find a suitable operator for leasing out
+<{Line 24}> the "Alummoottil Meda,Nalukettu,Pathayapura and /or any or all the adjacent buildings " to be run as ~~a destination~~ <{struck-through}>
+<{Line 25}> /resort/ayurvedic resort or any other similar establishments as the operator may decide. He may also be
+<{Line 26}> authorised to negotiate with at least 3 such operators and to select the best among them specifying the period of
+<{Line 27}> lease,lease rent /profit share and all other terms and conditions in connection therewith,as he may deem fit, in the
+<{Line 28}> best interest of the Trust.
+<{Line 29}> 2 To authorise the Managing Trustee to enter into and sign on behalf of the Trust,any agreement or MOA or any
+<{Line 30}> document pertaining to the lease and operation and maintenance of the said establishment with any firm or body
+<{Line 31}> corporate and get it registered.
+<{Line 32}> 3 To authorise the Managing Trustee to get all such documents duly vetted by a legal professional before he
+<{Line 33}> signs such documents on behalf of the Trust.
+<{Line 34}> 4 To conduct a grand opening ceremony during the month of January 2025.
+<{Line 35}> M. Rameshchandran Channar
+<{Line 36}> Managing Trustee
+<{Line 37}> https://mail.google.com/mail/u/0/?ik=5e80cee5c3&view=pt&search...=thread-f:1853674434378728902&simpl=msg-f:1853674434378728902    Page 1 of 1
+
+-BLANK BACK SHEET AFTER PAGE 13-
+
+<{PDF scan 16; blank/back sheet; no document text}>
+
+-PAGE 14 — INSERTED SHEET 1 OF 3-
+
+<{PDF scan 17; printed e-mail cover associated with handwritten book page 14}>
+
+<{Line 1}> Gmail - Fwd: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025    07/01/26, 9:26 PM
+<{Line 2}> Gmail    Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+<{Line 3}> Fwd: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held
+<{Line 4}> on 21/08/2025
+<{Line 5}> ramesh chandran <mrameshchandran@gmail.com>    7 January 2026 at 21:24
+<{Line 6}> To: Chandra Mohanan B <chandramohanbhaskar@gmail.com>
+<{Line 7}> ---------- Forwarded message ---------
+<{Line 8}> From: ramesh chandran <mrameshchandran@gmail.com>
+<{Line 9}> Date: Sat, 23 Aug 2025, 10:59 am
+<{Line 10}> Subject: Minutes of Online meeting of the Trustees of Alummoottil Tharavad held on 21/08/2025
+<{Line 11}> To: Sivadasan Madhavan <samchannar@gmail.com>, <udayabhanum@gmail.com>, <ravindran34@gmail.com>,
+<{Line 12}> <mrk_alummood@yahoo.com>
+<{Line 13}> Dear Trustees
+<{Line 14}> Kindly see attached herewith the Minutes of the Online Zoom meeting of Alummoottil Tharavad Trust held on
+<{Line 15}> 21/08/2025 at 8 PM (IST)
+<{Line 16}> Thanks & Regards
+<{Line 17}> M Rameshchandran Channar
+<{Line 18}> Minutes of Zoom Online meeting of the Trustees of Alummoottil Tharavad    Trust held
+<{Line 19}> on 21.docx
+<{Line 20}> 16K
+<{Line 21}> https://mail.google.com/mail/u/0/?ik=5e80cee5c3&view=pt&search...d=thread-f:1853674017142388163&simpl=msg-f:1853674017142388163    Page 1 of 1
+
+-PAGE 14 — INSERTED SHEET 2 OF 3-
+
+<{PDF scan 18; first typed minutes sheet associated with handwritten book page 14}>
+
+<{Line 1}> Minutes of Zoom Online meeting of the Trustees of Alummoottil Tharavad
+<{Line 2}> Trust held on 21/08/2025 at 8 pm (IST)
+<{Line 3}> Trustees Present
+<{Line 4}> Sri M Sivadasan Channar
+<{Line 5}> Sri M Udayabhanu Channar
+<{Line 6}> Smt C K Gita
+<{Line 7}> Sri M Rameshchandran Channar – Managing Trustee
+<{Line 8}> This meeting was recorded for official purpose.
+<{Line 9}> The meeting started at 8 pm (IST) with a silent prayer.
+<{Line 10}> M Rameshchandran Channar, Managing Trustee, welcomed all the members
+<{Line 11}> present. Due to some technical error Mr M Udayabhanu Channar couldn’t
+<{Line 12}> enter the Zoom meet but he was communicating over telephone. Sri M
+<{Line 13}> Radhakrishnan Channar was absent.
+<{Line 14}> Items of the Agenda were read by Managing trustee one by one. The following
+<{Line 15}> decisions have been taken unanimously by all four Trustees present.
+<{Line 16}> 1. Resolved to authorise the Managing Trustee Sri M Rameshchandran
+<{Line 17}> Channar to find a suitable operator for leasing out the Alummoottil
+<{Line 18}> Meda, Nalukkettu, Pathayapura and / or any or all of the adjacent
+<{Line 19}> buildings in full or part, to be run as a Destination/ Resort/Ayurvedic
+<{Line 20}> Resort or any other similar establishment as the operator may decide.
+<{Line 21}> He is also hereby authorised to negotiate with at least 3 such operators
+<{Line 22}> in the field and to select any one among them including specifying the
+<{Line 23}> period of lease, lease rent, profit share and all other terms and
+<{Line 24}> conditions therewith, as he may deem fit, in the best interest of the
+<{Line 25}> trust.
+<{Line 26}> 2. Resolved to authorise the Managing Trustee Sri M Rameshchandran
+<{Line 27}> Channar to enter into and sign, on behalf of the trust, any agreement
+<{Line 28}> MOA or any Document pertaining to lease, operation and maintenance
+<{Line 29}> of the Destination/ Resort/Ayurvedic Resort or any other similar
+
+-PAGE 14 — INSERTED SHEET 3 OF 3-
+
+<{PDF scan 19; second typed minutes sheet associated with handwritten book page 14}>
+
+<{Line 1}> establishment with any individual, firm or body corporate and get it
+<{Line 2}> registered.
+<{Line 3}> 3. Resolved to authorise the Managing Trustee Sri M Rameshchandran
+<{Line 4}> Channar to get all such documents vetted by a legal professional before
+<{Line 5}> he signs such documents on behalf of the Trust.
+<{Line 6}> 4. In the fourth Agenda item, Managing Trustee informed a clerical error
+<{Line 7}> mentioning Jan 2025 to be read as Jan 2026.All members agreed to go
+<{Line 8}> for a grand opening ceremony in January 2026 to the convenience of Sri
+<{Line 9}> M Sivadasan Channar who will be in Kerala during this month.
+<{Line 10}> 5. Sri Sivadasan Channar expressed Vote of Thanks. He appreciated the
+<{Line 11}> hard work and efforts taken by Raman & Jiji (Rameshchandran and Jiji
+<{Line 12}> Ramesh) for the last 5 years. He pointed out the urgency and need to
+<{Line 13}> find out an agency immediately to run the business smoothly and
+<{Line 14}> efficiently. The meeting ended at 8.30 pm.
+<{Line 15}> ----------------------
+<{Line 16}> Ramesh Chandran <{signature}>
+<{Line 17}> Udayabhanu Channar. <{signature}>
+<{Line 18}> Sivadasan Channar <{signature}>
+<{Line 19}> Radhakrishnan - M <{signature}>
+<{Line 20}> C-K. GITA. <{signature}>
+
+-BLANK BACK SHEET AFTER PAGE 14-
+
+<{PDF scan 20; blank/back sheet; no document text}>
 
 -PAGE 15-
 
-Meeting held on 24.1.2026 at Alummoottil Tharavad.
+<{PDF scan 21; handwritten book page 15}>
 
-Ramesh Chandran
-Sivadasan Madhavan
-M. Udayabhanu
-Radhakrishnan M.
-C.K. Gita
-
-Invitee.
-
-Jiji Ramesh
-Dr. Arun Udayabhanu
-
-The meeting started at 3 p.m. with prayer. Managing Trustee welcomed all the trustees and special invitees. The following agenda points were taken up one by one.
-
-1. Lease of Alummoottil Tharavadu Trust properties
-
-Managing Trustee informed the members that this was done by me along with Mrs. Jiji Ramesh. She was requested to explain the details. She informed that the following nine (9) parties were contacted with our details to get the expression of interest:
-
-(a) IMPERENCE
-(b) TAJ - AMA
-(c) ITC Hotels
-(d) LUXUMLOCK
-(e) GOOD EARTH
-(f) LEZBLDOR
-(g) SREEMOOLAVASAM WELLNESS & LEISURE RETREATS
+<{Line 1}> Meeting held on 24.1.2026 at alummoottil
+<{Line 2}> Tharavad.
+<{Line 3}> Ramesh Chandran <{signature}>
+<{Line 4}> Sivadasan Madhavan <{signature}>
+<{Line 5}> M. Udayabhanu <{signature}>
+<{Line 6}> Radhakrishnan.M <{signature}>
+<{Line 7}> C.K GITA <{signature}>
+<{Line 8}> Invitee. <{underlined}>
+<{Line 9}> Jiji Ramesh <{signature}>
+<{Line 10}> DR. ARUN UDAYABHANU <{signature}>
+<{Line 11}> The meeting started at 3 pm with
+<{Line 12}> prayer. Managing Trustee welcomed all the
+<{Line 13}> trustees and special invitees. The following
+<{Line 14}> Agenda points were taken up one by one
+<{Line 15}> <{circled}> 1. Lease of Alummoottil Tharavadu Trust.
+<{Line 16}> Properties:—
+<{Line 17}> Managing Trustee informed the members
+<{Line 18}> that this was done by me along with
+<{Line 19}> Mrs Jiji Ramesh. She was requested to
+<{Line 20}> explain the details. She informed that
+<{Line 21}> the following nine (9) parties were
+<{Line 22}> contacted with our details to get the
+<{Line 23}> expression of interest:
+<{Line 24}> <{circled}> (a) IMPERENCE
+<{Line 25}> <{circled}> (b) TAJ - AMA
+<{Line 26}> <{circled}> (c) ITC Hotels
+<{Line 27}> <{circled}> (d) LUXUMLOCK
+<{Line 28}> <{circled}> (e) GOOD EARTH
+<{Line 29}> <{circled}> (f) LEZBLDOR
+<{Line 30}> <{circled}> (g) SREEMOOLAVASAM WELLNESS &
+<{Line 31}> LEISURE RETREATS
 
 -PAGE 16-
 
-(h) INTERSITE HOLIDAYS PVT LTD.
-(i) CHINGOLI AYURVEDA HOSPITAL AND RESEARCH CENTRE
+<{PDF scan 22; handwritten book page 16}>
 
-Few of them backed out as they were misled by Anoop R. Madhavan's YouTube and social media blogs. Few were not interested as the destination did not have any place in the Tourist map. Other drawbacks pointed out was lack of sufficient rooms, no water frontage, no swimming pool, away from Tourist Destination etc.
-
-We received expression of interest from:
-
-1. IMPERENCE
-2. SREEMOOLAVASAM WELLNESS & LEISURE RETREATS
-3. LEZBLDOR
-
-Of the above three, Sreemoolavasam Wellness & Leisure Retreats was found to be more beneficial in terms and conditions and bid amount. After detailed deliberation and negotiation and consulting with the lawyer and chartered accountant, MOA was signed with them.
-
-The following lease agreements were made as follows:
-
-(a) A ten year lease Agreement for a monthly rent of Rs 60,000/- for MEDA registered at SRO Cheppad.
-
-(b) 11 months agreement for Rs 50,000/month for Nalukettu.
-
-(c) 11 months lease agreement for Rs 25,000/month for Nelpura.
+<{Line 1}> <{circled}> (h) INTERSITE HOLIDAYS PVT Ltd.
+<{Line 2}> <{circled}> (i) CHINGOLI AYURVEDA HOSPITAL AND RESEARCH
+<{Line 3}> CENTRE
+<{Line 4}> Few of them backed out as they were
+<{Line 5}> misled by Anoop R Madhavan's You Tube
+<{Line 6}> and Social media blogs. Few were not
+<{Line 7}> interested as the destination did not have
+<{Line 8}> any place in the Tourist map. Other
+<{Line 9}> draw backs pointed out were lack of
+<{Line 10}> Sufficient rooms, no water frontage,
+<{Line 11}> no swimming pool, away from Tourist
+<{Line 12}> Destination etc.
+<{Line 13}> We received expression of interest
+<{Line 14}> from <{circled}> 1. IMPERENCE
+<{Line 15}> <{circled}> 2. SREEMOOLAVASAM WELLNESS &
+<{Line 16}> LEISURE RETREATS
+<{Line 17}> <{circled}> 3. LEZBLDOR
+<{Line 18}> Of the above three, SREEMOOLAVASAM
+<{Line 19}> wellness & leisure Retreats was found to be
+<{Line 20}> more beneficial in terms and conditions and
+<{Line 21}> bid amount. After detailed deliberation and
+<{Line 22}> negotiation and consulting with the lawyer
+<{Line 23}> and Chartered Accountant, MOA was signed
+<{Line 24}> with them.
+<{Line 25}> The following lease agreement were
+<{Line 26}> made as follows-
+<{Line 27}> <{circled}> (a) A ten year lease Agreement for a
+<{Line 28}> monthly rent of Rs 60,000/- for MEDA
+<{Line 29}> registered at SRO Cheppad.
+<{Line 30}> <{circled}> (b) 11 months agreement for Rs 50,000/month
+<{Line 31}> for Nalukettu.
+<{Line 32}> <{circled}> (c) 11 months lease agreement for Rs 25,000
+<{Line 33}> for Nelpura.
 
 -PAGE 17-
 
-(d) 11 months agreement for Rs 25,000/month for Staff Quarters.
+<{PDF scan 23; handwritten book page 17}>
 
-(e) 11 months agreement for Rs 40,000/month for landed properties.
-
-(f) A business Collaboration agreement for 5% of the Adjustable Gross Operating Profit (AGOP) in the financial year for 10 years.
-
-Sreemoolavasam Wellness & Leisure Retreats (Tenant) requested to build a treatment block and to make a partition in the ground floor of Meda to be used as one more bed room which was accepted.
-
-"Resolved that this decision and action taken by Managing Trustee in line with the resolution taken on 21/8/2025 to select and enter into lease agreements and business Collaboration and MOA with Sreemoolavasam Wellness & Leisure Retreats is ratified and approved unanimously and to start the commercial terms with effect from 1/3/2026."
-
-2. Loan from the contractor Mr. Chandra Mohan or his associates
-
-The Managing Trustee informed that in order to complete the present works and additional works, to buy and provide a generator set, to pay the outstanding dues to the sub-contractor, an amount of Rs 73,25,000/- is required as per the estimate of the contractor which was sent to Mr. Sivadasan Channar and Managing Trustee by e-mail on 20/8/2025.
+<{Line 1}> <{circled}> (d) 11 months agreement for Rs 25,000/month for
+<{Line 2}> Staff quarters
+<{Line 3}> <{circled}> (e) 11 months agreement for Rs 40,000/month for
+<{Line 4}> Landed Properties.
+<{Line 5}> <{circled}> (f) A business Colabaration agreement for 5%
+<{Line 6}> of the Adjustable Gross Operating Profit (AGOP)
+<{Line 7}> in the financial year for 10 years.
+<{Line 8}> Sreemoolavasam wellness & leisure Retreats
+<{Line 9}> (Tenant) requested to build a treatment
+<{Line 10}> block and to make a partition in the
+<{Line 11}> ground floor of Meda to be used as one more
+<{Line 12}> bed room which was accepted.
+<{Line 13}> "Resolved that the decision and action
+<{Line 14}> taken by Managing Trustee in line with the
+<{Line 15}> resolution taken on 21/8/2025 to select
+<{Line 16}> and enter into a lease agreements and
+<{Line 17}> business Colabaration and MOA with
+<{Line 18}> Sreemoolavasam Wellness & Leisure Retreats.
+<{Line 19}> is ratified and approved unanimously"
+<{Line 20}> and to start the commercial terms with
+<{Line 21}> effect from 1/3/2026."
+<{Line 22}> 2. Loan from the Contractor Mr. Chandra Mohan
+<{Line 23}> or his associates -
+<{Line 24}> The Managing Trustee informed that
+<{Line 25}> in order to complete the present works
+<{Line 26}> and additional works, to buy and provide
+<{Line 27}> a Generator set, to pay the outstanding dues
+<{Line 28}> to the sub Contractor, an amount of
+<{Line 29}> Rs 73,25,000/- is required as per the
+<{Line 30}> estimate of the Contractor which was sent
+<{Line 31}> to Mr. Sivadasan Channar and Managing
 
 -PAGE 18-
 
-Mr. Sivadasan Channar had agreed to provide immediately Rs 30,00,000/-. The balance amount of Rs 45,00,000/- (Approximate) has to be taken as loan from other sources.
+<{PDF scan 24; handwritten book page 18}>
 
-The Managing Trustee informed that the contractor has agreed to arrange this amount from his source at 7% simple interest, if the Trust agrees. The trustees discussed about this and agreed upon taking loan from him without pledging any of Trust properties rather than getting from Bank / financial institutions. The payment of the loan amount plus 7% interest will be paid to Mr. Chandra Mohan or his associates monthly from the rent receivable from the tenant M/s Sreemoolavasam Wellness and Leisure Retreats.
-
-Resolved to take loan from M. C. Chandra Mohan or his associates for Rs 45,00,000/- which will be paid back to him monthly with 7% simple interest from the rent credited to the Trust account by M/s Sreemoolavasam Wellness and Leisure Retreats. The Managing Trustee was entrusted to calculate the EMI and payment plan accordingly.
-
-3. Appointment of Auditors
-
-Resolved to appoint Sri Rajeeva Pai, Managing Partner, S R Pai & Co., Chartered Accountant, Kadavanthra, Kochi from this date to the next financial year ending 2026-27.
+<{Line 1}> Trustee by e-mail on 20/8/2025.
+<{Line 2}> Mr. Sivadasan Channar had agreed to
+<{Line 3}> provide immediately Rs 30,00,000/-. The balance
+<{Line 4}> amount of Rs 45,00,000/- (approximate) has
+<{Line 5}> to be taken as loan from other Sources.
+<{Line 6}> The managing trustee informed that the
+<{Line 7}> contractor has agreed to arrange this
+<{Line 8}> amount from his Source at 7% Simple
+<{Line 9}> interest if the trust agrees. The trustees
+<{Line 10}> discussed about this and agreed upon taking
+<{Line 11}> loan from him without pledging any of
+<{Line 12}> Trust properties rather than going to any
+<{Line 13}> Bank / financial institutions. The payment
+<{Line 14}> of the loan amount plus 7% interest
+<{Line 15}> will be paid to Mr. Chandra Mohan
+<{Line 16}> or his associates monthly from the rent
+<{Line 17}> receivable from the tenant M/s Sreemoola
+<{Line 18}> vasam Wellness and Leisure Retreats.
+<{Line 19}> "Resolved to take loan from Mr. C. Chandra Mohan
+<{Line 20}> or his associates for Rs 45,00,000/- which
+<{Line 21}> will be paid back to him monthly with
+<{Line 22}> 7% Simple interest from the rent credited
+<{Line 23}> to the Trust account by M/s Sreemoolavasam
+<{Line 24}> Wellness and Leisure Retreats. The Managing
+<{Line 25}> Trustee was entrusted to calculate the
+<{Line 26}> EMI and payment plan accordingly."
+<{Line 27}> 3. Appointment of Auditors -
+<{Line 28}> "Resolved to appoint Sri Rajeeva
+<{Line 29}> Pai, Managing Partner, S R Pai &
+<{Line 30}> Co., Chartered Accountant, Kadavanthra,
+<{Line 31}> Kochi from this date to the next
+<{Line 32}> financial year ending 2026-27.
 
 -PAGE 19-
 
-4. Amount deposited / loan by the members till date to Sivadasan Channar's personal account
+<{PDF scan 25; handwritten book page 19}>
 
-Mr. Sivadasan Channar - Rs 8,76,997.00
-Dr. Ravindran Channar - Rs 1,00,00,000
-Dr. Manoj Ravi - Rs 67,00,000
-Mrs. Gita C.K. - Rs 54,00,000
-Mr. Bimal R. Madhavan - Rs 8,00,000
-Mr. Rameshchandran Channar
-Construction - Rs 90,00,000
-Trust account - Rs 2,16,800
-Advocate fee (Haripad, Mavelikkara Court) - Rs 1,42,000
-Legal charges for Documents - Rs 28,000
-
-(Rs 93,86,000)
-
-Mr. Ramesh Chandra requested to pay back the amount spent by him i.e., Rs 93,86,000/- and Rs 8,00,000/- spent by his son Bimal R. Madhavan who has also requested to pay back his amount after consulting accountant.
-
-"Resolved to pay back the amounts spent by Rameshchandran Channar, an amount of Rs 93,86,000/-, and Bimal R. Madhavan Rs 8,00,000/-, a total amount of Rs 1,01,86,000/- from the Trust account (Rental and profit share received from the tenant in a phased manner.)"
-
-Amount spent till date for construction and renovation is Rs 11,45,85,900/- and for purchasing land Rs 54,00,000/-.
-
-5. Old furniture, photographs, antiques
-
-Resolved to hand over to the tenant, old furniture items and utensils after restoration.
+<{Line 1}> 4. Amount deposited/loan by the members
+<{Line 2}> till date to Sivadasan Channar's personal account.
+<{Line 3}> Mr. Sivadasan Channar    -Rs 8,76,997.00
+<{Line 4}> Dr. Ravindran Channar    Rs 1,00,00,000
+<{Line 5}> Dr. Manoj Ravi    Rs 67,00,000
+<{Line 6}> Mrs. Gita C.K    Rs 54,00,000
+<{Line 7}> Mr. Bimal R. Madhavan    Rs 8,00,000
+<{Line 8}> Mr. Rameshchandran Channar
+<{Line 9}> Construction    Rs 90,00,000
+<{Line 10}> Trust account    Rs 2,16,800
+<{Line 11}> Advocate fee
+<{Line 12}> (Haripad, Mavelikkara Court) Rs 1,42,000
+<{Line 13}> Legal charges for Documents Rs 28,000
+<{Line 14}> (Rs 93,86,000)
+<{Line 15}> Mr. Ramesh Chandran requested to pay back
+<{Line 16}> the amount spent by him ie, Rs 93,86,000/-
+<{Line 17}> and Rs 8,00,000/- spent by his son Bimal
+<{Line 18}> R. Madhavan who has also requested to pay
+<{Line 19}> back his amount. (after consulting accountant)
+<{Line 20}> "Resolved to pay back the amounts
+<{Line 21}> spent by Rameshchandran Channar, an
+<{Line 22}> amount of Rs 93,86,000/-, and Bimal R.
+<{Line 23}> Madhavan Rs 8,00,000/-, a total amount
+<{Line 24}> of Rs 1,01,86,000/- from the Trust account
+<{Line 25}> (Rental and profit share received from the
+<{Line 26}> tenant in a phased manner.)"
+<{Line 27}> Amount spent till date for construction
+<{Line 28}> and renovation is Rs 11,45,85,900/- and
+<{Line 29}> for purchase of land Rs 54,00,000/-.
+<{Line 30}> 5. Old furniture, photographs, Antiques
+<{Line 31}> Resolved to hand over to the tenant, old
+<{Line 32}> furniture items and utensils after restoration
 
 -PAGE 20-
 
-The old photographs also are allowed to be exhibited in the buildings. The antique items handed over to them will be evaluated and will be exhibited. Inventory of the furniture and antique items will be prepared and kept as records. The balance items will be kept under safe custody of the Trust.
+<{PDF scan 26; handwritten book page 20}>
 
-6. Court Cases
-
-The Managing Trustee explained that the Trust is contesting against various cases filed by Mr. Anoop R. Madhavan in different courts: OS 84/24; OS 243/23, OS 241/25 and also many complaints filed by him in the Karelakulangara Police Station and in the Kerala forest Dept.
-
-All the Trustees Complained that "Resolu
-Mr. Anoop R. Madhavan, ~~the beneficiary~~ <sup>son</sup>
-of Trustee Radhakrishnan Channar, is
-Creating lot of problems by way of
-destruction of trust properties, physical
-threats, Litigations against the Trust and
-Trustees and tarnishing the image of
-Alummoottil Tharavadu Trust through Social
-Media, These cannot be tolerated at
-all and have to be terminated from
-The beneficiary status <sup>he may claim</sup> through legal
-means. In this regard a prominent lawyer
-is to be consulted and further action to
-be taken. Mr. Radhakrishnan Channar
+<{Line 1}> The old photographs also are allowed to
+<{Line 2}> be exhibited in the buildings. The
+<{Line 3}> antique items handed over to them
+<{Line 4}> will also be evaluated and will be
+<{Line 5}> exhibited. Inventory of the furniture and
+<{Line 6}> antique items will be prepared and
+<{Line 7}> kept as records. The balance items
+<{Line 8}> will be kept under safe custody of the
+<{Line 9}> Trust."
+<{Line 10}> 6. Court Cases
+<{Line 11}> The Management Trustee explained
+<{Line 12}> that the Trust is contesting against
+<{Line 13}> various cases filed by Mr. Anoop R.
+<{Line 14}> Madhavan in different Courts.
+<{Line 15}> OS 84/24; OS 243/23, OS 241/25
+<{Line 16}> and also many complaints filed by him
+<{Line 17}> in the Karelakulangara Police Station
+<{Line 18}> and in the Kerala forest Dept.
+<{Line 19}> All the trustees Complained that "Resolu <{abandoned fragment}>
+<{Line 20}> Mr. Anoop R. Madhavan, ~~the beneficiary~~ <sup>son</sup> <{struck-through}> <{inserted above line}>
+<{Line 21}> of Trustee Radhakrishnan Channar, is
+<{Line 22}> Creating lot of problems by way of
+<{Line 23}> destruction of trust properties, physical
+<{Line 24}> threats, Litigations against the Trust and
+<{Line 25}> Trustees and tarnishing the image of
+<{Line 26}> Alummoottil Tharavadu Trust through Social
+<{Line 27}> Media, These cannot be tolerated at
+<{Line 28}> all and have to be terminated from
+<{Line 29}> the beneficiary <sup>he may claim</sup> status through legal <{inserted above line}>
+<{Line 30}> means. In this regard a prominent lawyer
+<{Line 31}> is to be consulted and further action to
+<{Line 32}> be taken. Mr. Radhakrishnan Channar
 
 -PAGE 21-
 
-agreed to concerns expressed by other trustees and he willingly accepted to take legal steps in this regard immediately. Mr. Anoop's social media threats and tarnishing action has to be blocked and for this, an agency is identified and entrusted the job. (Faisal Kreative Academy Rs. 2.1 lac from Managing Trustee.)
+<{PDF scan 27; handwritten book page 21}>
 
-7.
+<{Line 1}> agreed to concerns expressed by other trustees
+<{Line 2}> and he willingly accepted to take legal steps
+<{Line 3}> in this regard immediately. Mr. Anoop's
+<{Line 4}> social media threats and tarnishing action
+<{Line 5}> has to be blocked and for this, an agency
+<{Line 6}> is identified and entrusted the job.
+<{Line 7}> (Faisal Kreative Academy Rs 2.1 lac from Managing Trustee.)
+<{Line 8}> 7. Managing trustee pointed out the efforts
+<{Line 9}> and Contributions by Mrs Jiji Ramesh
+<{Line 10}> for the construction works as Project Director,
+<{Line 11}> as well as for preparing all the mandatory
+<{Line 12}> documents of Alummoottil Tharavad Trust.
+<{Line 13}> The same was appreciated by the
+<{Line 14}> trustees.
+<{Line 15}> 8. Managing Trustee informed that guest
+<{Line 16}> house and Drivers room was built for the exclusive
+<{Line 17}> use of the Trustees and not handed over to the
+<{Line 18}> tenant. A seperate electric meter from KSEB
+<{Line 19}> will be installed here.
+<{Line 20}> 9. An opening ceremony by the Trust was planned
+<{Line 21}> before 28th of Jany 26 (before Mr. Sivadasan
+<{Line 22}> Channar leaves to US) but as we could not complete
+<{Line 23}> the pending works due to lack of fund, It is
+<{Line 24}> postponed. The meeting ended at 5.30pm.
+<{Line 25}> 10. It was also "resolved that 4/5 majority is only
+<{Line 26}> required for further amendments to the
+<{Line 27}> trust-deed."
+<{Line 28}> Ramesh Chandran-Channar <{signature}>
+<{Line 29}> Sivadasan Channar <{signature}>
+<{Line 30}> Udayabhanu Channar <{signature}>
+<{Line 31}> Radhakrishnan.M <{signature}>
+<{Line 32}> C.K Gita <{signature}>
 
-Managing Trustee pointed out the effort and contribution by Mrs. Jiji Ramesh for the construction works as Project Director, as well as for preparing all the mandatory documents of Alummoottil Tharavadu Trust. The same was appreciated by the trustees.
+-UNNUMBERED FINAL SHEET AFTER PAGE 21-
 
-8.
+<{PDF scan 28; separate sheet}>
 
-Managing Trustee informed that guest house and drivers room was built for the exclusive use of the trustees and not handed over to the tenant. A separate electric meter from KSEB will be installed here.
-
-9.
-
-An opening ceremony by the Trust was planned before 28th of Jan 26 before Mr. Sivadasan Channar leaves to US, but as we could not complete the pending works due to lack of fund, it is postponed. The meeting ended at 5.30 p.m.
-
-10.
-
-It was also resolved that 4/5 majority is only required for further amendments to the trust deed.
-
-Ramesh Chandra Channar
-Sivadasan Channar
-Udayabhanu Channar
-Radhakrishnan M.
-C.K. Gita
-
-OS 214/25
+<{Line 1}> OS 214 /25
