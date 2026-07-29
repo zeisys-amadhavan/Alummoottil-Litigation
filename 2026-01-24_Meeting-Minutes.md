@@ -753,7 +753,7 @@ TRANSCRIPTION CONVENTIONS:
 
 <{Line 1}> 4. Amount deposit/loan by the members  
 <{Line 2}> till date to Sivedasan Channar's personal account.  
-<{Line 3}> Mr. Sivedasan Channar    -Rs 8,76,997.00  
+<{Line 3}> Mr. Sivedasan Channar    Rs 8,76,99,900  
 <{Line 4}> Dr. Ravindran Channar    Rs 1,00,00,000  
 <{Line 5}> Dr. Manoj Ravi    Rs 67,00,000  
 <{Line 6}> Mrs. Gita C K    Rs 54,00,000  
