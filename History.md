@@ -1,6 +1,6 @@
 # O.S. 214/2025 — Case History
 
-*Munsiff Court, Haripad · as of 2 June 2026*
+*Munsiff Court, Haripad · as of 5 August 2026*
 
 > **PRIVILEGED AND CONFIDENTIAL — ATTORNEY-CLIENT COMMUNICATION.** Intended only for the named recipient(s).
 
@@ -62,8 +62,17 @@
 | 18.05.2026 | D2 produces the documents sworn unavailable (IA 7/2026); new counsel on record. |
 | 28.05.2026 | Declared holiday; rolled to 12.06.2026. |
 | 02.06.2026 | Joint strategy call with both counsel. |
-| 12.06.2026 | Next hearing — objection and hearing of IAs 2, 5 and 9. |
+| 12.06.2026 | Hearing listed for IA 5/2026 and 6/2026; adjourned to 20.06.2026. |
+| 19.06.2026 | D1–D2 file objections to IA 5/2026 and 6/2026; third amendment Deed 38/IV/2026 surfaces in the objection. |
+| 20.06.2026 | Defendants seek settlement; court grants time till 24.07.2026 — lessee's operations continue meanwhile. |
+| 24.07.2026 | Settlement window ends, nothing settled; court records "No further time"; adjourned to 27.07.2026. |
+| 27.07.2026 | "Last chance" for hearing IA 6/2026; adjourned to 29.07.2026. Same day, the "Nomination as Beneficiary" letter (Radhakrishnan → Maliny) is dated. |
+| 29.07.2026 | "Heard" — but not decided; pushed to 01.08.2026. |
+| 31.07.2026 | D2's counter to IA 6/2026 sworn: "all documents… in my possession or power… are produced" (while ¶6 admits a withheld expenditure statement). |
+| 01.08.2026 | Pushed to 04.08.2026; D1–D2's fresh admission petition dated, with affidavit swearing accounts "given for audit". |
+| 04.08.2026 | D1–D2 file the 21-page bundle: counter to IA 6/2026, bank statement to 30.07.2026, nomination letter dt. 27.07.2026, day book (photocopy only), and an unnumbered IA seeking 15 days for an "audited balance sheet". Plaintiff seeks adjournment to 10.08.2026 to answer. |
+| 10.08.2026 | Next posting — Plaintiff's objection to be filed: five solemn statements (Oaths I–V), 12-row schedule of referenced-but-unproduced documents, 57 counts of approbation–reprobation, adverse inference under s.119 Ill.(g) BSA, production of invoices for ₹11,99,85,900 sought. |
 
 ---
 
-**Prepared by:** Kim Sutton · **Client:** Anoop Madhavan · **Date:** June 2, 2026
+**Prepared by:** Kim Sutton · **Client:** Anoop Madhavan · **Date:** August 5, 2026
