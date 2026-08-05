@@ -3,7 +3,7 @@
 > Personal/individually-held immovable property of persons connected to O.S. 214/2025.
 > **This register is deliberately separate from the Trust property file.** Nothing here is Trust corpus, and nothing here should enter any Trust attachment/preservation schedule unless independently established as Trust property.
 > Fields marked **[TO COLLECT]** are pending.
-> Last updated: 2026-06-26
+> Last updated: 2026-08-05
 
 ---
 
@@ -33,6 +33,9 @@
 ---
 
 ## 2. RAMESH CHANDRAN M. (D2) / JIJI RAMESH (D4)
+
+> ➡️ **This section is superseded by the standalone register `2026-08-05_Metadata_Alummoottil_D2-D4-personal-property.md`** (Ramesh Chandran M. & Jiji Ramesh — consolidated holdings, thandappers, land types, mutation status, tax history, deed appearances, boundary recitals). Retained here for continuity; the standalone file is authoritative.
+
 
 *Personal land lies west & south of the Trust plot, Block 13. Survey numbers now partly obtained from ReLIS (pull 26-07-2024); confirm full set via Encumbrance Certificate (Thandapper 16961).*
 
@@ -325,6 +328,85 @@ The printed "Land Parcel Map" corner coordinates are a metric grid on a **local 
 - [ ] **Resolve T.C. 30/1394** (Udayabhanu's file address) — matches neither 2011 building; try pre-2011 ward year, or treat as a possible third property
 - [ ] Find the **clinic's** owner detail / mobile to corroborate against Udayabhanu's PAN AAFPU5986L / Aadhaar 5146 3446 6964
 - [ ] Any other individually-held buildings or land for the parties above
+
+---
+
+## 6. O.S. 197/1983 FINAL-DECREE PLAT — what it adds to the personal register
+
+*Source: final-decree plat, Surveyor K. Shaji. Photocopy of a handwritten sheet — **not certified**. Covers only 219/10, 11, 19, 27, 28, 29 and 218/1. Cents = ares × 2.4711. Full plat detail in the Trust Property Register §F.*
+
+### 6.1 No trustee personal property is touched
+
+The plat adds **nothing** on the personal holdings of M. Radhakrishnan (§1), M. Udayabhanu (§3A), C.K. Gita, Sivadasan A. Madhavan, or Manoj/Anand Ravindran. Those entries stand unchanged.
+
+**Nor does it touch D2 or D4.** None of 219/4, /5, /20, /25 or /26 appears on the plat — see the standalone D2/D4 register.
+
+### 6.2 Chellamma Channatti — 219/27 and 219/28 now have decree context
+
+Her two parcels are **not stray residues.** The plat shows each as the portion of a partitioned parent falling outside the 5/6 allotment:
+
+| Parcel | Ares | Cents | Plat role |
+|---|---|---|---|
+| **219/27** | 0.49 | 1.211 | the **219/27 component of the 1/6 share** (1/6 = 5.39 from 219/11 + 0.49 from 219/27 = 5.88) |
+| **219/28** | 0.90 | 2.224 | the **219/28 component of the 6.50-are pathway block** (218/1 2.35 + 219/10 3.25 + 219/28 0.90) |
+
+Both remain on dormant thandapper **6874-A**, with no tax ever recorded through the system. So the 1.39 ares still in the matriarch's name is precisely the 1/6-share and pathway residue of the 2017 partition — **the revenue register was never updated for either.**
+
+### 6.3 The 1/6 sharer — a strong reading, NOT established
+
+**Gift Deed 1482/I/2021** (09-12-2021; executant **Ajithkumar Gopinathan, S/o Gopinathan**, 65, working abroad) conveyed to the five brothers:
+
+```
+219/11  5.39  ─┐
+219/27  0.49  ─┴─  = 5.88  = the plat's 1/6 SHARE, exactly
+219/10  3.25  ─┐
+219/28  0.90  ─┴─  = 4.15  = the pathway block's PRIVATE portion (6.50 less 218/1 poramboke 2.35)
+              -----
+              10.03 ares = the gift deed's own total, exactly
+```
+
+→ **Reading: Ajithkumar Gopinathan held the 1/6 allotment under the 2017 final decree, and the December 2021 gift conveyed that allotment plus the private pathway parcels to the five brothers.** A four-component match to two decimals is not coincidence.
+
+⚠️ **Not established.** The plat as captured does **not** name the sharers. Confirm from the certified decree before use:
+- [ ] That Ajithkumar Gopinathan was the 1/6 sharer.
+- [ ] Whether he is **a third Gopinath sibling** alongside Beena (219/9) and Darsana (219/12) — i.e. whether the 1/6 went to **Saradamani's line**. The Parties file records the Gopinath sibs as children of N. Gopinathan & Saradamani; "S/o Gopinathan" fits, and nothing more. **Do not draw the Chellamma → Saradamani → Gopinath inference from this plat.**
+
+### 6.4 Two of the four gifted parcels were never mutated
+
+Of the four parcels gifted by 1482/2021, only **219/11-1 (5.39)** and **219/10 (3.25)** moved onto the brothers' account 16961. **219/27 (0.49)** and **219/28 (0.90)** were never mutated and remain on Chellamma's 6874-A.
+
+A discrete, small, checkable gap in the Trust's title chain: 1.39 ares claimed through a 2021 gift but still booked to a woman of the grandparental generation. Recorded as fact. **No inference drawn as to why.**
+
+### 6.5 Corrections to earlier entries in this register
+
+- **"Chellamma = Muttom Muri" — DOWNGRADED.** The ReLIS Tax Dues view gives മുട്ടം മുറി; the Land Record view for the same two parcels gives ചേപ്പാട് വില്ലേജ് with no muri. Single-source address string, **not a finding**.
+- **Chellamma's parentage field** reads a bare full stop (`S/o .`) in both ReLIS views — a placeholder, not a name. Meaning unknown.
+- **The generic "S/o" label** is a defect of the ReLIS **Land Record** view specifically; the **Tax Dues** view renders the true relationship (ഭാര്യ / മകൾ / മകൻ). Never read a relationship off the English label in a Land Record screen — read the Malayalam. Where only the label exists, the relationship is **[TO CONFIRM]**.
+
+### 6.6 §4 neighbourhood — completions (survey 219 now complete, /1–/29 + 218/1)
+
+| Re.Sy. | Ares | Cents | Land type | Register | Holder of record |
+|---|---|---|---|---|---|
+| 219/14 | 2.03 | 5.016 | Purayidam | BTR | Seethalakshmi, of Vasudevan Channar · Puthussery Veettil, Chethippuzha Velur |
+| 219/15 | 5.32 | 13.146 | Purayidam | BTR | Arun S/o Somanathan · Idayile Veettil, Cheppad |
+| 219/16 | 0.01 | 0.025 | Purayidam | BTR | Vasudevan Channar, S/o **Kesavan** Channar · Alummoottil-padeettathil |
+| 219/17 | 0.01 | 0.025 | Purayidam | BTR | Vasudevan Channar, S/o **Kesavan** Channar · Alummoottil-padeettathil |
+| 219/21 | 3.80 | 9.390 | Purayidam | PokkuVaravu | Aneesh S/o Krishnankutty · S.V. Cottage, Cheppad |
+| 219/22 | 6.15 | 15.197 | **Nilam** | BTR | V.N. Ranadev, of Venugopal · Lavanya, **Thiruvananthapuram** |
+| 219/23 | 6.10 | 15.074 | Purayidam | PokkuVaravu | Ani Philip S/o Philip · Pilamoottil-kizhakkathil, **Pallippad** |
+| 219/24 | 8.10 | 20.016 | Purayidam | PokkuVaravu | Sivankutty, of Divakaran · mundu kottayil, cheppad |
+
+**A second Channar line — do NOT merge with the five brothers.** 219/1, /16 and /17 trace to **കേശവൻ ചാന്നാർ (Kesavan Channar)**, not T.K. Madhavan:
+
+```
+Kesavan Channar
+ ├── Ramakrishnan Channar  — 219/1  (0.01) · Cheevacheril
+ └── Vasudevan Channar     — 219/16 (0.01) + 219/17 (0.01) · Alummoottil-padeettathil
+      └── Seethalakshmi    — 219/14 (2.03) · Puthussery Veettil, Chethippuzha Velur
+```
+**[TO CONFIRM]** whether "Channar/Channatty at Alummoottil-padeettathil" is a collateral branch of the tharavad or an unrelated family that took the locality name. Not answered.
+
+**Four Channatty women are now on the revenue record** — Chellamma (219/27, /28), Saradamani (219/5, mother of Beena & Darsana), **Padmavathi** (mother of Ganga Prasad, 219/18), **Sumathi** (mother of Krishnakumari, 219/13). ⚠️ **Only ONE link is stated on any record: Saradamani as daughter of Chellamma, on 219/5.** Padmavathi's and Sumathi's relationship to Chellamma is nowhere stated — shared surname and locality only. The beneficiary claim runs through descent from Chellamma, so this tree must be proved from the **1956 Book-3 will**, the **1958 Book-1 deed** and the **O.S. 197/1983 partition record**, never from tax screens.
 
 ---
 

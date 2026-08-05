@@ -8,7 +8,7 @@
 >
 > Section D reconciles the three and flags discrepancies (these are evidentiarily important). Fields marked **[TO COLLECT]** are pending.
 > This file covers TRUST property only. Individuals' personal property is in a separate register.
-> Last updated: 2026-06-26
+> Last updated: 2026-08-05
 
 ---
 
@@ -165,6 +165,65 @@
 - [ ] **Building records:** Nelpura — Building ID, name it stands in, tax
 - [ ] **Building records:** confirm Nelpura is distinct from any other structure
 - [ ] EC (Thandapper 16961) — to map adjoining personal parcels (kept in Personal Property register)
+
+---
+
+# F. O.S. 197/1983 FINAL-DECREE PLAT — the partition behind the corpus
+
+*Source: final-decree plat, Surveyor **K. Shaji, First Grade Surveyor**. Header: District Alappuzha · Taluk Karthikappally · Village Cheppad · Block **13** · Re.Sy. **219/10, 11, 19, 27, 28, 29 and 218/1**. Read from a photocopy of a handwritten survey sheet — **not a certified copy.** Obtain the certified final decree before any figure here is sworn to. Cents = ares × 2.4711.*
+
+## F1. Parent extents — CONFIRMED (supersedes the reconstruction in §A)
+
+§A recorded 219/27 ≈ 0.60 and 219/28 ≈ 3.00 as a *reconstruction* from parent/child arithmetic. The plat legend states them outright:
+
+| Parent | Plat legend | Current sub-parcels | Check |
+|---|---|---|---|
+| **219/11** | **27.20 ares** (67.214 cents) | 219/11 (21.81) + 219/11-1 (5.39) | 27.20 ✓ |
+| **219/27** | **0.60 ares** (1.483 cents) | 219/27 (0.49) + 219/27-1 (0.11) | 0.60 ✓ |
+| **219/28** | **3.00 ares** (7.413 cents) | 219/28 (0.90) + 219/28-1 (2.10) | 3.00 ✓ |
+
+→ The ReLIS "parent" row shows the **residual** portion, not the original whole. Now established, not inferred.
+
+## F2. The 1/6 : 5/6 partition
+
+The plat divides **35.30 ares (87.230 cents)** into two allotments, and separately maps a pathway block.
+
+| Allotment | Ares | Cents | Composition | Corner points on plat |
+|---|---|---|---|---|
+| **1/6 share** | **5.88** | 14.530 | 219/11 portion **5.39** + 219/27 portion **0.49** | *(within the H-I-J-K-L-M block)* |
+| **5/6 share** | **29.42** | 72.700 | 219/11 **21.81** + 219/27-1 **0.11** + 219/28-1 **2.10** + 219/29 **0.65** + 219/19 **4.75** | H, A1, B1, C1, D1, E1, F1, H1, J1, Q, P, O, N, L, M, J |
+| **Main block total** | **35.30** | 87.230 | 219/29 0.65 + 219/11 27.20 + 219/27 0.60 + 219/28 2.10 + 219/19 4.75 | H, I, J, K, L, M |
+| **Pathway block** | **6.50** | 16.062 | **218/1 2.35 (poramboke)** + **219/10 3.25** + **219/28 0.90** | K, L, N, O, P, Q, R, C, S, T, U, V |
+
+**The 5/6 allotment (29.42 ares) is, parcel for parcel, the schedule of Deed 299/I/2024.**
+
+## F3. Reconciliation — every are accounted for
+
+```
+Surveyed, private (excl. 218/1 poramboke)   35.30 + 3.25 + 0.90        = 39.45 ares
+Trust corpus, TP 16961                      29.42 (5/6) + 5.39 + 3.25  = 38.06 ares
+                                                                          ---------
+Difference                                                                 1.39 ares
+   = 219/27 (0.49) + 219/28 (0.90) — still standing in CHELLAMMA CHANNATTI's
+     name on dormant thandapper 6874-A (see Personal Property Register §6)
+```
+
+The only portion of the surveyed private land outside the Trust's account is exactly the 1.39 ares still registered to the matriarch.
+
+## F4. 218/1 — reclassify
+
+218/1 (2.35 ares, poramboke, no holder) is not merely an adjoining parcel: it is **a named component of the 6.50-are pathway block in the decree plat**. Record it here as a surveyed component of the access route, while keeping its character as **government poramboke — unheld, and NOT Trust corpus.**
+
+## F5. 219/29's mutation entry — context
+
+219/29 (0.65) is the only one of the seven TP-16961 parcels carrying a **PokkuVaravu Entry** remark (219/10, /11, /19 read BTR). On the plat it sits inside the 35.30-are block and passes to the 5/6 allotment. The mutation file should recite the decree — pull it.
+
+## F6. [TO CONFIRM] — before any of §F is used
+
+- [ ] **Certified copy of the O.S. 197/1983 final decree and plat** (IA 505/86, decree 21-12-2017). Everything above is read off a photocopy of a handwritten sheet.
+- [ ] Confirm **Cheppad 2017/505, Book 0, type C** — cited in Gift 1482/2021's previous-document chain — is that decree.
+- [ ] Who took the **1/6** and who took the **5/6**. The plat as captured does **not** name the sharers. See Personal Property Register §6.
+- [ ] Mutation file behind 219/29's PokkuVaravu entry.
 
 ---
 
