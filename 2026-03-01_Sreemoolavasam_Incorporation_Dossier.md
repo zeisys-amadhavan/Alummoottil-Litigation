@@ -1,7 +1,7 @@
 # Sreemoolavasam Wellness and Leisure Retreats Private Limited — MCA Corporate Dossier
 
 > Verified against primary source documents on 2026-07-20.
-> **Sources:** e-MOA (INC-33) & e-AOA (INC-34), SRN AB5804151 (approved 08-08-2025); Form INC-20A (SRN AB8216267, filed 13-10-2025) + IDFC First Bank statement; Form INC-22 (SRN AB6562855, filed 05-09-2025) + Jincy Kuriakose NOC + KSEB bill; Form INC-22 (SRN AC2154358, filed 05-02-2026) + EGM extract + Trust NOC + KSEB bill; Lease Deed 3237/2025 dated 27-10-2025; registered-office signboard photographs; GST registration extract (portal updated 01-03-2026); Cheppad Grama Panchayat property-tax receipt; Alummoottil Trust party register.
+> **Sources:** e-MOA (INC-33) & e-AOA (INC-34), SRN AB5804151 (approved 08-08-2025); Form INC-20A (SRN AB8216267, filed 13-10-2025) + IDFC First Bank statement; Form INC-22 (SRN AB6562855, filed 05-09-2025) + Jincy Kuriakose NOC + KSEB bill; Form INC-22 (SRN AC2154358, filed 05-02-2026) + EGM extract + Trust NOC + KSEB bill; Lease Deed 3237/2025 dated 27-10-2025; registered-office signboard photographs; GST registration extract (portal updated 01-03-2026); GST portal "Search Taxpayer" capture dated 13-06-2026 (registration profile, HSN/SAC, and FY 2025-26 return-filing tables; site last updated 29-05-2026); Cheppad Grama Panchayat property-tax receipt; Alummoottil Trust party register.
 > Fields marked **[UNVERIFIED]** are not evidenced in the documents held.
 
 ---
@@ -76,6 +76,48 @@ Per e-MOA, share capital **₹10,00,000**, divided into **1,00,000 equity shares
 | Account no. | 10246817315 (Type: Gold; Customer ID 6684813367) |
 | IFSC / MICR | IDFB0080511 / 682751002 |
 | Account opened | 17-09-2025 |
+
+---
+
+## 5A. GST PROFILE & RETURN FILINGS (portal capture 13-06-2026)
+
+**Registration profile — GSTIN 32ABQCS9416G1Z1** (Search Taxpayer, services.gst.gov.in):
+
+| Field | Detail |
+|---|---|
+| Legal name / Trade name | Sreemoolavasam Wellness and Leisure Retreats Private Limited (both) |
+| Effective date of registration | 09-12-2025 |
+| GSTIN / UIN status | Active |
+| Constitution | Private Limited Company |
+| Taxpayer type | Regular |
+| Principal place of business | 2/242, Alumoottil, Muttom, Haripad, Chingoli, Alappuzha, Kerala, 690511 |
+| Administrative office (Centre) | CBIC — Thiruvananthapuram Zone; Thiruvananthapuram Commissionerate; Alappuzha Division; **Kayamkulam Range** |
+| Administrative office (State) | Kerala — Alappuzha District; **Taxpayer Services Circle, Harippad** |
+| Aadhaar authenticated | Yes — 05-01-2026 |
+| e-KYC verified | Not Applicable |
+| Nature of core business activity | Service Provider and Others |
+| Nature of business activities | 1. Supplier of Services 2. Others |
+
+**Dealing in services (HSN/SAC):**
+
+| HSN | Description |
+|---|---|
+| 999321 | Residential health-care services other than by hospitals |
+| 9993 | Human health and social care services |
+
+**Return filings — FY 2025-26** (all "Filed"):
+
+| Tax period | GSTR-3B filed on | GSTR-1/IFF filed on |
+|---|---|---|
+| December 2025 | 20-01-2026 | 09-01-2026 |
+| January 2026 | 20-02-2026 | 11-02-2026 |
+| February 2026 | 17-03-2026 | 10-03-2026 |
+| March 2026 | 20-04-2026 | 10-04-2026 |
+
+- Continuous monthly GSTR-1 and GSTR-3B filings from **December 2025** onward: the company has been reporting outward supplies (business activity) on the GSTN system from the first month after registration — while the first payment to the Trust reflected in the Trust's bank account is dated 24-04-2026.
+- The registered HSN codes describe a **residential health-care / wellness operation** — the commercial activity conducted at the heritage premises.
+- The company's outward-supply detail (GSTR-1 invoice-level data) and the corresponding returns are **summonable from the department/GSTN** independent of the company or the Defendants.
+
 
 ---
 
