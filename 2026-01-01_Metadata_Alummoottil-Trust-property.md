@@ -218,12 +218,59 @@ The only portion of the surveyed private land outside the Trust's account is exa
 
 219/29 (0.65) is the only one of the seven TP-16961 parcels carrying a **PokkuVaravu Entry** remark (219/10, /11, /19 read BTR). On the plat it sits inside the 35.30-are block and passes to the 5/6 allotment. The mutation file should recite the decree — pull it.
 
+## F5a. ⚠ THE PLAT’S DIMENSIONS ARE IN METRES, NOT FEET
+
+Established twice over from the sheet itself: 18 polygon edges matched to their own dimension lines give 8.612 px per drawing unit; total drawn area against the ten recorded extents gives 8.671 px per metre. The two agree to 1.4%. Read as feet, every parcel comes out ten times too small. The sheet’s own note reads `സ്കെയിൽ 1 സെ.മീ = … മീ`; the numeral is illegible at this scan resolution. The sheet converts are→cent at **2.4710** (16.061/6.50, 87.226/35.30, 14.529/5.88 all give it).
+
+**Derived, from the sheet’s own figures:** 13/15 conveyed by Deed 299/I/2024 = **25.497 are / 63.004 cent** · 35.30 − 0.49 + 3.25 = **38.06 are / 94.046 cent**, equal to TP 16961 on receipt KL04040204922/2023 · Chellamma’s residue 0.49 + 0.90 = **1.39 are / 3.435 cent**, equal to TP 6874-A. Every block on the sheet closes to the digit; no arithmetic error found.
+
 ## F6. [TO CONFIRM] — before any of §F is used
 
 - [ ] **Certified copy of the O.S. 197/1983 final decree and plat** (IA 505/86, decree 21-12-2017). Everything above is read off a photocopy of a handwritten sheet.
 - [ ] Confirm **Cheppad 2017/505, Book 0, type C** — cited in Gift 1482/2021's previous-document chain — is that decree.
 - [ ] Who took the **1/6** and who took the **5/6**. The plat as captured does **not** name the sharers. See Personal Property Register §6.
 - [ ] Mutation file behind 219/29's PokkuVaravu entry.
+
+---
+
+# G. ⚠ THE WHOLE CORPUS MUTATED INTO THE TRUST'S OWN NAME — thandapper 17644 (found 05-08-2026)
+
+> **Supersedes the earlier §G, which recorded 219/29 alone.** That was the first parcel found, not the only one.
+
+ReLIS Tax Dues/Ownership, pulled 05-08-2026. **All seven corpus parcels have left TP 16961 (five brothers) for a new TP 17644 in the Trust's own name. Every one paid 04-08-2026.**
+
+| Re.Sy. | Ares | Cents | Amount | Paid on |
+|---|---|---|---|---|
+| 219/10 | 3.25 | 8.031 | ₹48 | 04-08-2026 |
+| **219/11** | **21.81** | 53.895 | **₹264** | 04-08-2026 |
+| **219/11-1** *(NELPURA)* | **5.39** | 13.319 | **₹72** | 04-08-2026 |
+| 219/19 | 4.75 | 11.738 | ₹60 | 04-08-2026 |
+| 219/27-1 | 0.11 | 0.272 | ₹12 | 04-08-2026 |
+| 219/28-1 | 2.10 | 5.189 | ₹36 | 04-08-2026 |
+| 219/29 | 0.65 | 1.606 | ₹12 | 04-08-2026 |
+| **TOTAL** | **38.06** | **94.050** | **₹504** | one session |
+
+Holder string on all seven, identical: `ALUMMOOTTIL THARAVAD TRUST, Alummoottil House, Valyakuzhy Muri, Muttom P.O., Kerala, Muttom`.
+
+**TP 16961 is now empty.** The standing finding *"mutation to the Trust: NOT done"* is dead — it was true of every record before 04-08-2026 and is false of all seven now.
+
+Recorded as fact:
+
+1. **A new thandapper was opened rather than 16961 transferred.** Why is unexplained.
+2. **Effected pendente lite** — mutation and payment dated 04-08-2026, while O.S. 214/2025 and the IA 6/2026 production application are live. 04-08-2026 is also the date of the D1/D2 day-book production memo in IA 6/2026.
+3. **The same session cleared D2's and D4's own accounts** — TP 6872-A (219/20 ₹216, /25 ₹96, /26 ₹120 = ₹432) and TP 17093 (219/4 ₹38). Three accounts, eleven parcels, ₹974 — the identical grouping as 03-06-2023, with 17644 standing where 16961 stood.
+4. **The payer field was not captured** on any of the eleven screens.
+5. **219/28-1 reads 0-2-10 = 2.10 are**, confirming the plat and the TP 16961 receipt against the 2.01 pleaded in O.S. 243/2024.
+
+**To collect**
+- [ ] Village Office mutation file / ReLIS **Pokkuvaravu for TP 17644** — applicant, date, instrument, and whether one application covered all seven. **Highest-priority item in the whole survey-219 workstream.**
+- [ ] Receipt / GRN for the 04-08-2026 session — the payer field
+- [ ] Whether the mutation was disclosed in any filing, minute or affidavit
+
+> **Discipline:** this is a change in the revenue register, nothing more, until the mutation file is read. It states who applied and on what instrument — plead from that, not from a tax screen.
+
+*Full parcel data for the whole of survey 219: `2026-08-05_Metadata_Survey-219_MASTER-parcel-register.md` (rewritten 05-08-2026).*
+*Plat: `2026-08-05_OS197-1983_FMB_plat_v54.svg`.*
 
 ---
 

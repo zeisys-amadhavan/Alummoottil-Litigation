@@ -5,7 +5,7 @@
 > **Cents = ares × 2.4711.**
 > Sources: ReLIS Tax Dues/Ownership (two pulls) · ReLIS Land Record (26-07-2024) · Thandapper 16961 tax receipt KL04040204922/2023 · SRO document screens 1482/2021, 1669/2022, 298/2024, 299/2024 · K-SMART building record · O.S. 197/1983 final-decree plat.
 > Screen captures and one PDF receipt. **Nothing here is a certified record.**
-> Last updated: 2026-08-05
+> Last updated: 2026-08-05 (rev. 2 — batches 6–9 folded in)
 
 ---
 
@@ -14,12 +14,15 @@
 Cheppad Village · Karthikappally Taluk · Alappuzha · Block **013** · resurveyed **01-07-1992** · old survey nos. V-1834 / V-1851 / V-1852.
 Holder string (Land Record view): **രമേശ് ചന്ദ്രൻചാന്നാർ S/o മാധവപ്പണിക്കർ · ആലുംമൂട്ടിൽ, ചേപ്പാട്**
 
-| Re.Sy. | Ares | Cents | Land type | Register remark | Tax FY 2023-24 | Tax FY 2024-25 |
-|---|---|---|---|---|---|---|
-| 219/20 | 18.00 | 44.480 | **നിലം (Nilam)** | BTR Land | ₹144 · 03/06/2023 | ₹144 · 03/09/2024 |
-| 219/25 | 7.95 | 19.645 | പുരയിടം | **PokkuVaravu Entry** | ₹64 · 03/06/2023 | ₹64 · 03/09/2024 |
-| 219/26 | 9.98 | 24.662 | പുരയിടം | **PokkuVaravu Entry** | ₹80 · 03/06/2023 | ₹80 · 03/09/2024 |
-| **TOTAL** | **35.93** | **88.767** | | | **₹288** | **₹288** |
+| Re.Sy. | Ares | Cents | Land type | Register remark | FY 2023-24 | FY 2024-25 | **FY 2026-27** |
+|---|---|---|---|---|---|---|---|
+| 219/20 | 18.00 | 44.480 | **നിലം (Nilam)** | BTR Land | ₹144 · 03/06/2023 | ₹144 · 03/09/2024 | **₹216 · 04/08/2026** |
+| 219/25 | 7.95 | 19.645 | പുരയിടം | **PokkuVaravu Entry** | ₹64 · 03/06/2023 | ₹64 · 03/09/2024 | **₹96 · 04/08/2026** |
+| 219/26 | 9.98 | 24.662 | പുരയിടം | **PokkuVaravu Entry** | ₹80 · 03/06/2023 | ₹80 · 03/09/2024 | **₹120 · 04/08/2026** |
+| **TOTAL** | **35.93** | **88.767** | | | **₹288** | **₹288** | **₹432** |
+
+⚠ **219/26 has been subdivided.** **219/26-1 — 1.82 are / 4.497 cent — Thandapper 17246 — ശാന്ത (Shantha), ചന്ദ്രൻ ഭാര്യ (wife of Chandran), ശാലിനി മന്ദിരം, മുട്ടം, വല്യകുഴി 690514** — FY 2026-27 ₹15, paid 10/04/2026. TP 17246 sits immediately above D1's 17245; the PIN is the same as D1's and D4's. **No relationship to any party is stated on the record and none is inferred.** Acquisition instrument unknown.
+⚠ The parent 219/26 still prints 9.98 despite 219/26-1 existing — the fourth non-reducing parent in the block, and the only one outside the Channatty branch.
 
 ≈ **0.89 acre.** All three on one account, cleared together on a single day each year.
 
@@ -70,9 +73,11 @@ Recorded as **ജിജി രമേഷ്**, wife of Ramesh Chandran M., ആല
 | Jiji — sole | 4.87 | 12.034 |
 | **Household, clean** | **40.80** | **100.801** (≈ 1.008 acres) |
 | *plus disputed 219/5* | *42.85* | *105.867* |
-| **Memo: Trust corpus (TP 16961, 5 brothers)** | **38.06** | **94.050** |
+| Memo: 219/26-1, subdivided out to Shantha | 1.82 | 4.497 |
+| **Memo: Trust corpus (now TP 17644)** | **38.06** | **94.050** |
 
-**Fact, no inference drawn:** the Managing Trustee's household holds more land, immediately west and south of the Trust plot, than the Trust holds — on current, punctually-paid accounts, while the Trust's own land has never been mutated out of the five brothers' names.
+**Fact, no inference drawn:** the Managing Trustee's household holds more land, immediately west and south of the Trust plot, than the Trust holds — on current, punctually-paid accounts.
+⚠ **The clause that used to close this paragraph — "while the Trust's own land has never been mutated out of the five brothers' names" — is now WRONG and has been removed.** All seven corpus parcels moved to TP 17644 in the Trust's own name on 04-08-2026.
 
 ---
 
@@ -144,7 +149,18 @@ On a single day, three thandapper accounts were cleared:
 | **6872-A** — his own | 219/20, /25, /26 | ₹288 |
 | **17093** — Jiji's | 219/4 | ₹25 |
 
-**Not paid that day or since:** TP **4784** (219/5).
+**Not paid that day or since:** TP **4784** (219/5) — arrear now stated as **₹53** from FY 2023-24, current FY 2026-27 ₹23. Still last paid 20-06-2022.
+
+### 7.1 The pattern repeated on 04-08-2026
+
+| Account | Parcels | Amount |
+|---|---|---|
+| **17644** — the Trust's NEW account | 219/10, 11, 11-1, 19, 27-1, 28-1, 29 | **₹504** |
+| **6872-A** — his own | 219/20, /25, /26 | **₹432** |
+| **17093** — Jiji's | 219/4 | **₹38** |
+| **TOTAL** | **11 parcels** | **₹974** |
+
+The identical three-account grouping and the identical eleven parcels as 03-06-2023, with **17644 standing where 16961 stood**. The payer field was **not captured** on any of the eleven screens — pull the receipt or GRN. As before: the portal payer field evidences whose account effected payment, **not whose money it was**.
 
 > **Discipline:** "Paid by: ramesh" is the **portal payer field**. It evidences whose account effected the payment, **not whose money it was**. Do not plead it as personal funding.
 >
@@ -189,7 +205,10 @@ On a single day, three thandapper accounts were cleared:
 - **219/1, /16, /17** — Ramakrishnan and Vasudevan Channar, sons of **Kesavan** Channar (not T.K. Madhavan). Different line. **Do not merge.**
 - **219/9, /12, /13, /18** — Gopinath / Channatty-branch holdings.
 - **218/1, 219/8** — government poramboke, unheld.
-- **219/10, /11, /11-1, /19, /27-1, /28-1, /29** — Trust corpus on TP 16961, held by the five brothers jointly. **Never enter these in his personal column.**
+- **219/10, /11, /11-1, /19, /27-1, /28-1, /29** — Trust corpus, **now on TP 17644 in the Trust's own name** (was TP 16961, five brothers, until 04-08-2026). **Never enter these in his personal column.**
+- **219/9-2 (3.05 are, TP 17245)** — **Sivadasan A. Madhavan (D1)**, personal. Not his.
+- **219/9-3 (14.57 are, TP 16111)** — Alummoottil Kudumba Kshethra Kshema Sabha, held by President and Secretary. Not his.
+- **219/26-1 (1.82 are, TP 17246)** — Shantha, wife of Chandran. Carved out of his 219/26; not counted in his column.
 - **219/27, /28** — Chellamma Channatti, TP 6874-A.
 - **219/2, /3, /6, /7, /14, /15, /21, /22, /23, /24** — unconnected third parties.
 
@@ -198,6 +217,8 @@ On a single day, three thandapper accounts were cleared:
 ## 11. COLLECTION CHECKLIST
 
 - [ ] **Mutation files, TP 6872-A → 219/25 and 219/26** — highest-value unlock; no boundaries needed
+- [ ] **Mutation file, TP 17246 → 219/26-1** — when and by what instrument it left his holding, and who Chandran is
+- [ ] **Receipt / GRN for the 04-08-2026 session** — the payer field across all three accounts
 - [ ] **Land-register pull on TP 6872-A** — the only way to answer "is 35.93 ares his whole holding in Cheppad?"
 - [ ] **Land-register pull on TP 17093** (Jiji — completeness)
 - [ ] **Land-register pull on TP 4784** — who else sits on the 219/5 account

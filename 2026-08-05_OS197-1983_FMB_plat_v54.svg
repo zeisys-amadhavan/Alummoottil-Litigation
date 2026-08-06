@@ -1,0 +1,1479 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2207.45" height="2353" viewBox="0 0 2207.45 2353">
+  <defs>
+    <style>
+      .fParcel { fill:none; stroke:#000; stroke-width:2.8px; }
+      .fUnk { fill:none; stroke:#cc0000; stroke-width:3.4px; }
+      .st0, .st1, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st18, .st19, .st20, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st40, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st79, .st80, .st81 { fill: none; }
+      .st1, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st18, .st19, .st20, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st40, .st85, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st79, .st80, .st81 { stroke-miterlimit: 10; }
+      .st1, .st3, .st4, .st5, .st7, .st8, .st9, .st11, .st26, .st37, .st38, .st42, .st45, .st46, .st47, .st48 { stroke: #0033aa; }
+      .st88, .st89, .st90 { font-size: 24px; }
+      .st91, .st92 { font-weight: 700; }
+      .st3 { stroke-dasharray: 0 2.09; }
+      .st3, .st4, .st5, .st8, .st9, .st11, .st13, .st14, .st15, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st33, .st34, .st35, .st36, .st42, .st52, .st53, .st55, .st57, .st58, .st60, .st65, .st81 { stroke-linecap: round; }
+      .st4 { stroke-dasharray: 0 2.17; }
+      .st5 { stroke-dasharray: 0 2.11; }
+      .st6, .st13, .st14, .st15, .st16, .st18, .st19, .st20, .st22, .st23, .st24, .st25, .st27, .st28, .st29, .st30, .st33, .st34, .st35, .st36, .st43, .st44, .st49, .st52, .st53, .st55, .st57, .st58, .st60, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st79, .st81 { stroke: #0033aa; }
+      .st7 { stroke-dasharray: 3.01 3.01; }
+      .st8 { stroke-dasharray: 0 1.98; }
+      .st9 { stroke-dasharray: 0 2.05; }
+      .st10 { stroke-width: 2.8px; }
+      .st10, .st40 { stroke: #000; }
+      .st11 { stroke-dasharray: 0 1.98; }
+      .st88 { font-family: 'ISOCPEUR'; }
+      .st88, .st93, .st94, .st90, .st95 { fill: #0033aa; }
+      .st12, .st31, .st32, .st50, .st51, .st54, .st56, .st59, .st62, .st63, .st80 { stroke: #000; stroke-width: 0.9px; opacity: 0.75; }
+      .st13 { stroke-dasharray: 0 1.87; }
+      .st14 { stroke-dasharray: 0 1.95; }
+      .st89, .st97 { fill: #0033aa; }
+      .st89, .st94, .st90, .st95 { font-family: 'ISOCPEUR'; }
+      .st15 { stroke-dasharray: 0 1.9; }
+      .st98 { fill: none; }
+      .st16 { stroke-dasharray: 2.95 2.95; }
+      .st18 { stroke-dasharray: 2.94 2.94; }
+      .st19 { stroke-dasharray: 2.9 2.9; }
+      .st20 { stroke-dasharray: 2.98 2.98; }
+      .st22 { stroke-dasharray: 0 1.93; }
+      .st99, .st100 { fill: none; }
+      .st23 { stroke-dasharray: 0 2; }
+      .st24 { stroke-dasharray: 0 2.01; }
+      .st25 { stroke-dasharray: 0 2.01; }
+      .st27 { stroke-dasharray: 0 2.05; }
+      .st28 { stroke-dasharray: 0 2.05; }
+      .st100, .st101, .st102, .st103, .st104 { display: none; }
+      .st101 { fill: none; }
+      .st102 { fill: none; }
+      .st103 { fill: none; }
+      .st29 { stroke-dasharray: 0 2.14; }
+      .st30 { stroke-dasharray: 0 2.13; }
+      .st31 { stroke-dasharray: 19.9 2.99; }
+      .st32 { stroke-dasharray: 19.89 2.98; }
+      .st33 { stroke-dasharray: 0 2.03; }
+      .st34 { stroke-dasharray: 0 2.02; }
+      .st35 { stroke-dasharray: 0 2.02; }
+      .st36 { stroke-dasharray: 0 2.03; }
+      .st37 { stroke-dasharray: 3 3; }
+      .st38 { stroke-dasharray: 3 3; }
+      .st85 { fill: none;
+        stroke: none; }
+      .st91 { font-size: 15.4px; }
+      .st91, .st92 { fill: #cc0000;
+        font-family: 'ISOCPEUR'; }
+      .st105 { fill: none; }
+      .st42 { stroke-dasharray: 0 2.19; }
+      .st43 { stroke-dasharray: 3.02 3.02; }
+      .st92 { font-size: 20.54px; }
+      .st44 { stroke-dasharray: 3.02 3.02; }
+      .st45 { stroke-dasharray: 3 3; }
+      .st46 { stroke-dasharray: 3.01 3.01; }
+      .st47 { stroke-dasharray: 3 3; }
+      .st48 { stroke-dasharray: 3.01 3.01; }
+      .st49 { stroke-dasharray: 3.14 3.14; }
+      .st50 { stroke-dasharray: 19.91 2.99; }
+      .st51 { stroke-dasharray: 19.91 2.99; }
+      .st52 { stroke-dasharray: 0 2.15; }
+      .st53 { stroke-dasharray: 0 2.06; }
+      .st54 { stroke-dasharray: 20.32 3.05; }
+      .st55 { stroke-dasharray: 0 1.98; }
+      .st56 { stroke-dasharray: 20.05 3.01; }
+      .st57 { stroke-dasharray: 0 1.99; }
+      .st58 { stroke-dasharray: 0 1.88; }
+      .st59 { stroke-dasharray: 20.11 3.02; }
+      .st60 { stroke-dasharray: 0 2.05; }
+      .st62 { stroke-dasharray: 19.93 2.99; }
+      .st63 { stroke-dasharray: 20.09 3.01; }
+      .st64 { stroke-dasharray: 2.98 2.98; }
+      .st65 { stroke-dasharray: 0 2.09; }
+      .st66 { stroke-dasharray: 2.99 2.99; }
+      .st67 { stroke-dasharray: 3.01 3.01; }
+      .st68 { stroke-dasharray: 3 3; }
+      .st69 { stroke-dasharray: 3 3; }
+      .st70 { stroke-dasharray: 2.97 2.97; }
+      .st71 { stroke-dasharray: 2.97 2.97; }
+      .st72 { stroke-dasharray: 2.98 2.98; }
+      .st73 { stroke-dasharray: 2.98 2.98; }
+      .st74 { stroke-dasharray: 3.01 3.01; }
+      .st75 { stroke-dasharray: 2.99 2.99; }
+      .st76 { stroke-dasharray: 3 3; }
+      .st77 { stroke-dasharray: 2.97 2.97; }
+      .st104 { fill: none; }
+      .st78 { stroke-dasharray: 2.99 2.99; }
+      .st79 { stroke-dasharray: 3 3; }
+      .st80 { stroke-dasharray: 19.66 2.95; }
+      .st94 { font-size: 19.69px; }
+      .st95 { font-size: 23.26px; }
+      text, tspan { font-family: 'ISOCPEUR' !important; letter-spacing: -0.05em; }
+      .fSub { font-weight:700; font-size:15px;   fill:#0033aa; }
+      .fSub2 { font-size:12px;  fill:#0033aa; }
+      .fSubB { font-weight:700; font-size:12px; fill:#0033aa; }
+      .fQ { font-weight:700; font-size:13px;   fill:#cc0000; }
+      .fLead { fill:none; stroke-width:1px; stroke-dasharray:6 4; }
+      .fArrow { stroke:none; }
+      .inkKf { fill:#000 !important; }
+      .inkBf { fill:#0033aa !important; }
+      .inkRf { fill:#cc0000 !important; }
+      .fH1 { font-weight:700; font-size:21px; fill:#000; }
+      .fH2 { font-weight:700; font-size:15px; fill:#000; }
+      .fT { font-size:13px; fill:#000; }
+      .fTB { font-weight:700; font-size:13px; fill:#000; }
+      .fRed { font-weight:700; font-size:13px; fill:#cc0000; }
+      .fNbrQ { font-weight:700; font-size:17px; fill:#0033aa; }
+      .fNbrS { font-size:12.5px; fill:#0033aa; }
+      .fNbrC { font-size:12.5px; fill:#cc0000; }
+      .fRule { stroke:#000; stroke-width:1px; fill:none; }
+      .fBox { fill:none; stroke:#000; stroke-width:1.2px; }
+    
+      .inkKs, .inkK { }
+      .inkK[stroke], .inkK { }
+      .inkK  { stroke: #000 !important; }
+      text.inkK, tspan.inkK { fill: #000 !important; stroke: none !important; }
+      .inkB  { stroke: #0033aa !important; }
+      text.inkB, tspan.inkB { fill: #0033aa !important; stroke: none !important; }
+      .inkR  { stroke: #cc0000 !important; }
+      text.inkR, tspan.inkR { fill: #cc0000 !important; stroke: none !important; }
+      polygon.inkB, polygon.inkR, polyline.inkB, polyline.inkR { fill: none !important; }
+    
+      .inkKt { fill: #000 !important; stroke: none !important; }
+      .inkBt { fill: #0033aa !important; stroke: none !important; }
+      .inkRt { fill: #cc0000 !important; stroke: none !important; }
+    </style>
+  </defs>
+  <g id="TABLE" data-name="TABLE">
+    <line class="fRule" x1="40" y1="1810" x2="2167" y2="1810" stroke-width="2" />
+    <rect class="fBox" x="40" y="1832" width="2127" height="104" />
+    <line class="fRule" x1="800" y1="1832" x2="800" y2="1936" />
+    <line class="fRule" x1="1490" y1="1832" x2="1490" y2="1936" />
+    <text class="fH1" transform="translate(54 1863)"><tspan x="0" y="0">O.S. 197/1983 — FINAL DECREE PLAT</tspan></text>
+    <text class="fT" transform="translate(54 1885)"><tspan x="0" y="0">Final Decree 21.12.2017 · I.A. 505/86 in O.S. 197/1983 · Sub Court, Mavelikara</tspan></text>
+    <text class="fT" transform="translate(54 1905)"><tspan x="0" y="0">Preliminary decree 28.06.1985 · Commissioner Adv. S. Mohanan · Ext. C1(a) plan</tspan></text>
+    <text class="fT" transform="translate(54 1925)"><tspan x="0" y="0">Surveyor K. Shaji, First Grade Surveyor · source is a photocopy, NOT a certified copy · sheet v12, 05-08-2026</tspan></text>
+    <text class="fT" transform="translate(814 1863)"><tspan x="0" y="0">District Alappuzha · Taluk Karthikappally · Village Cheppad</tspan></text>
+    <text class="fT" transform="translate(814 1883)"><tspan x="0" y="0">Muri Valiyakuzhy · Block 013 · resurveyed 01-07-1992</tspan></text>
+    <text class="fT" transform="translate(814 1903)"><tspan x="0" y="0">Old survey nos. V-1834 / V-1851 / V-1852</tspan></text>
+    <text class="fT" transform="translate(814 1923)"><tspan x="0" y="0">Decree directed registration of the instrument of partition — completion [TO CONFIRM]</tspan></text>
+    <text class="fTB" transform="translate(1504 1863)"><tspan x="0" y="0">Re.Sy. 219/10, 11, 11-1, 19, 27, 27-1, 28, 28-1, 29 and 218/1</tspan></text>
+    <text class="fTB" transform="translate(1504 1885)"><tspan x="0" y="0">CENT = ARE × 2.4710, as the sheet computes it</tspan></text>
+    <text class="fTB" transform="translate(1504 1907)"><tspan x="0" y="0">ORIENTATION:  TOP IS NORTH</tspan></text>
+    <text class="fSub2" transform="translate(1504 1927)"><tspan x="0" y="0">Dimensions in METRES</tspan></text>
+    <text class="fH2" transform="translate(40 1970)"><tspan x="0" y="0">KEY</tspan></text>
+    
+    <text class="fT" transform="translate(110 1970)"><tspan x="0" y="0">BLACK = absolutely certain — traced or read from the original sheet</tspan></text>
+    
+    
+    
+    <text class="fT" transform="translate(700 1970)"><tspan x="0" y="0">BLUE = calculated, and believed accurate</tspan></text>
+    
+    
+    <text class="fRed" transform="translate(1230 1970)"><tspan x="0" y="0">RED = unavailable, unidentified, or definitely wrong</tspan></text>
+    <rect class="fBox" x="40" y="1992" width="2127" height="331" />
+    <text class="fRed" transform="translate(52.00 2016.00)"><tspan x="0" y="0">1.  The label reading “219/6, 1.90 are” has no basis in this plat. 219/6 belongs to the seven children of Kunjipennu and is not part of O.S. 197/1983. The 5/6 allotment sums to 29.42 only if</tspan></text>
+    <text class="fRed" transform="translate(52.00 2035.00)"><tspan x="0" y="0">     that slot is 219/19 · 4.75 are, which the original legend lists in that position. Flagged on the sketch, not silently relabelled — the parcel the arrow points to could not be verified.</tspan></text>
+    <text class="fRed" transform="translate(52.00 2054.00)"><tspan x="0" y="0">2.  PLOT-LETTER CONFLICT. Final Decree para (2) describes the 1/6 allotment (5.88 are / 14.524 cent) as the plot marked H I J K L M, comprised in Re.Sy. 219/29. The legend on this sheet lists</tspan></text>
+    <text class="fRed" transform="translate(52.00 2073.00)"><tspan x="0" y="0">     H, I, J, K, L, M against the whole 35.30-are parent block and puts 219/29 (0.65 are) inside the 5/6. Every extent agrees — only the corner string and the survey number recited differ.</tspan></text>
+    <text class="fRed" transform="translate(52.00 2092.00)"><tspan x="0" y="0">     Read Ext. C1(a) itself before relying on any plot-letter string, and treat the decree’s single survey number per plot as shorthand for the itemised legend.</tspan></text>
+    <text class="fRed" transform="translate(52.00 2111.00)"><tspan x="0" y="0">3.  TITLE GAP. Deed 299/I/2024 conveyed 13/15 undivided shares only. 2/15 (3.923 are / 9.693 cent) stands outside the Trust — Manoj Ravindran and Anand Ravindran, two of the three heirs</tspan></text>
+    <text class="fRed" transform="translate(52.00 2130.00)"><tspan x="0" y="0">     of the late Dr. M. Ravindran, did not execute it. O.S. 243/2024 nevertheless pleads the whole 38.06 ares as belonging to the Trust. Verify against the certified deed before use.</tspan></text>
+  <text class="fT inkGt" transform="translate(1700 1970)" style="fill:#007a33"><tspan x="0" y="0">GREEN = station corners and bordering plots</tspan></text></g>
+  <g id="METADATA" data-name="Metadata and Notes">
+    <text class="fSub inkBt" transform="translate(215.00 336.00)" style="fill:#0033aa"><tspan x="0" y="0">219/11   21.81 are  /  53.895 cent</tspan></text><text class="fSub2 inkBt" transform="translate(215.00 353.00)" style="fill:#0033aa"><tspan x="0" y="0">Purayidam · BTR · TP 17644 ALUMMOOTTIL THARAVAD TRUST</tspan></text><text class="fSub2 inkBt" transform="translate(215.00 368.00)" style="fill:#0033aa"><tspan x="0" y="0">parent 219/11 = 27.20 are  (21.81 + 5.39)</tspan></text>
+    <text class="fSub inkRt" transform="translate(200.00 826.00)" style="fill:#cc0000"><tspan x="0" y="0">219/11-1   5.39 are  /  13.319 cent</tspan></text><text class="fSub2 inkRt" transform="translate(200.00 843.00)" style="fill:#cc0000"><tspan x="0" y="0">Purayidam · TP 17644 ALUMMOOTTIL THARAVAD TRUST · NELPURA</tspan></text>
+    <text class="fSub inkBt" transform="translate(1130.00 574.00)" style="fill:#0033aa"><tspan x="0" y="0">219/19   4.75 are  /  11.738 cent</tspan></text><text class="fSub2 inkBt" transform="translate(1130.00 591.00)" style="fill:#0033aa"><tspan x="0" y="0">Purayidam · BTR · TP 17644 ALUMMOOTTIL THARAVAD TRUST</tspan></text>
+    <text class="fSub inkBt" transform="translate(530.00 1106.00)" style="fill:#0033aa"><tspan x="0" y="0">219/27   0.49 are  /  1.211 cent</tspan></text><text class="fSub2 inkBt" transform="translate(530.00 1123.00)" style="fill:#0033aa"><tspan x="0" y="0">Purayidam · BTR · CHELLAMMA CHANNATTI · TP 6874-A · NOT Trust</tspan></text><text class="fSub2 inkBt" transform="translate(530.00 1138.00)" style="fill:#0033aa"><tspan x="0" y="0">parent 219/27 = 0.60 are  (0.49 + 0.11)</tspan></text>
+    <text class="fSub inkRt" transform="translate(935.00 980.00)" style="fill:#cc0000"><tspan x="0" y="0">219/27-1   0.11 are  /  0.272 cent</tspan></text><text class="fSub2 inkRt" transform="translate(935.00 997.00)" style="fill:#cc0000"><tspan x="0" y="0">Purayidam · TP 17644 ALUMMOOTTIL THARAVAD TRUST</tspan></text>
+    <text class="fSub inkBt" transform="translate(965.00 504.00)" style="fill:#0033aa"><tspan x="0" y="0">219/28-1   2.10 are  /  5.189 cent</tspan></text><text class="fSub2 inkBt" transform="translate(965.00 521.00)" style="fill:#0033aa"><tspan x="0" y="0">Purayidam · TP 17644 ALUMMOOTTIL THARAVAD TRUST</tspan></text><text class="fSub2 inkBt" transform="translate(965.00 536.00)" style="fill:#0033aa"><tspan x="0" y="0">parent 219/28 = 3.00 are  (0.90 pathway + 2.10)</tspan></text>
+    <text class="fSub inkRt" transform="translate(1025.00 266.00)" style="fill:#cc0000"><tspan x="0" y="0">219/29   0.65 are  /  1.606 cent</tspan></text><text class="fSub2 inkRt" transform="translate(1025.00 283.00)" style="fill:#cc0000"><tspan x="0" y="0">Purayidam · PokkuVaravu · TP 17644 ALUMMOOTTIL THARAVAD TRUST</tspan></text>
+    <text class="fSub inkKt" transform="translate(209.40 880.44)" style="fill:#000"><tspan x="0" y="0">1/6 SHARE   5.88 are  /  14.530 cent</tspan></text><text class="fSub2 inkKt" transform="translate(209.40 897.44)" style="fill:#000"><tspan x="0" y="0">219/11 part 5.39 + 219/27 part 0.49  ·  14.524 cent per the decree</tspan></text><text class="fSub2 inkKt" transform="translate(209.40 912.44)" style="fill:#000"><tspan x="0" y="0">ALLOTTED to the LRs of Saradamani (D/o Chellamma), 2nd defendant — suppl. respondents 4-7:</tspan></text><text class="fSub2 inkKt" transform="translate(209.40 927.44)" style="fill:#000"><tspan x="0" y="0">G. AJITHKUMAR · BEENA RAJU · DHARSANA · N. GOPINATHAN  ·  Final Decree 21.12.2017 para (2)</tspan></text><text class="fSub2 inkKt" transform="translate(209.40 942.44)" style="fill:#000"><tspan x="0" y="0">then conveyed to the five brothers by Gift Deed 1482/2021 (Ajithkumar Gopinathan)</tspan></text>
+    <path class="fLead inkB" d="M1620,386 C1640,450 1660,525 1662,588" style="stroke:#0033aa" />
+    <text class="fSub inkKt" transform="translate(150.00 1150.00)" style="fill:#000"><tspan x="0" y="0">PATHWAY BLOCK   6.50 are  /  16.062 cent</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150.00 1167.00)" style="fill:#000"><tspan x="0" y="0">218/1 2.35 poramboke (unheld) + 219/10 3.25 TP 17644 TRUST</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150.00 1183.00)" style="fill:#000"><tspan x="0" y="0">+ 219/28 0.90 CHELLAMMA TP 6874-A, NOT Trust</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150.00 1199.00)" style="fill:#000"><tspan x="0" y="0">corners K, L, N, O, P, Q, R, C, S, T, U, V</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150.00 1215.00)" style="fill:#000"><tspan x="0" y="0">STAKED OUT AS A COMMON PATHWAY serving both allotments</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150.00 1231.00)" style="fill:#000"><tspan x="0" y="0">Final Decree 21.12.2017, para (1)</tspan></text>
+    <text class="fSub inkKt" transform="translate(150 1330)" style="fill:#000"><tspan x="0" y="0">MAIN BLOCK   H, I, J, K, L, M      35.30 are  /  87.230 cent</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1348)" style="fill:#000"><tspan x="0" y="0">219/29 0.65 + 219/11 27.20 + 219/27 0.60 + 219/28 2.10 + 219/19 4.75</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1363)" style="fill:#000"><tspan x="0" y="0">DERIVED  35.30 − 0.49 (219/27, Chellamma) + 3.25 (219/10) = 38.06 are / 94.046 cent</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1378)" style="fill:#000"><tspan x="0" y="0">DERIVED  = the Trust corpus, and the extent of Thandapper 16961 on receipt</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1393)" style="fill:#000"><tspan x="0" y="0">DERIVED  KL04040204922/2023. The plat and the revenue record agree exactly.</tspan></text>
+    <text class="fSub inkKt" transform="translate(150 1416)" style="fill:#000"><tspan x="0" y="0">5/6 SHARE   29.42 are  /  72.700 cent   =  schedule of Deed 299/I/2024</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1464)" style="fill:#000"><tspan x="0" y="0">corners H, A1, B1, C1, D1, E1, F1, H1, J1, Q, P, O, N, L, M, J</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1449)" style="fill:#000"><tspan x="0" y="0">219/11 + 219/27-1 + 219/28-1 + 219/29 + 219/19</tspan></text>
+    <text class="fSub2 inkKt" transform="translate(150 1434)" style="fill:#000"><tspan x="0" y="0">ALLOTTED to the plaintiffs and the 1st and 3rd defendants — the five brothers · Final Decree 21.12.2017, para (3)</tspan></text>
+    <text class="fQ inkRt" transform="translate(150 1486)" style="fill:#cc0000"><tspan x="0" y="0">!!  Deed 299/I/2024 conveyed only 13/15 UNDIVIDED SHARES of this 29.42 to the Trust.</tspan></text>
+    <text class="fQ inkRt" transform="translate(150 1502)" style="fill:#cc0000"><tspan x="0" y="0">2/15 — 3.923 are / 9.693 cent — was not conveyed: Manoj Ravindran and Anand Ravindran did not execute.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1524)" style="fill:#0033aa"><tspan x="0" y="0">DERIVED  13/15 of 29.42 = 25.497 are / 63.004 cent — the extent Deed 299/I/2024</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1539)" style="fill:#0033aa"><tspan x="0" y="0">DERIVED  actually conveyed to the Trust.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1554)" style="fill:#0033aa"><tspan x="0" y="0">DERIVED  2/15 = 3.923 are / 9.693 cent is the sheet’s own figure, so the sheet</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1569)" style="fill:#0033aa"><tspan x="0" y="0">DERIVED  computes cent at 2.4710 are-to-cent.</tspan></text>
+    <text class="fSub inkBt" transform="translate(150 1600)" style="fill:#0033aa"><tspan x="0" y="0">ARITHMETIC CHECK — derived, nothing read off the drawing</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1622)" style="fill:#0033aa"><tspan x="0" y="0">1/6 of 35.30 = 5.8833 exactly; the sheet writes 5.88.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1637)" style="fill:#0033aa"><tspan x="0" y="0">5/6 of 35.30 = 29.4167; the sheet writes 29.42.  5.88 + 29.42 = 35.30 exactly.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1655)" style="fill:#0033aa"><tspan x="0" y="0">219/11 parent 27.20 = 21.81 + 5.39.   219/27 parent 0.60 = 0.49 + 0.11.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1670)" style="fill:#0033aa"><tspan x="0" y="0">219/28 parent 3.00 = 0.90 pathway + 2.10.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1688)" style="fill:#0033aa"><tspan x="0" y="0">Main block  0.65 + 27.20 + 0.60 + 2.10 + 4.75 = 35.30.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1703)" style="fill:#0033aa"><tspan x="0" y="0">5/6  21.81 + 0.11 + 2.10 + 4.75 + 0.65 = 29.42.    1/6  5.39 + 0.49 = 5.88.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1718)" style="fill:#0033aa"><tspan x="0" y="0">Pathway  2.35 + 3.25 + 0.90 = 6.50.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1733)" style="fill:#0033aa"><tspan x="0" y="0">Every block closes to the digit. No arithmetic error found on the sheet.</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1755)" style="fill:#0033aa"><tspan x="0" y="0">DERIVED  Chellamma Channatti retains 219/27 0.49 + 219/28 0.90 = 1.39 are /</tspan></text>
+    <text class="fSub2 inkBt" transform="translate(150 1770)" style="fill:#0033aa"><tspan x="0" y="0">DERIVED  3.435 cent — the extent of Thandapper 6874-A.</tspan></text>
+    <text class="fNbrC inkBt" transform="translate(1300 1760)" style="fill:#0033aa"><tspan x="0" y="0">Adjoining fields are not drawn on the original sheet — it carries no extension lines. Directions are those</tspan></text>
+    <text class="fNbrC inkBt" transform="translate(1300 1776)" style="fill:#0033aa"><tspan x="0" y="0">recited in O.S. 243/2024 (all four) and O.S. 84/2024 (E, S, W); survey numbers matched from the ReLIS census.</tspan></text>
+    <line x1="2085" y1="252" x2="2085" y2="122" stroke="#000" stroke-width="2.2" class="inkB" style="stroke:#0033aa" />
+    <circle cx="2085" cy="252" r="4.5" fill="none" stroke="#000" stroke-width="2" class="inkB" />
+    <text class="fNbrQ inkBt" transform="translate(2074 288)" style="fill:#0033aa"><tspan x="0" y="0">N</tspan></text>
+    <text class="fQ inkRt" transform="translate(1061.71 174.88)" style="fill:#cc0000"><tspan x="0" y="0">!! 219/6 — NOT ON THIS PLAT</tspan></text><text class="fQ inkRt" transform="translate(1061.71 191.88)" style="fill:#cc0000"><tspan x="0" y="0">arithmetic requires 219/19  4.75 are here — VERIFY (see QUERIES)</tspan></text>
+    <line class="st10 inkK" x1="1423.88" y1="877.04" x2="907.64" y2="877.04" style="stroke:#000" />
+    <line class="st10 inkK" x1="907.97" y1="877.03" x2="901.79" y2="698.46" style="stroke:#000" />
+    <line class="st10 inkK" x1="902.27" y1="698.88" x2="844.14" y2="867.64" style="stroke:#000" />
+    <line class="st10 inkK" x1="577.48" y1="960.55" x2="576.72" y2="961.3" style="stroke:#000" />
+    <line class="st10 inkK" x1="548.73" y1="614.12" x2="561.75" y2="786.43" style="stroke:#000" />
+  <g id="CALLOUT-P-219-11-1" data-name="Callout P-219-11-1"><text class="fSub inkRt" transform="translate(305.00 966.00)" style="fill:#cc0000"><tspan x="0" y="0">219/11 east part — UNIDENTIFIED</tspan></text><text class="fSub2 inkRt" transform="translate(305.00 982.00)" style="fill:#cc0000"><tspan x="0" y="0">no separate survey number is established for this shape</tspan></text><text class="fSub2 inkRt" transform="translate(305.00 998.00)" style="fill:#cc0000"><tspan x="0" y="0">the corner-letter test puts it with 219/11 — 22.49 are vs 21.81 recorded</tspan></text></g><g id="CALLOUT-P-219-28" data-name="Callout P-219-28"><text class="fSub inkBt" transform="translate(545.00 1036.00)" style="fill:#0033aa"><tspan x="0" y="0">219/28   0.90 are  /  2.224 cent</tspan></text><text class="fSub2 inkBt" transform="translate(545.00 1052.00)" style="fill:#0033aa"><tspan x="0" y="0">Purayidam · BTR · CHELLAMMA CHANNATTI · TP 6874-A · NOT Trust</tspan></text><text class="fSub2 inkBt" transform="translate(545.00 1068.00)" style="fill:#0033aa"><tspan x="0" y="0">pathway share of parent 219/28 = 3.00 are</tspan></text></g><g id="CALLOUT-P-219-10" data-name="Callout P-219-10"><text class="fSub inkBt" transform="translate(1180.00 1090.00)" style="fill:#0033aa"><tspan x="0" y="0">219/10   3.25 are  /  8.031 cent</tspan></text><text class="fSub2 inkBt" transform="translate(1180.00 1106.00)" style="fill:#0033aa"><tspan x="0" y="0">Purayidam · BTR · TP 17644 ALUMMOOTTIL THARAVAD TRUST</tspan></text><text class="fSub2 inkBt" transform="translate(1180.00 1122.00)" style="fill:#0033aa"><tspan x="0" y="0">pathway block member</tspan></text></g><text class="fSub2 inkGt" transform="translate(724.00 942.00)" style="fill:#007a33"><tspan x="0" y="0">corners H, I, J, K, L, M — see the green letters</tspan></text><text class="fSub2 inkGt" transform="translate(700.00 1416.00)" style="fill:#007a33"><tspan x="0" y="0">find it by the green corner letters</tspan></text><text class="fSub2 inkGt" transform="translate(1010.00 1478.00)" style="fill:#007a33"><tspan x="0" y="0">find it by the green corner letters</tspan></text><text class="fSub2 inkGt" transform="translate(369.30 1231.00)" style="fill:#007a33"><tspan x="0" y="0">find it by the green corner letters</tspan></text></g>
+  <g id="CORNERS" data-name="Corner Lettering">
+    <text class="st92 inkGt" transform="translate(1087.3121 1755.5668)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">B</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(605.52 217.05)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">B1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(771.83 283.2)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">C1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(753.2 200.14)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">D1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(993.29 241.07)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">E1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(985.25 300.09)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">F1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(885.82 659.25)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">G1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(984.48 615.35)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">H1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1208.6115 633.4229)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">J1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1207.4014 847.6682)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">Q</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(980.88 846.81)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">P</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(927.42 843.92)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">O</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(903.03 907.56)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">K</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(831.49 899.64)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">J</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(542.22 805.77)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">I</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(529.97 662.68)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">H</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(517.69 621.37)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">A1</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(998.87 911.54)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">V</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1361.9319 900.0075)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">U</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1416.2803 900.0075)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">T</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1735.1245 553.5025)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">S</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1680.2725 516.9471)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">C</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1395.5932 807.2098)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">R</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(1230.7694 20.4706)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">D</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(2186.8867 975.0803)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">A</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(10.72 648.68)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">S</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(884.52 827.91)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">L</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(950.19 803.49)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">N</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(838.59 809.59)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">M</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(911.94 702.6)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">J0</tspan></text>
+    
+    <text class="st91 inkGt" transform="translate(82.52 77.83)" style="fill:#007a33"><tspan x="0" y="0" class="inkGt" style="fill:#007a33">F</tspan></text>
+    
+  </g>
+  <g id="DIMENSIONS" data-name="Dimensions — sheet level, not yet distributed to parcel layers">
+    <g id="DIM-151ft" data-name="Dimension 151 ft">
+      <g id="DIM-151ft-arrow1" data-name="DIM-151ft · arrow">
+        <line class="st26 inkK" x1="2176.06" y1="977.41" x2="2176.06" y2="977.41" style="stroke:#000" />
+        <line class="st8 inkK" x1="2177.21" y1="979.02" x2="2183.53" y2="987.92" style="stroke:#000" />
+        <line class="st26 inkK" x1="2184.1" y1="988.73" x2="2184.1" y2="988.73" style="stroke:#000" />
+      </g>
+      <g id="DIM-151ft-arrow2" data-name="DIM-151ft · arrow">
+        <line class="st26 inkK" x1="1112.29" y1="1732.73" x2="1112.29" y2="1732.73" style="stroke:#000" />
+        <line class="st8 inkK" x1="1113.44" y1="1734.34" x2="1119.76" y2="1743.24" style="stroke:#000" />
+        <line class="st26 inkK" x1="1120.33" y1="1744.04" x2="1120.33" y2="1744.04" style="stroke:#000" />
+      </g>
+      <text class="st89 inkKt" transform="translate(1631.7781 1402.1916) rotate(-35.376)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 151 </tspan></text>
+      <g id="DIM-151ft-arrow3" data-name="DIM-151ft · arrow">
+        <line class="st1 inkK" x1="1124.51" y1="1728.81" x2="1125.73" y2="1727.94" style="stroke:#000" />
+        <line class="st46 inkK" x1="1128.18" y1="1726.2" x2="2165.89" y2="989.39" style="stroke:#000" />
+        <line class="st1 inkK" x1="2167.12" y1="988.52" x2="2168.34" y2="987.65" style="stroke:#000" />
+        <path class="st97 inkK" d="M1126.71,1727.25l-.45-6.31h-.22s-5.16,7.96-5.16,7.96c-2.11,2.33-4.22,4.66-6.34,6.99,2.89-1.23,5.79-2.45,8.68-3.68l9.21-2.25.1-.18-5.83-2.53Z" style="stroke:#000" />
+        <path class="st97 inkK" d="M2166.15,989.21l-5.81-2.5.08-.21,9.21-2.25c2.89-1.23,5.79-2.45,8.68-3.68-2.11,2.33-4.22,4.66-6.34,6.99l-5.16,7.96-.2.03-.47-6.33Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-73.3ft" data-name="Dimension 73.3 ft">
+      <g id="DIM-73.3ft-arrow1" data-name="DIM-73.3ft · arrow">
+        <line class="st26 inkK" x1="1711.1" y1="530.89" x2="1711.1" y2="530.89" style="stroke:#000" />
+        <line class="st3 inkK" x1="1712.51" y1="529.35" x2="1718.89" y2="522.46" style="stroke:#000" />
+        <line class="st26 inkK" x1="1719.6" y1="521.69" x2="1719.6" y2="521.69" style="stroke:#000" />
+      </g>
+      <g id="DIM-73.3ft-arrow2" data-name="DIM-73.3ft · arrow">
+        <line class="st26 inkK" x1="2176.06" y1="960.87" x2="2176.06" y2="960.87" style="stroke:#000" />
+        <line class="st3 inkK" x1="2177.48" y1="959.34" x2="2183.86" y2="952.44" style="stroke:#000" />
+        <line class="st26 inkK" x1="2184.57" y1="951.67" x2="2184.57" y2="951.67" style="stroke:#000" />
+      </g>
+      <text class="st89 inkKt" transform="translate(1922.232 709.0139) rotate(42.761)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 73.3 </tspan></text>
+      <g id="DIM-73.3ft-arrow3" data-name="DIM-73.3ft · arrow">
+        <line class="st1 inkK" x1="2168.8" y1="950.71" x2="2167.7" y2="949.69" style="stroke:#000" />
+        <line class="st7 inkK" x1="2165.49" y1="947.65" x2="1724" y2="539.38" style="stroke:#000" />
+        <line class="st1 inkK" x1="1722.89" y1="538.35" x2="1721.79" y2="537.33" style="stroke:#000" />
+        <path class="st97 inkK" d="M2166.83,948.88l-6.08,1.74.05.22,8.85,3.41c2.71,1.59,5.43,3.18,8.14,4.77-1.8-2.58-3.59-5.16-5.39-7.74l-4.09-8.55-.2-.06-1.28,6.22Z" style="stroke:#000" />
+        <path class="st97 inkK" d="M1723.77,539.16l-1.26,6.2-.22-.04-4.09-8.55c-1.8-2.58-3.59-5.16-5.39-7.74,2.71,1.59,5.43,3.18,8.14,4.77l8.85,3.41.07.19-6.1,1.76Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-78.4ft" data-name="Dimension 78.4 ft">
+      <g id="DIM-78.4ft-arrow1" data-name="DIM-78.4ft · arrow">
+        <line class="st26 inkK" x1="1245.97" y1="27.07" x2="1245.97" y2="27.07" style="stroke:#000" />
+        <line class="st9 inkK" x1="1247.47" y1="25.67" x2="1252.73" y2="20.78" style="stroke:#000" />
+        <line class="st26 inkK" x1="1253.48" y1="20.08" x2="1253.48" y2="20.08" style="stroke:#000" />
+      </g>
+      <g id="DIM-78.4ft-arrow2" data-name="DIM-78.4ft · arrow">
+        <line class="st26 inkK" x1="1707.68" y1="522.72" x2="1707.68" y2="522.72" style="stroke:#000" />
+        <line class="st9 inkK" x1="1709.18" y1="521.32" x2="1714.44" y2="516.42" style="stroke:#000" />
+        <line class="st26 inkK" x1="1715.19" y1="515.72" x2="1715.19" y2="515.72" style="stroke:#000" />
+      </g>
+      <text class="st89 inkKt" transform="translate(1456.5912 238.0726) rotate(47.0302)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 78.4 </tspan></text>
+      <g id="DIM-78.4ft-arrow3" data-name="DIM-78.4ft · arrow">
+        <line class="st1 inkK" x1="1699.54" y1="513.59" x2="1698.51" y2="512.49" style="stroke:#000" />
+        <line class="st37 inkK" x1="1696.47" y1="510.3" x2="1256.54" y2="38.03" style="stroke:#000" />
+        <line class="st1 inkK" x1="1255.52" y1="36.94" x2="1254.49" y2="35.84" style="stroke:#000" />
+        <path class="st97 inkK" d="M1697.7,511.62l-6.2,1.28.04.22,8.57,4.06c2.59,1.79,5.17,3.57,7.76,5.36-1.6-2.71-3.2-5.41-4.8-8.12l-3.45-8.83-.19-.07-1.74,6.11Z" style="stroke:#000" />
+        <path class="st97 inkK" d="M1256.33,37.81l-1.71,6.09-.22-.05-3.45-8.83c-1.6-2.71-3.2-5.41-4.8-8.12,2.59,1.79,5.17,3.57,7.76,5.36l8.57,4.06.06.2-6.22,1.3Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-153.7ft" data-name="Dimension 153.7 ft">
+      <g id="DIM-153.7ft-arrow1" data-name="DIM-153.7ft · arrow">
+        <line class="st26 inkK" x1="1118.11" y1="1731.05" x2="1118.11" y2="1731.05" style="stroke:#000" />
+        <line class="st5 inkK" x1="1120" y1="1732.01" x2="1130.38" y2="1737.25" style="stroke:#000" />
+        <line class="st26 inkK" x1="1131.32" y1="1737.73" x2="1131.32" y2="1737.73" style="stroke:#000" />
+      </g>
+      <g id="DIM-153.7ft-arrow2" data-name="DIM-153.7ft · arrow">
+        <line class="st26 inkK" x1="1716.91" y1="545.75" x2="1716.91" y2="545.75" style="stroke:#000" />
+        <line class="st5 inkK" x1="1718.8" y1="546.71" x2="1729.18" y2="551.95" style="stroke:#000" />
+        <line class="st26 inkK" x1="1730.13" y1="552.43" x2="1730.13" y2="552.43" style="stroke:#000" />
+      </g>
+      <text class="st89 inkKt" transform="translate(1424.9058 1195.18) rotate(-63.1974)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 153.7 </tspan></text>
+      <g id="DIM-153.7ft-arrow3" data-name="DIM-153.7ft · arrow">
+        <line class="st1 inkK" x1="1715.69" y1="558.83" x2="1715.01" y2="560.17" style="stroke:#000" />
+        <line class="st47 inkK" x1="1713.65" y1="562.85" x2="1129.27" y2="1719.63" style="stroke:#000" />
+        <line class="st1 inkK" x1="1128.59" y1="1720.97" x2="1127.91" y2="1722.31" style="stroke:#000" />
+        <path class="st97 inkK" d="M1714.47,561.24l3.34,5.37.19-.11.85-9.44c.78-3.05,1.56-6.09,2.34-9.14-1.99,2.44-3.97,4.87-5.96,7.31l-7.1,6.29v.21s6.33-.48,6.33-.48Z" style="stroke:#000" />
+        <path class="st97 inkK" d="M1129.13,1719.9l6.31-.5.03.22-7.1,6.29c-1.99,2.44-3.97,4.87-5.96,7.31.78-3.04,1.56-6.09,2.34-9.14l.85-9.44.17-.12,3.37,5.38Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-154.8ft" data-name="Dimension 154.8 ft">
+      <g id="DIM-154.8ft-arrow1" data-name="DIM-154.8ft · arrow">
+        <line class="st26 inkK" x1="31.97" y1="636.77" x2="31.97" y2="636.77" style="stroke:#000" />
+        <line class="st4 inkK" x1="30.98" y1="634.83" x2="27.51" y2="628.06" style="stroke:#000" />
+        <line class="st26 inkK" x1="27.01" y1="627.09" x2="27.01" y2="627.09" style="stroke:#000" />
+      </g>
+      <g id="DIM-154.8ft-arrow2" data-name="DIM-154.8ft · arrow">
+        <line class="st26 inkK" x1="1222.27" y1="26.87" x2="1222.27" y2="26.87" style="stroke:#000" />
+        <line class="st4 inkK" x1="1221.28" y1="24.93" x2="1217.81" y2="18.16" style="stroke:#000" />
+        <line class="st26 inkK" x1="1217.32" y1="17.19" x2="1217.32" y2="17.19" style="stroke:#000" />
+      </g>
+      <text class="st89 inkKt" transform="translate(473.08 397.61) rotate(-27.13)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 154.8 </tspan></text>
+      <g id="DIM-154.8ft-arrow3" data-name="DIM-154.8ft · arrow">
+        <line class="st1 inkK" x1="1210.99" y1="31.67" x2="1209.66" y2="32.35" style="stroke:#000" />
+        <line class="st38 inkK" x1="1206.99" y1="33.72" x2="45.13" y2="629.05" style="stroke:#000" />
+        <line class="st1 inkK" x1="43.79" y1="629.73" x2="42.46" y2="630.41" style="stroke:#000" />
+        <path class="st97 inkK" d="M1208.6,32.9l-.46,6.31.22.02,6.25-7.13c2.42-2,4.85-4,7.27-6-3.04.8-6.08,1.6-9.12,2.4l-9.44.9-.12.17,5.4,3.34Z" style="stroke:#000" />
+        <path class="st97 inkK" d="M44.85,629.19l5.39,3.31-.11.19-9.44.9c-3.04.8-6.08,1.6-9.12,2.4,2.42-2,4.85-4,7.27-6l6.25-7.13h.21s-.45,6.33-.45,6.33Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-174ft" data-name="Dimension 174 ft">
+      <g id="DIM-174ft-arrow1" data-name="DIM-174ft · arrow">
+        <line class="st26 inkK" x1="1081.64" y1="1729.06" x2="1081.64" y2="1729.06" style="stroke:#000" />
+        <line class="st42 inkK" x1="1080.08" y1="1730.6" x2="1074.63" y2="1735.97" style="stroke:#000" />
+        <line class="st26 inkK" x1="1073.85" y1="1736.73" x2="1073.85" y2="1736.73" style="stroke:#000" />
+      </g>
+      <g id="DIM-174ft-arrow2" data-name="DIM-174ft · arrow">
+        <line class="st26 inkK" x1="26.8" y1="657.88" x2="26.8" y2="657.88" style="stroke:#000" />
+        <line class="st42 inkK" x1="25.25" y1="659.42" x2="19.79" y2="664.79" style="stroke:#000" />
+        <line class="st26 inkK" x1="19.01" y1="665.55" x2="19.01" y2="665.55" style="stroke:#000" />
+      </g>
+      <text class="st89 inkKt" transform="translate(532.70 1199.65) rotate(45.4404)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 174 </tspan></text>
+      <g id="DIM-174ft-arrow3" data-name="DIM-174ft · arrow">
+        <line class="st1 inkK" x1="34.72" y1="667.25" x2="35.77" y2="668.32" style="stroke:#000" />
+        <line class="st48 inkK" x1="37.88" y1="670.46" x2="1070.28" y2="1718.87" style="stroke:#000" />
+        <line class="st1 inkK" x1="1071.34" y1="1719.94" x2="1072.39" y2="1721.01" style="stroke:#000" />
+        <path class="st97 inkK" d="M36.61,669.17l6.16-1.45-.04-.22-8.68-3.82c-2.64-1.71-5.27-3.43-7.91-5.14,1.67,2.66,3.35,5.32,5.02,7.98l3.69,8.74.2.07,1.57-6.16Z" style="stroke:#000" />
+        <path class="st97 inkK" d="M1070.5,1719.09l1.54-6.13.22.05,3.69,8.74c1.67,2.66,3.35,5.32,5.02,7.99-2.64-1.71-5.27-3.43-7.91-5.14l-8.68-3.82-.06-.2,6.18-1.47Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIMENSIONS-part1" data-name="DIMENSIONS · part">
+      <line class="st26 inkK" x1="1084.25" y1="1719.44" x2="1084.25" y2="1719.44" style="stroke:#000" />
+      <line class="st11 inkK" x1="1082.28" y1="1719.28" x2="1069.44" y2="1718.23" style="stroke:#000" />
+      <line class="st26 inkK" x1="1068.45" y1="1718.15" x2="1068.45" y2="1718.15" style="stroke:#000" />
+    </g>
+    <g id="DIMENSIONS-part2" data-name="DIMENSIONS · part">
+      <line class="st26 inkK" x1="1221.34" y1="38.49" x2="1221.34" y2="38.49" style="stroke:#000" />
+      <line class="st11 inkK" x1="1219.37" y1="38.33" x2="1206.53" y2="37.29" style="stroke:#000" />
+      <line class="st26 inkK" x1="1205.54" y1="37.21" x2="1205.54" y2="37.21" style="stroke:#000" />
+    </g>
+    <text class="st89 inkKt" transform="translate(1124.3258 1035.2567) rotate(-85.3373)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 195.2 </tspan></text>
+    <g id="DIMENSIONS-part3" data-name="DIMENSIONS · part">
+      <line class="st1 inkK" x1="1214.51" y1="50.21" x2="1214.39" y2="51.7" style="stroke:#000" />
+      <line class="st45 inkK" x1="1214.15" y1="54.69" x2="1079.66" y2="1703.79" style="stroke:#000" />
+      <line class="st1 inkK" x1="1079.53" y1="1705.28" x2="1079.41" y2="1706.78" style="stroke:#000" />
+      <path class="st97 inkK" d="M1214.3,52.89l5.12,3.72.14-.17-2.77-9.07c-.42-3.12-.85-6.23-1.27-9.35-.92,3.01-1.85,6.01-2.77,9.02l-4.2,8.5.08.19,5.68-2.83Z" style="stroke:#000" />
+      <path class="st97 inkK" d="M1079.63,1704.09l5.65-2.84.11.19-4.21,8.5c-.92,3.01-1.85,6.01-2.77,9.02-.42-3.11-.85-6.23-1.27-9.35l-2.77-9.07.11-.18,5.15,3.72Z" style="stroke:#000" />
+    </g>
+    <g id="DIM-46.2ft" data-name="Dimension 46.2 ft">
+      <g id="DIM-46.2ft-arrow1" data-name="DIM-46.2ft · arrow">
+        <line class="st81 inkK" x1="1688.18" y1="521.27" x2="1688.18" y2="521.27" style="stroke:#000" />
+        <line class="st58 inkK" x1="1686.8" y1="520" x2="1679.22" y2="513" style="stroke:#000" />
+        <line class="st81 inkK" x1="1678.53" y1="512.37" x2="1678.53" y2="512.37" style="stroke:#000" />
+      </g>
+      <g id="DIM-46.2ft-arrow2" data-name="DIM-46.2ft · arrow">
+        <line class="st81 inkK" x1="1417.53" y1="814.67" x2="1417.53" y2="814.67" style="stroke:#000" />
+        <line class="st58 inkK" x1="1416.15" y1="813.4" x2="1408.57" y2="806.41" style="stroke:#000" />
+        <line class="st81 inkK" x1="1407.88" y1="805.77" x2="1407.88" y2="805.77" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1515.6697 689.0013) rotate(-47.3103)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 46.2 </tspan></text>
+      <g id="DIM-46.2ft-arrow3" data-name="DIM-46.2ft · arrow">
+        <line class="st6 inkK" x1="1423.52" y1="803.56" x2="1424.54" y2="802.46" style="stroke:#000" />
+        <line class="st43 inkK" x1="1426.59" y1="800.24" x2="1675.54" y2="530.35" style="stroke:#000" />
+        <line class="st6 inkK" x1="1676.57" y1="529.24" x2="1677.59" y2="528.14" style="stroke:#000" />
+        <path class="st93 inkK" d="M1425.35,801.58l-1.74-6.08-.22.05-3.4,8.85c-1.59,2.71-3.17,5.43-4.76,8.14,2.58-1.8,5.16-3.6,7.73-5.4l8.55-4.1.06-.2-6.22-1.27Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1675.76,530.12l-6.2-1.25.04-.22,8.55-4.1c2.58-1.8,5.16-3.6,7.73-5.4-1.59,2.71-3.17,5.43-4.76,8.14l-3.4,8.85-.19.07-1.77-6.1Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-50.7ft" data-name="Dimension 50.7 ft">
+      <g id="DIM-50.7ft-arrow1" data-name="DIM-50.7ft · arrow">
+        <line class="st81 inkK" x1="1428.34" y1="881.43" x2="1428.34" y2="881.43" style="stroke:#000" />
+        <line class="st24 inkK" x1="1429.81" y1="882.81" x2="1437.88" y2="890.39" style="stroke:#000" />
+        <line class="st81 inkK" x1="1438.62" y1="891.08" x2="1438.62" y2="891.08" style="stroke:#000" />
+      </g>
+      <g id="DIM-50.7ft-arrow2" data-name="DIM-50.7ft · arrow">
+        <line class="st81 inkK" x1="1728.33" y1="561.98" x2="1728.33" y2="561.98" style="stroke:#000" />
+        <line class="st24 inkK" x1="1729.8" y1="563.36" x2="1737.88" y2="570.94" style="stroke:#000" />
+        <line class="st81 inkK" x1="1738.61" y1="571.63" x2="1738.61" y2="571.63" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1573.3298 772.8982) rotate(-46.7987)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 50.7 </tspan></text>
+      <g id="DIM-50.7ft-arrow3" data-name="DIM-50.7ft · arrow">
+        <line class="st6 inkK" x1="1722.95" y1="573.7" x2="1721.93" y2="574.79" style="stroke:#000" />
+        <line class="st69 inkK" x1="1719.87" y1="576.98" x2="1441.75" y2="873.14" style="stroke:#000" />
+        <line class="st6 inkK" x1="1440.73" y1="874.23" x2="1439.7" y2="875.32" style="stroke:#000" />
+        <path class="st93 inkK" d="M1721.11,575.66l1.69,6.1.22-.05,3.48-8.82c1.61-2.7,3.22-5.4,4.83-8.1-2.59,1.78-5.19,3.55-7.78,5.33l-8.58,4.03-.06.2,6.21,1.32Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1441.54,873.36l6.19,1.3-.04.22-8.58,4.03c-2.59,1.78-5.19,3.55-7.78,5.33,1.61-2.7,3.22-5.4,4.83-8.1l3.48-8.82.19-.07,1.71,6.12Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-25.7ft" data-name="Dimension 25.7 ft">
+      <g id="DIM-25.7ft-arrow1" data-name="DIM-25.7ft · arrow">
+        <line class="st81 inkK" x1="1421.79" y1="832.5" x2="1421.79" y2="832.5" style="stroke:#000" />
+        <line class="st33 inkK" x1="1421.79" y1="834.53" x2="1421.79" y2="841.64" style="stroke:#000" />
+        <line class="st81 inkK" x1="1421.79" y1="842.65" x2="1421.79" y2="842.65" style="stroke:#000" />
+      </g>
+      <g id="DIM-25.7ft-arrow2" data-name="DIM-25.7ft · arrow">
+        <line class="st81 inkK" x1="1199.75" y1="832.5" x2="1199.75" y2="832.5" style="stroke:#000" />
+        <line class="st33 inkK" x1="1199.75" y1="834.53" x2="1199.75" y2="841.64" style="stroke:#000" />
+        <line class="st81 inkK" x1="1199.75" y1="842.65" x2="1199.75" y2="842.65" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1270.0786 859.9788)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 25.7 </tspan></text>
+      <g id="DIM-25.7ft-arrow3" data-name="DIM-25.7ft · arrow">
+        <line class="st6 inkK" x1="1211.97" y1="832.65" x2="1213.47" y2="832.65" style="stroke:#000" />
+        <line class="st75 inkK" x1="1216.47" y1="832.65" x2="1406.57" y2="832.65" style="stroke:#000" />
+        <line class="st6 inkK" x1="1408.07" y1="832.65" x2="1409.57" y2="832.65" style="stroke:#000" />
+        <path class="st93 inkK" d="M1214.67,832.65l3.29-5.4-.18-.12-8.81,3.5c-3.07.68-6.14,1.35-9.21,2.03,3.07.68,6.14,1.35,9.21,2.03l8.81,3.5.18-.09-3.29-5.43Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1406.87,832.65l-3.29-5.4.18-.12,8.81,3.5c3.07.68,6.14,1.35,9.21,2.03-3.07.68-6.14,1.35-9.21,2.03l-8.81,3.5-.18-.09,3.29-5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-23ft" data-name="Dimension 23 ft">
+      <g id="DIM-23ft-arrow1" data-name="DIM-23ft · arrow">
+        <line class="st81 inkK" x1="1199.72" y1="832.5" x2="1199.72" y2="832.5" style="stroke:#000" />
+        <line class="st13 inkK" x1="1199.72" y1="834.37" x2="1199.72" y2="842.76" style="stroke:#000" />
+        <line class="st81 inkK" x1="1199.72" y1="843.69" x2="1199.72" y2="843.69" style="stroke:#000" />
+      </g>
+      <g id="DIM-23ft-arrow2" data-name="DIM-23ft · arrow">
+        <line class="st81 inkK" x1="1001" y1="832.5" x2="1001" y2="832.5" style="stroke:#000" />
+        <line class="st13 inkK" x1="1001" y1="834.37" x2="1001" y2="842.76" style="stroke:#000" />
+        <line class="st81 inkK" x1="1001" y1="843.69" x2="1001" y2="843.69" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1069.6792 861.0217)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 23 </tspan></text>
+      <g id="DIM-23ft-arrow3" data-name="DIM-23ft · arrow">
+        <line class="st6 inkK" x1="1013.23" y1="833.69" x2="1014.73" y2="833.69" style="stroke:#000" />
+        <line class="st68 inkK" x1="1017.74" y1="833.69" x2="1184.49" y2="833.69" style="stroke:#000" />
+        <line class="st6 inkK" x1="1185.99" y1="833.69" x2="1187.49" y2="833.69" style="stroke:#000" />
+        <path class="st93 inkK" d="M1015.92,833.69l3.29-5.4-.18-.12-8.81,3.5c-3.07.68-6.14,1.35-9.21,2.03,3.07.68,6.14,1.35,9.21,2.03l8.81,3.5.18-.09-3.29-5.43Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1184.8,833.69l-3.29-5.4.18-.12,8.81,3.5c3.07.68,6.14,1.35,9.21,2.03-3.07.68-6.14,1.35-9.21,2.03l-8.81,3.5-.18-.09,3.29-5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-20.6ft" data-name="Dimension 20.6 ft">
+      <g id="DIM-20.6ft-arrow1" data-name="DIM-20.6ft · arrow">
+        <line class="st81 inkK" x1="1209.62" y1="644.26" x2="1209.62" y2="644.26" style="stroke:#000" />
+        <line class="st65 inkK" x1="1211.72" y1="644.26" x2="1219.04" y2="644.26" style="stroke:#000" />
+        <line class="st81 inkK" x1="1220.08" y1="644.26" x2="1220.08" y2="644.26" style="stroke:#000" />
+      </g>
+      <g id="DIM-20.6ft-arrow2" data-name="DIM-20.6ft · arrow">
+        <line class="st81 inkK" x1="1209.62" y1="822.24" x2="1209.62" y2="822.24" style="stroke:#000" />
+        <line class="st65 inkK" x1="1211.72" y1="822.24" x2="1219.04" y2="822.24" style="stroke:#000" />
+        <line class="st81 inkK" x1="1220.08" y1="822.24" x2="1220.08" y2="822.24" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1237.4103 773.9381) rotate(-90)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 20.6 </tspan></text>
+      <g id="DIM-20.6ft-arrow3" data-name="DIM-20.6ft · arrow">
+        <line class="st6 inkK" x1="1210.08" y1="810.01" x2="1210.08" y2="808.51" style="stroke:#000" />
+        <line class="st16 inkK" x1="1210.08" y1="805.56" x2="1210.08" y2="659.46" style="stroke:#000" />
+        <line class="st6 inkK" x1="1210.08" y1="657.98" x2="1210.08" y2="656.48" style="stroke:#000" />
+        <path class="st93 inkK" d="M1210.08,807.32l-5.4-3.29-.12.18,3.5,8.81c.68,3.07,1.35,6.14,2.03,9.21.68-3.07,1.35-6.14,2.03-9.21l3.5-8.81-.09-.18-5.43,3.29Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1210.08,659.18l-5.4,3.29-.12-.18,3.5-8.81c.68-3.07,1.35-6.14,2.03-9.21.68,3.07,1.35,6.14,2.03,9.21l3.5,8.81-.09.18-5.43-3.29Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-23.6ft" data-name="Dimension 23.6 ft">
+      <g id="DIM-23.6ft-arrow1" data-name="DIM-23.6ft · arrow">
+        <line class="st81 inkK" x1="1199.06" y1="632.96" x2="1199.06" y2="632.96" style="stroke:#000" />
+        <line class="st60 inkK" x1="1199.12" y1="630.91" x2="1199.3" y2="623.72" style="stroke:#000" />
+        <line class="st81 inkK" x1="1199.32" y1="622.69" x2="1199.32" y2="622.69" style="stroke:#000" />
+      </g>
+      <g id="DIM-23.6ft-arrow2" data-name="DIM-23.6ft · arrow">
+        <line class="st81 inkK" x1="995.23" y1="627.79" x2="995.23" y2="627.79" style="stroke:#000" />
+        <line class="st60 inkK" x1="995.28" y1="625.73" x2="995.46" y2="618.55" style="stroke:#000" />
+        <line class="st81 inkK" x1="995.49" y1="617.52" x2="995.49" y2="617.52" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1056.7343 619.1031) rotate(1.4543)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 23.6 </tspan></text>
+      <g id="DIM-23.6ft-arrow3" data-name="DIM-23.6ft · arrow">
+        <line class="st6 inkK" x1="1007.46" y1="627.83" x2="1008.96" y2="627.86" style="stroke:#000" />
+        <line class="st78 inkK" x1="1011.95" y1="627.94" x2="1183.85" y2="632.3" style="stroke:#000" />
+        <line class="st6 inkK" x1="1185.35" y1="632.34" x2="1186.85" y2="632.38" style="stroke:#000" />
+        <path class="st93 inkK" d="M1010.15,627.89l3.42-5.32-.18-.13-8.9,3.28c-3.09.6-6.17,1.19-9.26,1.79,3.05.75,6.1,1.51,9.16,2.26l8.72,3.72.19-.09-3.15-5.52Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1184.15,632.31l-3.15-5.49.19-.12,8.72,3.72c3.05.75,6.1,1.51,9.16,2.26-3.09.6-6.17,1.19-9.26,1.79l-8.9,3.28-.18-.1,3.42-5.35Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-21.4ft" data-name="Dimension 21.4 ft">
+      <g id="DIM-21.4ft-arrow1" data-name="DIM-21.4ft · arrow">
+        <line class="st81 inkK" x1="1007.84" y1="638.51" x2="1007.84" y2="638.51" style="stroke:#000" />
+        <line class="st22 inkK" x1="1005.91" y1="638.57" x2="997.21" y2="638.88" style="stroke:#000" />
+        <line class="st81 inkK" x1="996.24" y1="638.91" x2="996.24" y2="638.91" style="stroke:#000" />
+      </g>
+      <g id="DIM-21.4ft-arrow2" data-name="DIM-21.4ft · arrow">
+        <line class="st81 inkK" x1="1014.29" y1="823.29" x2="1014.29" y2="823.29" style="stroke:#000" />
+        <line class="st22 inkK" x1="1012.36" y1="823.36" x2="1003.66" y2="823.66" style="stroke:#000" />
+        <line class="st81 inkK" x1="1002.69" y1="823.69" x2="1002.69" y2="823.69" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1016.7356 691.2362) rotate(88)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 21.4 </tspan></text>
+      <g id="DIM-21.4ft-arrow3" data-name="DIM-21.4ft · arrow">
+        <line class="st6 inkK" x1="1012.26" y1="811.12" x2="1012.21" y2="809.62" style="stroke:#000" />
+        <line class="st71 inkK" x1="1012.1" y1="806.66" x2="1006.76" y2="653.77" style="stroke:#000" />
+        <line class="st6 inkK" x1="1006.71" y1="652.28" x2="1006.66" y2="650.78" style="stroke:#000" />
+        <path class="st93 inkK" d="M1012.16,808.43l-5.52-3.1-.12.19,3.81,8.68c.78,3.04,1.56,6.09,2.35,9.13.57-3.09,1.14-6.18,1.7-9.28l3.19-8.93-.1-.18-5.32,3.47Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1006.75,653.47l-5.29,3.47-.13-.18,3.19-8.93c.57-3.09,1.14-6.18,1.7-9.28.78,3.04,1.56,6.09,2.35,9.13l3.81,8.68-.09.19-5.55-3.1Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-11ft" data-name="Dimension 11 ft">
+      <g id="DIM-11ft-arrow1" data-name="DIM-11ft · arrow">
+        <line class="st81 inkK" x1="994.88" y1="627.47" x2="994.88" y2="627.47" style="stroke:#000" />
+        <line class="st53 inkK" x1="994.95" y1="629.53" x2="995.13" y2="634.69" style="stroke:#000" />
+        <line class="st81 inkK" x1="995.17" y1="635.72" x2="995.17" y2="635.72" style="stroke:#000" />
+      </g>
+      <g id="DIM-11ft-arrow2" data-name="DIM-11ft · arrow">
+        <line class="st81 inkK" x1="916.95" y1="630.15" x2="916.95" y2="630.15" style="stroke:#000" />
+        <line class="st53 inkK" x1="917.02" y1="632.21" x2="917.19" y2="637.37" style="stroke:#000" />
+        <line class="st81 inkK" x1="917.23" y1="638.4" x2="917.23" y2="638.4" style="stroke:#000" />
+      </g>
+      <text class="st94 inkKt" transform="translate(930.49 621.57) rotate(-1.97)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 11 </tspan></text>
+      <g id="DIM-11ft-arrow3" data-name="DIM-11ft · arrow">
+        <line class="st6 inkK" x1="929.17" y1="629.78" x2="930.67" y2="629.73" style="stroke:#000" />
+        <line class="st70 inkK" x1="933.64" y1="629.63" x2="979.68" y2="628.04" style="stroke:#000" />
+        <line class="st6 inkK" x1="981.16" y1="627.99" x2="982.66" y2="627.94" style="stroke:#000" />
+        <path class="st93 inkK" d="M931.86,629.69l3.1-5.51-.19-.12-8.69,3.8c-3.05.78-6.09,1.56-9.14,2.34,3.09.57,6.18,1.14,9.28,1.71l8.93,3.19.18-.1-3.47-5.32Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M979.97,628.03l-3.47-5.29.18-.13,8.93,3.19c3.09.57,6.18,1.14,9.28,1.71-3.05.78-6.09,1.56-9.14,2.34l-8.69,3.8-.19-.09,3.1-5.54Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-11ft-2" data-name="Dimension 11 ft">
+      <g id="DIM-11ft-2-arrow1" data-name="DIM-11ft-2 · arrow">
+        <line class="st81 inkK" x1="999.9" y1="772.43" x2="999.9" y2="772.43" style="stroke:#000" />
+        <line class="st25 inkK" x1="999.97" y1="774.44" x2="1004.23" y2="898.24" style="stroke:#000" />
+        <line class="st81 inkK" x1="1004.26" y1="899.25" x2="1004.26" y2="899.25" style="stroke:#000" />
+      </g>
+      <path class="st0 inkK" d="M909.28,902.52" style="stroke:#000" />
+      <path class="st0 inkK" d="M904.91,775.7" style="stroke:#000" />
+      <text class="st90 inkKt" transform="translate(926.7 919.29) rotate(-1.97)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 11 </tspan></text>
+      <g id="DIM-11ft-2-arrow2" data-name="DIM-11ft-2 · arrow">
+        <line class="st6 inkK" x1="921.16" y1="892.1" x2="922.66" y2="892.05" style="stroke:#000" />
+        <line class="st18 inkK" x1="925.59" y1="891.95" x2="988.73" y2="889.78" style="stroke:#000" />
+        <line class="st6 inkK" x1="990.2" y1="889.72" x2="991.7" y2="889.67" style="stroke:#000" />
+        <path class="st93 inkK" d="M923.85,892.01l3.1-5.51-.19-.12-8.69,3.8c-3.05.78-6.09,1.56-9.14,2.34,3.09.57,6.18,1.14,9.28,1.71l8.93,3.19.18-.1-3.47-5.32Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M989.01,889.77l-3.47-5.29.18-.13,8.93,3.19c3.09.57,6.18,1.14,9.28,1.71-3.05.78-6.09,1.56-9.14,2.34l-8.69,3.8-.19-.09,3.1-5.54Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-27.6ft" data-name="Dimension 27.6 ft">
+      <g id="DIM-27.6ft-arrow1" data-name="DIM-27.6ft · arrow">
+        <line class="st81 inkK" x1="997.41" y1="877.02" x2="997.41" y2="877.02" style="stroke:#000" />
+        <line class="st15 inkK" x1="995.51" y1="877.08" x2="983.15" y2="877.5" style="stroke:#000" />
+        <line class="st81 inkK" x1="982.2" y1="877.54" x2="982.2" y2="877.54" style="stroke:#000" />
+      </g>
+      <g id="DIM-27.6ft-arrow2" data-name="DIM-27.6ft · arrow">
+        <line class="st81 inkK" x1="989.26" y1="638.27" x2="989.26" y2="638.27" style="stroke:#000" />
+        <line class="st15 inkK" x1="987.36" y1="638.34" x2="975.01" y2="638.76" style="stroke:#000" />
+        <line class="st81 inkK" x1="974.06" y1="638.79" x2="974.06" y2="638.79" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(959.38 718.07) rotate(88.05)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 27.6 </tspan></text>
+      <g id="DIM-27.6ft-arrow3" data-name="DIM-27.6ft · arrow">
+        <line class="st6 inkK" x1="984.47" y1="650.67" x2="984.52" y2="652.17" style="stroke:#000" />
+        <line class="st64 inkK" x1="984.62" y1="655.15" x2="991.68" y2="861.99" style="stroke:#000" />
+        <line class="st6 inkK" x1="991.73" y1="863.47" x2="991.78" y2="864.97" style="stroke:#000" />
+        <path class="st93 inkK" d="M984.56,653.36l5.51,3.1.12-.19-3.8-8.69c-.78-3.05-1.56-6.09-2.34-9.14-.57,3.09-1.14,6.18-1.71,9.27l-3.2,8.93.1.18,5.32-3.47Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M991.69,862.28l5.29-3.47.13.18-3.2,8.93c-.57,3.09-1.14,6.18-1.71,9.27-.78-3.05-1.56-6.09-2.34-9.14l-3.8-8.69.09-.19,5.54,3.1Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-62ft" data-name="Dimension 62 ft">
+      <g id="DIM-62ft-arrow1" data-name="DIM-62ft · arrow">
+        <line class="st81 inkK" x1="908.2" y1="872.86" x2="908.2" y2="872.86" style="stroke:#000" />
+        <line class="st55 inkK" x1="908.2" y1="874.84" x2="908.2" y2="931.38" style="stroke:#000" />
+        <line class="st81 inkK" x1="908.2" y1="932.37" x2="908.2" y2="932.37" style="stroke:#000" />
+      </g>
+      <g id="DIM-62ft-arrow2" data-name="DIM-62ft · arrow">
+        <line class="st81 inkK" x1="1423.88" y1="855.45" x2="1423.88" y2="855.45" style="stroke:#000" />
+        <line class="st35 inkK" x1="1423.88" y1="857.48" x2="1423.88" y2="931.36" style="stroke:#000" />
+        <line class="st81 inkK" x1="1423.88" y1="932.37" x2="1423.88" y2="932.37" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1135.3569 949.0524)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 62 </tspan></text>
+      <g id="DIM-62ft-arrow3" data-name="DIM-62ft · arrow">
+        <line class="st6 inkK" x1="1411.65" y1="922.75" x2="1410.15" y2="922.75" style="stroke:#000" />
+        <line class="st76 inkK" x1="1407.16" y1="922.75" x2="923.43" y2="922.75" style="stroke:#000" />
+        <line class="st6 inkK" x1="921.93" y1="922.75" x2="920.43" y2="922.75" style="stroke:#000" />
+        <path class="st93 inkK" d="M1408.96,922.75l-3.29,5.4.18.12,8.81-3.5c3.07-.68,6.14-1.35,9.21-2.03-3.07-.68-6.14-1.35-9.21-2.03l-8.81-3.5-.18.09,3.29,5.43Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M923.12,922.75l3.29,5.4-.18.12-8.81-3.5c-3.07-.68-6.14-1.35-9.21-2.03,3.07-.68,6.14-1.35,9.21-2.03l8.81-3.5.18.09-3.29,5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-46ft" data-name="Dimension 46 ft">
+      <g id="DIM-46ft-arrow1" data-name="DIM-46ft · arrow">
+        <line class="st81 inkK" x1="1004.55" y1="888.65" x2="1004.55" y2="888.65" style="stroke:#000" />
+        <line class="st28 inkK" x1="1004.55" y1="890.7" x2="1004.55" y2="897.88" style="stroke:#000" />
+        <line class="st81 inkK" x1="1004.55" y1="898.91" x2="1004.55" y2="898.91" style="stroke:#000" />
+      </g>
+      <g id="DIM-46ft-arrow2" data-name="DIM-46ft · arrow">
+        <line class="st81 inkK" x1="1401.99" y1="888.65" x2="1401.99" y2="888.65" style="stroke:#000" />
+        <line class="st28 inkK" x1="1401.99" y1="890.7" x2="1401.99" y2="897.88" style="stroke:#000" />
+        <line class="st81 inkK" x1="1401.99" y1="898.91" x2="1401.99" y2="898.91" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1172.5888 916.2364)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 46 </tspan></text>
+      <g id="DIM-46ft-arrow3" data-name="DIM-46ft · arrow">
+        <line class="st6 inkK" x1="1389.76" y1="888.91" x2="1388.26" y2="888.91" style="stroke:#000" />
+        <line class="st74 inkK" x1="1385.26" y1="888.91" x2="1019.79" y2="888.91" style="stroke:#000" />
+        <line class="st6 inkK" x1="1018.28" y1="888.91" x2="1016.78" y2="888.91" style="stroke:#000" />
+        <path class="st93 inkK" d="M1387.07,888.91l-3.29,5.4.18.12,8.81-3.5c3.07-.68,6.14-1.35,9.21-2.03-3.07-.68-6.14-1.35-9.21-2.03l-8.81-3.5-.18.09,3.29,5.43Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M1019.47,888.91l3.29,5.4-.18.12-8.81-3.5c-3.07-.68-6.14-1.35-9.21-2.03,3.07-.68,6.14-1.35,9.21-2.03l8.81-3.5.18.09-3.29,5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-10ft" data-name="Dimension 10 ft">
+      <g id="DIM-10ft-arrow1" data-name="DIM-10ft · arrow">
+        <line class="st81 inkK" x1="909.02" y1="883" x2="909.02" y2="883" style="stroke:#000" />
+        <line class="st14 inkK" x1="908.77" y1="884.94" x2="907.88" y2="891.7" style="stroke:#000" />
+        <line class="st81 inkK" x1="907.75" y1="892.67" x2="907.75" y2="892.67" style="stroke:#000" />
+      </g>
+      <g id="DIM-10ft-arrow2" data-name="DIM-10ft · arrow">
+        <line class="st81 inkK" x1="841.28" y1="874.11" x2="841.28" y2="874.11" style="stroke:#000" />
+        <line class="st14 inkK" x1="841.03" y1="876.04" x2="840.14" y2="882.8" style="stroke:#000" />
+        <line class="st81 inkK" x1="840.01" y1="883.77" x2="840.01" y2="883.77" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(841.65 904.92) rotate(7.48)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 10 </tspan></text>
+      <g id="DIM-10ft-arrow3" data-name="DIM-10ft · arrow">
+        <line class="st6 inkK" x1="853.16" y1="877.52" x2="854.65" y2="877.72" style="stroke:#000" />
+        <line class="st49 inkK" x1="857.77" y1="878.13" x2="893.61" y2="882.83" style="stroke:#000" />
+        <line class="st6 inkK" x1="895.17" y1="883.04" x2="896.66" y2="883.23" style="stroke:#000" />
+        <path class="st93 inkK" d="M855.83,877.87l3.96-4.93-.17-.15-9.19,2.32c-3.13.27-6.26.54-9.4.81,2.96,1.07,5.91,2.14,8.87,3.21l8.28,4.62.2-.07-2.55-5.82Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M893.99,882.88l-2.56-5.79.2-.1,8.28,4.62c2.96,1.07,5.91,2.14,8.87,3.21-3.13.27-6.26.54-9.4.81l-9.19,2.32-.17-.12,3.97-4.96Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-34ft" data-name="Dimension 34 ft">
+      <g id="DIM-34ft-arrow1" data-name="DIM-34ft · arrow">
+        <line class="st81 inkK" x1="839.52" y1="877.9" x2="839.52" y2="877.9" style="stroke:#000" />
+        <line class="st29 inkK" x1="838.92" y1="879.95" x2="836.84" y2="887.13" style="stroke:#000" />
+        <line class="st81 inkK" x1="836.55" y1="888.15" x2="836.55" y2="888.15" style="stroke:#000" />
+      </g>
+      <g id="DIM-34ft-arrow2" data-name="DIM-34ft · arrow">
+        <line class="st81 inkK" x1="557.33" y1="796.26" x2="557.33" y2="796.26" style="stroke:#000" />
+        <line class="st29 inkK" x1="556.73" y1="798.32" x2="554.65" y2="805.5" style="stroke:#000" />
+        <line class="st81 inkK" x1="554.36" y1="806.52" x2="554.36" y2="806.52" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(661.12 855.44) rotate(16.13)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 34 </tspan></text>
+      <g id="DIM-34ft-arrow3" data-name="DIM-34ft · arrow">
+        <line class="st6 inkK" x1="568.88" y1="800.31" x2="570.32" y2="800.73" style="stroke:#000" />
+        <line class="st66 inkK" x1="573.2" y1="801.56" x2="824.7" y2="874.32" style="stroke:#000" />
+        <line class="st6 inkK" x1="826.14" y1="874.73" x2="827.58" y2="875.15" style="stroke:#000" />
+        <path class="st93 inkK" d="M571.47,801.06l4.66-4.28-.14-.17-9.44.91c-3.14-.2-6.27-.41-9.41-.61,2.76,1.5,5.52,3,8.28,4.51l7.49,5.81.2-.04-1.65-6.13Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M824.99,874.4l-1.66-6.11.21-.07,7.49,5.81c2.76,1.5,5.52,3,8.28,4.51-3.14-.2-6.27-.41-9.41-.61l-9.44.91-.15-.14,4.67-4.31Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-20ft" data-name="Dimension 20 ft">
+      <g id="DIM-20ft-arrow1" data-name="DIM-20ft · arrow">
+        <line class="st81 inkK" x1="547.16" y1="789.78" x2="547.16" y2="789.78" style="stroke:#000" />
+        <line class="st27 inkK" x1="549.2" y1="789.63" x2="556.35" y2="789.09" style="stroke:#000" />
+        <line class="st81 inkK" x1="557.37" y1="789.01" x2="557.37" y2="789.01" style="stroke:#000" />
+      </g>
+      <g id="DIM-20ft-arrow2" data-name="DIM-20ft · arrow">
+        <line class="st81 inkK" x1="534.14" y1="617.47" x2="534.14" y2="617.47" style="stroke:#000" />
+        <line class="st27 inkK" x1="536.18" y1="617.32" x2="543.33" y2="616.78" style="stroke:#000" />
+        <line class="st81 inkK" x1="544.35" y1="616.7" x2="544.35" y2="616.7" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(512.51 672.24) rotate(85.68)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 20 </tspan></text>
+      <g id="DIM-20ft-arrow3" data-name="DIM-20ft · arrow">
+        <line class="st6 inkK" x1="535.3" y1="629.65" x2="535.42" y2="631.14" style="stroke:#000" />
+        <line class="st77 inkK" x1="535.64" y1="634.1" x2="546.25" y2="774.59" style="stroke:#000" />
+        <line class="st6 inkK" x1="546.37" y1="776.07" x2="546.48" y2="777.57" style="stroke:#000" />
+        <path class="st93 inkK" d="M535.51,632.33l5.64,2.87.11-.19-4.15-8.52c-.9-3.01-1.81-6.02-2.71-9.03-.44,3.11-.88,6.22-1.33,9.34l-2.83,9.05.11.18,5.17-3.69Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M546.28,774.88l5.14-3.68.14.17-2.83,9.05c-.44,3.11-.88,6.22-1.33,9.34-.9-3.01-1.81-6.02-2.71-9.03l-4.15-8.52.08-.19,5.67,2.87Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-44.1ft" data-name="Dimension 44.1 ft">
+      <g id="DIM-44.1ft-arrow1" data-name="DIM-44.1ft · arrow">
+        <line class="st81 inkK" x1="902.25" y1="795.82" x2="902.25" y2="795.82" style="stroke:#000" />
+        <line class="st34 inkK" x1="903.01" y1="793.94" x2="906.44" y2="785.5" style="stroke:#000" />
+        <line class="st81 inkK" x1="906.82" y1="784.57" x2="906.82" y2="784.57" style="stroke:#000" />
+      </g>
+      <g id="DIM-44.1ft-arrow2" data-name="DIM-44.1ft · arrow">
+        <line class="st81 inkK" x1="549.23" y1="652.44" x2="549.23" y2="652.44" style="stroke:#000" />
+        <line class="st34 inkK" x1="549.99" y1="650.56" x2="553.42" y2="642.12" style="stroke:#000" />
+        <line class="st81 inkK" x1="553.8" y1="641.19" x2="553.8" y2="641.19" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(692.61 697.64) rotate(22.11)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 44.1 </tspan></text>
+      <g id="DIM-44.1ft-arrow3" data-name="DIM-44.1ft · arrow">
+        <line class="st6 inkK" x1="561.37" y1="655.05" x2="562.76" y2="655.62" style="stroke:#000" />
+        <line class="st44 inkK" x1="565.56" y1="656.75" x2="888.94" y2="788.1" style="stroke:#000" />
+        <line class="st6 inkK" x1="890.34" y1="788.67" x2="891.73" y2="789.23" style="stroke:#000" />
+        <path class="st93 inkK" d="M563.86,656.06l5.08-3.77-.12-.18-9.48-.07c-3.1-.53-6.2-1.06-9.3-1.59,2.59,1.78,5.18,3.56,7.77,5.34l6.85,6.56.21-.02-1-6.27Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M889.23,788.22l-1.01-6.24.22-.04,6.85,6.56c2.59,1.78,5.18,3.56,7.77,5.34-3.1-.53-6.2-1.06-9.3-1.59l-9.48-.07-.14-.16,5.09-3.8Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-13.6ft" data-name="Dimension 13.6 ft">
+      <g id="DIM-13.6ft-arrow1" data-name="DIM-13.6ft · arrow">
+        <line class="st81 inkK" x1="574.84" y1="786.62" x2="574.84" y2="786.62" style="stroke:#000" />
+        <line class="st36 inkK" x1="572.82" y1="786.77" x2="563.69" y2="787.43" style="stroke:#000" />
+        <line class="st81 inkK" x1="562.68" y1="787.5" x2="562.68" y2="787.5" style="stroke:#000" />
+      </g>
+      <g id="DIM-13.6ft-arrow2" data-name="DIM-13.6ft · arrow">
+        <line class="st81 inkK" x1="566.36" y1="669.43" x2="566.36" y2="669.43" style="stroke:#000" />
+        <line class="st36 inkK" x1="564.33" y1="669.57" x2="555.2" y2="670.23" style="stroke:#000" />
+        <line class="st81 inkK" x1="554.19" y1="670.31" x2="554.19" y2="670.31" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(577.05 683.11) rotate(85.86)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 13.6 </tspan></text>
+      <g id="DIM-13.6ft-arrow3" data-name="DIM-13.6ft · arrow">
+        <line class="st6 inkK" x1="565.04" y1="681.78" x2="565.15" y2="683.28" style="stroke:#000" />
+        <line class="st19 inkK" x1="565.36" y1="686.17" x2="571.55" y2="771.64" style="stroke:#000" />
+        <line class="st6 inkK" x1="571.66" y1="773.09" x2="571.77" y2="774.58" style="stroke:#000" />
+        <path class="st93 inkK" d="M565.24,684.47l5.63,2.89.11-.19-4.13-8.54c-.9-3.01-1.79-6.03-2.69-9.04-.45,3.11-.9,6.22-1.36,9.33l-2.85,9.04.11.18,5.18-3.67Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M571.57,771.9l5.15-3.67.14.18-2.85,9.04c-.45,3.11-.9,6.22-1.36,9.33-.9-3.01-1.79-6.03-2.69-9.04l-4.13-8.54.08-.19,5.66,2.89Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-45ft" data-name="Dimension 45 ft">
+      <g id="DIM-45ft-arrow1" data-name="DIM-45ft · arrow">
+        <line class="st81 inkK" x1="617.87" y1="231.34" x2="617.87" y2="231.34" style="stroke:#000" />
+        <line class="st57 inkK" x1="615.93" y1="230.93" x2="607.18" y2="229.08" style="stroke:#000" />
+        <line class="st81 inkK" x1="606.21" y1="228.87" x2="606.21" y2="228.87" style="stroke:#000" />
+      </g>
+      <g id="DIM-45ft-arrow2" data-name="DIM-45ft · arrow">
+        <line class="st81 inkK" x1="537.54" y1="611.35" x2="537.54" y2="611.35" style="stroke:#000" />
+        <line class="st57 inkK" x1="535.6" y1="610.94" x2="526.86" y2="609.09" style="stroke:#000" />
+        <line class="st81 inkK" x1="525.89" y1="608.89" x2="525.89" y2="608.89" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(559.69 448.91) rotate(-78.06)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 45 </tspan></text>
+      <g id="DIM-45ft-arrow3" data-name="DIM-45ft · arrow">
+        <line class="st6 inkK" x1="538.2" y1="598.99" x2="538.51" y2="597.52" style="stroke:#000" />
+        <line class="st73 inkK" x1="539.13" y1="594.6" x2="612.85" y2="245.83" style="stroke:#000" />
+        <line class="st6 inkK" x1="613.16" y1="244.37" x2="613.47" y2="242.9" style="stroke:#000" />
+        <path class="st93 inkK" d="M538.76,596.36l-4.61-4.33-.16.16,1.6,9.35c.03,3.14.05,6.29.08,9.43,1.3-2.86,2.59-5.73,3.89-8.59l5.25-7.9-.05-.2-6,2.09Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M612.91,245.54l-5.97,2.1-.08-.21,5.25-7.9c1.3-2.86,2.59-5.73,3.89-8.59.03,3.14.05,6.29.08,9.43l1.6,9.35-.13.16-4.64-4.34Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-40.8ft" data-name="Dimension 40.8 ft">
+      <g id="DIM-40.8ft-arrow1" data-name="DIM-40.8ft · arrow">
+        <line class="st81 inkK" x1="900.54" y1="638.71" x2="900.54" y2="638.71" style="stroke:#000" />
+        <line class="st52 inkK" x1="898.43" y1="638.34" x2="891.04" y2="637.02" style="stroke:#000" />
+        <line class="st81 inkK" x1="889.98" y1="636.83" x2="889.98" y2="636.83" style="stroke:#000" />
+      </g>
+      <g id="DIM-40.8ft-arrow2" data-name="DIM-40.8ft · arrow">
+        <line class="st81 inkK" x1="962.52" y1="291.95" x2="962.52" y2="291.95" style="stroke:#000" />
+        <line class="st52 inkK" x1="960.41" y1="291.57" x2="953.01" y2="290.25" style="stroke:#000" />
+        <line class="st81 inkK" x1="951.96" y1="290.06" x2="951.96" y2="290.06" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(913.78 503.48) rotate(-79.87)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 40.8 </tspan></text>
+      <g id="DIM-40.8ft-arrow3" data-name="DIM-40.8ft · arrow">
+        <line class="st6 inkK" x1="959.65" y1="303.86" x2="959.39" y2="305.34" style="stroke:#000" />
+        <line class="st20 inkK" x1="958.86" y1="308.27" x2="902.5" y2="623.6" style="stroke:#000" />
+        <line class="st6 inkK" x1="902.24" y1="625.07" x2="901.98" y2="626.55" style="stroke:#000" />
+        <path class="st93 inkK" d="M959.18,306.51l4.74,4.19.15-.16-1.9-9.29c-.12-3.14-.25-6.28-.37-9.42-1.2,2.9-2.41,5.81-3.62,8.71l-5,8.06.06.2,5.93-2.28Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M902.45,623.9l5.9-2.28.09.2-5,8.06c-1.21,2.9-2.41,5.81-3.62,8.71-.12-3.14-.25-6.28-.37-9.42l-1.9-9.29.12-.17,4.77,4.19Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-42.1ft" data-name="Dimension 42.1 ft">
+      <g id="DIM-42.1ft-arrow1" data-name="DIM-42.1ft · arrow">
+        <line class="st81 inkK" x1="978.13" y1="282.33" x2="978.13" y2="282.33" style="stroke:#000" />
+        <line class="st30 inkK" x1="978.5" y1="280.24" x2="979.78" y2="272.9" style="stroke:#000" />
+        <line class="st81 inkK" x1="979.97" y1="271.86" x2="979.97" y2="271.86" style="stroke:#000" />
+      </g>
+      <g id="DIM-42.1ft-arrow2" data-name="DIM-42.1ft · arrow">
+        <line class="st81 inkK" x1="630.84" y1="221.42" x2="630.84" y2="221.42" style="stroke:#000" />
+        <line class="st30 inkK" x1="631.21" y1="219.33" x2="632.5" y2="211.99" style="stroke:#000" />
+        <line class="st81 inkK" x1="632.68" y1="210.95" x2="632.68" y2="210.95" style="stroke:#000" />
+      </g>
+      <text class="st95 inkKt" transform="translate(767.53 234.6) rotate(9.95)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 42.1 </tspan></text>
+      <g id="DIM-42.1ft-arrow3" data-name="DIM-42.1ft · arrow">
+        <line class="st6 inkK" x1="643.05" y1="222.61" x2="644.53" y2="222.87" style="stroke:#000" />
+        <line class="st72 inkK" x1="647.47" y1="223.38" x2="963.3" y2="278.78" style="stroke:#000" />
+        <line class="st6 inkK" x1="964.77" y1="279.03" x2="966.25" y2="279.29" style="stroke:#000" />
+        <path class="st93 inkK" d="M645.7,223.07l4.17-4.76-.16-.15-9.28,1.93c-3.14.13-6.28.27-9.42.4,2.91,1.2,5.81,2.39,8.72,3.59l8.08,4.97.2-.06-2.3-5.92Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M963.6,278.83l-2.3-5.89.2-.09,8.08,4.97c2.91,1.2,5.81,2.39,8.72,3.59-3.14.13-6.28.27-9.42.4l-9.28,1.93-.17-.12,4.18-4.78Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-23.8ft" data-name="Dimension 23.8 ft">
+      <g id="DIM-23.8ft-arrow1" data-name="DIM-23.8ft · arrow">
+        <line class="st81 inkK" x1="984.93" y1="231.69" x2="984.93" y2="231.69" style="stroke:#000" />
+        <line class="st60 inkK" x1="985.28" y1="229.67" x2="986.52" y2="222.58" style="stroke:#000" />
+        <line class="st81 inkK" x1="986.7" y1="221.57" x2="986.7" y2="221.57" style="stroke:#000" />
+      </g>
+      <g id="DIM-23.8ft-arrow2" data-name="DIM-23.8ft · arrow">
+        <line class="st81 inkK" x1="784.06" y1="196.64" x2="784.06" y2="196.64" style="stroke:#000" />
+        <line class="st60 inkK" x1="784.41" y1="194.62" x2="785.65" y2="187.54" style="stroke:#000" />
+        <line class="st81 inkK" x1="785.83" y1="186.53" x2="785.83" y2="186.53" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(846.21 197.06) rotate(9.9)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 23.8 </tspan></text>
+      <g id="DIM-23.8ft-arrow3" data-name="DIM-23.8ft · arrow">
+        <line class="st6 inkK" x1="796.15" y1="198.48" x2="797.63" y2="198.74" style="stroke:#000" />
+        <line class="st78 inkK" x1="800.58" y1="199.25" x2="969.98" y2="228.81" style="stroke:#000" />
+        <line class="st6 inkK" x1="971.45" y1="229.06" x2="972.93" y2="229.32" style="stroke:#000" />
+        <path class="st93 inkK" d="M798.81,198.94l4.17-4.76-.16-.15-9.28,1.93c-3.14.14-6.28.28-9.42.41,2.91,1.19,5.82,2.39,8.73,3.58l8.08,4.96.2-.06-2.3-5.92Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M970.28,228.86l-2.31-5.89.2-.09,8.08,4.96c2.91,1.19,5.82,2.39,8.73,3.58-3.14.14-6.28.28-9.42.41l-9.28,1.93-.17-.12,4.17-4.79Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-126.8ft" data-name="Dimension 126.8 ft">
+      <g id="DIM-126.8ft-arrow1" data-name="DIM-126.8ft · arrow">
+        <line class="st81 inkK" x1="106.91" y1="77.94" x2="106.91" y2="77.94" style="stroke:#000" />
+        <line class="st23 inkK" x1="107.02" y1="79.94" x2="107.43" y2="86.93" style="stroke:#000" />
+        <line class="st81 inkK" x1="107.49" y1="87.93" x2="107.49" y2="87.93" style="stroke:#000" />
+      </g>
+      <g id="DIM-126.8ft-arrow2" data-name="DIM-126.8ft · arrow">
+        <line class="st81 inkK" x1="1200.33" y1="14.64" x2="1200.33" y2="14.64" style="stroke:#000" />
+        <line class="st23 inkK" x1="1200.45" y1="16.63" x2="1200.85" y2="23.63" style="stroke:#000" />
+        <line class="st81 inkK" x1="1200.91" y1="24.63" x2="1200.91" y2="24.63" style="stroke:#000" />
+      </g>
+      <text class="st88 inkKt" transform="translate(611.58 49.7) rotate(-3.31)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 126.8 </tspan></text>
+      <g id="DIM-126.8ft-arrow3" data-name="DIM-126.8ft · arrow">
+        <line class="st6 inkK" x1="1184.63" y1="25.56" x2="1183.13" y2="25.65" style="stroke:#000" />
+        <line class="st79 inkK" x1="1180.14" y1="25.82" x2="126.76" y2="86.8" style="stroke:#000" />
+        <line class="st6 inkK" x1="125.26" y1="86.89" x2="123.76" y2="86.98" style="stroke:#000" />
+        <path class="st93 inkK" d="M1181.05,25.77l-3.96,7.45.26.15,11.46-5.34c4.04-1.14,8.07-2.27,12.1-3.41-4.14-.66-8.28-1.32-12.42-1.99l-12-3.98-.24.14,4.79,6.98Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M127.35,86.77l4.79,6.94-.24.18-12-3.98c-4.14-.66-8.28-1.32-12.42-1.99,4.03-1.14,8.07-2.27,12.1-3.41l11.46-5.34.25.11-3.96,7.49Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-65ft" data-name="Dimension 65 ft">
+      <g id="DIM-65ft-arrow1" data-name="DIM-65ft · arrow">
+        <line class="st81 inkK" x1="84.21" y1="89.2" x2="84.21" y2="89.2" style="stroke:#000" />
+        <line class="st23 inkK" x1="86.2" y1="89.47" x2="93.14" y2="90.4" style="stroke:#000" />
+        <line class="st81 inkK" x1="94.13" y1="90.54" x2="94.13" y2="90.54" style="stroke:#000" />
+      </g>
+      <g id="DIM-65ft-arrow2" data-name="DIM-65ft · arrow">
+        <line class="st81 inkK" x1="9.06" y1="645.9" x2="9.06" y2="645.9" style="stroke:#000" />
+        <line class="st23 inkK" x1="11.04" y1="646.17" x2="17.98" y2="647.11" style="stroke:#000" />
+        <line class="st81 inkK" x1="18.98" y1="647.24" x2="18.98" y2="647.24" style="stroke:#000" />
+      </g>
+      <text class="st88 inkKt" transform="translate(43.99 394.9) rotate(-82.31)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 65 </tspan></text>
+      <g id="DIM-65ft-arrow3" data-name="DIM-65ft · arrow">
+        <line class="st6 inkK" x1="21.15" y1="631.08" x2="21.35" y2="629.6" style="stroke:#000" />
+        <line class="st67 inkK" x1="21.75" y1="626.62" x2="91.54" y2="109.67" style="stroke:#000" />
+        <line class="st6 inkK" x1="91.74" y1="108.18" x2="91.94" y2="106.69" style="stroke:#000" />
+        <path class="st93 inkK" d="M21.63,627.52l-6.55-5.31-.19.22,3.05,12.27c.34,4.18.69,8.35,1.03,12.53,1.44-3.94,2.88-7.87,4.32-11.81l6.2-11.02-.09-.26-7.77,3.37Z" style="stroke:#000" />
+        <path class="st93 inkK" d="M91.46,110.25l-7.73,3.38-.13-.27,6.2-11.02c1.44-3.94,2.88-7.87,4.32-11.81.34,4.18.69,8.35,1.03,12.53l3.05,12.27-.15.23-6.59-5.31Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  <g id="ADJ-219-26" data-name="219/26 (to South)">
+    <text class="fNbrQ inkBt" transform="translate(760 1648)" style="fill:#0033aa"><tspan x="0" y="0">219/26 (to South)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1668)" style="fill:#0033aa"><tspan x="0" y="0">RAMESH CHANDRAN M. (D2) · TP 6872-A</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1683)" style="fill:#0033aa"><tspan x="0" y="0">9.98 are / 24.662 cent</tspan></text>
+  </g>
+  <g id="ADJ-219-25" data-name="219/25 (to South)">
+    <text class="fNbrQ inkBt" transform="translate(760 1596)" style="fill:#0033aa"><tspan x="0" y="0">219/25 (to South)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1616)" style="fill:#0033aa"><tspan x="0" y="0">RAMESH CHANDRAN M. (D2) · TP 6872-A</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1631)" style="fill:#0033aa"><tspan x="0" y="0">7.95 are / 19.645 cent</tspan></text>
+  </g>
+  <g id="ADJ-219-20" data-name="219/20 (to South)">
+    <text class="fNbrQ inkBt" transform="translate(760 1544)" style="fill:#0033aa"><tspan x="0" y="0">219/20 (to South)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1564)" style="fill:#0033aa"><tspan x="0" y="0">RAMESH CHANDRAN M. (D2) · TP 6872-A</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1579)" style="fill:#0033aa"><tspan x="0" y="0">18.00 are / 44.480 cent · Nilam</tspan></text>
+  </g>
+  <g id="ADJ-219-12" data-name="219/12 (to South)">
+    <text class="fNbrQ inkBt" transform="translate(760 1700)" style="fill:#0033aa"><tspan x="0" y="0">219/12 (to South)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1720)" style="fill:#0033aa"><tspan x="0" y="0">Darsana Gopinath · TP 1985 · south of the pathway</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(760 1735)" style="fill:#0033aa"><tspan x="0" y="0">17.00 are / 42.009 cent · Nilam</tspan></text>
+  </g>
+  <g id="ADJ-219-9" data-name="219/9 (to North)">
+    <text class="fNbrQ inkBt" transform="translate(880 96)" style="fill:#0033aa"><tspan x="0" y="0">219/9 (to North)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(880 116)" style="fill:#0033aa"><tspan x="0" y="0">Beena Gopinath</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(880 131)" style="fill:#0033aa"><tspan x="0" y="0">34.28 are / 84.710 cent</tspan></text>
+  </g>
+  <g id="ADJ-219-5" data-name="219/5 (to West)">
+    <text class="fNbrQ inkBt" transform="translate(60 760)" style="fill:#0033aa"><tspan x="0" y="0">219/5 (to West)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(60 780)" style="fill:#0033aa"><tspan x="0" y="0">Saradamani Channatty + Ramesh Chandran M. · TP 4784</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(60 795)" style="fill:#0033aa"><tspan x="0" y="0">2.05 are / 5.066 cent · and a way</tspan></text>
+  </g>
+  <g id="ADJ-219-4" data-name="219/4 (to West)">
+    <text class="fNbrQ inkBt" transform="translate(60 690)" style="fill:#0033aa"><tspan x="0" y="0">219/4 (to West)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(60 710)" style="fill:#0033aa"><tspan x="0" y="0">JIJI RAMESH (D4) · TP 17093</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(60 725)" style="fill:#0033aa"><tspan x="0" y="0">4.87 are / 12.034 cent</tspan></text>
+  </g>
+  <g id="ADJ-218-1" data-name="218/1 (to East)">
+    <text class="fNbrQ inkBt" transform="translate(1175.00 420.00)" style="fill:#0033aa"><tspan x="0" y="0">218/1 (to East)</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(1175.00 440.00)" style="fill:#0033aa"><tspan x="0" y="0">Panchayat road poramboke · unheld</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(1175.00 455.00)" style="fill:#0033aa"><tspan x="0" y="0">2.35 are / 5.807 cent</tspan></text>
+    <text class="fNbrS inkBt" transform="translate(1175.00 470.00)" style="fill:#0033aa"><tspan x="0" y="0">also recited to the east: Alummoottil Kudumba Kshethra Kshema Sabha</tspan></text>
+  </g>
+  <g id="TRI-DFS" data-name="Survey Triangle D-F-S">
+    <line class="st56 inkK" x1="1217.3" y1="45" x2="48.82" y2="643.72" style="stroke:#000" />
+    <line class="st56 inkK" x1="1213.64" y1="38.68" x2="45.15" y2="637.4" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1228.08 49.04 1228.88 39.07 1219.98 43.63" style="stroke:#000" />
+    <polyline class="st12 inkK" points="47.48 644.41 38.58 648.97 45.6 656.09" style="stroke:#000" />
+    <line class="st62 inkK" x1="117.17" y1="97.18" x2="1213.74" y2="33.42" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1215.23 33.33 1225.21 32.75 1216.31 37.31" style="stroke:#000" />
+    <line class="st32 inkK" x1="36.55" y1="629.77" x2="102.75" y2="109.33" style="stroke:#000" />
+    <polyline class="st12 inkK" points="102.94 107.85 104.2 97.93 114.18 97.35" style="stroke:#000" />
+    <polyline class="st12 inkK" points="43.81 638.09 34.91 642.65 36.17 632.73" style="stroke:#000" />
+  </g>
+  <g id="TRI-ABC" data-name="Survey Triangle A-B-C">
+    <line class="st51 inkK" x1="1106.45" y1="1707.89" x2="1694.21" y2="544.44" style="stroke:#000" />
+    <line class="st50 inkK" x1="1699.19" y1="551.41" x2="1111.43" y2="1714.86" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1694.88 543.11 1699.39 534.18 1692.58 526.87" style="stroke:#000" />
+    <line class="st31 inkK" x1="1116.83" y1="1717.6" x2="2160.64" y2="976.45" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1110.75 1716.19 1106.24 1725.12 1114.4 1719.33" style="stroke:#000" />
+    <polyline class="st12 inkK" points="2161.86 975.59 2170.02 969.8 2162.67 963.01" style="stroke:#000" />
+    <line class="st80 inkK" x1="2160.51" y1="961.01" x2="1713.47" y2="547.61" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1712.39 546.61 1705.05 539.82 1700.54 548.74" style="stroke:#000" />
+  </g>
+  <g id="TRI-BDS" data-name="Survey Triangle B-D-S">
+    <line class="st63 inkK" x1="1236.62" y1="51.51" x2="1101.53" y2="1708.01" style="stroke:#000" />
+    <line class="st63 inkK" x1="1094.46" y1="1707.18" x2="1227.96" y2="50.54" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1101.4 1709.52 1100.59 1719.48 1105.1 1710.56" style="stroke:#000" />
+    <line class="st56 inkK" x1="1217.3" y1="45" x2="48.82" y2="643.72" style="stroke:#000" />
+    <line class="st56 inkK" x1="1213.64" y1="38.68" x2="45.15" y2="637.4" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1228.08 49.04 1228.88 39.07 1219.98 43.63" style="stroke:#000" />
+    <polyline class="st12 inkK" points="47.48 644.41 38.58 648.97 45.6 656.09" style="stroke:#000" />
+    <line class="st59 inkK" x1="47.71" y1="658.24" x2="1085.34" y2="1711.95" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1086.39 1713.02 1093.41 1720.15 1094.21 1710.18" style="stroke:#000" />
+  </g>
+  <g id="TRI-BCD" data-name="Survey Triangle B-C-D">
+    <line class="st63 inkK" x1="1236.62" y1="51.51" x2="1101.53" y2="1708.01" style="stroke:#000" />
+    <line class="st63 inkK" x1="1094.46" y1="1707.18" x2="1227.96" y2="50.54" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1101.4 1709.52 1100.59 1719.48 1105.1 1710.56" style="stroke:#000" />
+    <line class="st51 inkK" x1="1106.45" y1="1707.89" x2="1694.21" y2="544.44" style="stroke:#000" />
+    <line class="st50 inkK" x1="1699.19" y1="551.41" x2="1111.43" y2="1714.86" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1694.88 543.11 1699.39 534.18 1692.58 526.87" style="stroke:#000" />
+    <line class="st54 inkK" x1="1690.5" y1="524.64" x2="1245.54" y2="46.97" style="stroke:#000" />
+    <polyline class="st12 inkK" points="1244.5 45.85 1237.68 38.54 1236.87 48.5" style="stroke:#000" />
+  </g>
+  <g id="UNKNOWN" data-name="UNKNOWN — unresolved, to be clarified">
+    <g id="UNK-POLYGONS" data-name="UNKNOWN · polygons with no confirmed survey number">
+      <g id="UNK-KEY5" data-name="key 5 = 219/11-1 PROBABLE — sits inside the 1/6 corner set H I J K L M">
+    <polygon class="fParcel st98" points="868.95 795.09 844.14 867.64 844.14 867.95 561.95 786.32 561.75 786.43 551.67 666.31 868.95 795.09" />
+    <line class="st10 inkK" x1="561.95" y1="786.32" x2="844.14" y2="867.95" style="stroke:#000" />
+    <g id="DIM-34ft-2" data-name="Dimension 34 ft">
+      <g id="DIM-34ft-2-arrow1" data-name="DIM-34ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="839.52" y1="877.9" x2="839.52" y2="877.9" style="stroke:#000" />
+        <line class="st29 inkK inkK" x1="838.92" y1="879.95" x2="836.84" y2="887.13" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="836.55" y1="888.15" x2="836.55" y2="888.15" style="stroke:#000" />
+      </g>
+      <g id="DIM-34ft-2-arrow2" data-name="DIM-34ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="557.33" y1="796.26" x2="557.33" y2="796.26" style="stroke:#000" />
+        <line class="st29 inkK inkK" x1="556.73" y1="798.32" x2="554.65" y2="805.5" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="554.36" y1="806.52" x2="554.36" y2="806.52" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(661.12 855.44) rotate(16.13)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 34 </tspan></text>
+      <g id="DIM-34ft-2-arrow3" data-name="DIM-34ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="568.88" y1="800.31" x2="570.32" y2="800.73" style="stroke:#000" />
+        <line class="st66 inkK inkK" x1="573.2" y1="801.56" x2="824.7" y2="874.32" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="826.14" y1="874.73" x2="827.58" y2="875.15" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M571.47,801.06l4.66-4.28-.14-.17-9.44.91c-3.14-.2-6.27-.41-9.41-.61,2.76,1.5,5.52,3,8.28,4.51l7.49,5.81.2-.04-1.65-6.13Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M824.99,874.4l-1.66-6.11.21-.07,7.49,5.81c2.76,1.5,5.52,3,8.28,4.51-3.14-.2-6.27-.41-9.41-.61l-9.44.91-.15-.14,4.67-4.31Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-20ft-2" data-name="Dimension 20 ft">
+      <g id="DIM-20ft-2-arrow1" data-name="DIM-20ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="547.16" y1="789.78" x2="547.16" y2="789.78" style="stroke:#000" />
+        <line class="st27 inkK inkK" x1="549.2" y1="789.63" x2="556.35" y2="789.09" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="557.37" y1="789.01" x2="557.37" y2="789.01" style="stroke:#000" />
+      </g>
+      <g id="DIM-20ft-2-arrow2" data-name="DIM-20ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="534.14" y1="617.47" x2="534.14" y2="617.47" style="stroke:#000" />
+        <line class="st27 inkK inkK" x1="536.18" y1="617.32" x2="543.33" y2="616.78" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="544.35" y1="616.7" x2="544.35" y2="616.7" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(512.51 672.24) rotate(85.68)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 20 </tspan></text>
+      <g id="DIM-20ft-2-arrow3" data-name="DIM-20ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="535.3" y1="629.65" x2="535.42" y2="631.14" style="stroke:#000" />
+        <line class="st77 inkK inkK" x1="535.64" y1="634.1" x2="546.25" y2="774.59" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="546.37" y1="776.07" x2="546.48" y2="777.57" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M535.51,632.33l5.64,2.87.11-.19-4.15-8.52c-.9-3.01-1.81-6.02-2.71-9.03-.44,3.11-.88,6.22-1.33,9.34l-2.83,9.05.11.18,5.17-3.69Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M546.28,774.88l5.14-3.68.14.17-2.83,9.05c-.44,3.11-.88,6.22-1.33,9.34-.9-3.01-1.81-6.02-2.71-9.03l-4.15-8.52.08-.19,5.67,2.87Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-13.6ft-2" data-name="Dimension 13.6 ft">
+      <g id="DIM-13.6ft-2-arrow1" data-name="DIM-13.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="574.84" y1="786.62" x2="574.84" y2="786.62" style="stroke:#000" />
+        <line class="st36 inkK inkK" x1="572.82" y1="786.77" x2="563.69" y2="787.43" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="562.68" y1="787.5" x2="562.68" y2="787.5" style="stroke:#000" />
+      </g>
+      <g id="DIM-13.6ft-2-arrow2" data-name="DIM-13.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="566.36" y1="669.43" x2="566.36" y2="669.43" style="stroke:#000" />
+        <line class="st36 inkK inkK" x1="564.33" y1="669.57" x2="555.2" y2="670.23" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="554.19" y1="670.31" x2="554.19" y2="670.31" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(577.05 683.11) rotate(85.86)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 13.6 </tspan></text>
+      <g id="DIM-13.6ft-2-arrow3" data-name="DIM-13.6ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="565.04" y1="681.78" x2="565.15" y2="683.28" style="stroke:#000" />
+        <line class="st19 inkK inkK" x1="565.36" y1="686.17" x2="571.55" y2="771.64" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="571.66" y1="773.09" x2="571.77" y2="774.58" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M565.24,684.47l5.63,2.89.11-.19-4.13-8.54c-.9-3.01-1.79-6.03-2.69-9.04-.45,3.11-.9,6.22-1.36,9.33l-2.85,9.04.11.18,5.18-3.67Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M571.57,771.9l5.15-3.67.14.18-2.85,9.04c-.45,3.11-.9,6.22-1.36,9.33-.9-3.01-1.79-6.03-2.69-9.04l-4.13-8.54.08-.19,5.66,2.89Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+      <g id="UNK-KEY7" data-name="key 7 = 219/28-1 PROBABLE — area +5%, shares 2 edges with 219/28">
+    <polyline class="fParcel st103" points="994.8 638.26 1001 822.64 940.89 823.49 939.79 809.39 904.69 809.69 901.79 698.46 913.11 641.07 994.81 638.26" />
+    <line class="st10 inkK" x1="1001.43" y1="822.99" x2="994.98" y2="638.21" style="stroke:#000" />
+    <line class="st10 inkK" x1="994.81" y1="638.26" x2="913.11" y2="641.07" style="stroke:#000" />
+    <line class="st10 inkK" x1="994.8" y1="638.26" x2="1002.95" y2="877" style="stroke:#000" />
+    <polyline class="st10 inkK" points="551.67 666.31 904.69 809.69 939.79 809.39 940.89 823.49 1001 822.64" style="stroke:#000" />
+    <line class="st10 inkK" x1="913.11" y1="641.07" x2="901.79" y2="698.46" style="stroke:#000" />
+    <g id="DIM-21.4ft-2" data-name="Dimension 21.4 ft">
+      <g id="DIM-21.4ft-2-arrow1" data-name="DIM-21.4ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1007.84" y1="638.51" x2="1007.84" y2="638.51" style="stroke:#000" />
+        <line class="st22 inkK inkK" x1="1005.91" y1="638.57" x2="997.21" y2="638.88" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="996.24" y1="638.91" x2="996.24" y2="638.91" style="stroke:#000" />
+      </g>
+      <g id="DIM-21.4ft-2-arrow2" data-name="DIM-21.4ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1014.29" y1="823.29" x2="1014.29" y2="823.29" style="stroke:#000" />
+        <line class="st22 inkK inkK" x1="1012.36" y1="823.36" x2="1003.66" y2="823.66" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1002.69" y1="823.69" x2="1002.69" y2="823.69" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1016.7356 691.2362) rotate(88)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 21.4 </tspan></text>
+      <g id="DIM-21.4ft-2-arrow3" data-name="DIM-21.4ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1012.26" y1="811.12" x2="1012.21" y2="809.62" style="stroke:#000" />
+        <line class="st71 inkK inkK" x1="1012.1" y1="806.66" x2="1006.76" y2="653.77" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1006.71" y1="652.28" x2="1006.66" y2="650.78" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1012.16,808.43l-5.52-3.1-.12.19,3.81,8.68c.78,3.04,1.56,6.09,2.35,9.13.57-3.09,1.14-6.18,1.7-9.28l3.19-8.93-.1-.18-5.32,3.47Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1006.75,653.47l-5.29,3.47-.13-.18,3.19-8.93c.57-3.09,1.14-6.18,1.7-9.28.78,3.04,1.56,6.09,2.35,9.13l3.81,8.68-.09.19-5.55-3.1Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-11ft-3" data-name="Dimension 11 ft">
+      <g id="DIM-11ft-3-arrow1" data-name="DIM-11ft-3 · arrow">
+        <line class="st81 inkK inkK" x1="994.88" y1="627.47" x2="994.88" y2="627.47" style="stroke:#000" />
+        <line class="st53 inkK inkK" x1="994.95" y1="629.53" x2="995.13" y2="634.69" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="995.17" y1="635.72" x2="995.17" y2="635.72" style="stroke:#000" />
+      </g>
+      <g id="DIM-11ft-3-arrow2" data-name="DIM-11ft-3 · arrow">
+        <line class="st81 inkK inkK" x1="916.95" y1="630.15" x2="916.95" y2="630.15" style="stroke:#000" />
+        <line class="st53 inkK inkK" x1="917.02" y1="632.21" x2="917.19" y2="637.37" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="917.23" y1="638.4" x2="917.23" y2="638.4" style="stroke:#000" />
+      </g>
+      <text class="st94 inkKt" transform="translate(930.49 621.57) rotate(-1.97)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 11 </tspan></text>
+      <g id="DIM-11ft-3-arrow3" data-name="DIM-11ft-3 · arrow">
+        <line class="st6 inkK inkK" x1="929.17" y1="629.78" x2="930.67" y2="629.73" style="stroke:#000" />
+        <line class="st70 inkK inkK" x1="933.64" y1="629.63" x2="979.68" y2="628.04" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="981.16" y1="627.99" x2="982.66" y2="627.94" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M931.86,629.69l3.1-5.51-.19-.12-8.69,3.8c-3.05.78-6.09,1.56-9.14,2.34,3.09.57,6.18,1.14,9.28,1.71l8.93,3.19.18-.1-3.47-5.32Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M979.97,628.03l-3.47-5.29.18-.13,8.93,3.19c3.09.57,6.18,1.14,9.28,1.71-3.05.78-6.09,1.56-9.14,2.34l-8.69,3.8-.19-.09,3.1-5.54Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-27.6ft-2" data-name="Dimension 27.6 ft">
+      <g id="DIM-27.6ft-2-arrow1" data-name="DIM-27.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="997.41" y1="877.02" x2="997.41" y2="877.02" style="stroke:#000" />
+        <line class="st15 inkK inkK" x1="995.51" y1="877.08" x2="983.15" y2="877.5" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="982.2" y1="877.54" x2="982.2" y2="877.54" style="stroke:#000" />
+      </g>
+      <g id="DIM-27.6ft-2-arrow2" data-name="DIM-27.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="989.26" y1="638.27" x2="989.26" y2="638.27" style="stroke:#000" />
+        <line class="st15 inkK inkK" x1="987.36" y1="638.34" x2="975.01" y2="638.76" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="974.06" y1="638.79" x2="974.06" y2="638.79" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(959.38 718.07) rotate(88.05)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 27.6 </tspan></text>
+      <g id="DIM-27.6ft-2-arrow3" data-name="DIM-27.6ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="984.47" y1="650.67" x2="984.52" y2="652.17" style="stroke:#000" />
+        <line class="st64 inkK inkK" x1="984.62" y1="655.15" x2="991.68" y2="861.99" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="991.73" y1="863.47" x2="991.78" y2="864.97" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M984.56,653.36l5.51,3.1.12-.19-3.8-8.69c-.78-3.05-1.56-6.09-2.34-9.14-.57,3.09-1.14,6.18-1.71,9.27l-3.2,8.93.1.18,5.32-3.47Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M991.69,862.28l5.29-3.47.13.18-3.2,8.93c-.57,3.09-1.14,6.18-1.71,9.27-.78-3.05-1.56-6.09-2.34-9.14l-3.8-8.69.09-.19,5.54,3.1Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+      <g id="UNK-KEY8" data-name="key 8 = 219/27-1 PROBABLE — adjacent to 219/27, inside the 1/6 corner set">
+    <polygon data-name="_x32_19_x2F_27" class="fParcel st102" points="869.05 795.12 905.57 809.9 901.7 701.27 869.05 795.12" />
+  </g>
+      <g id="UNK-KEY11" data-name="key 11 = 219/29 PROBABLE — corners F1 C1 D1 E1, all in the 5/6 string">
+    <polygon class="fParcel st104" points="979.35 292.84 778.16 256.99 786.62 202.99 988.66 236.21 979.35 292.84" />
+    <g id="DIM-42.1ft-2" data-name="Dimension 42.1 ft">
+      <g id="DIM-42.1ft-2-arrow1" data-name="DIM-42.1ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="978.13" y1="282.33" x2="978.13" y2="282.33" style="stroke:#000" />
+        <line class="st30 inkK inkK" x1="978.5" y1="280.24" x2="979.78" y2="272.9" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="979.97" y1="271.86" x2="979.97" y2="271.86" style="stroke:#000" />
+      </g>
+      <g id="DIM-42.1ft-2-arrow2" data-name="DIM-42.1ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="630.84" y1="221.42" x2="630.84" y2="221.42" style="stroke:#000" />
+        <line class="st30 inkK inkK" x1="631.21" y1="219.33" x2="632.5" y2="211.99" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="632.68" y1="210.95" x2="632.68" y2="210.95" style="stroke:#000" />
+      </g>
+      <text class="st95 inkKt" transform="translate(767.53 234.6) rotate(9.95)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 42.1 </tspan></text>
+      <g id="DIM-42.1ft-2-arrow3" data-name="DIM-42.1ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="643.05" y1="222.61" x2="644.53" y2="222.87" style="stroke:#000" />
+        <line class="st72 inkK inkK" x1="647.47" y1="223.38" x2="963.3" y2="278.78" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="964.77" y1="279.03" x2="966.25" y2="279.29" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M645.7,223.07l4.17-4.76-.16-.15-9.28,1.93c-3.14.13-6.28.27-9.42.4,2.91,1.2,5.81,2.39,8.72,3.59l8.08,4.97.2-.06-2.3-5.92Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M963.6,278.83l-2.3-5.89.2-.09,8.08,4.97c2.91,1.2,5.81,2.39,8.72,3.59-3.14.13-6.28.27-9.42.4l-9.28,1.93-.17-.12,4.18-4.78Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-23.8ft-2" data-name="Dimension 23.8 ft">
+      <g id="DIM-23.8ft-2-arrow1" data-name="DIM-23.8ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="984.93" y1="231.69" x2="984.93" y2="231.69" style="stroke:#000" />
+        <line class="st60 inkK inkK" x1="985.28" y1="229.67" x2="986.52" y2="222.58" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="986.7" y1="221.57" x2="986.7" y2="221.57" style="stroke:#000" />
+      </g>
+      <g id="DIM-23.8ft-2-arrow2" data-name="DIM-23.8ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="784.06" y1="196.64" x2="784.06" y2="196.64" style="stroke:#000" />
+        <line class="st60 inkK inkK" x1="784.41" y1="194.62" x2="785.65" y2="187.54" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="785.83" y1="186.53" x2="785.83" y2="186.53" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(846.21 197.06) rotate(9.9)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 23.8 </tspan></text>
+      <g id="DIM-23.8ft-2-arrow3" data-name="DIM-23.8ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="796.15" y1="198.48" x2="797.63" y2="198.74" style="stroke:#000" />
+        <line class="st78 inkK inkK" x1="800.58" y1="199.25" x2="969.98" y2="228.81" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="971.45" y1="229.06" x2="972.93" y2="229.32" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M798.81,198.94l4.17-4.76-.16-.15-9.28,1.93c-3.14.14-6.28.28-9.42.41,2.91,1.19,5.82,2.39,8.73,3.58l8.08,4.96.2-.06-2.3-5.92Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M970.28,228.86l-2.31-5.89.2-.09,8.08,4.96c2.91,1.19,5.82,2.39,8.73,3.58-3.14.14-6.28.28-9.42.41l-9.28,1.93-.17-.12,4.17-4.79Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+    </g>
+    <g id="UNK-NOTES" data-name="UNKNOWN · open questions">
+      <text class="fRed" transform="translate(52.00 2149.00)"><tspan x="0" y="0">!!  Effected pendente lite, while O.S. 214/2025 and IA 6/2026 are live. Applicant, date and instrument are stated in the Village Office</tspan></text>
+      <text class="fRed" transform="translate(52.00 2168.00)"><tspan x="0" y="0">     mutation file on TP 17644, which has not been obtained. Nothing beyond the fact of the register change is asserted here.</tspan></text>
+      <text class="fRed" transform="translate(52.00 2187.00)"><tspan x="0" y="0">!!  SOURCE RESOLUTION. The photocopy PDF holds one raster of 901 x 1418 px for the whole sheet; the drawn block is 324 x 327 px.</tspan></text>
+      <text class="fRed" transform="translate(52.00 2206.00)"><tspan x="0" y="0">     The perimeter dimensions read; the annotation inside 219/11 and 219/19 is below the resolution floor and cannot be recovered from this file.</tspan></text>
+            <text class="fRed" transform="translate(52.00 2225.00)"><tspan x="0" y="0">!!  The two agree to 1.4%. THE DIMENSIONS ARE IN METRES, NOT FEET. The "ft" on every dimension and in the legend of the</tspan></text>
+      <text class="fRed" transform="translate(52.00 2244.00)"><tspan x="0" y="0">     source sheet is wrong. Read as feet the parcels come out ten times too small. The sheet IS drawn to scale.</tspan></text>
+            <text class="fQ" transform="translate(1120.00 2263.00)"><tspan x="0" y="0">!!  Two consequences. 219/11 is drawn as TWO polygons whose union is 22.49 are against 21.81 recorded (+3%).</tspan></text>
+      <text class="fQ" transform="translate(1120.00 2282.00)"><tspan x="0" y="0">     Key 5, not the east half, is therefore 219/11-1 — which contradicts the "edge signature diff 0.0" note, whose</tspan></text>
+      <text class="fQ" transform="translate(1120.00 2301.00)"><tspan x="0" y="0">     reference file was named 219-11.svg. Resolve against Ext. C1(a); nothing here is asserted as settled.</tspan></text>
+    
+    </g>
+  </g>
+
+  
+  <g id="P-219-11" data-name="Survey 219/11 west part — with P-219-11-1 the two sum to 22.49 are vs 21.81 recorded">
+    <polygon class="fParcel st100" points="900.96 703.61 974.96 294.28 975.08 294.3 629.1 234.6 548.77 610.91 549.09 611.42 900.96 703.61" />
+    <line class="st10 inkK" x1="548.41" y1="613.62" x2="628.74" y2="233.6" style="stroke:#000" />
+    <line class="st10 inkK" x1="913.11" y1="641.07" x2="901.79" y2="698.46" style="stroke:#000" />
+    <polyline class="st10 inkK" points="628.74 233.6 975.08 294.3 913.11 641.07" style="stroke:#000" />
+    <g id="DIM-45ft-2" data-name="Dimension 45 ft">
+      <g id="DIM-45ft-2-arrow1" data-name="DIM-45ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="617.87" y1="231.34" x2="617.87" y2="231.34" style="stroke:#000" />
+        <line class="st57 inkK inkK" x1="615.93" y1="230.93" x2="607.18" y2="229.08" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="606.21" y1="228.87" x2="606.21" y2="228.87" style="stroke:#000" />
+      </g>
+      <g id="DIM-45ft-2-arrow2" data-name="DIM-45ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="537.54" y1="611.35" x2="537.54" y2="611.35" style="stroke:#000" />
+        <line class="st57 inkK inkK" x1="535.6" y1="610.94" x2="526.86" y2="609.09" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="525.89" y1="608.89" x2="525.89" y2="608.89" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(559.69 448.91) rotate(-78.06)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 45 </tspan></text>
+      <g id="DIM-45ft-2-arrow3" data-name="DIM-45ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="538.2" y1="598.99" x2="538.51" y2="597.52" style="stroke:#000" />
+        <line class="st73 inkK inkK" x1="539.13" y1="594.6" x2="612.85" y2="245.83" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="613.16" y1="244.37" x2="613.47" y2="242.9" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M538.76,596.36l-4.61-4.33-.16.16,1.6,9.35c.03,3.14.05,6.29.08,9.43,1.3-2.86,2.59-5.73,3.89-8.59l5.25-7.9-.05-.2-6,2.09Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M612.91,245.54l-5.97,2.1-.08-.21,5.25-7.9c1.3-2.86,2.59-5.73,3.89-8.59.03,3.14.05,6.29.08,9.43l1.6,9.35-.13.16-4.64-4.34Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-40.8ft-2" data-name="Dimension 40.8 ft">
+      <g id="DIM-40.8ft-2-arrow1" data-name="DIM-40.8ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="900.54" y1="638.71" x2="900.54" y2="638.71" style="stroke:#000" />
+        <line class="st52 inkK inkK" x1="898.43" y1="638.34" x2="891.04" y2="637.02" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="889.98" y1="636.83" x2="889.98" y2="636.83" style="stroke:#000" />
+      </g>
+      <g id="DIM-40.8ft-2-arrow2" data-name="DIM-40.8ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="962.52" y1="291.95" x2="962.52" y2="291.95" style="stroke:#000" />
+        <line class="st52 inkK inkK" x1="960.41" y1="291.57" x2="953.01" y2="290.25" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="951.96" y1="290.06" x2="951.96" y2="290.06" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(913.78 503.48) rotate(-79.87)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 40.8 </tspan></text>
+      <g id="DIM-40.8ft-2-arrow3" data-name="DIM-40.8ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="959.65" y1="303.86" x2="959.39" y2="305.34" style="stroke:#000" />
+        <line class="st20 inkK inkK" x1="958.86" y1="308.27" x2="902.5" y2="623.6" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="902.24" y1="625.07" x2="901.98" y2="626.55" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M959.18,306.51l4.74,4.19.15-.16-1.9-9.29c-.12-3.14-.25-6.28-.37-9.42-1.2,2.9-2.41,5.81-3.62,8.71l-5,8.06.06.2,5.93-2.28Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M902.45,623.9l5.9-2.28.09.2-5,8.06c-1.21,2.9-2.41,5.81-3.62,8.71-.12-3.14-.25-6.28-.37-9.42l-1.9-9.29.12-.17,4.77,4.19Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  <g id="P-219-11-1" data-name="Survey 219/11 east part — NOT 219/11-1, see corner-letter test">
+    <polygon class="fParcel st101" points="869.53 794.82 900.96 703.61 548.77 610.91 549.09 611.42 552.23 665.9 869.53 794.82" />
+    <g id="DIM-44.1ft-2" data-name="Dimension 44.1 ft">
+      <g id="DIM-44.1ft-2-arrow1" data-name="DIM-44.1ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="902.25" y1="795.82" x2="902.25" y2="795.82" style="stroke:#000" />
+        <line class="st34 inkK inkK" x1="903.01" y1="793.94" x2="906.44" y2="785.5" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="906.82" y1="784.57" x2="906.82" y2="784.57" style="stroke:#000" />
+      </g>
+      <g id="DIM-44.1ft-2-arrow2" data-name="DIM-44.1ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="549.23" y1="652.44" x2="549.23" y2="652.44" style="stroke:#000" />
+        <line class="st34 inkK inkK" x1="549.99" y1="650.56" x2="553.42" y2="642.12" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="553.8" y1="641.19" x2="553.8" y2="641.19" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(692.61 697.64) rotate(22.11)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 44.1 </tspan></text>
+      <g id="DIM-44.1ft-2-arrow3" data-name="DIM-44.1ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="561.37" y1="655.05" x2="562.76" y2="655.62" style="stroke:#000" />
+        <line class="st44 inkK inkK" x1="565.56" y1="656.75" x2="888.94" y2="788.1" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="890.34" y1="788.67" x2="891.73" y2="789.23" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M563.86,656.06l5.08-3.77-.12-.18-9.48-.07c-3.1-.53-6.2-1.06-9.3-1.59,2.59,1.78,5.18,3.56,7.77,5.34l6.85,6.56.21-.02-1-6.27Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M889.23,788.22l-1.01-6.24.22-.04,6.85,6.56c2.59,1.78,5.18,3.56,7.77,5.34-3.1-.53-6.2-1.06-9.3-1.59l-9.48-.07-.14-.16,5.09-3.8Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  
+  
+  <g id="P-219-19" data-name="Survey 219/19 — derived from the allotment-group constraint — NOT confirmed">
+    <polygon data-name="_x32_19_x2F_19" class="fParcel st102" points="1199.16 643.26 1199.16 819.15 1199.72 822.24 1001 822.24 995.21 638.37 1199.16 643.26" />
+    <line class="st10 inkK" x1="1001" y1="822.64" x2="1199.72" y2="822.64" style="stroke:#000" />
+    <line class="st10 inkK" x1="1199.16" y1="822.15" x2="1199.16" y2="644.16" style="stroke:#000" />
+    <line class="st10 inkK" x1="995.21" y1="638.37" x2="1199.05" y2="643.54" style="stroke:#000" />
+    <line class="st10 inkK" x1="1001.43" y1="822.99" x2="994.98" y2="638.21" style="stroke:#000" />
+    <line class="st10 inkK" x1="994.8" y1="638.26" x2="1002.95" y2="877" style="stroke:#000" />
+    <g id="DIM-20.6ft-2" data-name="Dimension 20.6 ft">
+      <g id="DIM-20.6ft-2-arrow1" data-name="DIM-20.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1209.62" y1="644.26" x2="1209.62" y2="644.26" style="stroke:#000" />
+        <line class="st65 inkK inkK" x1="1211.72" y1="644.26" x2="1219.04" y2="644.26" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1220.08" y1="644.26" x2="1220.08" y2="644.26" style="stroke:#000" />
+      </g>
+      <g id="DIM-20.6ft-2-arrow2" data-name="DIM-20.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1209.62" y1="822.24" x2="1209.62" y2="822.24" style="stroke:#000" />
+        <line class="st65 inkK inkK" x1="1211.72" y1="822.24" x2="1219.04" y2="822.24" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1220.08" y1="822.24" x2="1220.08" y2="822.24" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1237.4103 773.9381) rotate(-90)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 20.6 </tspan></text>
+      <g id="DIM-20.6ft-2-arrow3" data-name="DIM-20.6ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1210.08" y1="810.01" x2="1210.08" y2="808.51" style="stroke:#000" />
+        <line class="st16 inkK inkK" x1="1210.08" y1="805.56" x2="1210.08" y2="659.46" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1210.08" y1="657.98" x2="1210.08" y2="656.48" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1210.08,807.32l-5.4-3.29-.12.18,3.5,8.81c.68,3.07,1.35,6.14,2.03,9.21.68-3.07,1.35-6.14,2.03-9.21l3.5-8.81-.09-.18-5.43,3.29Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1210.08,659.18l-5.4,3.29-.12-.18,3.5-8.81c.68-3.07,1.35-6.14,2.03-9.21.68,3.07,1.35,6.14,2.03,9.21l3.5,8.81-.09.18-5.43-3.29Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-23.6ft-2" data-name="Dimension 23.6 ft">
+      <g id="DIM-23.6ft-2-arrow1" data-name="DIM-23.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1199.06" y1="632.96" x2="1199.06" y2="632.96" style="stroke:#000" />
+        <line class="st60 inkK inkK" x1="1199.12" y1="630.91" x2="1199.3" y2="623.72" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1199.32" y1="622.69" x2="1199.32" y2="622.69" style="stroke:#000" />
+      </g>
+      <g id="DIM-23.6ft-2-arrow2" data-name="DIM-23.6ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="995.23" y1="627.79" x2="995.23" y2="627.79" style="stroke:#000" />
+        <line class="st60 inkK inkK" x1="995.28" y1="625.73" x2="995.46" y2="618.55" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="995.49" y1="617.52" x2="995.49" y2="617.52" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1056.7343 619.1031) rotate(1.4543)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 23.6 </tspan></text>
+      <g id="DIM-23.6ft-2-arrow3" data-name="DIM-23.6ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1007.46" y1="627.83" x2="1008.96" y2="627.86" style="stroke:#000" />
+        <line class="st78 inkK inkK" x1="1011.95" y1="627.94" x2="1183.85" y2="632.3" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1185.35" y1="632.34" x2="1186.85" y2="632.38" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1010.15,627.89l3.42-5.32-.18-.13-8.9,3.28c-3.09.6-6.17,1.19-9.26,1.79,3.05.75,6.1,1.51,9.16,2.26l8.72,3.72.19-.09-3.15-5.52Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1184.15,632.31l-3.15-5.49.19-.12,8.72,3.72c3.05.75,6.1,1.51,9.16,2.26-3.09.6-6.17,1.19-9.26,1.79l-8.9,3.28-.18-.1,3.42-5.35Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  
+  <g id="P-219-27" data-name="Survey 219/27 — derived from the allotment-group constraint — NOT confirmed">
+    <polygon class="fParcel st98" points="907.64 877.04 904.69 809.69 868.88 795.12 844.14 867.95 907.64 877.04" />
+    <line class="st10 inkK" x1="844.14" y1="867.64" x2="909.09" y2="877.34" style="stroke:#000" />
+    <g id="DIM-10ft-2" data-name="Dimension 10 ft">
+      <g id="DIM-10ft-2-arrow1" data-name="DIM-10ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="909.02" y1="883" x2="909.02" y2="883" style="stroke:#000" />
+        <line class="st14 inkK inkK" x1="908.77" y1="884.94" x2="907.88" y2="891.7" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="907.75" y1="892.67" x2="907.75" y2="892.67" style="stroke:#000" />
+      </g>
+      <g id="DIM-10ft-2-arrow2" data-name="DIM-10ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="841.28" y1="874.11" x2="841.28" y2="874.11" style="stroke:#000" />
+        <line class="st14 inkK inkK" x1="841.03" y1="876.04" x2="840.14" y2="882.8" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="840.01" y1="883.77" x2="840.01" y2="883.77" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(841.65 904.92) rotate(7.48)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 10 </tspan></text>
+      <g id="DIM-10ft-2-arrow3" data-name="DIM-10ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="853.16" y1="877.52" x2="854.65" y2="877.72" style="stroke:#000" />
+        <line class="st49 inkK inkK" x1="857.77" y1="878.13" x2="893.61" y2="882.83" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="895.17" y1="883.04" x2="896.66" y2="883.23" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M855.83,877.87l3.96-4.93-.17-.15-9.19,2.32c-3.13.27-6.26.54-9.4.81,2.96,1.07,5.91,2.14,8.87,3.21l8.28,4.62.2-.07-2.55-5.82Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M893.99,882.88l-2.56-5.79.2-.1,8.28,4.62c2.96,1.07,5.91,2.14,8.87,3.21-3.13.27-6.26.54-9.4.81l-9.19,2.32-.17-.12,3.97-4.96Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  <g id="P-219-28" data-name="Survey 219/28 — derived from the allotment-group constraint — NOT confirmed">
+    <polygon class="fParcel st85" points="1001 877.04 907.64 877.04 907.97 877.03 905.92 810.04 906.13 809.69 939.79 809.39 940.89 823.49 1001 822.64 1001 877.04" />
+    <polyline class="st10 inkK" points="551.67 666.31 904.69 809.69 939.79 809.39 940.89 823.49 1001 822.64" style="stroke:#000" />
+  </g>
+  <g id="P-219-10" data-name="Survey 219/10 — derived from the allotment-group constraint — NOT confirmed">
+    <polygon class="fParcel st105" points="1370.65 876.88 1001 877.03 1001 822.64 1199.72 822.64 1199.75 822.64 1421.79 822.64 1370.65 876.88" />
+    <line class="st10 inkK" x1="1199.75" y1="822.64" x2="1421.79" y2="822.64" style="stroke:#000" />
+    <line class="st10 inkK" x1="1001" y1="822.64" x2="1199.72" y2="822.64" style="stroke:#000" />
+    <g id="DIM-25.7ft-2" data-name="Dimension 25.7 ft">
+      <g id="DIM-25.7ft-2-arrow1" data-name="DIM-25.7ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1421.79" y1="832.5" x2="1421.79" y2="832.5" style="stroke:#000" />
+        <line class="st33 inkK inkK" x1="1421.79" y1="834.53" x2="1421.79" y2="841.64" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1421.79" y1="842.65" x2="1421.79" y2="842.65" style="stroke:#000" />
+      </g>
+      <g id="DIM-25.7ft-2-arrow2" data-name="DIM-25.7ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1199.75" y1="832.5" x2="1199.75" y2="832.5" style="stroke:#000" />
+        <line class="st33 inkK inkK" x1="1199.75" y1="834.53" x2="1199.75" y2="841.64" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1199.75" y1="842.65" x2="1199.75" y2="842.65" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1270.0786 859.9788)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 25.7 </tspan></text>
+      <g id="DIM-25.7ft-2-arrow3" data-name="DIM-25.7ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1211.97" y1="832.65" x2="1213.47" y2="832.65" style="stroke:#000" />
+        <line class="st75 inkK inkK" x1="1216.47" y1="832.65" x2="1406.57" y2="832.65" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1408.07" y1="832.65" x2="1409.57" y2="832.65" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1214.67,832.65l3.29-5.4-.18-.12-8.81,3.5c-3.07.68-6.14,1.35-9.21,2.03,3.07.68,6.14,1.35,9.21,2.03l8.81,3.5.18-.09-3.29-5.43Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1406.87,832.65l-3.29-5.4.18-.12,8.81,3.5c3.07.68,6.14,1.35,9.21,2.03-3.07.68-6.14,1.35-9.21,2.03l-8.81,3.5-.18-.09,3.29-5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-23ft-2" data-name="Dimension 23 ft">
+      <g id="DIM-23ft-2-arrow1" data-name="DIM-23ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1199.72" y1="832.5" x2="1199.72" y2="832.5" style="stroke:#000" />
+        <line class="st13 inkK inkK" x1="1199.72" y1="834.37" x2="1199.72" y2="842.76" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1199.72" y1="843.69" x2="1199.72" y2="843.69" style="stroke:#000" />
+      </g>
+      <g id="DIM-23ft-2-arrow2" data-name="DIM-23ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1001" y1="832.5" x2="1001" y2="832.5" style="stroke:#000" />
+        <line class="st13 inkK inkK" x1="1001" y1="834.37" x2="1001" y2="842.76" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1001" y1="843.69" x2="1001" y2="843.69" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1069.6792 861.0217)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 23 </tspan></text>
+      <g id="DIM-23ft-2-arrow3" data-name="DIM-23ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1013.23" y1="833.69" x2="1014.73" y2="833.69" style="stroke:#000" />
+        <line class="st68 inkK inkK" x1="1017.74" y1="833.69" x2="1184.49" y2="833.69" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1185.99" y1="833.69" x2="1187.49" y2="833.69" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1015.92,833.69l3.29-5.4-.18-.12-8.81,3.5c-3.07.68-6.14,1.35-9.21,2.03,3.07.68,6.14,1.35,9.21,2.03l8.81,3.5.18-.09-3.29-5.43Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1184.8,833.69l-3.29-5.4.18-.12,8.81,3.5c3.07.68,6.14,1.35,9.21,2.03-3.07.68-6.14,1.35-9.21,2.03l-8.81,3.5-.18-.09,3.29-5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-11ft-4" data-name="Dimension 11 ft">
+      <g id="DIM-11ft-4-arrow1" data-name="DIM-11ft-4 · arrow">
+        <line class="st81 inkK inkK" x1="999.9" y1="772.43" x2="999.9" y2="772.43" style="stroke:#000" />
+        <line class="st25 inkK inkK" x1="999.97" y1="774.44" x2="1004.23" y2="898.24" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1004.26" y1="899.25" x2="1004.26" y2="899.25" style="stroke:#000" />
+      </g>
+      <path class="st0 inkK inkK" d="M909.28,902.52" style="stroke:#000" />
+      <path class="st0 inkK inkK" d="M904.91,775.7" style="stroke:#000" />
+      <text class="st90 inkKt" transform="translate(926.7 919.29) rotate(-1.97)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 11 </tspan></text>
+      <g id="DIM-11ft-4-arrow2" data-name="DIM-11ft-4 · arrow">
+        <line class="st6 inkK inkK" x1="921.16" y1="892.1" x2="922.66" y2="892.05" style="stroke:#000" />
+        <line class="st18 inkK inkK" x1="925.59" y1="891.95" x2="988.73" y2="889.78" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="990.2" y1="889.72" x2="991.7" y2="889.67" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M923.85,892.01l3.1-5.51-.19-.12-8.69,3.8c-3.05.78-6.09,1.56-9.14,2.34,3.09.57,6.18,1.14,9.28,1.71l8.93,3.19.18-.1-3.47-5.32Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M989.01,889.77l-3.47-5.29.18-.13,8.93,3.19c3.09.57,6.18,1.14,9.28,1.71-3.05.78-6.09,1.56-9.14,2.34l-8.69,3.8-.19-.09,3.1-5.54Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-62ft-2" data-name="Dimension 62 ft">
+      <g id="DIM-62ft-2-arrow1" data-name="DIM-62ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="908.2" y1="872.86" x2="908.2" y2="872.86" style="stroke:#000" />
+        <line class="st55 inkK inkK" x1="908.2" y1="874.84" x2="908.2" y2="931.38" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="908.2" y1="932.37" x2="908.2" y2="932.37" style="stroke:#000" />
+      </g>
+      <g id="DIM-62ft-2-arrow2" data-name="DIM-62ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1423.88" y1="855.45" x2="1423.88" y2="855.45" style="stroke:#000" />
+        <line class="st35 inkK inkK" x1="1423.88" y1="857.48" x2="1423.88" y2="931.36" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1423.88" y1="932.37" x2="1423.88" y2="932.37" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1135.3569 949.0524)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 62 </tspan></text>
+      <g id="DIM-62ft-2-arrow3" data-name="DIM-62ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1411.65" y1="922.75" x2="1410.15" y2="922.75" style="stroke:#000" />
+        <line class="st76 inkK inkK" x1="1407.16" y1="922.75" x2="923.43" y2="922.75" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="921.93" y1="922.75" x2="920.43" y2="922.75" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1408.96,922.75l-3.29,5.4.18.12,8.81-3.5c3.07-.68,6.14-1.35,9.21-2.03-3.07-.68-6.14-1.35-9.21-2.03l-8.81-3.5-.18.09,3.29,5.43Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M923.12,922.75l3.29,5.4-.18.12-8.81-3.5c-3.07-.68-6.14-1.35-9.21-2.03,3.07-.68,6.14-1.35,9.21-2.03l8.81-3.5.18.09-3.29,5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-46ft-2" data-name="Dimension 46 ft">
+      <g id="DIM-46ft-2-arrow1" data-name="DIM-46ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1004.55" y1="888.65" x2="1004.55" y2="888.65" style="stroke:#000" />
+        <line class="st28 inkK inkK" x1="1004.55" y1="890.7" x2="1004.55" y2="897.88" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1004.55" y1="898.91" x2="1004.55" y2="898.91" style="stroke:#000" />
+      </g>
+      <g id="DIM-46ft-2-arrow2" data-name="DIM-46ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1401.99" y1="888.65" x2="1401.99" y2="888.65" style="stroke:#000" />
+        <line class="st28 inkK inkK" x1="1401.99" y1="890.7" x2="1401.99" y2="897.88" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1401.99" y1="898.91" x2="1401.99" y2="898.91" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1172.5888 916.2364)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 46 </tspan></text>
+      <g id="DIM-46ft-2-arrow3" data-name="DIM-46ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1389.76" y1="888.91" x2="1388.26" y2="888.91" style="stroke:#000" />
+        <line class="st74 inkK inkK" x1="1385.26" y1="888.91" x2="1019.79" y2="888.91" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1018.28" y1="888.91" x2="1016.78" y2="888.91" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1387.07,888.91l-3.29,5.4.18.12,8.81-3.5c3.07-.68,6.14-1.35,9.21-2.03-3.07-.68-6.14-1.35-9.21-2.03l-8.81-3.5-.18.09,3.29,5.43Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1019.47,888.91l3.29,5.4-.18.12-8.81-3.5c-3.07-.68-6.14-1.35-9.21-2.03,3.07-.68,6.14-1.35,9.21-2.03l8.81-3.5.18.09-3.29,5.43Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  <g id="P-218-1" data-name="Survey 218/1 — derived from the allotment-group constraint — NOT confirmed">
+    <polygon class="fParcel st99" points="1421.79 822.64 1693.15 528.31 1723.88 557.59 1423.88 877.04 1370.65 876.88 1421.79 822.64" />
+    <polyline class="st10 inkK" points="1370.65 876.88 1693.15 528.31 1723.88 557.59 1423.88 877.04" style="stroke:#000" />
+    <g id="DIM-46.2ft-2" data-name="Dimension 46.2 ft">
+      <g id="DIM-46.2ft-2-arrow1" data-name="DIM-46.2ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1688.18" y1="521.27" x2="1688.18" y2="521.27" style="stroke:#000" />
+        <line class="st58 inkK inkK" x1="1686.8" y1="520" x2="1679.22" y2="513" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1678.53" y1="512.37" x2="1678.53" y2="512.37" style="stroke:#000" />
+      </g>
+      <g id="DIM-46.2ft-2-arrow2" data-name="DIM-46.2ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1417.53" y1="814.67" x2="1417.53" y2="814.67" style="stroke:#000" />
+        <line class="st58 inkK inkK" x1="1416.15" y1="813.4" x2="1408.57" y2="806.41" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1407.88" y1="805.77" x2="1407.88" y2="805.77" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1515.6697 689.0013) rotate(-47.3103)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 46.2 </tspan></text>
+      <g id="DIM-46.2ft-2-arrow3" data-name="DIM-46.2ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1423.52" y1="803.56" x2="1424.54" y2="802.46" style="stroke:#000" />
+        <line class="st43 inkK inkK" x1="1426.59" y1="800.24" x2="1675.54" y2="530.35" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1676.57" y1="529.24" x2="1677.59" y2="528.14" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1425.35,801.58l-1.74-6.08-.22.05-3.4,8.85c-1.59,2.71-3.17,5.43-4.76,8.14,2.58-1.8,5.16-3.6,7.73-5.4l8.55-4.1.06-.2-6.22-1.27Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1675.76,530.12l-6.2-1.25.04-.22,8.55-4.1c2.58-1.8,5.16-3.6,7.73-5.4-1.59,2.71-3.17,5.43-4.76,8.14l-3.4,8.85-.19.07-1.77-6.1Z" style="stroke:#000" />
+      </g>
+    </g>
+    <g id="DIM-50.7ft-2" data-name="Dimension 50.7 ft">
+      <g id="DIM-50.7ft-2-arrow1" data-name="DIM-50.7ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1428.34" y1="881.43" x2="1428.34" y2="881.43" style="stroke:#000" />
+        <line class="st24 inkK inkK" x1="1429.81" y1="882.81" x2="1437.88" y2="890.39" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1438.62" y1="891.08" x2="1438.62" y2="891.08" style="stroke:#000" />
+      </g>
+      <g id="DIM-50.7ft-2-arrow2" data-name="DIM-50.7ft-2 · arrow">
+        <line class="st81 inkK inkK" x1="1728.33" y1="561.98" x2="1728.33" y2="561.98" style="stroke:#000" />
+        <line class="st24 inkK inkK" x1="1729.8" y1="563.36" x2="1737.88" y2="570.94" style="stroke:#000" />
+        <line class="st81 inkK inkK" x1="1738.61" y1="571.63" x2="1738.61" y2="571.63" style="stroke:#000" />
+      </g>
+      <text class="st90 inkKt" transform="translate(1573.3298 772.8982) rotate(-46.7987)" style="fill:#000"><tspan x="0" y="0" xml:space="preserve"> 50.7 </tspan></text>
+      <g id="DIM-50.7ft-2-arrow3" data-name="DIM-50.7ft-2 · arrow">
+        <line class="st6 inkK inkK" x1="1722.95" y1="573.7" x2="1721.93" y2="574.79" style="stroke:#000" />
+        <line class="st69 inkK inkK" x1="1719.87" y1="576.98" x2="1441.75" y2="873.14" style="stroke:#000" />
+        <line class="st6 inkK inkK" x1="1440.73" y1="874.23" x2="1439.7" y2="875.32" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1721.11,575.66l1.69,6.1.22-.05,3.48-8.82c1.61-2.7,3.22-5.4,4.83-8.1-2.59,1.78-5.19,3.55-7.78,5.33l-8.58,4.03-.06.2,6.21,1.32Z" style="stroke:#000" />
+        <path class="st93 inkK inkK" d="M1441.54,873.36l6.19,1.3-.04.22-8.58,4.03c-2.59,1.78-5.19,3.55-7.78,5.33,1.61-2.7,3.22-5.4,4.83-8.1l3.48-8.82.19-.07,1.71,6.12Z" style="stroke:#000" />
+      </g>
+    </g>
+  </g>
+  <g id="UNCERTAIN-OUTLINES" data-name="RED — survey boundary shapes whose identity is not established">
+    <g id="RED-P-219-11-1" data-name="219/11 east part — identity disputed">
+      <polygon class="fUnk" points="869.53 794.82 900.96 703.61 548.77 610.91 549.09 611.42 552.23 665.9 869.53 794.82" />
+    </g>
+    <g id="RED-UNK-KEY5" data-name="key 5 — 219/11-1 probable, not established">
+      <polygon class="fUnk" points="868.95 795.09 844.14 867.64 844.14 867.95 561.95 786.32 561.75 786.43 551.67 666.31 868.95 795.09" />
+    </g>
+    <g id="RED-UNK-KEY8" data-name="key 8 — 219/27-1 probable, not established">
+      <polygon class="fUnk" points="869.05 795.12 905.57 809.9 901.7 701.27 869.05 795.12" />
+    </g>
+    <g id="RED-UNK-KEY11" data-name="key 11 — 219/29 probable, not established">
+      <polygon class="fUnk" points="979.35 292.84 778.16 256.99 786.62 202.99 988.66 236.21 979.35 292.84" />
+    </g>
+  </g>
+<g id="LEADERS" data-name="Callout leaders — dot at the end of the HEADING line, arrow at the centroid"><g id="LEAD-P-219-11" data-name="219/11   21.81 → P-219-11 · dot at right end of heading"><circle cx="482.4" cy="331.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="486.9" y1="333.1" x2="738.2" y2="449.9" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="765.4,462.6 742.2,441.3 734.2,458.6" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g><g id="LEAD-UNK-KEY5" data-name="219/11-1   5.39 → UNK-KEY5 · dot at right end of heading"><circle cx="475.0" cy="821.0" r="5.0" class="fDot inkRf" style="fill:#cc0000;stroke:none" /><line x1="479.9" y1="820.0" x2="668.5" y2="780.9" class="fLead inkR" style="stroke:#cc0000;stroke-width:1.4px" /><polygon points="697.9,774.8 666.6,771.6 670.4,790.2" class="fArrow inkRf" style="fill:#cc0000;stroke:none" /></g><g id="LEAD-P-219-19" data-name="219/19   4.75 → P-219-19 · dot at left end of heading"><circle cx="1121.0" cy="569.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="1120.3" y1="574.0" x2="1102.4" y2="701.4" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="1098.2,731.1 1111.8,702.7 1093.0,700.1" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g><g id="LEAD-P-219-27" data-name="219/27   0.49 → P-219-27 · dot at right end of heading"><circle cx="782.2" cy="1101.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="784.0" y1="1096.3" x2="869.6" y2="868.4" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="880.2,840.3 860.7,865.1 878.5,871.8" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g><g id="LEAD-UNK-KEY8" data-name="219/27-1   0.11 → UNK-KEY8 · dot at left end of heading"><circle cx="926.0" cy="975.0" r="5.0" class="fDot inkRf" style="fill:#cc0000;stroke:none" /><line x1="925.2" y1="970.1" x2="897.0" y2="798.4" class="fLead inkR" style="stroke:#cc0000;stroke-width:1.4px" /><polygon points="892.1,768.8 887.6,799.9 906.3,796.8" class="fArrow inkRf" style="fill:#cc0000;stroke:none" /></g><g id="LEAD-UNK-KEY7" data-name="219/28-1   2.10 → UNK-KEY7 · dot at left end of heading"><circle cx="956.0" cy="499.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="955.9" y1="504.0" x2="952.7" y2="700.8" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="952.2,730.8 962.2,701.0 943.2,700.7" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g><g id="LEAD-UNK-KEY11" data-name="219/29   0.65 → UNK-KEY11 · dot at left end of heading"><circle cx="1016.0" cy="261.0" r="5.0" class="fDot inkRf" style="fill:#cc0000;stroke:none" /><line x1="1011.0" y1="260.5" x2="913.9" y2="250.5" class="fLead inkR" style="stroke:#cc0000;stroke-width:1.4px" /><polygon points="884.0,247.4 912.9,259.9 914.8,241.0" class="fArrow inkRf" style="fill:#cc0000;stroke:none" /></g><g id="LEAD-P-218-1" data-name="218/1 (to East) → P-218-1 · dot at right end of heading"><circle cx="1322.0" cy="415.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="1325.1" y1="418.9" x2="1536.6" y2="683.8" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="1555.3,707.2 1544.0,677.8 1529.2,689.7" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g><g id="LEAD-P-219-11-1" data-name="219/11 east part → P-219-11-1 · dot at right end of heading"><circle cx="549.6" cy="961.0" r="5.0" class="fDot inkRf" style="fill:#cc0000;stroke:none" /><line x1="552.5" y1="956.9" x2="717.8" y2="723.5" class="fLead inkR" style="stroke:#cc0000;stroke-width:1.4px" /><polygon points="735.2,699.0 710.1,718.0 725.6,729.0" class="fArrow inkRf" style="fill:#cc0000;stroke:none" /></g><g id="LEAD-P-219-28" data-name="219/28   0.90 → P-219-28 · dot at right end of heading"><circle cx="797.2" cy="1031.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="800.4" y1="1027.2" x2="932.3" y2="870.1" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="951.5,847.2 925.0,864.0 939.5,876.2" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g><g id="LEAD-P-219-10" data-name="219/10   3.25 → P-219-10 · dot at left end of heading"><circle cx="1171.0" cy="1085.0" r="5.0" class="fDot inkBf" style="fill:#0033aa;stroke:none" /><line x1="1171.6" y1="1080.0" x2="1195.3" y2="879.0" class="fLead inkB" style="stroke:#0033aa;stroke-width:1.4px" /><polygon points="1198.8,849.2 1185.8,877.9 1204.7,880.1" class="fArrow inkBf" style="fill:#0033aa;stroke:none" /></g></g><g id="BORDER-RULES" data-name="Green rule under each bordering plot — N, W, E, S"><line x1="760.0" y1="1653.0" x2="916.4" y2="1653.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="760.0" y1="1601.0" x2="916.4" y2="1601.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="760.0" y1="1549.0" x2="916.4" y2="1549.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="760.0" y1="1705.0" x2="916.4" y2="1705.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="880.0" y1="101.0" x2="1027.2" y2="101.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="60.0" y1="765.0" x2="198.0" y2="765.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="60.0" y1="695.0" x2="198.0" y2="695.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /><line x1="1175.0" y1="425.0" x2="1313.0" y2="425.0" class="fBorderRule" style="stroke:#007a33;stroke-width:2.4" /></g></svg>

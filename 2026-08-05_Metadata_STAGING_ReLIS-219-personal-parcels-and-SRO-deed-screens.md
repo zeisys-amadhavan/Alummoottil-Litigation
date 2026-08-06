@@ -1,5 +1,11 @@
 # STAGING — ReLIS Survey-219 pulls + SRO document screens (batch of 05-08-2026)
 
+> ⚠ **This file covers batches 1–4 only, and parts of it are superseded.**
+> Batches 5–9 (56 further ReLIS Tax Dues screens pulled 05-08-2026) were folded straight into
+> `2026-08-05_Metadata_Survey-219_MASTER-parcel-register.md`, which is authoritative for all parcel data.
+> Known corrections to what follows: **219/23 is ഭാര്യ, wife of Philip, not "S/o"** · **219/14 is now 0.48 are / Rakesh S., not 2.03 / Seethalakshmi**
+> · **TP 16961 is empty — all seven corpus parcels moved to TP 17644 on 04-08-2026** · new sub-parcels exist across 219/1, /9, /13, /14, /16, /17, /18, /26.
+
 > **Status: STAGING. Not yet merged.** Destination on merge:
 > - §1, §2 → `2026-01-01_Metadata_Alummoottil-personal-property.md` §2 (Ramesh Chandran / Jiji Ramesh)
 > - §3 → same file, §5 Collection Checklist (corrections)

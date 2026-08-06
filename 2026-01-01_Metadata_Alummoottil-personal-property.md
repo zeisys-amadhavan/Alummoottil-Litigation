@@ -383,17 +383,37 @@ A discrete, small, checkable gap in the Trust's title chain: 1.39 ares claimed t
 - **Chellamma's parentage field** reads a bare full stop (`S/o .`) in both ReLIS views — a placeholder, not a name. Meaning unknown.
 - **The generic "S/o" label** is a defect of the ReLIS **Land Record** view specifically; the **Tax Dues** view renders the true relationship (ഭാര്യ / മകൾ / മകൻ). Never read a relationship off the English label in a Land Record screen — read the Malayalam. Where only the label exists, the relationship is **[TO CONFIRM]**.
 
+### 6.5a ⚠ CORRECTIONS AND ADDITIONS FROM BATCHES 6–9 (05-08-2026)
+
+**A first personal landholding for D1.** **219/9-2 — 3.05 are / 7.537 cent — Thandapper 17245 — SIVADASAN A. MADHAVAN alias ALUMMOOTTIL MADHAVAN SIVADASAN CHANNAR, `Late T K Madhava Panicker` മകൻ** · Alummoottil, Haripad, Valyakuzhy Muri 690514. FY 2025-26 ₹30, paid **26-01-2026** — two days after the 24.01.2026 minuted meeting; recorded as a date, no inference drawn. Acquisition date unknown. **The only D1 personal holding found anywhere in survey 219.**
+
+**The Kshema Sabha is a registered landholder.** **219/9-3 — 14.57 are / 36.004 cent — Thandapper 16111 — President and Secretary, ആലുംമൂട്ടിൽ കുടുംബക്ഷേത്ര ക്ഷേമസഭ**, Valiyakuzhy, Muttom, Cheppad. Recited as the Trust plot's **eastern boundary** in the O.S. 243/2024 schedule and Deed 299/I/2024; it now has a survey number, an extent and an account of its own. Neither office-holder is named on the screen.
+
+**219/23 — the "S/o" caveat bites.** The Malayalam reads **ആനിഫിലിപ്പ്, ഫിലിപ്പ് ഭാര്യ** — Ani Philip is Philip's **wife**, not his son. This register carried "S/o Philip" from the 26-07-2024 Land Record pull for two years. **Treat every relationship taken from that batch as unverified until a Tax Dues screen confirms it.**
+
+**219/14 has changed holder and extent.** Now **0.48 are, Rakesh S., സാംബശിവൻ മകൻ, TP 17848** — not the 2.03 are / Seethalakshmi recorded from 26-07-2024. Seethalakshmi's current parcel is unknown. **Record both; resolve at the Village Office.**
+
+**A third and fourth Channatty filiation are now stated on the record** — Krishnakumari as **സുമതി ചാന്നാട്ടി മകൾ** (219/13) and Ganga Prasad as **പത്മാവതിചാന്നാട്ടി മകൻ** (219/18). ⚠ **This does not advance the tree.** It fixes each child's mother; nothing anywhere states how Sumathi or Padmavathi relate to Chellamma. The beneficiary claim still runs through Chellamma and must still be proved from the 1956 Book-3 will, the 1958 Book-1 deed and the O.S. 197/1983 record.
+
+**The Kesavan Channar line has fragmented.** Nine new sub-parcels across 219/13, /14, /16 and /17. Stated as children of **വാസുദേവൻ ചാന്നാർ**: Sambasivan (219/16-2 7.00 + 219/17-2 1.10, TP 12153), Devarajan (219/16-3 5.87 + 219/17-3 0.20, TP 12154), Susheela (219/16-4 5.62 + 219/17-4 0.34, TP 12155), Sujatha (219/14-2 5.19, TP 12156 — Chingoli village). Grandchildren: Rakesh S. and Jayesh (സാംബശിവൻ മകൻ), Nidhin Raj (വി ദേവരാജൻ മകൻ). TP 12153–12156 run consecutively across four siblings. **Still the Kesavan line — do NOT merge with the five brothers.**
+
+**Other new sub-parcels:** 219/13-1 (12.15, TP 5856, K. Divakaran + C. Thankamani, arrear ₹663 from FY2019-20) · 219/13-2 (1.31, TP 8590) · 219/18-3 (6.92, TP 12905) · 219/18-4 (9.61, TP 13423, Manasi Prasad, ഗംഗാപ്രസാദ് മകൾ) · 219/9-1 (2.15, TP 1011, Kanichanalloor Muri) · 219/1-1/-2/-4 (23.51, TP 12732, Lisy Reji Varghese) · 219/26-1 (1.82, TP 17246, Shantha).
+
+⚠ **219/18-3 prints its name and parent in the opposite order to 219/18-4**, which would make Ganga Prasad a **മകൾ** — contradicting 219/18, where he is **മകൻ**. Probable data-entry inversion. **Do not swear to either reading.**
+
+⚠ **Four parents print their full extent alongside sub-parcels** — 219/9, 219/13, 219/18 (Channatty branch) and 219/26 (D2). **Never sum a parent with its own sub-parcels.**
+
 ### 6.6 §4 neighbourhood — completions (survey 219 now complete, /1–/29 + 218/1)
 
 | Re.Sy. | Ares | Cents | Land type | Register | Holder of record |
 |---|---|---|---|---|---|
-| 219/14 | 2.03 | 5.016 | Purayidam | BTR | Seethalakshmi, of Vasudevan Channar · Puthussery Veettil, Chethippuzha Velur |
+| 219/14 | ~~2.03~~ **0.48** | 1.186 | Purayidam | BTR | ~~Seethalakshmi~~ → **Rakesh S., സാംബശിവൻ മകൻ · TP 17848** — holder AND extent changed since 26-07-2024; see §6.5a |
 | 219/15 | 5.32 | 13.146 | Purayidam | BTR | Arun S/o Somanathan · Idayile Veettil, Cheppad |
 | 219/16 | 0.01 | 0.025 | Purayidam | BTR | Vasudevan Channar, S/o **Kesavan** Channar · Alummoottil-padeettathil |
 | 219/17 | 0.01 | 0.025 | Purayidam | BTR | Vasudevan Channar, S/o **Kesavan** Channar · Alummoottil-padeettathil |
 | 219/21 | 3.80 | 9.390 | Purayidam | PokkuVaravu | Aneesh S/o Krishnankutty · S.V. Cottage, Cheppad |
 | 219/22 | 6.15 | 15.197 | **Nilam** | BTR | V.N. Ranadev, of Venugopal · Lavanya, **Thiruvananthapuram** |
-| 219/23 | 6.10 | 15.074 | Purayidam | PokkuVaravu | Ani Philip S/o Philip · Pilamoottil-kizhakkathil, **Pallippad** |
+| 219/23 | 6.10 | 15.074 | Purayidam | PokkuVaravu | **Ani Philip, ഫിലിപ്പ് ഭാര്യ (WIFE of Philip — corrected)** · Pilamoottil-kizhakkathil, Kottaykkakam Muri, **Pallippad** · TP 6695 |
 | 219/24 | 8.10 | 20.016 | Purayidam | PokkuVaravu | Sivankutty, of Divakaran · mundu kottayil, cheppad |
 
 **A second Channar line — do NOT merge with the five brothers.** 219/1, /16 and /17 trace to **കേശവൻ ചാന്നാർ (Kesavan Channar)**, not T.K. Madhavan:
@@ -406,7 +426,7 @@ Kesavan Channar
 ```
 **[TO CONFIRM]** whether "Channar/Channatty at Alummoottil-padeettathil" is a collateral branch of the tharavad or an unrelated family that took the locality name. Not answered.
 
-**Four Channatty women are now on the revenue record** — Chellamma (219/27, /28), Saradamani (219/5, mother of Beena & Darsana), **Padmavathi** (mother of Ganga Prasad, 219/18), **Sumathi** (mother of Krishnakumari, 219/13). ⚠️ **Only ONE link is stated on any record: Saradamani as daughter of Chellamma, on 219/5.** Padmavathi's and Sumathi's relationship to Chellamma is nowhere stated — shared surname and locality only. The beneficiary claim runs through descent from Chellamma, so this tree must be proved from the **1956 Book-3 will**, the **1958 Book-1 deed** and the **O.S. 197/1983 partition record**, never from tax screens.
+**Four Channatty women are now on the revenue record** — Chellamma (219/27, /28), Saradamani (219/5, mother of Beena & Darsana), **Padmavathi** (mother of Ganga Prasad, 219/18), **Sumathi** (mother of Krishnakumari, 219/13). ⚠️ **Four filiations are now stated, but only ONE reaches Chellamma: Saradamani as her daughter, on 219/5.** Krishnakumari←Sumathi (219/13) and Ganga Prasad←Padmavathi (219/18) fix those children’s mothers only. Padmavathi's and Sumathi's relationship to Chellamma is nowhere stated — shared surname and locality only. The beneficiary claim runs through descent from Chellamma, so this tree must be proved from the **1956 Book-3 will**, the **1958 Book-1 deed** and the **O.S. 197/1983 partition record**, never from tax screens.
 
 ---
 
