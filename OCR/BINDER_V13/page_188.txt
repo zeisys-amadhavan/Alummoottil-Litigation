@@ -1,0 +1,47 @@
+District (ele) : ALAPPUZHA
+P.S (പോലീസ്‌ സ്റ്റേഷന്‍) : KAREELAKULANGARA
+FIR No (പ്രഥമ വിവര നമ്പര്‍) : 0956 / 2024
+(൭). Age & Date of Birth (വയസ്സ്‌ & ജനനതീയതി) : 47,1977
+(d). Nationality (പൌരത്വം) : INDIA
+(൭). UID ഠ.(ആധാര്‍ നമ്പര്‍) :
+(f ). Passport പഠ. (പാസ്സ്പോര്‍ട്ട്‌ നമ്പര്‍) :
+Date of Issue (നല്‍കിയ തീയതി) :
+Place of Issue (നല്‍കിയ സ്ഥലം) :
+(g). ID details (Ration Card, Voter ID Card, Aadhar, Driving License, PAN) (തിരിച്ചറിയല്‍ രേഖകളുടെ
+വിശദാംശങ്ങള്‍ റേഷന്‍കാര്‍ഡ്‌, വോട്ടര്‍ ഐഡി കാര്‍ഡ്‌, ആധാര്‍, ഡ്രൈവിംഗ്‌ ലൈസന്‍സ്‌, പാന്‍)
+SI പഠ. Id Type Id Number
+(ക്രമ നമ്പര്‍) (തിരിച്ചറിയല്‍ രേഖ) (തിരിച്ചറിയല്‍ രേഖ നമ്പര്‍)
+(൪). Occupation (തൊഴില്‍) :
+(i). Address (മേല്‍വിലാസം)
+SI No. Address Type Address
+(ക്രമ നമ്പര്‍) (മേല്‍വിലാസത്തിന്റെ തരം) (മേല്‍വിലാസം)
+Permanent Address ALUM MOOTIL , MUTTOM, PALLIPPAD,
+(സ്ഥിരമായ മേല്‍വിലാസം) ALAPPUZHA, KERALA, INDIA
+Present Address ALUM MOOTIL , MUTTOM, PALLIPPAD,
+(നിലവിലെ മേല്‍വിലാസം) ALAPPUZHA, KERALA, INDIA
+(j ). Land Phone Number (ഫോണ്‍ നമ്പര്‍) :
+Mobile Number (മൊബൈല്‍ നമ്പര്‍) : 2029220500
+(2).Victim / Missing / Deceased details (ഇര / കാണാതായ / മരണപ്പെട്ട ആളിന്റെ വിവരം)
+SI No. Name Age Sex Relative's Name Address
+(ക്രമ നമ്പര്‍) (പേര്‌ ) (വയസ്സ്‌ ) (ലിംഗം) | (ബന്ധുവിന്റെ പേര) (മേല്‍വിലാസം)
+ANOOP FATHER:MADHA | Permanent:
+1 MADHAVAN 47,1977 MALE VAN ALUM MOOTIL ,
+MUTTOM,
+PALLIPPAD,
+ALAPPUZHA,
+KERALA, INDIA
+Present:
+ALUM MOOTIL ,
+MUTTOM,
+PALLIPPAD,
+ALAPPUZHA,
+KERALA, INDIA
+Permanent:
+JOHNSON MALE ERNAKULAM,
+ERNAKULANM CITY,
+KERALA, INDIA
+Present:
+ERNAKULAM,
+ERNAKULANM CITY,
+KERALA, INDIA
+2/6
