@@ -1,0 +1,38 @@
+name: Binder V13 OCR
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install OCR tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-eng
+      - name: OCR Binder V13 split PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p OCR/BINDER_V13
+          for pdf in BINDER/BINDER_V13_part*.pdf; do
+            base=$(basename "$pdf" .pdf)
+            # Render at 220 dpi; one PNG per page.
+            mkdir -p "/tmp/$base"
+            pdftoppm -r 220 -png "$pdf" "/tmp/$base/page" >/dev/null 2>&1
+            n=0
+            for img in /tmp/$base/page-*.png; do
+              n=$((n+1))
+              out=$(printf 'OCR/BINDER_V13/%s_p%03d.txt' "$base" "$n")
+              tesseract "$img" stdout -l eng --psm 6 2>/dev/null > "$out" || true
+            done
+          done
+      - name: Upload OCR artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: binder-v13-ocr
+          path: OCR/BINDER_V13
+          if-no-files-found: error
