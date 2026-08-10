@@ -22,23 +22,23 @@
 | 020 | 4 January 2007 | TRUST DEED — Deed No. 2/IV/2007 | p6, clause 16 and concluding provisions; annual presentation of Trust accounts, followed by execution/registration material. |
 | 021 | 1 January 2013 | Divider |  |
 | 022 | 1 January 2013 | PROPERTY TAX RECORD — Building IDs 50494010007872 & 50494010007… | p1, Property-tax record p.1: Cheppad Grama Panchayat record concerning the Trust-property buildings, including Building IDs 50494010007872 and 50494010007…. |
-| 023 | 1 January 2013 | PROPERTY TAX RECORD — Building IDs 50494010007872 & 50494010007… | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 023 | 1 January 2013 | PROPERTY TAX RECORD — Building IDs 50494010007872 & 50494010007… | p2, Property-tax record p.2: continuation/second page of the building-tax record and property identifiers. |
 | 024 | 10 November 2022 | Divider |  |
-| 025 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 026 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 027 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 028 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 029 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 030 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 031 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 032 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 033 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 034 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 035 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 036 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 037 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 038 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 039 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 025 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p1, Land Deed 1669/I/2022 - p.1; registered land/settlement deed continuation. |
+| 026 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p2, Land Deed 1669/I/2022 - p.2; registered land/settlement deed continuation. |
+| 027 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p3, Land Deed 1669/I/2022 - p.3; registered land/settlement deed continuation. |
+| 028 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p4, Land Deed 1669/I/2022 - p.4; registered land/settlement deed continuation. |
+| 029 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p5, Land Deed 1669/I/2022 - p.5; registered land/settlement deed continuation. |
+| 030 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p6, Land Deed 1669/I/2022 - p.6; registered land/settlement deed continuation. |
+| 031 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p7, Land Deed 1669/I/2022 - p.7; registered land/settlement deed continuation. |
+| 032 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p8, Land Deed 1669/I/2022 - p.8; registered land/settlement deed continuation. |
+| 033 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p9, Land Deed 1669/I/2022 - p.9; registered land/settlement deed continuation. |
+| 034 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p10, Land Deed 1669/I/2022 - p.10; registered land/settlement deed continuation. |
+| 035 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p11, Land Deed 1669/I/2022 - p.11; registered land/settlement deed continuation. |
+| 036 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p12, Land Deed 1669/I/2022 - p.12; registered land/settlement deed continuation. |
+| 037 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p13, Land Deed 1669/I/2022 - p.13; registered land/settlement deed continuation. |
+| 038 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p14, Land Deed 1669/I/2022 - p.14; registered land/settlement deed continuation. |
+| 039 | 10 November 2022 | LAND DEED — Deed No. 1669/I/2022 | p15, Land Deed 1669/I/2022 - p.15; registered land/settlement deed continuation. |
 | 040 | 6 March 2024 | Divider |  |
 | 041 | 6 March 2024 | PLAINT & AFFIDAVIT — O.S. No. 84/2024 | p1, cause title and party details; suit by Anoop R. Madhavan against the five family defendants; declaration/prohibitory-injunction plaint concerning Alummoottil property. |
 | 042 | 6 March 2024 | PLAINT & AFFIDAVIT — O.S. No. 84/2024 | p2, remaining party particulars and opening factual pleadings on family rights/title in Alummoottil Meda, Nalukettu and Nelpura; references the family/Trust instruments relied on. |
@@ -49,70 +49,70 @@
 | 047 | 6 March 2024 | PLAINT & AFFIDAVIT — O.S. No. 84/2024 | p7, para 13 and concluding prayers — alleges defendants are 'continuously obstructing' Plaintiff's free access to the B, C and D schedule buildings; seeks declaration of legal/family rights and prohibitory injunctions against merger/conversion, commercial change and access obstruction. |
 | 048 | 6 March 2024 | PLAINT & AFFIDAVIT — O.S. No. 84/2024 | p8, four property schedules and verification/execution material — Schedule A: Alummoottil Meda/ancestral Nalukettu; B: eastern Meda rooms formerly occupied by grandparents; C: Nelpura about 50 m from Meda; D: southern Meda rooms occupied by Plaintiff's parents. |
 | 049 | 6 March 2024 | Divider |  |
-| 050 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 051 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 052 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 053 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 054 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 055 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 056 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 057 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 058 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 059 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 060 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 061 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 050 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p1, I.A. in O.S. 84/2024 - original p.1; opening of interlocutory application connected to the 06.03.2024 suit. |
+| 051 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p2, I.A. in O.S.84/2024 - p.2; interlocutory application continuation. |
+| 052 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p3, I.A. in O.S.84/2024 - p.3; interlocutory application continuation. |
+| 053 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p4, I.A. in O.S.84/2024 - p.4; interlocutory application continuation. |
+| 054 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p5, I.A. in O.S.84/2024 - p.5; interlocutory application continuation. |
+| 055 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p6, I.A. in O.S.84/2024 - p.6; interlocutory application continuation. |
+| 056 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p7, I.A. in O.S.84/2024 - p.7; interlocutory application continuation. |
+| 057 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p8, I.A. in O.S.84/2024 - p.8; interlocutory application continuation. |
+| 058 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p9, I.A. in O.S.84/2024 - p.9; interlocutory application continuation. |
+| 059 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p10, I.A. in O.S.84/2024 - p.10; interlocutory application continuation. |
+| 060 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p11, I.A. in O.S.84/2024 - p.11; interlocutory application continuation. |
+| 061 | 6 March 2024 | INTERLOCUTORY APPLICATION — I.A. in O.S. No. 84/2024 | p12, I.A. in O.S.84/2024 - p.12; interlocutory application continuation. |
 | 062 | 7 March 2024 | Divider |  |
-| 063 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 064 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 065 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 066 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 067 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 068 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 069 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 070 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 071 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 072 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 073 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 074 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 075 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 076 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 077 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 078 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p16, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 079 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p17, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 080 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p18, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 081 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p19, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 063 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p1, Land Deed 298/I/2024 - registered deed p.1; opening page of the 07.03.2024 land instrument. |
+| 064 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p2, Land Deed 298/I/2024 - p.2; registered land deed continuation. |
+| 065 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p3, Land Deed 298/I/2024 - p.3; registered land deed continuation. |
+| 066 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p4, Land Deed 298/I/2024 - p.4; registered land deed continuation. |
+| 067 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p5, Land Deed 298/I/2024 - p.5; registered land deed continuation. |
+| 068 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p6, Land Deed 298/I/2024 - p.6; registered land deed continuation. |
+| 069 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p7, Land Deed 298/I/2024 - p.7; registered land deed continuation. |
+| 070 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p8, Land Deed 298/I/2024 - p.8; registered land deed continuation. |
+| 071 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p9, Land Deed 298/I/2024 - p.9; registered land deed continuation. |
+| 072 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p10, Land Deed 298/I/2024 - p.10; registered land deed continuation. |
+| 073 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p11, Land Deed 298/I/2024 - p.11; registered land deed continuation. |
+| 074 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p12, Land Deed 298/I/2024 - p.12; registered land deed continuation. |
+| 075 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p13, Land Deed 298/I/2024 - p.13; registered land deed continuation. |
+| 076 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p14, Land Deed 298/I/2024 - p.14; registered land deed continuation. |
+| 077 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p15, Land Deed 298/I/2024 - p.15; registered land deed continuation. |
+| 078 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p16, Land Deed 298/I/2024 - p.16; registered land deed continuation. |
+| 079 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p17, Land Deed 298/I/2024 - p.17; registered land deed continuation. |
+| 080 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p18, Land Deed 298/I/2024 - p.18; registered land deed continuation. |
+| 081 | 7 March 2024 | LAND DEED — Deed No. 298/I/2024 | p19, Land Deed 298/I/2024 - p.19; registered land deed continuation. |
 | 082 | 7 March 2024 | Divider |  |
-| 083 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 084 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 085 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 086 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 087 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 088 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 089 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 090 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 091 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 092 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 093 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 094 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 095 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 096 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 097 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 098 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p16, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 099 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p17, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 100 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p18, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 101 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p19, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 083 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p1, Land Deed 299/I/2024 - registered deed p.1; opening page of the 07.03.2024 land instrument. |
+| 084 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p2, Land Deed 299/I/2024 - p.2; registered land deed continuation. |
+| 085 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p3, Land Deed 299/I/2024 - p.3; registered land deed continuation. |
+| 086 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p4, Land Deed 299/I/2024 - p.4; registered land deed continuation. |
+| 087 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p5, Land Deed 299/I/2024 - p.5; registered land deed continuation. |
+| 088 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p6, Land Deed 299/I/2024 - p.6; registered land deed continuation. |
+| 089 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p7, Land Deed 299/I/2024 - p.7; registered land deed continuation. |
+| 090 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p8, Land Deed 299/I/2024 - p.8; registered land deed continuation. |
+| 091 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p9, Land Deed 299/I/2024 - p.9; registered land deed continuation. |
+| 092 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p10, Land Deed 299/I/2024 - p.10; registered land deed continuation. |
+| 093 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p11, Land Deed 299/I/2024 - p.11; registered land deed continuation. |
+| 094 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p12, Land Deed 299/I/2024 - p.12; registered land deed continuation. |
+| 095 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p13, Land Deed 299/I/2024 - p.13; registered land deed continuation. |
+| 096 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p14, Land Deed 299/I/2024 - p.14; registered land deed continuation. |
+| 097 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p15, Land Deed 299/I/2024 - p.15; registered land deed continuation. |
+| 098 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p16, Land Deed 299/I/2024 - p.16; registered land deed continuation. |
+| 099 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p17, Land Deed 299/I/2024 - p.17; registered land deed continuation. |
+| 100 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p18, Land Deed 299/I/2024 - p.18; registered land deed continuation. |
+| 101 | 7 March 2024 | LAND DEED — Deed No. 299/I/2024 | p19, Land Deed 299/I/2024 - p.19; registered land deed continuation. |
 | 102 | 9 August 2024 | Divider |  |
 | 103 | 9 August 2024 | MEDICAL RECORDS | p1, Government Hospital medical record - first original page for treatment on 09.08.2024 after the Meda incident. |
-| 104 | 9 August 2024 | MEDICAL RECORDS | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 105 | 9 August 2024 | MEDICAL RECORDS | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 104 | 9 August 2024 | MEDICAL RECORDS | p2, Government Hospital medical records - p.2; medical record continuation. |
+| 105 | 9 August 2024 | MEDICAL RECORDS | p3, Government Hospital medical records - p.3; medical record continuation. |
 | 106 | 9 August 2024 | Divider |  |
 | 107 | 9 August 2024 | MEDICAL RECORDS — Reg. No. 14/92 | p1, Huda Trust Hospital record - first original page for 09.08.2024 orthopaedic treatment. |
-| 108 | 9 August 2024 | MEDICAL RECORDS — Reg. No. 14/92 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 108 | 9 August 2024 | MEDICAL RECORDS — Reg. No. 14/92 | p2, Huda Trust Hospital medical records - p.2; medical record continuation. |
 | 109 | 9 August 2024 | Divider |  |
 | 110 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p1, Police complaint - original p.1 of complaint/receipt package concerning the 09.08.2024 incident. |
-| 111 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 112 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 113 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 111 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p2, Police complaint 09.08.2024 - p.2; police complaint package continuation. |
+| 112 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p3, Police complaint 09.08.2024 - p.3; police complaint package continuation. |
+| 113 | 9 August 2024 | POLICE COMPLAINT — Receipt No. 15281021-2024-5-00770 | p4, Police complaint 09.08.2024 - p.4; police complaint package continuation. |
 | 114 | 10 August 2024 | Divider |  |
 | 115 | 10 August 2024 | FIR AGAINST ANOOP — F.I.R. No. 0574/2024 | p1, FIR 0574/2024 p.1: registered 10.08.2024 at 17:13; BNS 115(2), 118(1), 296(b), 3(5); occurrence shown 09.08.2024 about 11:00; complainant Arun B. Unni. |
 | 116 | 10 August 2024 | FIR AGAINST ANOOP — F.I.R. No. 0574/2024 | p2, FIR 0574/2024 p.2: complainant/victim particulars for Arun B. Unni, including address/contact fields. |
@@ -120,27 +120,27 @@
 | 118 | 10 August 2024 | FIR AGAINST ANOOP — F.I.R. No. 0574/2024 | p4, FIR 0574/2024 p.4: investigation/action fields; IO Visal V; read-over/signature and digital-authentication particulars. |
 | 119 | 10 August 2024 | FIR AGAINST ANOOP — F.I.R. No. 0574/2024 | p5, FIR 0574/2024 p.5: station/registration note; records registration based on hospital statement and officer/date details. |
 | 120 | 14 August 2024 | Divider |  |
-| 121 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 122 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 123 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 124 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 125 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 126 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 127 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 121 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p1, O.S. 243/2024 plaint - original p.1; opening page of Trust's injunction suit against Plaintiff. |
+| 122 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p2, O.S.243/2024 plaint - p.2; plaint continuation. |
+| 123 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p3, O.S.243/2024 plaint - p.3; plaint continuation. |
+| 124 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p4, O.S.243/2024 plaint - p.4; plaint continuation. |
+| 125 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p5, O.S.243/2024 plaint - p.5; plaint continuation. |
+| 126 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p6, O.S.243/2024 plaint - p.6; plaint continuation. |
+| 127 | 14 August 2024 | PLAINT & AFFIDAVIT — O.S. No. 243/2024 | p7, O.S.243/2024 plaint - p.7; plaint continuation. |
 | 128 | 20 September 2024 | Divider |  |
 | 129 | 20 September 2024 | POWER OF ATTORNEY — Apostille No. 745923 | p1, Apostille/POA package p.1: Apostille No. 745923, District of Columbia authentication material. |
 | 130 | 20 September 2024 | POWER OF ATTORNEY — Apostille No. 745923 | p2, Power of Attorney p.1: Anoop appoints A.G. Kishore; identities/addresses and commencement of conferred powers. |
 | 131 | 20 September 2024 | POWER OF ATTORNEY — Apostille No. 745923 | p3, Power of Attorney p.2: enumerated powers 1-9, ratification clause, execution, witness/notary material. |
 | 132 | 29 September 2024 | Divider |  |
-| 133 | 29 September 2024 | MEDICAL RECORDS | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 134 | 29 September 2024 | MEDICAL RECORDS | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 133 | 29 September 2024 | MEDICAL RECORDS | p1, Medical record 29.09.2024 - original p.1; first page of follow-up medical evidence. |
+| 134 | 29 September 2024 | MEDICAL RECORDS | p2, Medical records 29.09.2024 - p.2; medical record continuation. |
 | 135 | 3 October 2024 | Divider |  |
 | 136 | 3 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084192231IN | p1, First accounts notice (03.10.2024) - original p.1; written demand for Trust deeds/accounts. |
-| 137 | 3 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084192231IN | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 138 | 3 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084192231IN | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 137 | 3 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084192231IN | p2, Notice for accounts 03.10.2024 - p.2; accounts-demand notice continuation. |
+| 138 | 3 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084192231IN | p3, Notice for accounts 03.10.2024 - p.3; accounts-demand notice continuation. |
 | 139 | 8 October 2024 | Divider |  |
-| 140 | 8 October 2024 | REPLY REJECTING REQUEST | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 141 | 8 October 2024 | REPLY REJECTING REQUEST | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 140 | 8 October 2024 | REPLY REJECTING REQUEST | p1, Reply rejecting accounts request - original p.1; first page of 08.10.2024 refusal/reply. |
+| 141 | 8 October 2024 | REPLY REJECTING REQUEST | p2, Reply rejecting request 08.10.2024 - p.2; reply continuation. |
 | 142 | 17 October 2024 | Divider |  |
 | 143 | 17 October 2024 | COMPLAINT TO MAGISTRATE — CMP No. 2828/2024 | p1, CMP 2828/2024 affidavit p.1: A.G. Kishore states POA competence, verifies complaint/documents and refers to complaint of 23.08.2024. |
 | 144 | 17 October 2024 | COMPLAINT TO MAGISTRATE — CMP No. 2828/2024 | p2, CMP 2828/2024 affidavit p.2: complaint/receipt 15281021-2024-5-00825, DPC email 02.09, closure 21.09; alleges influence/fabricated counter-complaint and seeks FIR. |
@@ -155,36 +155,36 @@
 | 153 | 17 October 2024 | COMPLAINT TO MAGISTRATE — CMP No. 2828/2024 | p11, CMP 2828/2024 complaint p.8: list of documents/exhibits 1-8. |
 | 154 | 28 October 2024 | Divider |  |
 | 155 | 28 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084195136IN | p1, Second accounts notice (28.10.2024) - original p.1; renewed written demand for Trust records/accounts. |
-| 156 | 28 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084195136IN | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 156 | 28 October 2024 | NOTICE FOR ACCOUNTS — Registered Post ET084195136IN | p2, Notice for accounts 28.10.2024 - p.2; accounts-demand notice continuation. |
 | 157 | 7 November 2024 | Divider |  |
-| 158 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 159 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 160 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 161 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 162 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 163 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 164 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 165 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 166 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 167 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 168 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 169 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 170 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 171 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 172 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 173 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p16, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 174 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p17, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 175 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p18, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 176 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p19, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 177 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p20, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 178 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p21, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 179 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p22, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 180 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p23, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 181 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p24, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 182 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p25, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 158 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p1, Final report Crime 574/2024 / C.C.1055/2024 - original p.1; opening page of police final-report/charge-sheet package. |
+| 159 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p2, Final report Crime 574/2024 / C.C.1055/2024 - p.2; police final-report package continuation. |
+| 160 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p3, Final report Crime 574/2024 / C.C.1055/2024 - p.3; police final-report package continuation. |
+| 161 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p4, Final report Crime 574/2024 / C.C.1055/2024 - p.4; police final-report package continuation. |
+| 162 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p5, Final report Crime 574/2024 / C.C.1055/2024 - p.5; police final-report package continuation. |
+| 163 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p6, Final report Crime 574/2024 / C.C.1055/2024 - p.6; police final-report package continuation. |
+| 164 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p7, Final report Crime 574/2024 / C.C.1055/2024 - p.7; police final-report package continuation. |
+| 165 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p8, Final report Crime 574/2024 / C.C.1055/2024 - p.8; police final-report package continuation. |
+| 166 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p9, Final report Crime 574/2024 / C.C.1055/2024 - p.9; police final-report package continuation. |
+| 167 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p10, Final report Crime 574/2024 / C.C.1055/2024 - p.10; police final-report package continuation. |
+| 168 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p11, Final report Crime 574/2024 / C.C.1055/2024 - p.11; police final-report package continuation. |
+| 169 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p12, Final report Crime 574/2024 / C.C.1055/2024 - p.12; police final-report package continuation. |
+| 170 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p13, Final report Crime 574/2024 / C.C.1055/2024 - p.13; police final-report package continuation. |
+| 171 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p14, Final report Crime 574/2024 / C.C.1055/2024 - p.14; police final-report package continuation. |
+| 172 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p15, Final report Crime 574/2024 / C.C.1055/2024 - p.15; police final-report package continuation. |
+| 173 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p16, Final report Crime 574/2024 / C.C.1055/2024 - p.16; police final-report package continuation. |
+| 174 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p17, Final report Crime 574/2024 / C.C.1055/2024 - p.17; police final-report package continuation. |
+| 175 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p18, Final report Crime 574/2024 / C.C.1055/2024 - p.18; police final-report package continuation. |
+| 176 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p19, Final report Crime 574/2024 / C.C.1055/2024 - p.19; police final-report package continuation. |
+| 177 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p20, Final report Crime 574/2024 / C.C.1055/2024 - p.20; police final-report package continuation. |
+| 178 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p21, Final report Crime 574/2024 / C.C.1055/2024 - p.21; police final-report package continuation. |
+| 179 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p22, Final report Crime 574/2024 / C.C.1055/2024 - p.22; police final-report package continuation. |
+| 180 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p23, Final report Crime 574/2024 / C.C.1055/2024 - p.23; police final-report package continuation. |
+| 181 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p24, Final report Crime 574/2024 / C.C.1055/2024 - p.24; police final-report package continuation. |
+| 182 | 7 November 2024 | FINAL REPORT — Crime No. 574/2024; C.C. No. 1055/2024 | p25, Final report Crime 574/2024 / C.C.1055/2024 - p.25; police final-report package continuation. |
 | 183 | 5 December 2024 | Divider |  |
 | 184 | 5 December 2024 | NOTICE FOR ACCOUNTS — Registered Post ET121086910IN | p1, Third accounts notice (05.12.2024) - original p.1; third written demand for Trust records/accounts. |
-| 185 | 5 December 2024 | NOTICE FOR ACCOUNTS — Registered Post ET121086910IN | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 185 | 5 December 2024 | NOTICE FOR ACCOUNTS — Registered Post ET121086910IN | p2, Notice for accounts 05.12.2024 - p.2; accounts-demand notice continuation. |
 | 186 | 17 December 2024 | Divider |  |
 | 187 | 17 December 2024 | FIR AGAINST ASSAILANTS — F.I.R. No. 0956/2024 | p1, FIR 0956/2024 p.1: registered 17.12.2024 at 20:48; BNS 126(2), 115(2), 118(1), 3(5); occurrence 09.08.2024 10:00-10:05; source shown as Home Ministry Office; complainant Anoop. |
 | 188 | 17 December 2024 | FIR AGAINST ASSAILANTS — F.I.R. No. 0956/2024 | p2, FIR 0956/2024 p.2: complainant/victim particulars for Anoop and Johnson. |
@@ -192,32 +192,32 @@
 | 190 | 17 December 2024 | FIR AGAINST ASSAILANTS — F.I.R. No. 0956/2024 | p4, FIR 0956/2024 p.4: investigation/action fields; IO Nizarudeen E; signatures/digital-authentication details. |
 | 191 | 17 December 2024 | FIR AGAINST ASSAILANTS — F.I.R. No. 0956/2024 | p5, FIR 0956/2024 p.5: station note states Crime 956 registered on CMO portal complaint G2241200251, dated 17.12.2024. |
 | 192 | 4 February 2025 | Divider |  |
-| 193 | 4 February 2025 | MEDICAL RECORDS | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 194 | 4 February 2025 | MEDICAL RECORDS | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 195 | 4 February 2025 | MEDICAL RECORDS | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 196 | 4 February 2025 | MEDICAL RECORDS | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 193 | 4 February 2025 | MEDICAL RECORDS | p1, Medical records 04.02.2025 - original p.1; first page of medical evidence. |
+| 194 | 4 February 2025 | MEDICAL RECORDS | p2, Medical records 04.02.2025 - p.2; medical record continuation. |
+| 195 | 4 February 2025 | MEDICAL RECORDS | p3, Medical records 04.02.2025 - p.3; medical record continuation. |
+| 196 | 4 February 2025 | MEDICAL RECORDS | p4, Medical records 04.02.2025 - p.4; medical record continuation. |
 | 197 | 13 March 2025 | Divider |  |
-| 198 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 199 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 200 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 201 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 202 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 203 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 204 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 205 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 206 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 207 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 208 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 209 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 198 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p1, Written statement in O.S.243/2024 - original p.1; opening page of Plaintiff's defence in Trust's injunction suit. |
+| 199 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p2, Written statement O.S.243/2024 - p.2; written statement continuation. |
+| 200 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p3, Written statement O.S.243/2024 - p.3; written statement continuation. |
+| 201 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p4, Written statement O.S.243/2024 - p.4; written statement continuation. |
+| 202 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p5, Written statement O.S.243/2024 - p.5; written statement continuation. |
+| 203 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p6, Written statement O.S.243/2024 - p.6; written statement continuation. |
+| 204 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p7, Written statement O.S.243/2024 - p.7; written statement continuation. |
+| 205 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p8, Written statement O.S.243/2024 - p.8; written statement continuation. |
+| 206 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p9, Written statement O.S.243/2024 - p.9; written statement continuation. |
+| 207 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p10, Written statement O.S.243/2024 - p.10; written statement continuation. |
+| 208 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p11, Written statement O.S.243/2024 - p.11; written statement continuation. |
+| 209 | 13 March 2025 | WRITTEN STATEMENT — O.S. No. 243/2024 | p12, Written statement O.S.243/2024 - p.12; written statement continuation. |
 | 210 | 5 May 2025 | Divider |  |
-| 211 | 5 May 2025 | MEDICAL RECORDS | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 212 | 5 May 2025 | MEDICAL RECORDS | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 213 | 5 May 2025 | MEDICAL RECORDS | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 214 | 5 May 2025 | MEDICAL RECORDS | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 215 | 5 May 2025 | MEDICAL RECORDS | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 216 | 5 May 2025 | MEDICAL RECORDS | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 217 | 5 May 2025 | MEDICAL RECORDS | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 218 | 5 May 2025 | MEDICAL RECORDS | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 211 | 5 May 2025 | MEDICAL RECORDS | p1, Medical records 05.05.2025 - original p.1; first page of shoulder-surgery records. |
+| 212 | 5 May 2025 | MEDICAL RECORDS | p2, Medical/surgery records 05.05.2025 - p.2; surgery record continuation. |
+| 213 | 5 May 2025 | MEDICAL RECORDS | p3, Medical/surgery records 05.05.2025 - p.3; surgery record continuation. |
+| 214 | 5 May 2025 | MEDICAL RECORDS | p4, Medical/surgery records 05.05.2025 - p.4; surgery record continuation. |
+| 215 | 5 May 2025 | MEDICAL RECORDS | p5, Medical/surgery records 05.05.2025 - p.5; surgery record continuation. |
+| 216 | 5 May 2025 | MEDICAL RECORDS | p6, Medical/surgery records 05.05.2025 - p.6; surgery record continuation. |
+| 217 | 5 May 2025 | MEDICAL RECORDS | p7, Medical/surgery records 05.05.2025 - p.7; surgery record continuation. |
+| 218 | 5 May 2025 | MEDICAL RECORDS | p8, Medical/surgery records 05.05.2025 - p.8; surgery record continuation. |
 | 219 | 12 June 2025 | Divider |  |
 | 220 | 12 June 2025 | PLAINT & AFFIDAVIT — O.S. No. 214/2025 | p1, cause title; Plaintiff/POA and D1-D4 particulars — Trust, Ramesh Chandran, Sivadasan and Jiji Ramesh. |
 | 221 | 12 June 2025 | PLAINT & AFFIDAVIT — O.S. No. 214/2025 | p2, D5-D7 particulars and service addresses; para 1 begins — Trust Deed 2/IV/2007, beneficiary class as Chellamma's descendants, Plaintiff's descent and defendants' prior acknowledgments. |
@@ -239,14 +239,14 @@
 | 237 | 12 June 2025 | PLAINT & AFFIDAVIT — O.S. No. 214/2025 | p18, List of Documents items 8-11 — O.S.84 plaint; three account/deed requests; immigration exit stamp; Plaintiff's birth certificate; counsel/date. |
 | 238 | 1 July 2025 | Divider |  |
 | 239 | 1 July 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p1, High Court Crl.M.C.5800/2025 (01.07.2025) - order p.1/cause-title material in OCR-corrupted copy. |
-| 240 | 1 July 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 240 | 1 July 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p2, High Court Crl.M.C.5800/2025 (01.07.2025) - concluding/second page of order. |
 | 241 | 23 July 2025 | Divider |  |
 | 242 | 23 July 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p1, High Court Crl.M.C.5800/2025 (23.07.2025) - order p.1/cause-title material in OCR-corrupted copy. |
-| 243 | 23 July 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 243 | 23 July 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p2, High Court Crl.M.C.5800/2025 (23.07.2025) - second/concluding page. |
 | 244 | 23 July 2025 | Divider |  |
-| 245 | 23 July 2025 | SIVADASAN'S THREAT | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 246 | 23 July 2025 | SIVADASAN'S THREAT | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 247 | 23 July 2025 | SIVADASAN'S THREAT | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 245 | 23 July 2025 | SIVADASAN'S THREAT | p1, Sivadasan's threat - original p.1; first page of communication/evidence dated 23.07.2025. |
+| 246 | 23 July 2025 | SIVADASAN'S THREAT | p2, Sivadasan threat - p.2; communication/evidence continuation. |
+| 247 | 23 July 2025 | SIVADASAN'S THREAT | p3, Sivadasan threat - p.3; communication/evidence continuation. |
 | 248 | 29 July 2025 | Divider |  |
 | 249 | 29 July 2025 | INTERLOCUTORY APPLICATION — I.A. No. 2/2025 in O.S. No. 214/2025 | p1, e-filing docket for IA 2/2025 — application for direction to produce documents in O.S.214/2025; parties listed. |
 | 250 | 29 July 2025 | INTERLOCUTORY APPLICATION — I.A. No. 2/2025 in O.S. No. 214/2025 | p2, index — identifies the six-page production application. |
@@ -257,8 +257,8 @@
 | 255 | 29 July 2025 | INTERLOCUTORY APPLICATION — I.A. No. 2/2025 in O.S. No. 214/2025 | p7, petition party particulars — D3-D7; substantive prayer begins directing D1-D2 to produce deeds and Trust records. |
 | 256 | 29 July 2025 | INTERLOCUTORY APPLICATION — I.A. No. 2/2025 in O.S. No. 214/2025 | p8, prayer — Deed 2/IV/2007, Amendments 66/IV/2022 & 17/IV/2024, and complete financial statements/ledgers/audits/accounts for 2007-2024. |
 | 257 | 2 August 2025 | Divider |  |
-| 258 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 259 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 258 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p1, Forest DFO complaint - original p.1; opening page of complaint concerning missing wildlife heirlooms. |
+| 259 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p2, Forest DFO complaint - original p.2; continuation of complaint. |
 | 260 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p3, Forest complaint Annexure 1 divider/heading. |
 | 261 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p4, Forest complaint Annexure 1: 'ALUMMOOTTIL MEDA 1ST FLOOR - 1906-2023' plan marking locations of missing bison skull and pair of deer antlers. |
 | 262 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p5, Forest complaint Annexure 2 divider/heading. |
@@ -268,20 +268,20 @@
 | 266 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p9, Forest complaint Annexure 4 divider/heading. |
 | 267 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p10, Forest complaint Annexure 4 material. |
 | 268 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p11, Forest complaint Annexure 5 divider/heading. |
-| 269 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 270 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 271 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 272 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 273 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p16, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 274 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p17, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 269 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p12, Forest complaint Annexure 5 - p.12; annexure material continuation. |
+| 270 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p13, Forest complaint Annexure 5 - p.13; annexure material continuation. |
+| 271 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p14, Forest complaint Annexure 5 - p.14; annexure material continuation. |
+| 272 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p15, Forest complaint Annexure 5 - p.15; annexure material continuation. |
+| 273 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p16, Forest complaint Annexure 5 - p.16; annexure material continuation. |
+| 274 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p17, Forest complaint Annexure 5 - p.17; annexure material continuation. |
 | 275 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p18, Forest complaint Annexure 6 divider/heading. |
-| 276 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p19, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 277 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p20, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 278 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p21, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 276 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p19, Forest complaint Annexure 6 - p.19; annexure material continuation. |
+| 277 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p20, Forest complaint Annexure 6 - p.20; annexure material continuation. |
+| 278 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p21, Forest complaint Annexure 6 - p.21; annexure material continuation. |
 | 279 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p22, Forest complaint Annexure 7 divider/heading. |
-| 280 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p23, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 280 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p23, Forest complaint Annexure 7 - p.23; annexure material continuation. |
 | 281 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p24, Forest complaint Annexure 8 divider/heading. |
-| 282 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p25, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 282 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p25, Forest complaint Annexure 8 - p.25; annexure material continuation. |
 | 283 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p26, Forest complaint Annexure 9 divider/heading. |
 | 284 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p27, Forest-complaint annexure - FIR 0956/2024 p.1: FIR registration/header. |
 | 285 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p28, Forest-complaint annexure - FIR 0956/2024 p.2: complainant/victim particulars. |
@@ -289,17 +289,17 @@
 | 287 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p30, Forest-complaint annexure - FIR 0956/2024 p.4: IO/action and authentication fields. |
 | 288 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p31, Forest-complaint annexure - FIR 0956/2024 p.5: station note based on CMO complaint. |
 | 289 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p32, Forest-complaint annexure - FIR 0956/2024 p.6/helpline/administrative page. |
-| 290 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p33, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 290 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p33, Forest complaint annexure - p.33; annexure material continuation. |
 | 291 | 27 August 2025 | Forest complaint - annexure: W.P.(C) 31247/2025 | p34, Forest-complaint annexure - W.P.(C)31247/2025 judgment p.1: High Court cause title/parties. |
 | 292 | 27 August 2025 | Forest complaint - annexure: W.P.(C) 31247/2025 | p35, Forest-complaint annexure - W.P.(C)31247/2025 judgment p.2: certified-copy applications not acted on; Government Pleader says direct approach can secure copies. |
 | 293 | 27 August 2025 | Forest complaint - annexure: W.P.(C) 31247/2025 | p36, Forest-complaint annexure - W.P.(C)31247/2025 judgment p.3: directs SRO to treat online application as valid and issue certified copies within two weeks. |
 | 294 | 27 August 2025 | Forest complaint - annexure: W.P.(C) 31247/2025 | p37, Forest-complaint annexure - W.P.(C)31247/2025 appendix: Exhibits P1-P7. |
-| 295 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p38, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 295 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p38, Forest complaint annexure - p.38; annexure divider/material continuation. |
 | 296 | 15 January 2026 | Forest complaint - annexure: O.P.(C) 3278/2025 | p39, Forest-complaint annexure - O.P.(C)3278/2025 p.1: High Court cause title/parties. |
 | 297 | 15 January 2026 | Forest complaint - annexure: O.P.(C) 3278/2025 | p40, Forest-complaint annexure - O.P.(C)3278/2025 p.2: remaining respondents/cause-title material. |
 | 298 | 15 January 2026 | Forest complaint - annexure: O.P.(C) 3278/2025 | p41, Forest-complaint annexure - O.P.(C)3278/2025 judgment: directs disposal of I.A.2, 5 & 9/2025 within three months. |
 | 299 | 15 January 2026 | Forest complaint - annexure: O.P.(C) 3278/2025 | p42, Forest-complaint annexure - O.P.(C)3278/2025 appendix: exhibits supporting time-bound-disposal petition. |
-| 300 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p43, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 300 | 2 August 2025 | COMPLAINT TO FOREST DFO — Complaint Ref. G2250700075 | p43, Forest complaint annexure - p.43; annexure divider/material continuation. |
 | 301 | 14 July 2026 | Forest complaint compilation - annexure: O.P.(C) 1864/2026 | p44, Forest-complaint compilation annexure - O.P.(C)1864/2026 p.1: High Court cause title/parties. |
 | 302 | 14 July 2026 | Forest complaint compilation - annexure: O.P.(C) 1864/2026 | p45, Forest-complaint compilation annexure - O.P.(C)1864/2026 p.2: remaining respondents/cause-title material. |
 | 303 | 14 July 2026 | Forest complaint compilation - annexure: O.P.(C) 1864/2026 | p46, Forest-complaint compilation annexure - O.P.(C)1864/2026 p.3: relief seeks expeditious merits disposal of I.A.6/2026 and consideration of prior pleadings/disclosures. |
@@ -314,39 +314,39 @@
 | 312 | 27 August 2025 | ORDER OF HIGH COURT — W.P.(C) No. 31247/2025 | p4, W.P.(C)31247/2025 p.4: appendix listing Exhibits P1-P7. |
 | 313 | 15 September 2025 | Divider |  |
 | 314 | 15 September 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p1, Crl.M.C.5800/2025 order dated 15.09.2025 - first/order page; OCR corrupted but identifies the proceeding/parties. |
-| 315 | 15 September 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 315 | 15 September 2025 | ORDER OF HIGH COURT — Crl.M.C. No. 5800/2025 | p2, Crl.M.C.5800/2025 order dated 15.09.2025 - concluding page. |
 | 316 | 29 September 2025 | Divider |  |
-| 317 | 29 September 2025 | TRUST DEED (CERTIFIED COPY) — Deed No. 2/IV/2007 | p1, certified copy of founding Trust Deed 2/IV/2007: opening recitals/constitution of Alummoottil Tharavad Trust and party/settlor particulars. |
+| 317 | 29 September 2025 | TRUST DEED (CERTIFIED COPY) — Deed No. 2/IV/2007 | p1, registered-instrument opening page. |
 | 318 | 29 September 2025 | TRUST DEED (CERTIFIED COPY) — Deed No. 2/IV/2007 | p2, clause 4 records Radhakrishnan as Chellamma's fourth son and Second Trustee. |
 | 319 | 29 September 2025 | TRUST DEED (CERTIFIED COPY) — Deed No. 2/IV/2007 | p3, paragraph 5 defines beneficiaries as descendants of Alummoottil Chellamma Channatty. |
 | 320 | 29 September 2025 | TRUST DEED (CERTIFIED COPY) — Deed No. 2/IV/2007 | p4, concluding operative/execution/registration material. |
 | 321 | 29 September 2025 | Divider |  |
-| 322 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 323 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 324 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 325 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 326 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 327 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 328 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 329 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 330 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 331 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 332 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 333 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 334 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 335 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 336 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 337 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p16, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 338 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p17, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 339 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p18, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 340 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p19, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 341 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p20, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 342 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p21, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 343 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p22, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 344 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p23, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 345 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p24, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 346 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p25, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 347 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p26, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 322 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p1, Second Amendment Deed 17/IV/2024 - certified-copy p.1; opening page of amendment instrument. |
+| 323 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p2, Second Amendment Deed 17/IV/2024 - p.2; certified amendment deed continuation. |
+| 324 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p3, Second Amendment Deed 17/IV/2024 - p.3; certified amendment deed continuation. |
+| 325 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p4, Second Amendment Deed 17/IV/2024 - p.4; certified amendment deed continuation. |
+| 326 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p5, Second Amendment Deed 17/IV/2024 - p.5; certified amendment deed continuation. |
+| 327 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p6, Second Amendment Deed 17/IV/2024 - p.6; certified amendment deed continuation. |
+| 328 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p7, Second Amendment Deed 17/IV/2024 - p.7; certified amendment deed continuation. |
+| 329 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p8, Second Amendment Deed 17/IV/2024 - p.8; certified amendment deed continuation. |
+| 330 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p9, Second Amendment Deed 17/IV/2024 - p.9; certified amendment deed continuation. |
+| 331 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p10, Second Amendment Deed 17/IV/2024 - p.10; certified amendment deed continuation. |
+| 332 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p11, Second Amendment Deed 17/IV/2024 - p.11; certified amendment deed continuation. |
+| 333 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p12, Second Amendment Deed 17/IV/2024 - p.12; certified amendment deed continuation. |
+| 334 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p13, Second Amendment Deed 17/IV/2024 - p.13; certified amendment deed continuation. |
+| 335 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p14, Second Amendment Deed 17/IV/2024 - p.14; certified amendment deed continuation. |
+| 336 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p15, Second Amendment Deed 17/IV/2024 - p.15; certified amendment deed continuation. |
+| 337 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p16, Second Amendment Deed 17/IV/2024 - p.16; certified amendment deed continuation. |
+| 338 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p17, Second Amendment Deed 17/IV/2024 - p.17; certified amendment deed continuation. |
+| 339 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p18, Second Amendment Deed 17/IV/2024 - p.18; certified amendment deed continuation. |
+| 340 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p19, Second Amendment Deed 17/IV/2024 - p.19; certified amendment deed continuation. |
+| 341 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p20, Second Amendment Deed 17/IV/2024 - p.20; certified amendment deed continuation. |
+| 342 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p21, Second Amendment Deed 17/IV/2024 - p.21; certified amendment deed continuation. |
+| 343 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p22, Second Amendment Deed 17/IV/2024 - p.22; certified amendment deed continuation. |
+| 344 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p23, Second Amendment Deed 17/IV/2024 - p.23; certified amendment deed continuation. |
+| 345 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p24, Second Amendment Deed 17/IV/2024 - p.24; certified amendment deed continuation. |
+| 346 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p25, Second Amendment Deed 17/IV/2024 - p.25; certified amendment deed continuation. |
+| 347 | 29 September 2025 | SECOND AMENDMENT DEED (CERTIFIED COPY) — Deed No. 17/IV/2024 | p26, Second Amendment Deed 17/IV/2024 - p.26; certified amendment deed continuation. |
 | 348 | 9 October 2025 | Divider |  |
 | 349 | 9 October 2025 | INTERLOCUTORY APPLICATION — I.A. No. 3/2025 in O.S. No. 214/2025 | p1, e-filing docket for IA 3/2025, presented 09.10.2025; application to determine beneficiary/amendment issues and interim restraint. |
 | 350 | 9 October 2025 | INTERLOCUTORY APPLICATION — I.A. No. 3/2025 in O.S. No. 214/2025 | p2, index — six-page application. |
@@ -448,36 +448,36 @@
 | 446 | 27 October 2025 | LEASE DEED — Deed No. 3237/I/2025 | p17, execution page — signatures of Ramesh for Trust and Dileep for Lessee; witnesses Vipin Gopi and Dhaneesh A.K.; deed prepared by Adv. Aubrey Abraham Isaac; corrections/interlineations nil. |
 | 447 | 27 October 2025 | LEASE DEED — Deed No. 3237/I/2025 | p18, final registration endorsement — duplicate compared with original; registration/Book-sheet authentication by Sub-Registrar. |
 | 448 | 27 October 2025 | Divider |  |
-| 449 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 450 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 451 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 452 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 453 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 454 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 455 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 456 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 457 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 458 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 449 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p1, First Amendment Deed 66/IV/2022 - certified copy p.1; opening page of amendment. |
+| 450 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p2, First Amendment Deed 66/IV/2022 - p.2; certified amendment deed continuation. |
+| 451 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p3, First Amendment Deed 66/IV/2022 - p.3; certified amendment deed continuation. |
+| 452 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p4, First Amendment Deed 66/IV/2022 - p.4; certified amendment deed continuation. |
+| 453 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p5, First Amendment Deed 66/IV/2022 - p.5; certified amendment deed continuation. |
+| 454 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p6, First Amendment Deed 66/IV/2022 - p.6; certified amendment deed continuation. |
+| 455 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p7, First Amendment Deed 66/IV/2022 - p.7; certified amendment deed continuation. |
+| 456 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p8, First Amendment Deed 66/IV/2022 - p.8; certified amendment deed continuation. |
+| 457 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p9, First Amendment Deed 66/IV/2022 - p.9; certified amendment deed continuation. |
+| 458 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p10, First Amendment Deed 66/IV/2022 - p.10; certified amendment deed continuation. |
 | 459 | 27 October 2025 | FIRST AMENDMENT DEED (CERTIFIED COPY) — Deed No. 66/IV/2022 | p11, First Amendment Deed 66/IV/2022 - certified copy p.11; concluding execution/registration material. |
 | 460 | 10 November 2025 | Divider |  |
 | 461 | 10 November 2025 | DISCHARGE PETITION — Crl.M.P. of 2025 in C.C. No. 1055/2024 | p1, Discharge petition in C.C.1055/2024 - original p.1; opening/cause-title page. |
-| 462 | 10 November 2025 | DISCHARGE PETITION — Crl.M.P. of 2025 in C.C. No. 1055/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 463 | 10 November 2025 | DISCHARGE PETITION — Crl.M.P. of 2025 in C.C. No. 1055/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 462 | 10 November 2025 | DISCHARGE PETITION — Crl.M.P. of 2025 in C.C. No. 1055/2024 | p2, Discharge petition C.C.1055/2024 - p.2; discharge petition continuation. |
+| 463 | 10 November 2025 | DISCHARGE PETITION — Crl.M.P. of 2025 in C.C. No. 1055/2024 | p3, Discharge petition C.C.1055/2024 - p.3; discharge petition continuation. |
 | 464 | 11 November 2025 | Divider |  |
-| 465 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p1, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 466 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 467 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 468 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 469 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 470 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 471 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 472 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 473 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 474 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 475 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 476 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 477 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 478 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 465 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p1, I.A.11/2025 in O.S.243/2024 - original p.1; opening page of application; subsequent pages include annexed High Court judgment W.P.(C)31247/2025. |
+| 466 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p2, I.A.11/2025 O.S.243/2024 - p.2; application/annexure compilation continuation. |
+| 467 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p3, I.A.11/2025 O.S.243/2024 - p.3; application/annexure compilation continuation. |
+| 468 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p4, I.A.11/2025 O.S.243/2024 - p.4; application/annexure compilation continuation. |
+| 469 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p5, I.A.11/2025 O.S.243/2024 - p.5; application/annexure compilation continuation. |
+| 470 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p6, I.A.11/2025 O.S.243/2024 - p.6; application/annexure compilation continuation. |
+| 471 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p7, I.A.11/2025 O.S.243/2024 - p.7; application/annexure compilation continuation. |
+| 472 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p8, I.A.11/2025 O.S.243/2024 - p.8; application/annexure compilation continuation. |
+| 473 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p9, I.A.11/2025 O.S.243/2024 - p.9; application/annexure compilation continuation. |
+| 474 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p10, I.A.11/2025 O.S.243/2024 - p.10; application/annexure compilation continuation. |
+| 475 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p11, I.A.11/2025 O.S.243/2024 - p.11; application/annexure compilation continuation. |
+| 476 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p12, I.A.11/2025 O.S.243/2024 - p.12; application/annexure compilation continuation. |
+| 477 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p13, I.A.11/2025 O.S.243/2024 - p.13; application/annexure compilation continuation. |
+| 478 | 11 November 2025 | INTERLOCUTORY APPLICATION — I.A. No. 11/2025 in O.S. No. 243/2024 | p14, I.A.11/2025 O.S.243/2024 - p.14; application/annexure compilation continuation. |
 | 479 | 27 August 2025 | I.A.11/2025 annexure - W.P.(C) 31247/2025 | p15, I.A.11/2025 annexure - W.P.(C)31247/2025 judgment p.1/cause-title tail; High Court proceeding dated 27.08.2025. |
 | 480 | 27 August 2025 | I.A.11/2025 annexure - W.P.(C) 31247/2025 | p16, I.A.11/2025 annexure - W.P.(C)31247/2025 judgment p.2: certified-copy requests not issued; Government Pleader says copies can issue on direct approach. |
 | 481 | 27 August 2025 | I.A.11/2025 annexure - W.P.(C) 31247/2025 | p17, I.A.11/2025 annexure - W.P.(C)31247/2025 judgment p.3: directs SRO to treat online application as valid and issue copies within two weeks. |
@@ -485,18 +485,18 @@
 | 483 | 11 November 2025 | I.A.11/2025 annexure - certified-copy endorsement | p19, I.A.11/2025 annexure - certified-copy/application endorsement for W.P.(C)31247/2025, showing copy application/delivery dated 11.11.2025. |
 | 484 | 15 November 2025 | Divider |  |
 | 485 | 15 November 2025 | RTI REQUEST TO POLICE | p1, RTI request to police - original p.1: application under RTI Act s.6(1) for records relating to 2024 crimes. |
-| 486 | 15 November 2025 | RTI REQUEST TO POLICE | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 486 | 15 November 2025 | RTI REQUEST TO POLICE | p2, RTI request to police - p.2; RTI application continuation. |
 | 487 | 18 November 2025 | Divider |  |
 | 488 | 18 November 2025 | REPLY FROM FOREST DFO — KFDDO/39743/2025-DFORANNI/A1 | p1, Forest DFO reply: KFDDO/39743/2025-DFORANNI/A1; inquiry reportedly found no evidence and invites complainant to furnish proof. |
 | 489 | 24 November 2025 | Divider |  |
 | 490 | 24 November 2025 | NOC ISSUED TO LESSEE — Building No. 2/242, Muttom | p1, NOC issued by Managing Trustee to lessee for Building No.2/242, Muttom; original NOC scan. |
 | 491 | 3 December 2025 | Divider |  |
 | 492 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p1, Munsiff order 03.12.2025 in I.A.1/2024, O.S.243/2024 - order p.1. |
-| 493 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 494 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 495 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 496 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 497 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 493 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p2, Munsiff order 03.12.2025 - p.2; court order scan continuation. |
+| 494 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p3, Munsiff order 03.12.2025 - p.3; court order scan continuation. |
+| 495 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p4, Munsiff order 03.12.2025 - p.4; court order scan continuation. |
+| 496 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p5, Munsiff order 03.12.2025 - p.5; court order scan continuation. |
+| 497 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p6, Munsiff order 03.12.2025 - p.6; court order scan continuation. |
 | 498 | 3 December 2025 | ORDER OF MUNSIFF COURT — I.A. No. 1/2024 in O.S. No. 243/2024 | p7, Munsiff order 03.12.2025 - final/order p.7; concluding material of order disposing Trust's interim injunction application. |
 | 499 | 9 December 2025 | Divider |  |
 | 500 | 9 December 2025 | GST REGISTRATION OF LESSEE — GSTIN: 32ABQCS9416G1Z1 | p1, GST search result p.1: Sreemoolavasam GSTIN 32ABQCS9416G1Z1; effective registration 09.12.2025; active regular taxpayer; principal place 2/242 Alummoottil, Muttom; service-provider business. |
@@ -512,13 +512,13 @@
 | 510 | 11 December 2025 | INTERLOCUTORY APPLICATION — I.A. No. 1/2026 in O.S. No. 214/2025 | p8, party particulars — D3-D7. |
 | 511 | 15 December 2025 | Divider |  |
 | 512 | 15 December 2025 | RTI REPLY FROM POLICE — No. 89/RTI/2025/G2 | p1, Police RTI reply No.89/RTI/2025/G2 - original p.1; reply to 15.11.2025 request. |
-| 513 | 15 December 2025 | RTI REPLY FROM POLICE — No. 89/RTI/2025/G2 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 514 | 15 December 2025 | RTI REPLY FROM POLICE — No. 89/RTI/2025/G2 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 513 | 15 December 2025 | RTI REPLY FROM POLICE — No. 89/RTI/2025/G2 | p2, Police RTI reply 89/RTI/2025/G2 - p.2; RTI reply/enclosures continuation. |
+| 514 | 15 December 2025 | RTI REPLY FROM POLICE — No. 89/RTI/2025/G2 | p3, Police RTI reply 89/RTI/2025/G2 - p.3; RTI reply/enclosures continuation. |
 | 515 | 15 December 2025 | Divider |  |
 | 516 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p1, CMP 2828/2024 written statement - original p.1; sworn/notarised/Embassy-attested complainant statement. |
-| 517 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 518 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 519 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 517 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p2, CMP 2828/2024 written statement - p.2; sworn statement continuation. |
+| 518 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p3, CMP 2828/2024 written statement - p.3; sworn statement continuation. |
+| 519 | 15 December 2025 | WRITTEN STATEMENT OF COMPLAINANT — CMP No. 2828/2024 | p4, CMP 2828/2024 written statement - p.4; sworn statement continuation. |
 | 520 | 15 January 2026 | Divider |  |
 | 521 | 15 January 2026 | ORDER OF HIGH COURT — O.P.(C) No. 3278/2025 | p1, O.P.(C)3278/2025 p.1: High Court cause title, petitioner/POA and respondents begin. |
 | 522 | 15 January 2026 | ORDER OF HIGH COURT — O.P.(C) No. 3278/2025 | p2, O.P.(C)3278/2025 p.2: respondents 2-7 and hearing notation. |
@@ -587,41 +587,41 @@
 | 585 | 4 February 2026 | INTERLOCUTORY APPLICATION — I.A. No. 2/2026 in O.S. No. 214/2025 | p9/prayer — condone delay and permit substituted service/necessary steps on D3; further orders; dated 03.02.2026. |
 | 586 | 5 February 2026 | Divider |  |
 | 587 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p1, RTI reply No.05/RTI/2026-G2 - original p.1; reply package begins, enclosing FIRs/duty-register extracts/witness statements. |
-| 588 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 589 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 590 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 591 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p5, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 592 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p6, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 593 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p7, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 594 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p8, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 595 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p9, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 596 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p10, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 597 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p11, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 598 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p12, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 599 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p13, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 600 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p14, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 601 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p15, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 602 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p16, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 603 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p17, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 604 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p18, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 605 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p19, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 606 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p20, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 607 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p21, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 608 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p22, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 609 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p23, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 610 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p24, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 611 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p25, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 612 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p26, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 613 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p27, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 614 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p28, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 615 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p29, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 616 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p30, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 617 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p31, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 618 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p32, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 619 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p33, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 620 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p34, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 621 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p35, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 622 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p36, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 588 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p2, Police RTI reply 05/RTI/2026-G2 - p.2; RTI enclosure package continuation. |
+| 589 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p3, Police RTI reply 05/RTI/2026-G2 - p.3; RTI enclosure package continuation. |
+| 590 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p4, Police RTI reply 05/RTI/2026-G2 - p.4; RTI enclosure package continuation. |
+| 591 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p5, Police RTI reply 05/RTI/2026-G2 - p.5; RTI enclosure package continuation. |
+| 592 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p6, Police RTI reply 05/RTI/2026-G2 - p.6; RTI enclosure package continuation. |
+| 593 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p7, Police RTI reply 05/RTI/2026-G2 - p.7; RTI enclosure package continuation. |
+| 594 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p8, Police RTI reply 05/RTI/2026-G2 - p.8; RTI enclosure package continuation. |
+| 595 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p9, Police RTI reply 05/RTI/2026-G2 - p.9; RTI enclosure package continuation. |
+| 596 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p10, Police RTI reply 05/RTI/2026-G2 - p.10; RTI enclosure package continuation. |
+| 597 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p11, Police RTI reply 05/RTI/2026-G2 - p.11; RTI enclosure package continuation. |
+| 598 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p12, Police RTI reply 05/RTI/2026-G2 - p.12; RTI enclosure package continuation. |
+| 599 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p13, Police RTI reply 05/RTI/2026-G2 - p.13; RTI enclosure package continuation. |
+| 600 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p14, Police RTI reply 05/RTI/2026-G2 - p.14; RTI enclosure package continuation. |
+| 601 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p15, Police RTI reply 05/RTI/2026-G2 - p.15; RTI enclosure package continuation. |
+| 602 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p16, Police RTI reply 05/RTI/2026-G2 - p.16; RTI enclosure package continuation. |
+| 603 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p17, Police RTI reply 05/RTI/2026-G2 - p.17; RTI enclosure package continuation. |
+| 604 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p18, Police RTI reply 05/RTI/2026-G2 - p.18; RTI enclosure package continuation. |
+| 605 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p19, Police RTI reply 05/RTI/2026-G2 - p.19; RTI enclosure package continuation. |
+| 606 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p20, Police RTI reply 05/RTI/2026-G2 - p.20; RTI enclosure package continuation. |
+| 607 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p21, Police RTI reply 05/RTI/2026-G2 - p.21; RTI enclosure package continuation. |
+| 608 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p22, Police RTI reply 05/RTI/2026-G2 - p.22; RTI enclosure package continuation. |
+| 609 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p23, Police RTI reply 05/RTI/2026-G2 - p.23; RTI enclosure package continuation. |
+| 610 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p24, Police RTI reply 05/RTI/2026-G2 - p.24; RTI enclosure package continuation. |
+| 611 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p25, Police RTI reply 05/RTI/2026-G2 - p.25; RTI enclosure package continuation. |
+| 612 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p26, Police RTI reply 05/RTI/2026-G2 - p.26; RTI enclosure package continuation. |
+| 613 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p27, Police RTI reply 05/RTI/2026-G2 - p.27; RTI enclosure package continuation. |
+| 614 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p28, Police RTI reply 05/RTI/2026-G2 - p.28; RTI enclosure package continuation. |
+| 615 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p29, Police RTI reply 05/RTI/2026-G2 - p.29; RTI enclosure package continuation. |
+| 616 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p30, Police RTI reply 05/RTI/2026-G2 - p.30; RTI enclosure package continuation. |
+| 617 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p31, Police RTI reply 05/RTI/2026-G2 - p.31; RTI enclosure package continuation. |
+| 618 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p32, Police RTI reply 05/RTI/2026-G2 - p.32; RTI enclosure package continuation. |
+| 619 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p33, Police RTI reply 05/RTI/2026-G2 - p.33; RTI enclosure package continuation. |
+| 620 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p34, Police RTI reply 05/RTI/2026-G2 - p.34; RTI enclosure package continuation. |
+| 621 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p35, Police RTI reply 05/RTI/2026-G2 - p.35; RTI enclosure package continuation. |
+| 622 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p36, Police RTI reply 05/RTI/2026-G2 - p.36; RTI enclosure package continuation. |
 | 623 | 5 February 2026 | RTI REPLY FROM POLICE — No. 05/RTI/2026-G2 | p37, RTI reply No.05/RTI/2026-G2 - original p.37; final page of enclosure package. |
 | 624 | 16 February 2026 | Divider |  |
 | 625 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | p1, defendants' filing/production schedule introducing the joint counter-affidavits and supporting documents produced on 16.02.2026. |
@@ -632,8 +632,8 @@
 | 630 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | p6, D1/D2 counter in I.A.9/2025 p.1, paras 1-7: denies bison skull/deer antlers ever existed or were entrusted; says Sivadasan renovated with own funds; refers to Forest DFO letter; denies beneficiary status. |
 | 631 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | p7, D1/D2 counter in I.A.9/2025 p.2, paras 8-10: articles demanded are 'not available for production'; oath says nothing material concealed. |
 | 632 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p1, document-production list/schedule — enumerates Trust deed/amendments, resolutions, Federal Bank material and Forest DFO correspondence placed with D1/D2 counters. |
-| 633 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p2, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 634 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 633 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p2, Federal Bank passbook/account-opening page — Alummoottil Tharavad Trust current account 13100200004482, Muttom branch; joint operation/signatory particulars; opening 28.05.2025 shown. |
+| 634 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p3, Federal Bank passbook/transaction or continuation page associated with Trust account 13100200004482. |
 | 635 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p4, extract of 12.02.2020 Trust resolution — Ramesh authorised to amend deed; Sivadasan allowed personal-fund renovation with no expenditure-account obligation; contractor/architect selection; property settlement authority. |
 | 636 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p5, extract of 10.11.2022 resolution — C.K. Gita replaces Ravindran; Trust office at Alummoottil House; Nalukettu/Meda to be transferred to Trust; trustee signatures. |
 | 637 | 16 February 2026 | COUNTER AFFIDAVITS BY D1/D2 — I.A. Nos. 2, 5 & 9 of 2025 in O.S. No. 214/2025 | supporting record p6, extract of 22.12.2023 resolution — asserts five trustees/authors as owners; one nominated beneficiary per trustee; one vote each; only one successor trustee per branch; cross-branch nomination and majority rules; Ramesh three-year Managing-Trustee term. |
@@ -652,8 +652,8 @@
 | 650 | 4 March 2026 | Divider |  |
 | 651 | 4 March 2026 | ORDER OF MUNSIFF COURT — I.A. No. 5/2025 in O.S. No. 214/2025 | p1, Munsiff order 04.03.2026 in I.A.5/2025 p.1: cause title/parties and appearances; order package identifies production/rendition-of-accounts application. |
 | 652 | 4 March 2026 | ORDER OF MUNSIFF COURT — I.A. No. 5/2025 in O.S. No. 214/2025 | p2, Munsiff order 04.03.2026 p.2: records R2 filed affidavit; 'Heard both sides. Petition closed in light of the affidavit'; signed by Munsiff; appendix nil. |
-| 653 | 4 March 2026 | ORDER OF MUNSIFF COURT — I.A. No. 5/2025 in O.S. No. 214/2025 | p3, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
-| 654 | 4 March 2026 | ORDER OF MUNSIFF COURT — I.A. No. 5/2025 in O.S. No. 214/2025 | p4, NEEDS PAGE READ — exact page-specific contents not yet verified; prior generic filler removed. |
+| 653 | 4 March 2026 | ORDER OF MUNSIFF COURT — I.A. No. 5/2025 in O.S. No. 214/2025 | p3, Munsiff order 04.03.2026 - photographed/order-copy continuation p.3. |
+| 654 | 4 March 2026 | ORDER OF MUNSIFF COURT — I.A. No. 5/2025 in O.S. No. 214/2025 | p4, Munsiff order 04.03.2026 - photographed/order-copy continuation p.4. |
 | 655 | 4 March 2026 | Divider |  |
 | 656 | 4 March 2026 | INTERLOCUTORY APPLICATION — I.A. No. 3/2026 in O.S. No. 214/2025 | p1, e-filing docket — IA 3/2026 petition, presented 04.03.2026. |
 | 657 | 4 March 2026 | INTERLOCUTORY APPLICATION — I.A. No. 3/2026 in O.S. No. 214/2025 | p2, index — six-page petition. |
@@ -745,7 +745,7 @@
 | 743 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | p12, INC-22 p.1: CIN/company; purpose change outside local limits; MGT-14 SRN AC2154183; new office effective 08.01.2026 at 2/242 Alummoottil, Cheppad, 690511. |
 | 744 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | p13, INC-22 p.2: coordinates 9.4981/76.3388; attachments include NOC & lease agreement, EGM resolution, electricity bill and office photographs; Director authorised by Resolution 6 dated 24.11.2025; declaration of no suppression. |
 | 745 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | p14, INC-22 p.3: practising-professional certifies records and personal visit confirming registered office functioning for company business; office SRN AC2154358 filed 05.02.2026. |
-| 746 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | INC-22 office-use page: eForm taken on file by Registrar on filing company's statement of correctness; SRN AC2154358; filing date 05/02/2026. |
+| 746 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | INC-22 p4/office-use continuation — Registrar/e-form registration fields following professional certification; part of filing establishing registered-office change to 2/242 Alummoottil. |
 | 747 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | p16, INC-22 filing acknowledgment: ROC file/office-use confirmation; SRN AC2154358, filed 05.02.2026. |
 | 748 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | p17, MCA Exhibit H-7 explanatory page: MCA payment receipt proves provenance of public documents, SRN/receipt UU3400681/1-26670217388 dated 20.07.2026. |
 | 749 | 20 July 2026 | MCA RECORDS OF LESSEE — CIN: U86909KL2025PTC096202 | p18, MCA receipt: SRN UU3400681/1-26670217388; ₹100 paid for View Public Documents for Sreemoolavasam (CIN U86909KL2025PTC096202). |
