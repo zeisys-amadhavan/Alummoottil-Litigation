@@ -1,0 +1,41 @@
+District (ele) : ALAPPUZHA
+P.S (പോലീസ്‌ സ്റ്റേഷന്‍) : KAREELAKULANGARA
+FIR No (പ്രഥമ വിവര നമ്പര്‍) : 0574 / 2024
+(൭). Age & Date of Birth (വയസ്സ്‌ & ജനനതീയതി) : 29,1995
+(d). Nationality (പൌരത്വം) : INDIA
+(൭). UID ഠ.(ആധാര്‍ നമ്പര്‍) :
+(f ). Passport പഠ. (പാസ്സ്പോര്‍ട്ട്‌ നമ്പര്‍) :
+Date of Issue (നല്‍കിയ തീയതി) :
+Place of Issue (നല്‍കിയ സ്ഥലം) :
+(g). ID details (Ration Card, Voter ID Card, Aadhar, Driving License, PAN) (തിരിച്ചറിയല്‍ രേഖകളുടെ
+വിശദാംശങ്ങള്‍ റേഷന്‍കാര്‍ഡ്‌, വോട്ടര്‍ ഐഡി കാര്‍ഡ്‌, ആധാര്‍, ഡ്രൈവിംഗ്‌ ലൈസന്‍സ്‌, പാന്‍)
+SI പഠ. Id Type Id Number
+(ക്രമ നമ്പര്‍) (തിരിച്ചറിയല്‍ രേഖ) (തിരിച്ചറിയല്‍ രേഖ നമ്പര്‍)
+(൪). Occupation (തൊഴില്‍) :
+(i). Address (മേല്‍വിലാസം)
+SI No. Address Type Address
+(ക്രമ നമ്പര്‍) (മേല്‍വിലാസത്തിന്റെ തരം) (മേല്‍വിലാസം)
+Permanent Address KOLATH, KARIMBALLOOR, PARIPPALLY,
+(സ്ഥിരമായ മേല്‍വിലാസം) KOLLAM CITY, KERALA, INDIA
+Present Address KOLATH, KARIMBALLOOR, PARIPPALLY,
+(നിലവിലെ മേല്‍വിലാസം) KOLLAM CITY, KERALA, INDIA
+(j ). Land Phone Number (ഫോണ്‍ നമ്പര്‍) :
+Mobile Number (മൊബൈല്‍ നമ്പര്‍) : 8606262356
+(2).Victim / Missing / Deceased details (ഇര / കാണാതായ / മരണപ്പെട്ട ആളിന്റെ വിവരം)
+SI No. Name Age Sex Relative's Name Address
+(ക്രമ നമ്പര്‍) (പേര്‌ ) (വയസ്സ്‌ ) (ലിംഗം) | (ബന്ധുവിന്റെ പേര) (മേല്‍വിലാസം)
+Permanent:
+1 ARUN BUNNI /29,1995 |MALE FATHER:UNNI | KOLATH,
+KARIMBALLOOR,
+PARIPPALLY,
+KOLLAM CITY,
+KERALA, INDIA
+Present:
+KOLATH,
+KARIMBALLOOR,
+PARIPPALLY,
+KOLLAM CITY,
+KERALA, INDIA
+7. Details of known / Identifiable / Suspected / Unknown accused with full particulars (അറിയാവുന്ന /
+കണ്ടാലറിയാവുന്ന / സംശയിക്കാവുന്ന / അറിയാത്ത കുറ്റവാളികളെ സംബന്ധിച്ച വിശദ വിവരങ്ങള്‍)
+2/5
