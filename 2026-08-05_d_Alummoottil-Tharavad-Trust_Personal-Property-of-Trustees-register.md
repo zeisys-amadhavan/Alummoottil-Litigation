@@ -34,7 +34,7 @@
 
 ## 2. RAMESH CHANDRAN M. (D2) / JIJI RAMESH (D4)
 
-> ➡️ **This section is superseded by the standalone register `2026-08-05_Metadata_Alummoottil_D2-D4-personal-property.md`** (Ramesh Chandran M. & Jiji Ramesh — consolidated holdings, thandappers, land types, mutation status, tax history, deed appearances, boundary recitals). Retained here for continuity; the standalone file is authoritative.
+> ➡️ **This section is superseded by the standalone register `2026-08-05_d_Alummoottil-D2-D4-Ramesh-and-Jiji-personal-property-register.md`** (Ramesh Chandran M. & Jiji Ramesh — consolidated holdings, thandappers, land types, mutation status, tax history, deed appearances, boundary recitals). Retained here for continuity; the standalone file is authoritative.
 
 
 *Personal land lies west & south of the Trust plot, Block 13. Survey numbers now partly obtained from ReLIS (pull 26-07-2024); confirm full set via Encumbrance Certificate (Thandapper 16961).*

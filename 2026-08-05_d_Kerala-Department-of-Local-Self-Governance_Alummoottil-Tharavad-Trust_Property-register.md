@@ -269,8 +269,8 @@ Recorded as fact:
 
 > **Discipline:** this is a change in the revenue register, nothing more, until the mutation file is read. It states who applied and on what instrument — plead from that, not from a tax screen.
 
-*Full parcel data for the whole of survey 219: `2026-08-05_Metadata_Survey-219_MASTER-parcel-register.md` (rewritten 05-08-2026).*
-*Plat: `2026-08-05_OS197-1983_FMB_plat_v54.svg`.*
+*Full parcel data for the whole of survey 219: `2026-08-05_d_Alappuzha-Karthikapally-Cheppad-Muttom-resurvey-219-master-parcel-register.md` (rewritten 05-08-2026).*
+*Plat: `2026-08-05_d_OS-197-1983-FMB-plat-v54.svg`.*
 
 ---
 

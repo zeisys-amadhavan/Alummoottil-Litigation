@@ -76,6 +76,77 @@ Last updated 05-08-2026 · batches 1–9 · plat v54
 
 ---
 
+
+---
+
+## TABLE 1A — CLEAN PARCEL LIST (census view)
+*Derived row-for-row from Table 1 — regenerate after any re-pull; never edit this table directly. Holders as printed on the record; Party column is this register's own tagging. Current as of batch B9, 05-08-2026.*
+
+| Re.Sy. | Holder of record | Ares | Cents | Type | Reg | TP | Party |
+|---|---|---|---|---|---|---|---|
+| 218/1 | (government poramboke) | 2.35 | 5.807 | Purampoku | BTR | — | Govt |
+| 219/1 | Ramakrishnan Channar | 0.01 | 0.025 | Purayidam | BTR | 3415 | — |
+| 219/1-1 | Lisy Reji Varghese | 11.37 | 28.096 | — | — | 12732 | — |
+| 219/1-2 | Lisy Reji Varghese | 7.28 | 17.990 | — | — | 12732 | — |
+| 219/1-3 | NOT PULLED | — | — | — | — | (12732?) | ? |
+| 219/1-4 | Lisy Reji Varghese | 4.86 | 12.010 | — | — | 12732 | — |
+| 219/2 | Anoop John | 4.90 | 12.108 | Purayidam | BTR | 15679 | — |
+| 219/3 | (1) Nanu Rameshan (2) Rameshan Radhamani | 4.08 | 10.082 | Nilam | BTR | 9923 | — |
+| **219/4** | Jiji Ramesh (D4) | 4.87 | 12.034 | Purayidam | BTR | 17093 | **D4** |
+| **219/5** | (1) Saradamani Channatty (2) Ramesh Chandran M. (D2) | 2.05 | 5.066 | Purayidam | BTR | 4784 | **D2 share disputed** |
+| 219/6 | Chinnamma, Sukumaran, Bhargavan, Madhavi, Rohini, Karunakaran, Janaki | 1.90 | 4.695 | Purayidam | BTR | 1633 | — |
+| 219/7 | Raghavan | 2.00 | 4.942 | Purayidam | BTR | 3316 | — |
+| 219/8 | Government Land | 1.65 | 4.077 | Purampoku | BTR | 0 | Govt |
+| 219/9 | Beena Gopinath | 34.28 | 84.709 | Purayidam | BTR | 2686 | — |
+| 219/9-1 | Kochucherukkan Veluthakunju | 2.15 | 5.313 | — | — | 1011 | — |
+| **219/9-2** | SIVADASAN A. MADHAVAN alias ALUMMOOTTIL MADHAVAN SIVADASAN CHANNAR (D1) | 3.05 | 7.537 | — | — | 17245 | **D1** |
+| 219/9-3 | President + Secretary, Alummoottil Kudumba Kshethra Kshema Sabha | 14.57 | 36.004 | — | — | 16111 | Kshema Sabha |
+| **219/10** | ALUMMOOTTIL THARAVAD TRUST | 3.25 | 8.031 | Purayidam | BTR | 17644 | **Trust** |
+| **219/11** | ALUMMOOTTIL THARAVAD TRUST | 21.81 | 53.895 | Purayidam | BTR | 17644 | **Trust** |
+| **219/11-1** | ALUMMOOTTIL THARAVAD TRUST | 5.39 | 13.319 | Purayidam | — | 17644 | **Trust** |
+| 219/12 | Darsana Gopinath | 17.00 | 42.009 | Nilam | BTR | 1985 | — |
+| 219/13 | Krishnakumari | 26.89 | 66.448 | Purayidam | BTR | 9438 | — |
+| 219/13-1 | (1) K. Divakaran (2) C. Thankamani | 12.15 | 30.024 | — | — | 5856 | — |
+| 219/13-2 | (1) Thankappan Suresh (2) Suresh Ramani | 1.31 | 3.237 | — | — | 8590 | — |
+| 219/13-3 | NOT PULLED | — | — | — | — | — | ? |
+| 219/14 | Rakesh S. | 0.48 | 1.186 | Purayidam | BTR | 17848 | — |
+| 219/14-1 | Nidhin Raj | 1.55 | 3.830 | — | — | 17847 | — |
+| 219/14-2 | Sujatha | 5.19 | 12.825 | — | — | 12156 | — |
+| 219/14-3 | Jayesh | 6.07 | 15.000 | — | — | 13932 | — |
+| 219/14-4 | NOT PULLED | — | — | — | — | — | ? |
+| 219/15 | Arun | 5.32 | 13.146 | Purayidam | BTR | 12802 | — |
+| 219/16 | Vasudevan Channar | 0.01 | 0.025 | Purayidam | BTR | 3736 | — |
+| 219/16-1 | NOT PULLED | — | — | — | — | — | ? |
+| 219/16-2 | Sambasivan | 7.00 | 17.298 | — | — | 12153 | — |
+| 219/16-3 | Devarajan | 5.87 | 14.505 | — | — | 12154 | — |
+| 219/16-4 | Susheela | 5.62 | 13.888 | — | — | 12155 | — |
+| 219/17 | Vasudevan Channar | 0.01 | 0.025 | Purayidam | BTR | 3736 | — |
+| 219/17-1 | NOT PULLED | — | — | — | — | — | ? |
+| 219/17-2 | Sambasivan | 1.10 | 2.718 | — | — | 12153 | — |
+| 219/17-3 | Devarajan | 0.20 | 0.494 | — | — | 12154 | — |
+| 219/17-4 | Susheela | 0.34 | 0.840 | — | — | 12155 | — |
+| 219/18 | Ganga Prasad | 10.25 | 25.329 | Purayidam | BTR | 2448 | — |
+| 219/18-1 | NOT PULLED | — | — | — | — | — | ? |
+| 219/18-2 | NOT PULLED | — | — | — | — | — | ? |
+| 219/18-3 | Gangaprasad / Manasi Prasad — printed order inverted | 6.92 | 17.100 | — | — | 12905 | — |
+| 219/18-4 | Manasi Prasad | 9.61 | 23.747 | — | — | 13423 | — |
+| **219/19** | ALUMMOOTTIL THARAVAD TRUST | 4.75 | 11.738 | Purayidam | BTR | 17644 | **Trust** |
+| **219/20** | Ramesh Chandran Channar (D2) | 18.00 | 44.480 | Nilam | BTR | 6872-A | **D2** |
+| 219/21 | അനീഷ് (Aneesh) | 3.80 | 9.390 | Purayidam | PkV | 5163 | — |
+| 219/22 | വി എൻ രണദേവ് (V.N. Ranadev) | 6.15 | 15.197 | Nilam | BTR | 13938 | — |
+| 219/23 | ആനിഫിലിപ്പ് (Ani Philip) | 6.10 | 15.074 | Purayidam | PkV | 6695 | — |
+| 219/24 | ശിവൻകുട്ടി (Sivankutty) | 8.10 | 20.016 | Purayidam | PkV | 6871 | — |
+| **219/25** | Ramesh Chandran Channar (D2) | 7.95 | 19.645 | Purayidam | PkV | 6872-A | **D2** |
+| **219/26** | Ramesh Chandran Channar (D2) | 9.98 | 24.662 | Purayidam | PkV | 6872-A | **D2** |
+| 219/26-1 | ശാന്ത (Shantha) | 1.82 | 4.497 | — | — | 17246 | — |
+| **219/27** | ചെല്ലമ്മ ചാന്നാട്ടി (Chellamma Channatti) | 0.49 | 1.211 | Purayidam | BTR | 6874-A | **Chellamma** |
+| **219/27-1** | ALUMMOOTTIL THARAVAD TRUST | 0.11 | 0.272 | Purayidam | — | 17644 | **Trust** |
+| **219/28** | ചെല്ലമ്മ ചാന്നാട്ടി (Chellamma Channatti) | 0.90 | 2.224 | Purayidam | BTR | 6874-A | **Chellamma** |
+| **219/28-1** | ALUMMOOTTIL THARAVAD TRUST | 2.10 | 5.189 | Purayidam | — | 17644 | **Trust** |
+| **219/29** | ALUMMOOTTIL THARAVAD TRUST | 0.65 | 1.606 | Purayidam | PkV | 17644 | **Trust** |
+
+60 parcels listed · 53 with extents · 7 not pulled. **Do not sum parents with their own sub-parcels** (see Table 6): 219/9, /13, /18, /26 are non-reducing parents.
+
 ## TABLE 2 — THANDAPPER ACCOUNTS
 
 | TP | Holder | Parcels | Ares | Cents | Last activity | Comment |
@@ -292,7 +363,7 @@ Any row still sourced to B1–B3 should be treated as provisional: the 04/08/202
 
 ## TABLE 11 — O.S. 197/1983 FMB PLAT · POLYGON IDENTIFICATION
 
-Source: the photocopy `plat.pdf` and the reconstruction `2026-08-05_OS197-1983_FMB_plat_v54.svg`.
+Source: the photocopy `plat.pdf` and the reconstruction `2026-08-05_d_OS-197-1983-FMB-plat-v54.svg`.
 Eleven quadrilaterals are drawn. Identification is by corner string first, area second — no polygon carries a survey number on the sheet.
 
 | Layer | Parcel | Drawn are | Recorded are | Err | Basis of the identification | Ink on the sheet | Comment |
@@ -345,3 +416,19 @@ Eleven quadrilaterals are drawn. Identification is by corner string first, area 
 | Bordering plots | green rule under the heading, no arrow — they lie outside the plat |
 | Group summaries | 1/6, 5/6, main block and pathway are groups of shapes, not quadrilaterals: no arrow, found by their green corner string |
 | Bottom panel | red only — items to be tallied later. Black needs no explanation; blue explanation sits in the label |
+
+---
+
+## TABLE 14 — BOUNDARIES AS RECITED IN DOCUMENTS
+*(absorbed 10-08-2026 from `2026-08-05_d_...-parcel-owner-area-reference.md`, now retired; that file's parcel and thandapper tables were stale — superseded by Tables 1–2 — and are NOT preserved)*
+
+| Document | East | South | West | North |
+|---|---|---|---|---|
+| O.S. 243/2024 schedule (38.06) | Kshema Sabha property & way | Ramesh Chandran | Ramesh Chandran, Jiji Ramesh & way | Beena Gopinath |
+| Deed 299/I/2024 (29.42) | Kshema Sabha property | property & private road of Settlee | *(truncated in capture)* | Beena Gopinath |
+| O.S. 84/2024 A-schedule | Panchayat poramboke in 218/1 | Ramesh Chandran | Alummoottil Tharavadu | not stated |
+| Pathway deed 298 / 1669 | Panchayat Road poramboke | Darsana Gopinath | Settlor, Anand Ravindran & Settlee | — |
+
+**Working directions for the diagram:** North = **219/9 Beena Gopinath** · East = **218/1 poramboke** (and, within 219/9, the Kshema Sabha on 219/9-3 per the defendants' recitals) · South & West = **219/20, /25, /26 (Ramesh)** and **219/4 (Jiji)** · south of the pathway = **219/12 Darsana Gopinath**.
+
+⚠️ Parcel-to-parcel adjacency has **not** been verified. The directions above come from deed and plaint recitals, not from the plat. Confirm on Bhunaksha (Block 013, survey 219) before labelling anything as a confirmed boundary.

@@ -1,6 +1,6 @@
 # Personal Property Register — RAMESH CHANDRAN M. (D2) & JIJI RAMESH (D4)
 
-> Standalone register for D2 and his household. **Authoritative** — supersedes §2 / §2A of `2026-01-01_Metadata_Alummoottil-personal-property.md`, which is retained there for continuity only.
+> Standalone register for D2 and his household. **Authoritative** — supersedes §2 / §2A of `2026-08-05_d_Alummoottil-connected-persons-personal-property-register.md`, which is retained there for continuity only.
 > **NON-Trust.** Nothing in this file is Trust corpus and nothing here enters any Trust attachment or preservation schedule.
 > **Cents = ares × 2.4711.**
 > Sources: ReLIS Tax Dues/Ownership (two pulls) · ReLIS Land Record (26-07-2024) · Thandapper 16961 tax receipt KL04040204922/2023 · SRO document screens 1482/2021, 1669/2022, 298/2024, 299/2024 · K-SMART building record · O.S. 197/1983 final-decree plat.
