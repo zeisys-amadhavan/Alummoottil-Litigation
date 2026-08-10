@@ -1,7 +1,9 @@
 name: Binder V13 OCR
 
 on:
-  pull_request:
+  push:
+    branches:
+      - chatgpt/binder-v13-ocr-20260810
   workflow_dispatch:
 
 jobs:
@@ -20,7 +22,6 @@ jobs:
           mkdir -p OCR/BINDER_V13
           for pdf in BINDER/BINDER_V13_part*.pdf; do
             base=$(basename "$pdf" .pdf)
-            # Render at 220 dpi; one PNG per page.
             mkdir -p "/tmp/$base"
             pdftoppm -r 220 -png "$pdf" "/tmp/$base/page" >/dev/null 2>&1
             n=0
