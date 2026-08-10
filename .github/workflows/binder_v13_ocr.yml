@@ -16,31 +16,50 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: chatgpt/binder-v13-ocr-20260810
+          fetch-depth: 0
       - name: Install OCR tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-eng
-      - name: OCR test pages 193-196
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-eng tesseract-ocr-mal
+      - name: OCR generic 10-page blocks and checkpoint each block
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p OCR/BINDER_V13
-          pdf='BINDER/BINDER_V13_part03_p131-216.pdf'
-          # Binder 193-196 correspond to split-part pages 63-66.
-          pdftoppm -f 63 -l 66 -r 220 -png "$pdf" /tmp/binder >/dev/null 2>&1
-          binder=193
-          for img in /tmp/binder-*.png; do
-            out=$(printf 'OCR/BINDER_V13/page_%03d.txt' "$binder")
-            tesseract "$img" stdout -l eng --psm 6 2>/dev/null > "$out" || true
-            binder=$((binder+1))
-          done
-      - name: Commit OCR checkpoint
-        shell: bash
-        run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add OCR/BINDER_V13
-          if ! git diff --cached --quiet; then
-            git commit -m 'OCR checkpoint Binder pages 193-196 [skip ci]'
-            git push origin HEAD:chatgpt/binder-v13-ocr-20260810
-          fi
+
+          blocks=(21 31 41 51 61 71 81 91 101 111 121 131 141 151 161 171 181 191 201 211 241 251 261 271 281 291 311 321 331 341 441 451 461 471 481 491 511 581 591 601 611 621 631 651 741)
+
+          locate_page() {
+            local p=$1
+            if (( p <= 63 )); then pdf='BINDER/BINDER_V13_part01_p001-063.pdf'; localp=$p
+            elif (( p <= 130 )); then pdf='BINDER/BINDER_V13_part02_p064-130.pdf'; localp=$((p-63))
+            elif (( p <= 216 )); then pdf='BINDER/BINDER_V13_part03_p131-216.pdf'; localp=$((p-130))
+            elif (( p <= 338 )); then pdf='BINDER/BINDER_V13_part04_p217-338.pdf'; localp=$((p-216))
+            elif (( p <= 437 )); then pdf='BINDER/BINDER_V13_part05_p339-437.pdf'; localp=$((p-338))
+            elif (( p <= 518 )); then pdf='BINDER/BINDER_V13_part06_p438-518.pdf'; localp=$((p-437))
+            elif (( p <= 591 )); then pdf='BINDER/BINDER_V13_part07_p519-591.pdf'; localp=$((p-518))
+            elif (( p <= 693 )); then pdf='BINDER/BINDER_V13_part08_p592-693.pdf'; localp=$((p-591))
+            else pdf='BINDER/BINDER_V13_part09_p694-769.pdf'; localp=$((p-693))
+            fi
+          }
+
+          for start in "${blocks[@]}"; do
+            end=$((start+9)); (( end > 769 )) && end=769
+            for p in $(seq "$start" "$end"); do
+              out=$(printf 'OCR/BINDER_V13/page_%03d.txt' "$p")
+              # Keep already-created OCR unless empty.
+              if [[ -s "$out" ]]; then continue; fi
+              locate_page "$p"
+              tmp="/tmp/binder_${p}"
+              rm -f "${tmp}"-*.png
+              pdftoppm -f "$localp" -l "$localp" -singlefile -r 220 -png "$pdf" "$tmp" >/dev/null 2>&1
+              tesseract "${tmp}.png" stdout -l eng+mal --psm 6 2>/dev/null > "$out" || true
+            done
+            git add OCR/BINDER_V13
+            if ! git diff --cached --quiet; then
+              git commit -m "OCR checkpoint Binder pages ${start}-${end} [skip ci]"
+              git push origin HEAD:chatgpt/binder-v13-ocr-20260810
+            fi
+          done
