@@ -1,0 +1,36 @@
+CAFFEINE
+The patient uses caffeine: coffee - 1 beverage(s) a day.
+LIFESTYLE
+Sedentary activity level. Never exercises.
+System Neg/Pos Details
+Constitutional Negative Fatigue, Fever and Night sweats.
+Eyes Negative Vision loss.
+Respiratory Negative Cough and Dyspnea.
+Cardio Negative Chest pain, Cyanosis and Irregular heartbeat/palpitations.
+Gl Negative Constipation, Diarrhea, Nausea and Vomiting.
+GU Negative Dysuria and Hematuria.
+Endocrine Negative Cold intolerance and Heat intolerance.
+Neuro Negative Difficulty walking, Dizziness and Headache.
+Integumentary Negative Rash.
+MS Negative Except as noted in HPI and Chief complaint.
+Hema/Lymph Negative Easy bleeding and Easy bruising.
+Allergic/Immuno Negative Environmental allergies and Food allergies.
+Vital Signs
+Time BP Pulse Resp TempF Htft Htin Htcm Wtlb Wtkg BMI BSAm2 O2
+mm/Hg /min /min kg/m2 Sat%
+10:13 5.0 6.00 167.64 180.00 81.647 29.05
+AM
+Measured By
+Time Measured by
+10:13 AM Benjamin Westney
+Physical Exam
+Exam Findings _ Details
+Constitutional Neg Level of distress - Normal. Nourishment - Normal. Overall appearance
+Normal.
+Psychiatric Neg Orientation - Oriented to time, place, person & situation. Appropriate
+mood and affect.
+Shoulder Exam
+Inspection Right Left
+Atrophy Absent
+Deformities Absent
+194

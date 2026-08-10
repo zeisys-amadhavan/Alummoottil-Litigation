@@ -1,0 +1,44 @@
+Skin/scars Normal
+Palpation Right Left
+Crepitus Absent
+Tenderness none
+Stability/Laxity Right Left
+Anterior apprehension Negative
+Obrien's Negative
+Speed's test Negative
+Belly press Negative
+Hawkins Negative
+Cross body Negative
+Neer's Negative
+Strength Tests Right Left
+External rotation Normal Normal
+Supraspinatus *ABNORMAL Normal
+Range of Motion Right Left
+Ext rot 90 abduction passive 90 degrees
+Int rot 90 abduction passive 10 degrees
+Ext rot 90 flexion passive 70 degrees
+Flexion passive 140 degrees
+Abduction passive 130 degrees
+Upper Extremity Neurovascular
+General
+Description Upper extremity neurovascular is normal
+Clinical Assessment:
+Assessment/Plan
+# Detail Type Description
+1... Assessment Traumatic complete tear of right rotator cuff, initial encounter (S46.011A).
+
+Provider Plan 48 y/o male presents with acute right shoulder pain that started on 08/09/2024. He
+reports he was in a crowd in India and somebody pulled his arm backwards. Notes that ai
+the time he heard a popping noise coming from his shoulder. Reports that his pain is
+mostly in the posterior and lateral regions. He has been taking NSAIDs to alleviate the
+pain which will help occasionally. Since his previous visit on 10/15/2024, he has
+completed PT and has noticed and improvement in ROM.
+
+Previous MRI reviewed today revealing acute full-thickness rupture of the subscapularis
+tendon insertion with medial retraction of the torn tendon to the level of the joint line.
+Diffuse attenuation of the supraspinatus tendon, concerning for moderate to high-grade
+degeneration and partial tear. Mild to moderate degeneration and articular sided fraying
+in the infraspinatus tendon without retraction. Moderate grade tendinosis and mild to
+moderate grade partial tear in the proximal long head biceps tendon. Signal abnormality
+and contour irregularity along the anteroinferior labral ligamentous complex suggestive
+195
