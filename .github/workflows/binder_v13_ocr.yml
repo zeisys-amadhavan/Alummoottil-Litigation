@@ -4,36 +4,43 @@ on:
   push:
     branches:
       - chatgpt/binder-v13-ocr-20260810
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   ocr:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: chatgpt/binder-v13-ocr-20260810
       - name: Install OCR tools
         run: |
           sudo apt-get update
           sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-eng
-      - name: OCR Binder V13 split PDFs
+      - name: OCR test pages 193-196
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p OCR/BINDER_V13
-          for pdf in BINDER/BINDER_V13_part*.pdf; do
-            base=$(basename "$pdf" .pdf)
-            mkdir -p "/tmp/$base"
-            pdftoppm -r 220 -png "$pdf" "/tmp/$base/page" >/dev/null 2>&1
-            n=0
-            for img in /tmp/$base/page-*.png; do
-              n=$((n+1))
-              out=$(printf 'OCR/BINDER_V13/%s_p%03d.txt' "$base" "$n")
-              tesseract "$img" stdout -l eng --psm 6 2>/dev/null > "$out" || true
-            done
+          pdf='BINDER/BINDER_V13_part03_p131-216.pdf'
+          # Binder 193-196 correspond to split-part pages 63-66.
+          pdftoppm -f 63 -l 66 -r 220 -png "$pdf" /tmp/binder >/dev/null 2>&1
+          binder=193
+          for img in /tmp/binder-*.png; do
+            out=$(printf 'OCR/BINDER_V13/page_%03d.txt' "$binder")
+            tesseract "$img" stdout -l eng --psm 6 2>/dev/null > "$out" || true
+            binder=$((binder+1))
           done
-      - name: Upload OCR artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: binder-v13-ocr
-          path: OCR/BINDER_V13
-          if-no-files-found: error
+      - name: Commit OCR checkpoint
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add OCR/BINDER_V13
+          if ! git diff --cached --quiet; then
+            git commit -m 'OCR checkpoint Binder pages 193-196 [skip ci]'
+            git push origin HEAD:chatgpt/binder-v13-ocr-20260810
+          fi
