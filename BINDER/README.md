@@ -1,16 +1,4 @@
 # BINDER V13 — PAGE-UNIQUE OCR INDEX
-**O.S. 214/2025, Munsiff Court, Haripad · Anoop R. Madhavan v. Alummoottil Tharavad Trust & 6 Others**
-83 documents · 769 pages · compiled 31.07.2026 · index generated 10.08.2026
-
-**Source files.** The nine `BINDER_V13_part0X_pNNN.pdf` files are ZIP archives (not PDFs), each holding one JPEG scan + one OCR text file per page. The filename suffix encodes the global page range: part01 = pp.1–69 · part02 = 70–167 · part03 = 168–257 · part04 = 258–355 · part05 = 356–453 · part06 = 454–536 · part07 = 537–634 · part08 = 635–732 · part09 = 733–769. To locate any global page *g*: local file = *g* − (range start) + 1 (e.g. p.592 = part07/56.jpeg).
-
-**Method.** ~330 pages carried embedded English OCR; the remaining ~440 (Malayalam deeds, FIRs, vernacular filings, image pages) were OCRed with Tesseract (mal+eng). Four glyph-shifted High Court order pages (239, 242, 314, 703) were decoded programmatically. ~40 image-only pages (photographs, blanks, endorsement versos) were identified visually. Every page below is described by its own content — not by a running page count. Descriptions marked *(scan degraded)* come from partial OCR of poor scans and should be verified against the image. Coverage: all 769 pages, one row per page, no gaps.
-
-**Recurring page types** (named once, then referenced): "**separator**" = the binder's own metadata cover sheet for a document (title, date, significance, ID, place, disclaimer that it is not part of the original); "**docket**" = e-filing docket sheet (party cause-list + advocate e-verification + presentation date); "**index sheet**" = e-filing index of enclosures; "**KLAL22 stamp**" = court e-filing verification footer.
-
----
-
-## PAGE INDEX
 
 | Page | Date | Doc No | Document | Specific contents | Internal Page |
 |---|---|---|---|---|---|
