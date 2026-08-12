@@ -1,14 +1,17 @@
 # IDENTIFY NEW ARGUMENTS
 ---
-## STEP 0 — REPOSITORY SYNC AND ACCESS VERIFICATION
-
-**Do this before reading anything else in this prompt.**
+### STEP 0.1 — REPOSITORY SYNC AND ACCESS VERIFICATION
 
 1. Fetch the current state of `https://github.com/zeisys-amadhavan/Alummoottil-Litigation` from the remote. Do not work from a cached copy, a previously loaded snapshot, or anything retained from an earlier session.
 2. If you cannot reach the repository, or can only reach a cached copy, **stop**. Output the error and nothing else. Do not attempt any part of the task from memory.
 3. On success, open your reply with exactly this line, filled in:
    **"I have read access to this repo, synced to commit `<hash>` dated `<date>`. Registry last modified: `<commit / date>`."**
 4. State in one line how you obtained the commit hash. If you cannot determine it, say so plainly and stop — **do not guess, reconstruct, or infer a hash.**
+
+### STEP 0.2 — RESEARCH DEPTH
+Deep cross-document synthesis is the whole point. Do not produce surface summaries, timeline restatements, or recaps of the pleadings. The objective is latent, non-obvious patterns — unauthorised single-trustee executions, documents manufactured after suit, sworn affidavits contradicted by handwritten minute entries — which surface only by cross-referencing several files at once. Anything visible from a single quick read is already known.
+Disclose what you actually read. State the number of files you opened, name any you could not access or could not read in full, and say whether you were able to hold the whole record in view at once or had to work in fragments. Do not assess your own architecture — report what you did. If you cannot cover the record well enough to do more than a superficial review, say so in your opening sentence and stop.
+The linkage test. Every candidate fact must show a conflict between two things that cannot both stand — normally two separate record types (a sworn counter-affidavit against a handwritten minutes-book entry; a registered deed against a bank statement; a pleading against a statutory filing). Discard anything isolated, or obvious on the face of one document. Carve-out: a conflict inside a single document qualifies where it is genuinely latent — components that do not sum to the stated total, an altered or struck entry, a recital contradicting that document's own operative clause. Say which of the two forms a finding takes.
 ---
 
 ## OBJECTIVE
