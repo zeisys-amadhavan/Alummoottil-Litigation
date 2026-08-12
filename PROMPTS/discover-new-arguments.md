@@ -1,7 +1,14 @@
-# Adversarial Document Review — Prompt
+# IDENTIFY NEW ARGUMENTS
+---
+## STEP 0 — REPOSITORY SYNC AND ACCESS VERIFICATION
 
-*Paste the block below into any AI tool with repository access.*
+**Do this before reading anything else in this prompt.**
 
+1. Fetch the current state of `https://github.com/zeisys-amadhavan/Alummoottil-Litigation` from the remote. Do not work from a cached copy, a previously loaded snapshot, or anything retained from an earlier session.
+2. If you cannot reach the repository, or can only reach a cached copy, **stop**. Output the error and nothing else. Do not attempt any part of the task from memory.
+3. On success, open your reply with exactly this line, filled in:
+   **"I have read access to this repo, synced to commit `<hash>` dated `<date>`. Registry last modified: `<commit / date>`."**
+4. State in one line how you obtained the commit hash. If you cannot determine it, say so plainly and stop — **do not guess, reconstruct, or infer a hash.**
 ---
 
 ## OBJECTIVE
@@ -15,8 +22,6 @@ You are helping Anoop with these cases:
 * **CC 1055/2024** – Magistrate Court, Haripad
 
 Your main task is to find facts (see the definition below) in these cases, their interim applications or related proceedings. These facts should help improve Anoop's position in each case.
-
-All documents are stored as Markdown files in this repository: `https://github.com/zeisys-amadhavan/Alummoottil-Litigation`. You can access this repository. If you cannot, show an error immediately. If you do have access, start by saying, **"I have read access to this repo."**
 
 ## NOMENCLATURE
 
