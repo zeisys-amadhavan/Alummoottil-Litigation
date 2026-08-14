@@ -1,7 +1,8 @@
 # Lease Deed No. 3237/2025 — Alummoottil Tharavad Trust (Lessor) v. Sreemoolavasam Wellness and Leisure Retreats Private Limited (Lessee)
 
 ---
-
+Important note: Thjs lease was registered in SRO Alappuzha (and not in Maradu Ernakulam). So based on the location of the registration, there is NOTHING defective in it. 
+---
 ## Registration / e-Stamp particulars (Page 1)
 
 - Handwritten top: "No. 3237/2025"
