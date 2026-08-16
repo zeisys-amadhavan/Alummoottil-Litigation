@@ -2,13 +2,13 @@
 
 **RESTORED ORIGINAL-LIST EDITION · BINDER V13 LOCATORS**
 
-Coverage: **496 numbered arguments at start · 469 numbered arguments retained · 27 collapsed · 0 deleted.** Section headings are not counted. Twenty-seven near-duplicate rows were merged into twenty-two survivors; every collapsed ID is listed in the CROSSWALK appendix, so the ID remains the source-to-rewrite key.
+Coverage: **496 numbered arguments at start · 470 numbered arguments retained · 27 collapsed · 0 deleted.** Section headings are not counted. Twenty-seven near-duplicate rows were merged into twenty-two survivors; every collapsed ID is listed in the CROSSWALK appendix, so the ID remains the source-to-rewrite key.
 
 Column 2 physically combines the short assertion with its operative quotation or decisive fact. Every direct quotation in the source assertion is retained verbatim there. Column 4 states the classification and a row-specific reason; columns 3 and 5 are locator fields only.
 
 | Group | Original numbered arguments | Retained numbered arguments |
 |:--:|--:|--:|
-| A | 25 | 24 |
+| A | 25 | 25 |
 | B | 22 | 22 |
 | C | 9 | 9 |
 | D | 12 | 12 |
@@ -59,6 +59,7 @@ Column 2 physically combines the short assertion with its operative quotation or
 | **A23** | D2’s work-ended version is false. — daybook pays D5 twice in March 2026 for anti-termite work (₹17,500). (recorded fact). | OBJECTION OF D1/D2 — I.A. No. 5/2026 in O.S. No. 214/2025 · 19 Jun. 2026 · p. 8, para. 5; DAY BOOK (photocopy) · 04 Aug. 2026 · bundle p. 8 | False / Unaccounted — daybook records March 2026 D5 payments. | (p 720, para. 5) | — | — |
 | **A24** | Criminal chronology contains three independent defects. — mahazar predates FIR; locations conflict; 112 call is suppressed. (recorded fact). | DISCHARGE PETITION — Crl.M.P. of 2025 in C.C. No. 1055/2024 · 10 Nov. 2025 · pp. 2–3 | False / Concealed — mahazar predates FIR and 112 call is suppressed. | (pp. 461–462) | — | — |
 | **A25** | D3’s letters give D5–D7 a fifth employment identity. — 'my employee'; 'my helpers' (recorded fact). | SIVADASAN’S THREAT · 23 Jul. 2025 · p. 2; OBJECTION OF D5/D6/D7 — I.A. No. 2/2025 in O.S. No. 214/2025 · 18 Feb. 2026 · pp. 2–3; OBJECTION OF D1/D2 — I.A. No. 5/2026 in O.S. No. 214/2025 · 19 Jun. 2026 · p. 3, para. 5; REPLY REJECTING REQUEST · 08 Oct. 2024 · pp. 2–3; DAY BOOK (photocopy) · 04 Aug. 2026 · entry dated 31.03.2026; BHARATIYA SAKSHYA ADHINIYAM, 2023 · s. 15–19 | False / Contradicted — D3 calls D5 employee and D6/D7 helpers; daybook pays D5. | (p 245; pp. 642–643; p 720, para. 5; pp. 140–141) | — | — |
+| **A26** | O.S.243 and FIR 574 give incompatible group sizes for the 09.08.2024 occurrence. — O.S.243 says Plaintiff came “along with 5 other men”; FIR 574 identifies Plaintiff plus “An identifiable two persons”. (their filed pleading / police record). | PLAINT & AFFIDAVIT — O.S. No. 243/2024 · 14 Aug. 2024 · p. 4, para. 4; FIR AGAINST ANOOP — F.I.R. No. 0574/2024 · 10 Aug. 2024 · p. 2, s. 7 | Contradicted — the same occurrence is pleaded as six participants but the relied-on FIR identifies only three. | (p 123, para. 4; p 115, s. 7) | — | A6, A21, A22, A24, A25 — distinct: participant count |
 
 ## B — TRUSTEE OFFICES AND AMENDMENTS ARE UNAUTHORISED
 
