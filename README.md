@@ -4,11 +4,11 @@
 
 | | |
 |---|---|
-| **Next date** | 10.08.2026 — IA 6/2026 + Defendants' unnumbered admission IA |
-| **Due from us** | File the Objection (5 oaths · 57 counts · adverse inference · ₹11,99,85,900 production) |
-| **Watch** | Registry number for Defendants' admission IA; auditor's "15 days" runs from any order |
+| **Next date** | 01.09.2026 — IA 6/2026 |
+| **Due from us** | |
+| **Watch** | |
 
-> **Maintenance protocol:** Per hearing → append one line to the LOG at the bottom of this file, update the 3 STATUS cells above, drop new documents into the repo using the filename convention (the file list IS the document registry). `Strategy.md` is touched only at the quarterly review or on a trigger event (see its header). Nothing else is ever edited.
+> **Maintenance protocol:** After a major case development → append one concise factual line to the LOG at the bottom of this file. After each hearing, also update the 3 STATUS cells above. New/submitted/produced/numbered documents belong in WHAT, **never as standalone LOG entries**; also drop them into the repo using the filename convention (the file list IS the document registry). `Strategy.md` is touched only at the quarterly review or on a trigger event (see its header). Nothing else is ever edited.
 
 
 ## WHY
@@ -64,52 +64,138 @@
 
 ## WHAT
 
-| Document / Proceeding | Detail |
-|---|---|
-| **Deed 2/IV/2007** | Founding trust deed; SRO Cheppad, 04.01.2007. For the descendants of Chellamma Channathy. |
-| **Deed 66/IV/2022** | First amendment deed; registered 10.11.2022. Pleaded void by the Plaintiff. |
-| **Plaint O.S. 84/2024** | Suit to stop registration and obstruction; filed 06.03.2024 (Munsiff Court, Haripad) by the Plaintiff. |
-| **Deed 17/IV/2024** | Second amendment deed; registered 14.03.2024. Pleaded void by the Plaintiff. |
-| **Complaint** | The Plaintiff's written police complaint; 09.08.2024, 4:20 PM (receipt 15281021-2024-5-00770); vs D2, D3, D5–D7. |
-| **FIR 574/2024** | Police case against the Plaintiff; registered 10.08.2024, 5:13 PM on D5's 4:15 PM verbal complaint; tried as C.C. 1055/2024. |
-| **Plaint O.S. 243/2024** | The Trust's injunction suit; filed 14.08.2024 by D2 / the Trust; brands the Plaintiff a trespasser. |
-| **CMP 2828/2024** | Complaint against D2 and D3; filed 17.10.2024 by the Plaintiff, to implicate D2 and D3 in the attack. |
-| **FIR 956/2024** | Police case on the Plaintiff's complaint; registered 17.12.2024 — only after the CMO petition (G2241200251); vs D2, D3, D5–D7. |
-| **Plaint O.S. 214/2025** | The present suit; filed 12.06.2025; seeks a declaration of the Plaintiff's beneficiary rights. |
-| **Crl.M.C. 5800/2025** | Stay of the Plaintiff's arrest; filed 30.06.2025; HC stays arrest in C.C. 1055/2024. |
-| **WP(C) 31247/2025** | Writ for certified trust copies; HC 27.08.2025: SRO Cheppad to furnish certified copies. |
-| **IA 2/2025** | Produce the original deeds; filed 09.10.2025 in O.S. 214/2025. |
-| **IA 5/2025** | Produce the trust accounts; filed 09.10.2025 in O.S. 214/2025. |
-| **IA 9/2025** | Produce the missing artefacts; filed 09.10.2025 in O.S. 214/2025. |
-| **89/RTI/2026 (G2)** | Police RTI reply; received 15.12.2025; confirms the emergency call from Nabeer's number and the Plaintiff's 4:20 PM complaint of 09.08.2024. |
-| **05/RTI/2026 (G2)** | Police RTI reply; received 05.02.2026; the Plaintiff's original complaint and receipt, with the vehicle log for the Meda visit. |
-| **OP(C) 3278/2025** | Petition for time-bound disposal; HC order 15.01.2026: dispose IA 2, 5 & 9 of 2025 in three months. |
-| **Reply — D2's joint counter-affidavit** | 16.02.2026, in IA 2, 5 & 9 of 2025: documents "not available"; trust "dormant." |
-| **Reply — D5–D7's reply** | Filed 18.02.2026, in IA 2, 5 & 9 of 2025. |
-| **Rejoinder — Plaintiff's rejoinder in IA 5/2025** | Filed 13.03.2026, answering D2's reply. |
-| **IA 5/2026** | Block commercialization; filed 30.03.2026; restrain commercialization of the trust property pending suit. |
-| **IA 6/2026** | Discovery and production of accounts; filed 31.03.2026; O.S. 214/2025, under Order XI Rr. 12 & 14 CPC. |
-| **IA 7/2026** | D2's production of documents; 18.05.2026: D2 produces the lease, bank statement and minutes book — sworn unavailable earlier. (Yet to be numbered.) |
-| **Written statements — D1 & D4** | Filed 11.02.2026 per court record; D5–7's statements then under verification. |
-| **Attachments to D2's 16.02.2026 reply** | Documents annexed to the "dormant trust" counter-affidavit in IA 2, 5 & 9/2025. |
-| **Lease Deed 3237/2025** | Trust-to-Sreemoolavasam lease signed 27.10.2025 by D2; 10 years, 29.42 of 38.06 Ares; registered at non-jurisdictional Marad SRO; produced 18.05.2026. |
-| **GST Registration 32ABQCS9416G1Z1** | Sreemoolavasam's GST registration at the Trust address, effective 09.12.2025 — before trustee "ratification." |
-| **Minutes Book (original)** | Produced 18.05.2026; records 24.01.2026 resolutions: Rs. 11,45,85,900 construction + Rs. 54,00,000 land = Rs. 11,99,85,900 expenditure; Rs. 1,46,86,000 "debt" to D2, his son and contractor; resolution to "terminate" Plaintiff's beneficiary status. |
-| **Federal Bank statement** | A/c 13100200004482, Muttom branch, opened 28.05.2025; statement to 15.05.2026 produced 18.05.2026; balance ~Rs. 6,000. |
-| **Beneficiary nomination records** | Produced 18.05.2026; based on the 22.12.2023 resolution letting each trustee nominate one descendant — the device used to exclude the Plaintiff. |
-| **Trustee resolutions (copies)** | Produced 18.05.2026 with IA 7/2026, alongside the trust deeds and amended deeds. |
-| **Deed 38/IV/2026** | Third amendment deed, surfaced only via the Defendants' 19.06.2026 objection; never disclosed or produced; executed pendente lite — certified copy to be obtained from SRO Cheppad. |
-| **Objection to IA 5/2026** | D1–D2's objection, 19.06.2026: lease valid, lessee operating, Plaintiff "not a beneficiary." |
-| **Objection to IA 6/2026** | D1–D2's objection, 19.06.2026 (mis-titled IA 6/2025): claims all documents already produced; petition "repetitive." |
-| **Counter to IA 6/2026 (D1–D2)** | Sworn 31.07.2026, filed 04.08.2026: "all documents which are in my possession or power… are produced" (para 9) — while para 6 admits an expenditure statement held by Sivadasan that he "is not ready to furnish." Oath IV in the approbation–reprobation schedule. |
-| **Admission IA (D1–D2, unnumbered)** | Petition dt. 01.08.2026 with Malayalam affidavit: seeks admission of the newly produced records and 15 days for an "audited balance sheet"; affidavit swears FY 2025–26 accounts "given for audit." Oath V in the schedule. |
-| **Federal Bank statement (extended)** | A/c 13100200004482, 28.05.2025–30.07.2026, produced 04.08.2026: rent-described credits from Sreemoolavasam begin only 24.04.2026 (25 days after IA 5/2026); ₹4,06,900 trust funds paid as defence legal fees; ₹1,48,100 to Sub Registrar 01.06.2026 for an undisclosed instrument; balance ₹4,57,715. |
-| **"Nomination as Beneficiary" (27.07.2026)** | Radhakrishnan M nominating daughter Maliny as "his beneficiary," dated 27.07.2026 — mid-suit, four days before filing; contradicts the 06.02.2024 extract ("Radhakrishnan has not submitted the nomination"). Pendente-lite conduct; forensic examination reserved. |
-| **Day book (photocopy)** | FY 2025–26 and 2026–27, produced 04.08.2026 in photocopy only (original withheld — contrast the original minutes book produced 18.05.2026); single hand, no vouchers, mirrors the bank statement entry-for-entry; FY 2025–26 totals: credits ₹12,16,000 (all trustee loans), debits ₹10,13,900. |
-| **Objection to admission IA (Plaintiff, draft)** | Table-form objection ready for filing before 10.08.2026: five solemn statements (Oaths I–V with verbatim citations), 12-row schedule of documents referenced but never produced, 57 counts of approbation–reprobation, adverse inference under s.119 Ill.(g) BSA, prayer for production of GST invoices/bills for the admitted ₹11,99,85,900. |
-| **Contradictions Matrix** | Working document mapping D2's inconsistent sworn statements; basis for adverse inference and a potential s.340 CrPC perjury reference. |
+> **WHAT RULE — STRICT:** This is the document registry for O.S. 214/2025 and directly connected proceedings/evidence. It is arranged by date, oldest first. **Copy = Yes** only when the document itself (or a scan/transcription of it) is present in the Binder/File Library; a registry entry or later reference alone does **not** count as a copy. Every unresolved date, identity, filing status, numbering issue, or missing document is marked **QUESTION** rather than inferred.
 
-## LOG  *(append-only — one line per event, added same day; never edit old rows, corrections get a new row)*
+| Document name | Date | What it contains | Copy? |
+|---|---|---|:---:|
+| **Birth Certificate — Reg. No. 3229** | 02.06.1976 | Plaintiff's birth and parentage; descent evidence relevant to beneficiary status. | Yes |
+| **Family Tree** | 01.01.2000 — **QUESTION:** this is the Binder index date; confirm the document's actual preparation/source date. | Family lineage from Chellamma Channathy through the relevant branches and descendants. | Yes |
+| **Trust Deed 2/IV/2007** | 04.01.2007 | Founding Trust Deed; defines the beneficiary class as descendants of Chellamma Channathy, identifies original trustees, and contains governance/accounting provisions. | Yes |
+| **Property Tax Record — Building IDs 50494010007872 & 50494010007…** | 01.01.2013 — **QUESTION:** Binder index date; confirm actual issue/extract date. | Panchayat/building-tax record for buildings within the Trust-property complex. | Yes |
+| **Trust Resolution Extract — 12.02.2020** | 12.02.2020 | Authorises D2 to take steps concerning Trust-deed amendments; permits Sivadasan to fund renovation/construction from personal funds; states he need not provide expenditure details; separately resolves that the Managing Trustee shall maintain books of account whenever Trust money is received/spent. | Yes |
+| **Deed 66/IV/2022 — First Amendment Deed** | 10.11.2022 | First amendment to the Trust Deed; challenged in O.S.214/2025. | Yes |
+| **Land Deed 1669/I/2022** | 10.11.2022 | Registered land instrument concerning property relevant to the Trust/property chain. | Yes |
+| **Trust Resolution Extract — 10.11.2022** | 10.11.2022 | Records C.K. Gita replacing Dr. Ravindran as trustee, fixes the Trust office at Alummoottil House, and resolves that Nalukettu and Meda are to be transferred to the Trust. | Yes |
+| **Trust Resolution Extract — 22.12.2023** | 22.12.2023 | Defines the five trustees; creates the one-descendant/legal-heir nomination scheme; addresses trustee succession/voting; continues D2 as Managing Trustee; resolves to open the Federal Bank Muttom account with joint-signatory controls. | Yes |
+| **Trust Resolution Extract — 06.02.2024** | 06.02.2024 | Appoints Rajeeva Pal / S.R. Pai & Co. as Chartered Accountant for FY 2024–2026; records four beneficiary nominations and states that Radhakrishnan had not submitted nomination of his beneficiary. | Yes |
+| **Deed 17/IV/2024 — Second Amendment Deed** | 01.03.2024 deed date; registered 14.03.2024 | Second amendment to the Trust Deed; challenged in O.S.214/2025 as rights-altering/void. | Yes |
+| **Plaint & Affidavit — O.S.84/2024** | 06.03.2024 | Plaintiff's earlier suit concerning family/property rights, registration of rights-affecting documents, access, obstruction and preservation of Meda/Nalukettu/Nelpura. | Yes |
+| **I.A. in O.S.84/2024** | 06.03.2024 | Interim application accompanying O.S.84/2024. **QUESTION:** exact I.A. number and complete prayer should be confirmed from the source before quoting. | Yes |
+| **Land Deed 298/I/2024** | 07.03.2024 | Registered land instrument relevant to the plaint-schedule/property chain. | Yes |
+| **Land Deed 299/I/2024** | 07.03.2024 | Registered land instrument relevant to the plaint-schedule/property chain. | Yes |
+| **Medical Records** | 09.08.2024 | Contemporaneous medical evidence concerning injuries following the Meda incident. | Yes |
+| **Medical Records — Reg. No. 14/92** | 09.08.2024 | Additional contemporaneous medical record concerning the 09.08.2024 injuries/treatment. | Yes |
+| **Plaintiff's Police Complaint — Receipt 15281021-2024-5-00770** | 09.08.2024 | Plaintiff's written complaint concerning the Meda incident; time-stamped receipt forms part of the incident chronology. | Yes |
+| **FIR 574/2024** | 10.08.2024 | FIR registered against the Plaintiff on D5's complaint; later C.C.1055/2024. | Yes |
+| **Plaint & Affidavit — O.S.243/2024** | 14.08.2024 | Trust/D2 injunction suit alleging trespass/no connection with Trust; directly relevant to beneficiary status, possession and later exclusion arguments. | Yes |
+| **Power of Attorney — Apostille No. 745923** | 20.09.2024 | Plaintiff's POA authorising A.G. Kishore to act. | Yes |
+| **Medical Records** | 29.09.2024 | Follow-up medical evidence concerning the shoulder injury. | Yes |
+| **Notice for Accounts — ET084192231IN** | 03.10.2024 | Pre-suit written demand for Trust accounts/records. | Yes |
+| **Reply Rejecting Request** | 08.10.2024 | Response refusing/rejecting the document/account request. | Yes |
+| **CMP 2828/2024 — Complaint to Magistrate** | 17.10.2024 | Plaintiff's complaint seeking action against D2/D3 in relation to the 09.08.2024 incident. | Yes |
+| **Notice for Accounts — ET084195136IN** | 28.10.2024 | Second written demand for Trust accounts/records. | Yes |
+| **Final Report — Crime 574/2024 / C.C.1055/2024** | 07.11.2024 | Police final report/charge material in the criminal case arising from FIR 574/2024. | Yes |
+| **Notice for Accounts — ET121086910IN** | 05.12.2024 | Third written demand for accounts/deeds; relied on to show repeated pre-suit requests. | Yes |
+| **FIR 956/2024** | 17.12.2024 | FIR on the Plaintiff's complaint against the assailants/related defendants. | Yes |
+| **Medical Records** | 04.02.2025 | Further medical evidence relating to the shoulder injury. | Yes |
+| **Written Statement — O.S.243/2024** | 13.03.2025 | Plaintiff's defence in the Trust's injunction/trespass suit. | Yes |
+| **Medical Records** | 05.05.2025 | Medical/surgery record concerning treatment of the shoulder injury. | Yes |
+| **Federal Bank Passbook — A/c 13100200004482** | Account opened/activated 28.05.2025; copy produced 18.02.2026 | Trust current-account passbook/account-identification record; shows the Trust account, joint operation, listed signatories and opening/activation date. | Yes |
+| **Plaint & Affidavit — O.S.214/2025** | 12.06.2025 | Present suit: beneficiary declaration, challenge to amendments, access/property protection, accounts and consequential reliefs. | Yes |
+| **High Court Order — Crl.M.C.5800/2025** | 01.07.2025 | High Court order in the criminal proceeding connected to C.C.1055/2024. | Yes |
+| **High Court Order — Crl.M.C.5800/2025** | 23.07.2025 | Further High Court order in the same criminal proceeding. | Yes |
+| **Sivadasan Communication ('Threat' in Binder title)** | 23.07.2025 | Communication preserved as evidence concerning the dispute. **QUESTION:** use the exact source wording before characterising or quoting it. | Yes |
+| **I.A.2/2025 — Direction to Produce Documents** | 28.07.2025 document / 29.07.2025 presented | Seeks production of the Trust deed and accounts/documents; later one of the three I.As covered by OP(C)3278/2025. | Yes |
+| **Complaint to Forest DFO — Ref. G2250700075** | 02.08.2025 | Complaint concerning the missing wildlife/heirloom articles from the Meda. | Yes |
+| **Sreemoolavasam Certificate of Incorporation — CIN U86909KL2025PTC096202** | 07.08.2025 | Corporate incorporation record of the later lessee. | Yes |
+| **Trust Resolution Extract — 21.08.2025** | 21.08.2025 | Authorises D2 to identify a commercial operator, negotiate with at least three operators, select one and settle lease/rent/profit-share terms; authorises agreements/MOA/registration and directs legal vetting before signature. | Yes |
+| **High Court Judgment — W.P.(C)31247/2025** | 27.08.2025 | Directs SRO Cheppad to treat the online application as valid and issue the requested certified Trust-deed copies within two weeks. | Yes |
+| **High Court Order — Crl.M.C.5800/2025** | 15.09.2025 | Further High Court order in the connected criminal proceeding. | Yes |
+| **Certified Copy — Trust Deed 2/IV/2007** | 29.09.2025 | Certified copy obtained from the registration records; foundational beneficiary/governance instrument. | Yes |
+| **Certified Copy — Deed 17/IV/2024** | 29.09.2025 | Certified copy of the second amendment deed. | Yes |
+| **I.A.3/2025** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks preliminary determination of beneficiary status and validity/operability of Deed 17/IV/2024, with interim restraint against acting on the amendment/using it to obstruct access. | Yes |
+| **I.A.4/2025** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks production/preservation of records identifying persons present on 09.08.2024, their authority/instructions, and related electronic communications, devices, recordings, chats and call logs. | Yes |
+| **I.A.5/2025 — Production of Accounts/Documents** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks audited or non-audited accounts, bank/investment records, tax records, trustee minutes/resolutions, authority for enforcers/O.S.243, and supporting records. | Yes |
+| **I.A.6/2025 — Access / Non-obstruction** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks supervised/peaceful ingress to Meda/Nalukettu/Nelpura and restraint against obstruction by Defendants/agents. | Yes |
+| **I.A.7/2025 — Coordination of Connected Suits** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks O.S.214 as lead suit, coordination/tagging with O.S.84 and O.S.243, common issues tried together and evidence reused subject to procedural safeguards. | Yes |
+| **I.A.8/2025 — SRO/Registration Records** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks SRO Cheppad authentication/registration records for the Trust and land instruments, including presentation records, KYC, photographs/thumbprints, registers and related files. | Yes |
+| **I.A.9/2025 — Heirloom Articles** | 08.10.2025 affidavit / 09.10.2025 presented | Seeks custody/production/protection concerning the missing mounted bison skull and deer antlers/wildlife heirlooms. | Yes |
+| **Lessee Proof of Address — Consumer No.1157256006344** | 15.10.2025 | Address/electricity record relied on for Sreemoolavasam's presence at the Trust property. | Yes |
+| **Lease Deed 3237/I/2025** | 27.10.2025 | D2's 10-year Trust-to-Sreemoolavasam lease covering Meda/property; central to I.A.5/2026 and pendente-lite issues. | Yes |
+| **Certified Copy — Deed 66/IV/2022** | 27.10.2025 | Certified copy of the first amendment deed registered 10.11.2022. | Yes |
+| **Discharge Petition — Crl.M.P. in C.C.1055/2024** | 10.11.2025 | Plaintiff's discharge application in the connected criminal case. | Yes |
+| **I.A.11/2025 — O.S.243/2024** | 11.11.2025 | Interlocutory application in the Trust's connected injunction suit. **QUESTION:** exact relief should be checked from the source before quoting. | Yes |
+| **RTI Request to Police** | 15.11.2025 | Request seeking police records concerning the 09.08.2024 incident. | Yes |
+| **Forest DFO Reply — KFDDO/39743/2025-DFORANNI/A1** | 18.11.2025 | Forest Department reply concerning the wildlife/heirloom complaint; later produced by D2 as an attachment. | Yes |
+| **NOC Issued to Lessee — Building 2/242, Muttom** | 24.11.2025 | Trust NOC enabling/relating to the lessee's use/address at the Trust property. | Yes |
+| **Sreemoolavasam Board Resolution No. 6** | 24.11.2025 | Referenced in Forms MGT-14/INC-22 as authorising the registered-office shift and statutory filings. **QUESTION:** the actual Board Resolution No. 6 itself is not located in the Binder/File Library; only the statutory forms' reference to it is present. | No |
+| **Order — I.A.1/2024 in O.S.243/2024** | 03.12.2025 | Munsiff order refusing the Trust's attempt to exclude the Plaintiff; contains findings on Plaintiff's rights over the plaint-schedule property. | Yes |
+| **GST Registration — Sreemoolavasam, GSTIN 32ABQCS9416G1Z1** | 09.12.2025 | GST registration showing principal place at the Trust property. | Yes |
+| **I.A.1/2026 — Status Quo / Commercial Venture** | 11.12.2025 | Original filing seeks strict status quo and restraint on commencement of the proposed commercial venture/public events until I.A.2/2025, I.A.5/2025 and I.A.9/2025 are heard/disposed. **Note:** this corrects the Binder separator's inaccurate generic description as an Order XI discovery application. | Yes |
+| **Police RTI Reply — 89/RTI/2025/G2** | 15.12.2025 | Police RTI response concerning the incident records, including emergency-call/complaint material. | Yes |
+| **Written Statement of Complainant — CMP2828/2024** | 15.12.2025 | Written statement in the Magistrate complaint connected with the 09.08.2024 incident. | Yes |
+| **Sreemoolavasam EGM Special Resolution — Registered Office Shift** | 08.01.2026 | Certified true copy of the EGM resolution approving the shift of Sreemoolavasam's registered office from Maradu to Building No. 2/242, Alummoottil, Cheppad, and authorising Form INC-22/related filings. | Yes |
+| **High Court Judgment — OP(C)3278/2025** | 15.01.2026 | Directs the Munsiff Court to dispose I.A.2/2025, I.A.5/2025 and I.A.9/2025 within three months. | Yes |
+| **Trust Minutes Book (original scan)** | Through 24.01.2026 | Handwritten minutes covering meetings from 12.02.2020 through 24.01.2026; includes accounts/construction, lease/commercialization, debts, nominations and beneficiary-status entries. Pages 13–14 are missing from the supplied scan. | Yes |
+| **Trust Minutes Book — Transcript** | 24.01.2026 | Machine-readable transcript of the minutes book prepared for reference; not itself original evidence. | Yes |
+| **I.A.2/2026 — Delay Condonation / Substituted Service** | 03.02.2026 affidavit / 04.02.2026 presented | Seeks condonation of delay in taking steps for substituted service and permission to proceed with substituted service on D3 Sivadasan. **Note:** this corrects the Binder separator's inaccurate description as consolidated day-to-day disposal. | Yes |
+| **Police RTI Reply — 05/RTI/2026-G2** | 05.02.2026 | Police reply containing the Plaintiff's original complaint/receipt and vehicle-log material concerning the Meda visit. | Yes |
+| **Form MGT-14 — Sreemoolavasam, SRN AC2154183** | 05.02.2026 e-form filing; underlying resolution 08.01.2026 | MCA filing for the special resolution to shift the registered office; records notice dispatch 24.11.2025, resolution date 08.01.2026, Board Resolution No. 6 authorisation, and a declaration that no application/writ/suit had been filed or was pending regarding the matter. | Yes |
+| **Form INC-22 — Sreemoolavasam, SRN AC2154358** | 05.02.2026 e-form filing; office effective 08.01.2026 | MCA notice changing the registered office to 2/242 Alummoottil, Cheppad; lists NOC/lease, EGM resolution, electricity bill and office photographs as attachments and includes professional certification of the registered office/records. **QUESTION:** office photographs themselves are not separately located in the current holdings. | Yes |
+| **Written Statement — D1 in O.S.214/2025** | 11.02.2026 per court history | **QUESTION:** exact contents not located in the Binder/File Library; obtain the filed copy. | No |
+| **Written Statement — D4 in O.S.214/2025** | 11.02.2026 per court history | **QUESTION:** exact contents not located in the Binder/File Library; obtain the filed copy. | No |
+| **Written Statements — D5/D6/D7 in O.S.214/2025** | **QUESTION:** court history indicated they were under verification after 11.02.2026; confirm whether/when each was actually filed. | Exact filed statements not located. | No |
+| **D1/D2 Counter-Affidavit — I.A.2/2025** | 16.02.2026 | Swears Trust dormant/no income 2007–2024; no books/statements; claims original Trust/amendment deeds including 38/IV/2026 are being produced; says financial statements/ledgers/audit/account records sought are unavailable; denies Plaintiff is beneficiary. | Yes |
+| **D1/D2 Counter-Affidavit — I.A.5/2025** | 16.02.2026 | Same dormancy/no-accounts position; produces five resolutions and bank passbook; says requested documents are unavailable and 'nothing material has been concealed.' | Yes |
+| **D1/D2 Counter-Affidavit — I.A.9/2025** | 16.02.2026 | Denies the two wildlife heirlooms ever existed/are missing; produces DFO material; says articles sought are unavailable; denies Plaintiff is beneficiary. | Yes |
+| **Deed 38/IV/2026 — Third Amendment Deed** | **QUESTION:** exact execution/registration date not located; D2 claimed production by 16.02.2026. | D2's 16.02.2026 affidavits/list refer to and claim production of this amendment. **QUESTION:** the actual deed copy itself has not been located in the current Binder/File Library; obtain it and reconcile the claimed production. | No |
+| **D1/D2 Document Production List / Memo** | 18.02.2026 | Filed list identifying the documents tendered with the February responses: Trust Deed 2/IV/2007; amendment deeds 66/IV/2022, 17/IV/2024 and 38/IV/2026; Federal Bank passbook; five resolution extracts; and the 18.11.2025 DFO letter. | Yes |
+| **D5/D6/D7 Objection — I.A.2/2025** | 18.02.2026 | Says D5–D7 have no Trust-management connection, D5 was contractor's temporary site worker, and these respondents are unnecessary to the document-production application. | Yes |
+| **D5/D6/D7 Objection — I.A.5/2025** | 18.02.2026 | Same core position: no Trust-management connection/knowledge; seeks dismissal as against D5–D7. | Yes |
+| **D5/D6/D7 Objection — I.A.9/2025** | 18.02.2026 | Same core position in the heirloom application; disclaims Trust-management knowledge/connection and seeks dismissal as against D5–D7. | Yes |
+| **I.A.3/2026 — Advocate Commissioner / Survey** | 03.03.2026 affidavit / 04.03.2026 presented | Seeks appointment of an Advocate Commissioner with surveyor to inspect the property, verify boundaries, check encroachments/construction, and report with sketch/photographs; also seeks status quo. | Yes |
+| **I.A.4/2026 — Broader Local Inspection Commission** | 03.03.2026 affidavit / 05.03.2026 presented | Seeks Advocate Commissioner/surveyor inspection of present physical condition, boundaries, construction, operational use, access/control, missing heirlooms, governance/administrative setup and related conditions; also seeks status quo. | Yes |
+| **D2 Affidavit filed on 04.03.2026 — exact identity uncertain** | 04.03.2026 per court history | **QUESTION:** the case history records that D2 filed an affidavit on 04.03.2026, but no separate copy has been located and it is unclear whether this is distinct from the 16.02.2026 counter-affidavits. Obtain/identify it. | No |
+| **Order — I.A.2/2025** | 04.03.2026 — **QUESTION:** D1/D2 later state it was closed on this date. | **QUESTION:** no separate order copy located; obtain the actual order before treating its terms as established. | No |
+| **Order — I.A.5/2025** | 04.03.2026 | 'Petition closed in light of the affidavit.' This is the operative order later relied on in the discovery dispute. | Yes |
+| **Order — I.A.9/2025** | 04.03.2026 — **QUESTION:** D1/D2 later state it was closed on this date. | **QUESTION:** no separate order copy located; obtain the actual order before treating its terms as established. | No |
+| **Plaintiff Rejoinder Affidavit — I.A.5/2025** | 10.03.2026 document; Binder indexes 13.03.2026 — **QUESTION:** confirm actual filing/presentation date. | Rebuts D2's dormancy/no-accounts assertions using Trust activity, construction, beneficiary and Sreemoolavasam facts; renews request for the exact records sought. | Yes |
+| **I.A.5/2026 — Restrain Lease / Commercialization** | 30.03.2026 affidavit; 31.03.2026 presented | Seeks status quo/restraint against acting on or implementing the 27.10.2025 lease/commercial venture and protection of the Trust property pending adjudication. | Yes |
+| **I.A.6/2026 — Discovery and Production** | 30.03.2026 affidavit; 31.03.2026 presented | Order XI Rules 12 & 14 application seeking discovery on oath and production of all Trust accounts, bank records, ledgers, vouchers, bills, receipts, audits and supporting financial records, with strict compliance time. | Yes |
+| **High Court Order — Crl.M.C.5800/2025** | 08.04.2026 | Further order in the connected criminal proceeding. | Yes |
+| **I.A.7/2026 — D1/D2 Admission of Documents** | 18.05.2026 document; registry later shows 17.05.2026 filing — **QUESTION:** confirm the e-filing/presentation sequence. | Seeks reception of D1/D2 records including nomination material, Trust resolutions, Lease Deed 3237/2025, Federal Bank statement and original Minutes Book. | Yes |
+| **Federal Bank Statement — A/c 13100200004482** | 18.05.2026 production; statement through 15.05.2026 | Trust current-account statement/passbook material; important to tracing Trust receipts/payments and comparing bank activity to admitted expenditure. | Yes |
+| **Deposition of Complainant — CMP2828/2024** | 06.06.2026 | Deposition in the connected Magistrate complaint. | Yes |
+| **Plaintiff Objection — I.A.7/2026** | 18.06.2026 | Opposes admission/genuineness of documents produced after the 16.02.2026 'not available' oath; reserves objections as to proof, provenance, admissibility and late production. | Yes |
+| **D1/D2 Objection — I.A.5/2026** | 19.06.2026 | Opposes restraint on lease/commercialization; says lease/business already operating, lessee and trustees are necessary parties, Plaintiff is not beneficiary, and status quo would cause hardship. | Yes |
+| **D1/D2 Objection — I.A.6/2026** | 19.06.2026 (mis-captioned I.A.6/2025) | Claims all available documents were already produced and I.A.6 is repetitive; repeats no-income/no-accounts case, says Sivadasan's expenditure statement was not submitted to Trust, and denies beneficiary status. | Yes |
+| **Plaintiff Memo-cum-Rejoinder to I.A.6/2026 Objections** | Draft/final-filing versions created 09–10.07.2026 — **QUESTION:** confirm whether this memo was actually filed and the court filing date. | Point-by-point rebuttal using the Trust Deed, minutes, D2's own sworn statements, later production and identified missing financial source records. | Yes |
+| **OP(C)1864/2026 — Filed Original Petition** | Before 13.07.2026 — **QUESTION:** exact filing date not confirmed here. | Petition seeking time-bound merits disposal of I.A.6/2026 and consideration of the prior I.A.5 pleadings/order and later disclosures. **QUESTION:** final filed petition copy not separately located; the judgment recites its prayers. | No |
+| **Munsiff Court Report to High Court — OP(C)1864/2026** | 13.07.2026 | Report to the High Court stating that two months were required to dispose of I.A.6/2026. **QUESTION:** actual report copy not located; fact is recorded in the 14.07.2026 judgment. | No |
+| **High Court Judgment — OP(C)1864/2026** | 14.07.2026 | Directs Munsiff Court, Haripad to consider and pass orders **on merits** in I.A.6/2026 within two months from receipt of the judgment; judgment also recites relief seeking consideration of prior I.A.5 materials and later disclosures. | Yes |
+| **MCA Public-Documents Receipt / Provenance Record — Sreemoolavasam** | 20.07.2026 | MCA payment/receipt record for obtaining the certified public documents relating to Sreemoolavasam (including MGT-14, EGM resolution and INC-22); preserves provenance/SRN details. | Yes |
+| **'Nomination as Beneficiary' — Radhakrishnan → Maliny** | 27.07.2026 | Radhakrishnan nominates daughter Maliny Radhakrishnan Madhavan as 'my beneficiary'; later produced by D2. Relevant to beneficiary-record chronology and the earlier 06.02.2024 'not submitted' minute. | Yes |
+| **Federal Bank Statement — Extended** | Through 30.07.2026; produced with late-July/early-August filing — **QUESTION:** confirm exact court-receipt date. | Extended Trust account statement from 28.05.2025 through 30.07.2026, including later rent/fee/registration-related transactions. | Yes |
+| **D1/D2 List of Documents / Production Memo — accompanying 31.07.2026 counter** | 31.07.2026 | Lists three productions: Federal Bank statement for 28.05.2025–30.07.2026, the 27.07.2026 Maliny nomination, and the day book. | Yes |
+| **D1/D2 Counter-Affidavit — I.A.6/2026** | 31.07.2026 sworn — **QUESTION:** confirm exact filing/receipt date. | Says all documents in D2's possession/power are produced; produces extended bank statement, Maliny nomination and day books; admits Sivadasan 'is not ready to furnish his expenditure statement.' | Yes |
+| **Day Book — FY 2025–26 and FY 2026–27** | Produced with 31.07.2026 counter — **QUESTION:** exact filing/receipt date. | Photocopy day book produced as financial record. **QUESTION:** original day book not located/confirmed; supporting vouchers/invoices are not part of this copy. | Yes |
+| **Marketing Material of Sreemoolavasam** | 31.07.2026 | Lessee marketing/operational material concerning commercial use of the Trust premises. | Yes |
+| **Forensic Examination I.A. — unnumbered** | 01.08.2026 | Application under Order XXVI Rule 10A, Order XI Rule 14, Order XIII Rule 8 and s.151 CPC seeking State FSL forensic examination of Trust records. **QUESTION:** confirm the final numbered I.A. assigned to this filing. | Yes |
+| **D1/D2 Further Admission I.A. — unnumbered source copy** | 01.08.2026 | Malayalam application/affidavit for further document admission; later Plaintiff objection quotes it as stating that accounts had been 'given for audit.' **QUESTION:** confirm full Malayalam prayer and its final I.A. number from the filed original. | Yes |
+| **I.A.8/2026 — Application for Admission of Documents (D1/D2)** | Registry filing 03.08.2026; numbered/registered 18.08.2026 | Registry identifies a D1/D2 admission application. **QUESTION:** confirm that this is the 01.08.2026 unnumbered admission I.A. and confirm the exact complete schedule of documents. | No |
+| **I.A.9/2026 — Plaintiff Petition** | Registry filing 03.08.2026; numbered/registered 18.08.2026 | Registry identifies a Plaintiff petition. **QUESTION:** confirm whether this is the 01.08.2026 forensic-examination I.A.; exact numbered copy not located. | No |
+| **Plaintiff Objection to I.A.8/2026 — filing copy/draft** | **QUESTION:** document is undated; file created 05.08.2026; confirm whether/when filed. | Lists five inconsistent production oaths and twelve categories of referenced-but-unproduced records; argues I.A.8 cannot cure I.A.6 discovery defaults and seeks consolidated sworn compliance/adverse-inference treatment. | Yes |
+| **Protective Injunction I.A. Draft — beneficiary/instrument restraint** | August 2026 — **QUESTION:** undated draft; file created 06.08.2026. | Draft seeks prospective restraint against new instruments changing beneficiary/trust/property rights and disclosure/notice safeguards. **QUESTION:** confirm whether it was filed and, if so, under which I.A. number. | Yes |
+| **Protective Injunction I.A. Filing Copy — Trust instruments & bank controls** | Filing copy created 08.08.2026; eTreasury payments recorded 10.08.2026 at 11:13:05 (₹25, GRN KL022988206202627E) and 13:28:02 (₹100, GRN KL023054581202627E) — **QUESTION:** confirm that these two GRNs belong to this filing; registry filing is 12.08.2026 if this is I.A.11/2026. | Seeks restraint/disclosure concerning new Trust instruments, third-party property rights, Trust bank accounts/signatories and non-routine outflows. **QUESTION:** confirm whether this was the petition ultimately numbered I.A.11/2026. | Yes |
+| **I.A.10/2026 — Petition to Accept Photocopy (D1/D2)** | Registry filing 09.08.2026; numbered/registered 18.08.2026 | **QUESTION:** registry gives only 'Petition To Accept Photocopy'; exact photocopied document and actual petition copy have not been located. | No |
+| **eTreasury GRN payment records — filing provenance** | 10.08.2026–11.08.2026 | User-supplied eTreasury transaction details: ₹25 — GRN KL022988206202627E, 10.08.2026 11:13:05.964044; ₹100 — GRN KL023054581202627E, 10.08.2026 13:28:02.788620; ₹10 — GRN KL023278388202627E, 11.08.2026 14:58:55.258927. **QUESTION:** exact pleading/filing linked to each GRN is not established by the GRN text alone. | No |
+| **Submission/Memo placing OP(C)1864/2026 judgment before Munsiff Court** | 11.08.2026; eTreasury payment recorded 14:58:55 (₹10, GRN KL023278388202627E) — **QUESTION:** confirm whether this GRN relates to the judgment-submission memo/filing. | HC judgment was submitted to the trial court. **QUESTION:** confirm whether this was accompanied by a separate memo/filing receipt and obtain that document if one exists. | No |
+| **I.A.11/2026 — Plaintiff Petition** | Registry filing 12.08.2026; numbered/registered 18.08.2026 | **QUESTION:** exact filed petition not located; determine whether it corresponds to either protective-injunction draft/final copy above. | No |
+| **I.A.12/2026 — Application for Admission of Documents (D1/D2)** | Registry filing 12.08.2026; numbered/registered 18.08.2026 | **QUESTION:** exact documents sought to be admitted and the filed application itself have not been located. | No |
+
+## LOG  *(MAJOR HAPPENINGS — append-only; one row per significant event/date; never edit old rows, corrections get a new row)*
+
+> **LOG RULE — STRICT:** This table records **major happenings in the case**, including hearing/listing outcomes and other significant events that materially affect the case, the parties, the property, or the reliefs. It is **not a document registry**. **Never add a LOG row merely because a document, IA, affidavit, deed, statement, or other record was filed, submitted, produced, received, numbered, or discovered**; those documents belong in the **WHAT table**. A document may be mentioned in LOG only when necessary to describe the major event itself (for example, a court actually passed an order, or an operative court order was delivered to the trial court where receipt itself affects the court-ordered time limit), not merely to record the document's submission. Keep each row concise and factual, and do not infer beyond the source.
 
 | Date / Time | What happened |
 |---|---|
@@ -170,12 +256,14 @@
 | 28.05.2026 | Declared holiday; rolled to 12.06.2026. |
 | 02.06.2026 | Joint strategy call with both counsel. |
 | 12.06.2026 | Hearing listed for IA 5/2026 and 6/2026; adjourned to 20.06.2026. |
-| 19.06.2026 | D1–D2 file objections to IA 5/2026 and 6/2026; third amendment Deed 38/IV/2026 surfaces in the objection. |
-| 20.06.2026 | Defendants seek settlement; court grants time till 24.07.2026 — lessee's operations continue meanwhile. |
-| 24.07.2026 | Settlement window ends, nothing settled; court records "No further time"; adjourned to 27.07.2026. |
-| 27.07.2026 | "Last chance" for hearing IA 6/2026; adjourned to 29.07.2026. Same day, the "Nomination as Beneficiary" letter (Radhakrishnan → Maliny) is dated. |
-| 29.07.2026 | "Heard" — but not decided; pushed to 01.08.2026. |
-| 31.07.2026 | D2's counter to IA 6/2026 sworn: "all documents… in my possession or power… are produced" (while ¶6 admits a withheld expenditure statement). |
-| 01.08.2026 | Pushed to 04.08.2026; D1–D2's fresh admission petition dated, with affidavit swearing accounts "given for audit". |
-| 04.08.2026 | D1–D2 file the 21-page bundle: counter to IA 6/2026, bank statement to 30.07.2026, nomination letter dt. 27.07.2026, day book (photocopy only), and an unnumbered IA seeking 15 days for an "audited balance sheet". Plaintiff seeks adjournment to 10.08.2026 to answer. |
-| 10.08.2026 | Next posting — Plaintiff's objection to be filed: five solemn statements (Oaths I–V), 12-row schedule of referenced-but-unproduced documents, 57 counts of approbation–reprobation, adverse inference under s.119 Ill.(g) BSA, production of invoices for ₹11,99,85,900 sought. |
+| 20.06.2026 | Defendants seek settlement; time granted to 24.07.2026. |
+| 14.07.2026 | HC in OP(C) 1864/2026 directs Munsiff Court to consider and pass orders on merits in IA 6/2026 within two months from receipt of the judgment. |
+| 24.07.2026 | Settlement not reached; court records “No further time”; adjourned to 27.07.2026. |
+| 27.07.2026 | “Last chance” for hearing IA 6/2026; adjourned to 29.07.2026. |
+| 29.07.2026 | “Heard”; next 01.08.2026. |
+| 01.08.2026 | Both sides represented. For further hearing IA's 6/26. Next: 04-08-2026. |
+| 04.08.2026 | Both sides represented. Heard . For further hearing IA 6/26. Plaintiff counsel seeks for adjournment to 10.08.2026. Call on. Next: 10-08-2026. |
+| 10.08.2026 | Both sides represented. For hearing IA 6/26. Next: 11-08-2026. |
+| 11.08.2026 | Plaintiff submitted the 14.07.2026 HC judgment in OP(C) 1864/2026 to the Munsiff Court. Both sides represented. For hearing. Next: 17-08-2026. |
+| 17.08.2026 | Munsiff on Training. Notified to. Next: 19-08-2026. |
+| 19.08.2026 | Both sides represented. For hearing IA 6/26. Hearing adjourned for want of time as many other cases also to considered due to onam vacation. For hearing. Next: 01-09-2026. |
