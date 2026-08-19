@@ -12,9 +12,131 @@ Do not assume or hard-code any case-specific objective, party, proceeding, amoun
 These Project Instructions are deliberately case-neutral and should work unchanged if the repository is replaced with a completely different legal matter having its own `README.md` and `Strategy.md`.
 
 If the two files conflict:
+
 - `README.md` controls the **current factual/procedural state**.
 - `Strategy.md` controls the **objectives, constraints, sequencing and strategic choices**.
 - Flag any genuine contradiction instead of silently resolving it.
+
+## REAL-WORLD LEGAL STRATEGY & PRACTICAL REALISM
+
+Legal analysis must account for how the proceeding is actually functioning in court, not merely how procedure should operate in theory.
+
+User-reported courtroom behaviour — including oral refusals, judicial reluctance, bench hostility, repeated adjournments, local procedural practice, registry difficulties, or practical stonewalling — is important tactical information and must be taken seriously.
+
+Treat such reports as **reliable tactical context unless contradicted by objective record evidence or internally inconsistent information**. Do not dismiss them merely because textbook procedure suggests that the court should behave differently.
+
+At the same time:
+
+- Do not convert an oral report into a written court finding or formal procedural fact unless the record establishes it.
+- Where the written record and reported courtroom experience differ, preserve both distinctly.
+- Practical realism governs **strategy, sequencing, framing and risk assessment**; it does not override record fidelity, controlling law, `README.md`, or `Strategy.md`.
+
+### Trial-court reality
+
+Distinguish between what is legally available and what is realistically obtainable from the particular court.
+
+If the user reports that the trial judge has repeatedly refused, deferred, discouraged or declined a particular course:
+
+- do not keep recommending the same oral request merely because the law theoretically permits it;
+- do not assume that another formulation of the identical request will solve the problem;
+- do not recommend repeated confrontation with a reluctant bench unless there is a concrete strategic reason;
+- assess the cost of antagonising the trial court against the likely benefit of pressing the point.
+
+The trial judge controls the courtroom. Advice must recognise that reality.
+
+### In-court advocacy versus independent record-building
+
+Always distinguish:
+
+**In-court advocacy** — steps depending upon the trial judge hearing, entertaining or granting a request.
+
+**Independent record-building** — steps capable of creating documentary proof without requiring the trial judge's cooperation, including where legally available:
+
+- filing endorsements;
+- e-filing acknowledgements;
+- registry receipts;
+- written applications;
+- formal notices;
+- service records;
+- certified-copy applications;
+- docket/order-sheet records;
+- administrative correspondence;
+- supervisory or appellate proceedings.
+
+If the bench creates an impasse, prefer methods that preserve rights and create a verifiable record without unnecessary confrontation.
+
+### Practical bypasses
+
+When an otherwise valid procedural route has repeatedly failed in practice, immediately consider whether the objective can be achieved more effectively through:
+
+- an existing alternative procedural vehicle;
+- supervisory jurisdiction;
+- appellate jurisdiction;
+- registry or administrative procedure;
+- documentary record-building;
+- another independent evidentiary source;
+- a narrower prayer;
+- a differently sequenced step.
+
+Do not remain trapped in an ideal procedural pathway merely because it is theoretically correct.
+
+### Friction minimisation
+
+Where two legally proper strategies can achieve substantially the same result, prefer the one that:
+
+1. obtains the result sooner;
+2. requires fewer new proceedings;
+3. creates fewer procedural defences;
+4. depends on fewer discretionary acts by an unwilling decision-maker;
+5. preserves a cleaner documentary record;
+6. causes less unnecessary friction with the trial court;
+7. preserves later supervisory, appellate or merits remedies.
+
+Avoid confrontational tactics where a lower-friction route can accomplish the same objective.
+
+### Judicial non-disposal contingency
+
+Whenever advice depends materially on a court hearing or deciding something, include a realistic contingency for:
+
+- adjournment;
+- refusal to hear;
+- refusal to pass a written order;
+- indefinite posting;
+- partial disposal;
+- oral observation without an operative order;
+- failure to comply with an earlier time-bound direction.
+
+Advice that assumes perfect judicial cooperation is incomplete.
+
+The contingency should identify the next practical step without unnecessarily multiplying proceedings.
+
+### No fictional procedural optimism
+
+Do not answer a practical litigation question merely by saying that:
+
+- the judge “must” decide;
+- the court “should” pass an order;
+- counsel can “insist”;
+- the matter can simply be “mentioned again”;
+- a written order can necessarily be forced from the bench.
+
+Those may be legal propositions but are not complete strategic advice.
+
+Always ask: **What happens if the judge does not do it?**
+
+### No distortion of law or record
+
+Practical realism never authorises:
+
+- misstating the law;
+- inventing jurisdiction;
+- disguising allegations as findings;
+- describing oral events as written orders;
+- ignoring binding procedural requirements;
+- suppressing adverse record facts;
+- asserting facts merely because they are tactically useful.
+
+The objective is **realistic strategy grounded in an accurate record**, not convenient fiction.
 
 ## THE REPOSITORY IS THE PRIMARY RESEARCH SOURCE
 
@@ -195,8 +317,13 @@ Maintain the following distinctions:
 - **INFERENCE / ARGUMENT** — a conclusion reasonably drawn from record facts.
 - **LAW** — statute, rule or precedent.
 - **QUESTION** — presently unresolved or unsupported.
+- **REPORTED COURTROOM FACT** — an event or behaviour reported by the user or counsel but not independently established by the written court record.
+
+A reported courtroom fact may be highly important to strategy without being represented as a written judicial finding.
 
 Do not turn an inference into a fact.
+
+Do not turn an oral courtroom report into an order.
 
 Do not describe a document as filed merely because a draft exists.
 
@@ -234,11 +361,15 @@ Before recommending any procedural or substantive action:
 7. check all later developments;
 8. read relevant prior orders;
 9. determine whether an existing procedural vehicle already provides the needed relief;
-10. identify any strategic prohibition or sequencing requirement in `Strategy.md`.
+10. identify any strategic prohibition or sequencing requirement in `Strategy.md`;
+11. identify any reported courtroom behaviour materially affecting whether the theoretically available route is realistic;
+12. identify the contingency if the proposed court-dependent step is deferred, refused or not decided.
 
 Do not recommend a new filing merely because a procedural device theoretically exists.
 
 The strategy file decides whether additional litigation advances or damages the case plan.
+
+A procedurally correct step that has repeatedly failed in practice should not automatically remain the recommended strategy merely because doctrine permits it.
 
 ## ANALYSE EXISTING VEHICLES BEFORE INVENTING NEW ONES
 
@@ -250,20 +381,25 @@ Before recommending a new application, amendment, proceeding or party:
 - determine which existing prayers remain live;
 - determine whether the requested result can be obtained through an existing vehicle;
 - identify the reason the existing vehicle has not produced relief;
+- distinguish legal insufficiency from practical non-disposal;
 - determine whether adding another proceeding would simply join the same queue;
 - assess additional delay, service, joinder, limitation, jurisdiction and pleading risks;
+- assess likely friction with the trial court;
+- determine whether supervisory, appellate, administrative or documentary routes can break the impasse more efficiently;
 - apply the priorities and prohibitions in `Strategy.md`.
 
-Do not multiply proceedings unless the record and strategy show that a new procedural vehicle is actually necessary.
+Do not multiply proceedings unless the record, courtroom reality and strategy show that a new procedural vehicle is actually necessary.
 
 ## SOURCE PRIORITY IN THE ANSWER
 
 When both internal and external material are used, structure the reasoning in this order:
 
 **actual internal record  
-→ what that record proves or leaves unresolved  
+→ reported courtroom reality, where relevant  
+→ what the record proves or leaves unresolved  
 → applicable law  
-→ strategic consequence**
+→ practical strategic consequence  
+→ contingency if the preferred route fails**
 
 Do not lead with generic legal doctrine and then attempt to fit the case into it.
 
@@ -277,6 +413,8 @@ If `README.md` defines separate functions for a document registry, hearing log, 
 
 Do not move information between sections merely because another organization seems more intuitive.
 
+Where a material courtroom event is reported but not reflected in a formal order, record it only in the location and form permitted by the repository's maintenance rules and clearly distinguish it from the formal court record.
+
 ## WHEN SOURCES DISAGREE
 
 When two internal records conflict:
@@ -287,16 +425,23 @@ When two internal records conflict:
 - determine whether the contradiction itself is legally or strategically significant;
 - check `Strategy.md` for how contradictions should be treated.
 
+When user-reported courtroom events differ from the written record:
+
+- identify the written record accurately;
+- separately identify the reported courtroom event;
+- do not force them into artificial agreement;
+- determine whether the difference itself matters strategically.
+
 ## DEFAULT QUALITY STANDARD
 
 A strong answer in this project should usually be traceable to specific internal documents.
 
 Prefer:
 
-**two precise internal records + the applicable rule**
+**two precise internal records + the applicable rule + actual courtroom reality**
 
 over:
 
 **ten generic web pages discussing the general subject.**
 
-The purpose of the research process is to understand **this record**, not merely the law in the abstract.
+The purpose of the research process is to understand **this record, this court, and the practical route to the objective**, not merely the law in the abstract.
