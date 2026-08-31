@@ -152,3 +152,22 @@ f) after completing the Section 223 procedure and any inquiry under Section 225,
 I, Anoop R. Madhavan, verify that the facts stated above are based upon the documentary records relied upon. Inferences and legal submissions are confined to the GROUNDS. Matters requiring handwriting, metadata or electronic-record authentication are stated as matters for determination by the Court.
 
 Place: __________    Date: __________    Complainant: Anoop R. Madhavan
+
+
+Criminal Breach of Trust
+1. Entrustment. Trust Deed 2/IV/2007 specifically places Re-Survey 219/20 under A1’s control to be held and managed on behalf of the Trust. A1 therefore received dominion over that property only in his fiduciary capacity.
+2. Conversion. Current RELIS records Re-Survey 219/20, 18 Ares, personally in A1’s name. Property expressly entrusted to A1 for the Trust now stands in his personal revenue record.
+3. Absence of authority. No produced Trust resolution, deed or other Trust record authorises transfer of Re-Survey 219/20 from the Trust’s control to A1 personally. The personal entry therefore requires a lawful explanation from A1.
+4. Entrusted money. Authenticated correspondence records the Complainant’s money being provided for Alummoottil maintenance, identifies the payment dates and amounts, and shows A1 had contemporaneous notice of that entrustment and its stated purpose.
+5. False financial position. A1 subsequently swore that during 2007–2024 the Trust received no funding, donations, income or revenue, despite documentary evidence of the Complainant’s payments and other pre-2024 Trust financial transactions.
+6. Unaccounted Trust expenditure. The Trust’s own Minutes record approximately ₹11.99 crore expenditure, yet complete contemporaneous accounts, invoices, vouchers and source records establishing receipt and lawful expenditure have not been produced.
+7. Personal-interest evidence. RELIS records A1/A6 over approximately 41 Ares surrounding the Trust, while the Trust itself has 38.06 Ares. This includes the especially significant 219/20 entrusted for Trust management but presently recorded personally to A1.
+8. Dishonest intention. A1 simultaneously denied the Complainant’s beneficiary status, participated in records proposing his termination, and signed Minutes containing uncountersigned alterations to “beneficiary.” Combined with 219/20 and financial concealment, these facts support an inference of deliberate personal appropriation, not accidental bookkeeping failure.
+
+CRIMINAL BREACH OF TRUST — HEIRLOOMS / MOVABLE TRUST PROPERTY
+1. Entrustment / dominion. As Managing Trustee, A1 had custody and fiduciary control over the Meda and the Trust’s heirlooms, furniture, antiques and other movable property kept there.
+2. Existence and disappearance. Documentary floor-plan evidence identifies a mounted bison skull and pair of deer antlers as missing from the Meda. The Complainant had also specifically sought their custody/production through IA 9/2025.
+3. Sworn denial. On 16.02.2026, A1 swore that the two wildlife heirlooms were imaginary, that defendants had never seen them, that none were entrusted, and that the demanded articles were “not available for production”.
+4. Repeated denial. On 19.06.2026, A1/D1 again asserted: “There was no wildlife artefacts in Alummoottil Meda.” This categorical denial conflicts with the documentary evidence identifying the missing articles.
+5. Further disposal without inventory. The 24.01.2026 Minutes resolved to hand old furniture, utensils, photographs and antiques to Sreemoolavasam. Crucially, the Minutes state that the inventory “will be prepared” afterward; therefore custody was transferred before contemporaneous identification, quantity, condition or valuation was recorded.
+6. Dishonest conversion inference. Two entrusted heirlooms disappeared while under Trust custody; A1 denied their existence despite documentary evidence; remaining valuables were later transferred to a commercial lessee before inventory. Together, these circumstances support inquiry into dishonest misappropriation, disposal or conversion of entrusted Trust property.
