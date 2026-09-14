@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| **Next date** | 14.09.2026 — IA 6/2026 for orders |
-| **Due from us** | Nothing presently — IA 6/2026 was heard on 05.09.2026; awaiting order |
-| **Watch** | Order in IA 6/2026; scope of discovery/production and any compliance deadline if allowed |
+| **Next date** | 15.09.2026 — for hearing IAs |
+| **Due from us** | Obtain the separate/certified order in IA 6/2026; preserve proof of service/knowledge; prepare the 14-day compliance matrix |
+| **Watch** | Defendants’ discovery on oath “as sought” within 14 days; exact scope/deadline trigger in the separate order; any High Court challenge/stay |
 
 > **Maintenance protocol:** Per hearing → insert one line into the LOG in chronological order, identify the proceeding/case number on every litigation row, update the 3 STATUS cells above, and drop new documents into the repo using the filename convention (the file list IS the document registry). `Strategy.md` is touched only at the quarterly review or on a trigger event (see its header).
 
@@ -256,7 +256,8 @@
 | 05.09.2026 | **O.S. 214/2025:** Both sides represented; IA 6/2026 heard. Matter posted for orders to 11.09.2026. |
 | 07.09.2026 | **C.C. 1055/2024 / Crl.M.C. 5800/2025:** Case advanced; C.M.P. 1/2026 filed to discharge the accused. Court noted the interim order appeared extended and directed verification of the HC order online; posted to 22.09.2026. |
 | 11.09.2026 | **O.S. 214/2025:** Both sides represented; Court Assistant on leave. IA 6/2026 remained for orders; posted to 14.09.2026. |
-| 14.09.2026 | **O.S. 214/2025 — NEXT LISTED DATE:** IA 6/2026 for orders. |
+| 14.09.2026 | **O.S. 214/2025 / I.A. 6/2026:** Both sides represented. I.A. 6/2026 allowed by separate order. eCourts records: “Defendants to make discovery on oath as sought within 14 days.” Remaining IAs posted for hearing to 15.09.2026. Exact operative scope and deadline trigger to be verified from the separate order. |
+| 15.09.2026 | **O.S. 214/2025 — NEXT LISTED DATE:** For hearing IAs. |
 | 22.09.2026 | **C.C. 1055/2024 — NEXT LISTED DATE:** Call on; C.M.P. 1/2026 discharge petition pending and HC interim-order status to be verified. |
 | 12.11.2026 | **O.S. 243/2024 — NEXT LISTED DATE:** For issues. |
 | 17.11.2026 | **C.M.P. 2828/2024 — NEXT LISTED DATE:** Next listed date following the 22.08.2026 declared holiday. |

@@ -2,7 +2,7 @@
 
 > **Review:** quarterly (next: w/c 05.10.2026) or on trigger — ① any merits order on an IA · ② Rule 21 milestone · ③ FIR / false-evidence movement · ④ settlement approach · ⑤ new pendente-lite instrument · ⑥ change of judge/counsel · ⑦ material failure of an existing time-bound disposal route.
 >
-> *Last review: 19.08.2026 (triggers: repeated post-OP(C) adjournments; IA 5/2026 preservation track; numbering of IAs 8–12/2026).*
+> *Last review: 14.09.2026 (trigger: merits order allowing IA 6/2026; defendants directed to make discovery on oath “as sought” within 14 days; separate order awaited for exact operative scope and deadline trigger).*
 >
 > **"Achievable" means:** every plaintiff-controlled act done correctly and on time. No court result — Rule 21 included — is guaranteed.
 
@@ -53,7 +53,7 @@ Money minuted, itemized and EMI-scheduled in the Trust's own book is characteriz
 
 | # | Outcome | Forum / vehicle | Prerequisite | Target |
 |---|---|---|---|---|
-| **S1a** | **Discovery on oath** — separate Form 5 affidavits from D1 and D2: Part I held; Part II objected with grounds; Second Schedule formerly held, when parted with, present custodian | IA 6/2026, O.XI rr.12–13 + r.14 production + r.18 inspection | Merits hearing; advance-served schedule and enforceable draft order | Existing HC timetable |
+| **S1a** | **Discovery on oath — merits order obtained 14.09.2026.** eCourts records IA 6/2026 allowed and “Defendants to make discovery on oath as sought within 14 days.” Exact defendant-specific Form 5 / production / inspection obligations must be verified from the separate order. | IA 6/2026, O.XI rr.12–13 + r.14 production + r.18 inspection | Obtain separate/certified order; prove service/knowledge; calculate deadline from actual trigger | **ACTIVE COMPLIANCE** |
 | **S1b** | **Inspection + custody** of originals — minutes book, daybooks, nominations and other identified originals; pagination and court custody where necessary | O.XI r.15 notice + r.18 route as legally required | Service proof; specific-document basis | With S1a |
 | **S1c** | **Defence struck against the defaulting defendant** | Separate noticed IA, O.XI r.21 | Clear order · proved service/knowledge · definite compliance period · itemized default · final peremptory opportunity if required · continued wilful default · prejudice | After predicate record exists |
 | **S1d** | **Decree on the operative plaint** — beneficiary declaration/access; challenge to pleaded amendment deeds; original deed/accounts; heirloom accounting | Trial, whether or not S1c succeeds | Plaintiff's affirmative proof package remains independently trial-ready | 2027 |
@@ -66,7 +66,7 @@ Money minuted, itemized and EMI-scheduled in the Trust's own book is characteriz
 
 ### Sequencing
 
-**S1a–S1c remains the primary procedural track toward Rule 21.**
+**S1a is achieved on merits. S1b–S1c is now the primary procedural track: obtain the separate order, prove service/knowledge, test sworn compliance, and build any later Rule 21 predicate defendant-by-defendant.**
 
 **S6a is an urgent parallel preservation track.** It does not wait for completion of Rule 21 and does not require manufacturing a duplicate interim application merely because the existing IA has been repeatedly adjourned.
 
@@ -108,12 +108,12 @@ Each criminal theory remains evidence-led. Civil non-disclosure is not itself pr
 | **T3** | Recalculate all figures against the complete productions before any new oath or pleading | S1a/S3 | Kishore | Continuous | Standing |
 | **T4** | Ensure every discovery/inspection notice actually required by the Rule 21 architecture is served with provable service | S1b/S1c | Thaha | Before predicate order/default | Open |
 | **T5** | Any additional r.18 or inspection application is filed only if counsel's written procedural analysis shows it is necessary to obtain an enforceable inspection obligation not already obtainable through IA 6 | S1b | Thaha | If necessary | Gated |
-| **T6** | Prepare the enforceable IA 6 order sought: separate sworn discovery obligations; itemized categories; r.14 production; inspection where available; fixed compliance period; no Rule 21 language | S1a/S1b | Thaha | Before merits decision | Open |
-| **T7** | At every IA 6 merits posting: press decision; distinguish selective production from sworn discovery; show why later audit/daybook cannot replace source documents | S1a | Thaha | Every posting | Standing |
+| **T6** | **Obtain the separate/certified IA 6/2026 order immediately.** Verify exact defendant-specific discovery, production and inspection obligations; identify the legal trigger for the 14-day period; preserve the 14.09.2026 eCourts entry. | S1a/S1b/S1c | Thaha + Kishore | Immediate | **PRIORITY** |
+| **T7** | Build the post-order compliance matrix before production arrives: requested category → defendant → possession/custody/power → sworn disclosure → production → objection/ground → former possession → present custodian → defect. Give special attention to contemporaneous source records supporting the admitted ₹11,99,85,900. | S1a/S1c/S3 | Thaha + Kishore | Immediate / 14-day window | **PRIORITY** |
 | **T8** | **IA 5/2026: prepare immediate High Court supervisory route for time-bound adjudication of the existing application.** Emphasize the independent live prayer, continuing prejudice, repeated non-disposal, and the post-filing evidence/admissions. Do not create a duplicate Munsiff IA merely to obtain the same protection. | S6a | HC counsel + Thaha | Immediate | **Priority** |
 | **T9** | IA 5 argument package: separate Prayer 1 from the independent Prayer 2; do not allow the "Prayer 1 infructuous" objection to become "entire IA infructuous." Use D1/D2's subsequent admissions of actual commercial operation as evidence of continuing relevance. | S6a | Thaha | Before HC / merits hearing | Priority |
 | **T10** | On first tender of originals: seek preservation, pagination, inspection copies and chain of custody. Forensic reference only on precisely defined disputed questions. | S1b/S2 | Thaha | First tender | Standing |
-| **T11** | On the IA 6 discovery/inspection order: obtain certified copy immediately; prove service/knowledge; create compliance matrix; calculate deadline from the order's actual trigger | S1c | Thaha + Kishore | Order date | Gated |
+| **T11** | Prove service/knowledge of the IA 6 order on each relevant defendant; calculate the deadline from the separate order's actual trigger; monitor for any High Court challenge or stay and record its exact effect on compliance. | S1c | Thaha + Kishore + HC counsel | Immediate | **ACTIVE** |
 | **T12** | On first material default: itemize each defect against each operative paragraph of the order. If legally prudent/required, seek one final short peremptory opportunity. On continued wilful default, file the separate noticed Rule 21 IA against the particular defaulting defendant(s). | S1c | Thaha | Deadline-driven | Gated |
 | **T13** | Maintain affirmative plaintiff proof so the suit remains provable even if Rule 21 is refused | S1d | Thaha + Kishore | Continuous | Standing |
 | **T14** | **Mandatory written pleading/forum memorandum before any amendment or new substantive proceeding:** cause of action · existing prayers · necessity of new vehicle · limitation · O.II r.2 · O.VI r.17 · valuation · court fee · pecuniary/territorial jurisdiction · necessary parties · exact prayers | S3/S4/S6b | Thaha | Before new substantive filing | Mandatory |
@@ -166,9 +166,9 @@ The final Rule 21 application is made against the actual defaulting defendant ba
 
 | # | Risk | L/I | Control |
 |---|---|---|---|
-| **R1** | IA 6/2026 dismissed "on merits" | M/H | Exact nexus to operative plaint; specific discovery categories; enforceable draft order; certified reasons and immediate challenge analysis |
+| **R1** | IA 6/2026 dismissed "on merits" | **RESOLVED 14.09.2026** | IA 6/2026 allowed; preserve separate/certified order and docket record |
 | **R2** | 04.08/selective production treated as full compliance | M–H/H | Show absence of sworn Form 5 architecture, present/former possession schedule, custodian history and source records |
-| **R3** | Order too vague to create a later Rule 21 predicate | **H/H** | Every obligation itemized; defendant identified; compliance period fixed; service proved |
+| **R3** | Separate order too vague / narrower than docket shorthand to create a later Rule 21 predicate | **H/H** | Read operative separate order first; map every obligation precisely; defendant identified; deadline trigger and service proved |
 | **R4** | First imperfect compliance excused | H/M | Defect matrix + short final peremptory opportunity where appropriate + continuing prejudice |
 | **R5** | Standing ambush | M/H | Prima facie beneficiary case tied to operative plaint and founding deed; later pendente-lite documents used evidentially, not conceded as source of rights |
 | **R6** | C.C.1055/2024 harms Plaintiff personally while civil strategy dominates attention | M/H | Never deprioritize defensive criminal track |
@@ -185,6 +185,7 @@ The final Rule 21 application is made against the actual defaulting defendant ba
 | **R17** | Generic legal theory displaces actual pleading | M/H | Read the actual prayer/objection/order before every recommendation |
 | **R18** | Litigation becomes an end in itself | **M/H** | Every filing must identify the concrete strategic outcome it produces and why an existing vehicle cannot do it |
 | **R19** | Mortality/abatement | M/H | Pace matters; do not trade decisive existing remedies for procedural perfectionism |
+| **R20** | Defendants obtain High Court stay / suspension of IA 6 compliance | M/H | Certified order immediately; caveat/response analysis with HC counsel; track exact stay terms and do not miscalculate default while stay operates |
 
 ---
 
